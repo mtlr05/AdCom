@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 2026-11-04 — exhaustive priority search
+- Fourteen `review_priority` values set where a source names the designation for the submission the committee reviewed. Eight are FDA documents (Rebyota, Abrysvo 60+, Arexvy, Abrysvo maternal, Carvykti sBLA, Abecma sBLA, mFLUSIVA, tramadol IV). Two are SEC filings (Bayer ciprofloxacin dry powder, via Aradigm's 10-Q; bardoxolone). Four are press (Translarna, Linhaliq, retifanlimab, carbetocin).
+- Thirty-one priority cells stay unverified. The search note is in `priority_basis`. Orphan `review` is unchanged (Darzalex Faspro SMM, Tudriqev). `action_at_1yr` stays unverified on 63 rows.
+- 2x2 (AA/AR/RA/RR, final): All, Common, Rare, and CGT unchanged. Rare+priority 29/1/1/4 -> 29/1/1/8. Approval-only Rare+priority 22/1/0/2 -> 22/1/0/4. All-drug charts rebuilt as `*_v7`.
+
 ## 2026-11-04 — missing-row search and priority lookups
 - Solithromycin (AMDAC 2016-11-04, NDA 209006) added. FDA transcript: benefit-risk 7-6. SEC 10-K: CRL 29 Dec 2016 and priority review. Orphan N. Search log in `data/missing_row_search.csv` (one added row; sulopenem 2024-09-09 had no vote).
 - Six `review_priority` values set from a cited source (Ryoncil, quizartinib, omburtamab, omecamtiv, midomafetamine, Darzalex Faspro S-029). 45 stay unverified. Log: `data/factor_verification.csv`.

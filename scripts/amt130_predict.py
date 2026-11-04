@@ -351,12 +351,26 @@ def main():
     import matplotlib
     matplotlib.use("Agg")
     import matplotlib.pyplot as plt
-    show = primary[primary.cns == 0].copy()
+    # The unfiltered intercept sits above the priority-conditioned rows. The
+    # criterion is not comparable across those two sample sizes.
+    intercept_rows = []
+    for sname, frame, y in [
+        ("P(favourable) approval-question votes", appr, "fav"),
+        ("P(FDA final approval)", known, "y_app"),
+    ]:
+        fit = refit(frame, [], y, False)
+        lo, hi = boot_pred(frame, [], y, False, 0, None)
+        intercept_rows.append(dict(screen=sname, factors="(intercept)", cns=0,
+                                    p=predict_row(fit["b_pen"], [], False, 0, None),
+                                    boot_lo=lo, boot_hi=hi))
+    show = pd.concat([pd.DataFrame(intercept_rows), primary[primary.cns == 0]], ignore_index=True)
     def lab(screen):
         return (screen.replace("P(favourable) approval-question votes", "Favourable vote")
                       .replace("P(FDA final approval | vote)", "Approval given the vote")
                       .replace("P(FDA final approval)", "FDA approval"))
     def factors_plain(text):
+        if str(text) == "(intercept)":
+            return "no factors, all meetings"
         names = {"priority": "priority", "initial": "initial application", "orphan": "orphan",
                  "CGT": "cell/gene therapy", "cber": "biologics center", "CNS": "neurology committee",
                  "vote": "vote", "year": "year"}
@@ -371,7 +385,7 @@ def main():
     ax.set_yticklabels(show.label, fontsize=7)
     ax.set_xlim(0, 1)
     ax.set_xlabel("Predicted probability (penalized logistic; line is bootstrap 95%)")
-    ax.set_title("AMT-130, neurology-committee factor off")
+    ax.set_title("Top points use every meeting. A priority row sets priority review to yes.")
     fig.tight_layout()
     os.makedirs(CHART, exist_ok=True)
     fig.savefig(os.path.join(CHART, "amt130_prediction_forest.png"), dpi=140)

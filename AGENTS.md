@@ -16,7 +16,7 @@ Main outputs:
 - `coverage_vs_daval.csv`, `daval_shortfall_explained.csv`. Completeness check against Daval et al.
 - `REPORT.md`. Counts by committee and verification rates. `README.md`. Short change log.
 - Charts: `four.py` / `four_pct.py` / `four_cgt.py` build the four 2x2 charts (all drugs, and CGT only) from the CSV.
-- Charts (current): `charts/all_2x2_counts_v6.png`, `charts/all_2x2_pct_v6.png`, `charts/cgt_2x2_pct_v4.png` (all pivotal votes) and `charts/*_approvalonly_v6.png` plus `charts/cgt_2x2_pct_approvalonly_v5.png` (vote_type == approval/benefit-risk only). Older `*_v2/_v3/_v4/_v5` and `four_2x2*.png` are superseded for the all-drug charts.
+- Charts (current): `charts/all_2x2_counts_v7.png`, `charts/all_2x2_pct_v7.png`, `charts/cgt_2x2_pct_v4.png` (all pivotal votes) and `charts/*_approvalonly_v7.png` plus `charts/cgt_2x2_pct_approvalonly_v5.png` (vote_type == approval/benefit-risk only). Older `*_v2/_v3/_v4/_v5/_v6` and `four_2x2*.png` are superseded for the all-drug charts.
 - CGT tables built from the CSV by `cgt_tables.py`: `charts/cgt_validation_table_v4.pdf`, `charts/cgt_priority_review_table_v4.pdf` (12 CGT rows). The hand-built `cgt_*_table.pdf` (val.py, 9 rows) are superseded.
 - `check_consistency.py` asserts CSV, xlsx, two_by_two.csv and chart inputs agree.
 
@@ -78,7 +78,7 @@ Counts as AA / AR / RA / RR (first letter adcom: A favourable or R unfavourable,
 | All | 90 / 6 / 10 / 43 (n=150, 1 pending) | 72 / 6 / 8 / 30 (n=116) |
 | Common (orphan N) | 48 / 4 / 8 / 32 | 39 / 4 / 7 / 25 |
 | Rare (orphan Y) | 40 / 2 / 2 / 11 (1 pending) | 32 / 2 / 1 / 5 |
-| Rare + priority | 29 / 1 / 1 / 4 | 22 / 1 / 0 / 2 |
+| Rare + priority | 29 / 1 / 1 / 8 | 22 / 1 / 0 / 4 |
 | CGT (12 rows) | 10 / 0 / 0 / 1 (deramiocel pending) | 8 / 0 / 0 / 0 |
 
 2 rows are orphan `review` (Darzalex Faspro SMM, Tudriqev) and appear only in "All". Cells are small. FDA tends to convene adcoms when it is uncertain (selection bias), "final" counts later approvals, and some outcomes and votes rest on press.
@@ -87,7 +87,7 @@ Counts as AA / AR / RA / RR (first letter adcom: A favourable or R unfavourable,
 
 1. **Orphan `review`**: Darzalex Faspro 2025-05-20 (high-risk SMM vs the multiple-myeloma designation) and Tudriqev (no OOPD record found for RP1/vusolimogene). Decide and set in `cur.py`.
 2. **Vote type is a judgement**: Elevidys (benefit-risk for *accelerated* approval) and Zelnorm (reintroduction supported by safety data) are coded approval/benefit-risk and flagged; VRBPAC vaccine and Rebyota pivotal questions are effectiveness questions (separate safety votes) and coded effectiveness-only.
-3. **Priority review**: CBER rows Ryoncil, Carvykti, Abecma and NurOwn are `unverified` (no source checked / not found). Deramiocel and Tudriqev are `unverified` for the reviewed resubmission (priority applied to the original BLA; URLs in `priority_basis`).
+3. **Priority review**: 31 cells stay `unverified` after a 2026-11-04 search of acceptance notices, FDA briefings, and SEC filings. A value was set only when a source named priority or standard review for the submission the committee reviewed. Still open: NurOwn, the deramiocel and Tudriqev resubmissions (original BLA priority was not copied), the 17 Sep 2021 Comirnaty booster (no application number on the row), and the products whose acceptance notice gives a PDUFA date and does not say the words. `action_at_1yr` is unverified on 63 rows. That is an outcome, not a pre-meeting factor, and it was not filled from a missing record.
 4. **Ryoncil vote**: FDA minutes (media/143336) record 8-2; the minutes note one "No" voter later changed their vote, which is why press and cgt_check say 9-1. The FDA-recorded 8-2 is kept.
 5. **Tzield vote count** (10-7) is unconfirmed: an FDA review confirms only that a majority voted favourably. Romosozumab, Descovy, and tanezumab FDA review PDFs were image-only or lacked the tally. Skysona and Zynteglo counts are from press only. Relyvrio was not re-verified after the final stage.
 6. **Translarna** (1-10 in this dataset, 0-10-1 in the hand data): FDA minutes give A 0, B 10, C 1, and option C counts as a yes here. **Aduhelm** uses the final question (0-10-1), though Q1 was 1-8-2.
@@ -108,8 +108,9 @@ Counts as AA / AR / RA / RR (first letter adcom: A favourable or R unfavourable,
 - FIXED (was item 9, which was stale): Ryoncil 2020, Carvykti and Abecma 2024 were already rows with FDA-minutes votes (media/143336: 8-2; media/178184: 11-0 and 8-3). Brand, center and CGT now filled.
 - Hardcoded absolute input paths in `final.py` replaced by `inputs/` + env overrides.
 - Added solithromycin (AMDAC 2016-11-04, NDA 209006; the IV NDA 209007 was the same vote). It had been excluded as "no NDA/BLA". FDA transcript media/102423: benefit-risk 7 yes, 6 no. Cempra 10-K: CRL 29 Dec 2016, priority review because of QIDP. Orphan N (no OOPD row; common pneumonia). This is the one product-approval vote the 2026-11-04 calendar and EDGAR search added. Search log: `data/missing_row_search.csv`.
-- Priority resolved where a source names it for the submission the committee reviewed (`data/factor_verification.csv`): Ryoncil (FDA SBRA, priority), quizartinib (press, priority), omburtamab (press, priority), omecamtiv (secondary, standard), midomafetamine (press, priority), Darzalex Faspro S-029 (openFDA, standard). 45 priority cells stay unverified. Darzalex SMM and Tudriqev stay orphan `review`.
-- 2x2 after those two changes (AA/AR/RA/RR, final): All 90/6/10/43 (n=150); Common 48/4/8/32; Rare unchanged 40/2/2/11; Rare+priority 29/1/1/4; CGT unchanged 10/0/0/1; Approval-only All 72/6/8/30; Approval-only Rare+priority 22/1/0/2. All-drug charts rebuilt as `*_v6`.
+- Priority resolved where a source names it for the submission the committee reviewed (`data/factor_verification.csv`): Ryoncil (FDA SBRA, priority), quizartinib (press, priority), omburtamab (press, priority), omecamtiv (secondary, standard), midomafetamine (press, priority), Darzalex Faspro S-029 (openFDA, standard). A later pass the same day filled 14 more (see CHANGELOG). 31 priority cells stay unverified. Darzalex SMM and Tudriqev stay orphan `review`.
+- 2x2 after the solithromycin row and the first six priority fills (AA/AR/RA/RR, final): All 90/6/10/43 (n=150); Common 48/4/8/32; Rare 40/2/2/11; Rare+priority 29/1/1/4; CGT 10/0/0/1; Approval-only All 72/6/8/30; Approval-only Rare+priority 22/1/0/2.
+- 2x2 after the 14 further priority fills: All, Common, Rare, and CGT unchanged. Rare+priority 29/1/1/8 (n=39). Approval-only Rare+priority 22/1/0/4 (n=27). Priority 68, standard 57, unverified 31. All-drug charts rebuilt as `*_v7` because the rare-and-priority panel changed.
 
 ## 9. Conventions for agents working on this dataset
 

@@ -33,6 +33,6 @@ for ap,sub in [(False,'CGT (CTGTAC + CAR-T/MSC)'),(True,'Approval-only: CGT')]:
     ok((r['AA'],r['AR'],r['RA'],r['RR'])==(t.FavApproved,t.FavNotApproved,t.UnfavApproved,t.UnfavNotApproved),f'CGT chart cells == two_by_two [{sub}]')
 X2=pd.read_excel('adcom_full.xlsx','2x2'); ok(len(X2)==len(pd.read_csv('two_by_two.csv')) and (X2.FavApproved.values==pd.read_csv('two_by_two.csv').FavApproved.values).all(),'xlsx 2x2 sheet == two_by_two.csv')
 csvt=os.path.getmtime('adcom_full_pivotal.csv')
-for f in ['all_2x2_counts_v6.png','all_2x2_pct_v6.png','cgt_2x2_pct_v4.png','all_2x2_counts_approvalonly_v6.png','all_2x2_pct_approvalonly_v6.png','cgt_2x2_pct_approvalonly_v5.png','cgt_validation_table_v4.pdf','cgt_priority_review_table_v4.pdf']:
+for f in ['all_2x2_counts_v7.png','all_2x2_pct_v7.png','cgt_2x2_pct_v4.png','all_2x2_counts_approvalonly_v7.png','all_2x2_pct_approvalonly_v7.png','cgt_2x2_pct_approvalonly_v5.png','cgt_validation_table_v4.pdf','cgt_priority_review_table_v4.pdf']:
     p=os.path.join(CH,f); ok(os.path.exists(p) and os.path.getmtime(p)>=csvt,f'{f} exists and is newer than CSV')
 print('FAILURES:',len(fails)); sys.exit(1 if fails else 0)

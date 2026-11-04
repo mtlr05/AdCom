@@ -8,9 +8,11 @@ uniQure's AMT-130 is a gene therapy for Huntington's disease. The company has sa
 
 This report uses earlier product-approval votes as a historical prior for two questions. How often has a committee voted in favour of a product with labels like these? How often has the FDA later approved it? The table holds 156 meetings from 4 November 2016 through July 2026 at which a committee voted on approval of a specific product.
 
-On meetings that asked an approval or benefit-risk question, the better-fitting models put a product with AMT-130's labels at a chance of 0.90 to 0.96 of a favourable vote, and a chance of 0.89 to 0.95 of eventual FDA approval, when the meeting is not held by either of the two neurology committees defined in the method. If that vote is favourable, the chance of approval in those models is 0.88 to 0.92. If the vote is unfavourable, the chance of approval is 0.28 to 0.37. The range is across a few models. It is not one blended number.
+On the 116 meetings that asked an approval or benefit-risk question and have a known final outcome, 78 votes were favourable and 80 products were later approved. The rates are 0.67 and 0.69. They count every such meeting. They do not drop a meeting whose review type is unverified, and they do not require priority review. Given a favourable vote, 72 of 78 products were approved. Given an unfavourable vote, 8 of 38 were approved. The Jeffreys interval for the favourable-vote rate runs from 0.58 to 0.75, and the interval for the approval rate runs from 0.60 to 0.77.
 
-The labels explain little of who receives a favourable vote. The strongest association in the table is between the committee's vote and the FDA's later action. The table has no column for the strength of the clinical evidence, for the use of an external control group, or for accelerated approval. A high historical rate is the rate among products the FDA has already chosen to bring to a committee.
+Models that set priority review to yes are fit on the 92 of these meetings that have a recorded review type. They return probabilities of about 0.87 to 0.89 for a favourable vote and 0.84 to 0.87 for eventual approval, when the meeting is not held by either of the two neurology committees defined in the method. On those same 92 meetings, priority review does not improve a model of approval. The criterion moves from 73.2 to 74.9, and the R-squared is 0.01. Standard review was followed by approval in 41 of 46 meetings, and priority review in 39 of 46. The higher approval figure is the rate in the subset with a recorded review type.
+
+The labels explain little of who is approved. The strongest association in the table is between the committee's vote and the FDA's later action. Priority review has a modest association with a favourable vote: on the 92 meetings with a recorded review type, 41 of 46 priority-review products were favourable, against 33 of 46 with standard review, and the R-squared is 0.08. The table has no column for the strength of the clinical evidence, for the use of an external control group, or for accelerated approval. A high historical rate is the rate among products the FDA has already chosen to bring to a committee.
 
 ## Introduction
 
@@ -39,7 +41,7 @@ Before any model was fit, the analysis set was checked against the published fou
 | All pivotal votes | 90 | 6 | 10 | 43 | 150 | 1 |
 | Approval or benefit-risk questions only | 72 | 6 | 8 | 30 | 116 | 0 |
 | Rare disease, orphan designation for the indication | 40 | 2 | 2 | 11 | 55 | 1 |
-| Rare disease and priority review | 29 | 1 | 1 | 4 | 35 | 0 |
+| Rare disease and priority review | 29 | 1 | 1 | 8 | 39 | 0 |
 | Cell and gene therapy | 10 | 0 | 0 | 1 | 11 | 1 |
 
 Votes in the full table of 156 rows come from FDA minutes or transcripts for 137 rows and from press reports for 19. Outcomes come from an FDA document or openFDA, the agency's public file of drug-application records, for 112 rows, from press reports for 38, and from a Securities and Exchange Commission filing or another company document for 6. Press-sourced rows are real records with a weaker source. They are not described here as FDA-verified.
@@ -75,7 +77,11 @@ Six priority values were filled.
 | Midomafetamine | 4 Jun 2024 | 215455 | Priority | Lykos release. Press. |
 | Darzalex Faspro, high-risk smoldering myeloma | 20 May 2025 | 761145, supplement 029 | Standard | openFDA tags that supplement as standard. FDA minutes identify the supplement the committee reviewed. |
 
-Forty-five priority cells stay unverified. They are mostly products that were not approved, biologics the openFDA drug file does not cover, and supplements the file does not tag. The cell and gene therapy rows still open include Carvykti and Abecma at their 2024 supplement meetings, NurOwn, and the resubmissions of deramiocel and Tudriqev. Each of those resubmissions had priority review on the original application. That fact was not copied forward.
+A second pass, on 4 November 2026, read the acceptance notice, the FDA briefing or review memo, or the company filing for every remaining unverified priority cell. Fourteen values were filled. Eight come from an FDA document: Rebyota standard, Abrysvo for adults 60 and older priority, Arexvy priority, Abrysvo in pregnancy priority, the Carvykti and Abecma 2024 supplements standard, mFLUSIVA priority, and intravenous tramadol standard. Two come from a Securities and Exchange Commission filing: Bayer's ciprofloxacin dry powder priority, stated in Aradigm's quarterly report, and bardoxolone standard. Four come from a company release: Translarna standard, Linhaliq priority, retifanlimab priority, and carbetocin priority. Each sentence names the submission the committee reviewed. The Carvykti and Abecma values are the supplements on the 15 March 2024 agenda, not the original licenses.
+
+Thirty-one priority cells stay unverified. The acceptance notice for those products gives an action date, or names fast track, and does not say priority or standard review. A short clock was not treated as a designation. The original priority review of Columvi, deramiocel, and Tudriqev was not copied onto the supplement or the resubmission the committee reviewed. NurOwn's briefing does not name a review type. The 17 September 2021 Comirnaty booster row has no application number, and no source names a review type for that booster. The basis column records the page that was checked.
+
+The four newly coded priority reviews that are also orphan for the indication are Bayer's ciprofloxacin powder, Linhaliq, retifanlimab, and carbetocin. All four votes were unfavourable, and none of those applications was approved. They are why the rare-disease-and-priority row above is 29, 1, 1 and 8, on 39 meetings, where it had been 29, 1, 1 and 4, on 35. Thirty of the 39 were approved. On the approval-question subset the same two ciprofloxacin products move the count from 22, 1, 0 and 2, on 25 meetings, to 22, 1, 0 and 4, on 27. Twenty-two of the 27 were approved.
 
 Two orphan cells stay marked for review, which means the designation text does not settle the indication the committee discussed. Darzalex Faspro on 20 May 2025 was reviewed for high-risk smoldering multiple myeloma. The orphan designation on file is for multiple myeloma, and it does not name the smoldering indication. Tudriqev, on 30 July 2026, has no orphan-drug row under that name, under vusolimogene oderparepvec, or under RP1. The absence of a row was not coded as "not orphan." Both cells stay "review," and any model that uses orphan status leaves them out.
 
@@ -111,7 +117,7 @@ The fit is logistic regression. The probability of a yes outcome is a smooth S-s
 
 Fit is summarized by Nagelkerke's R-squared. This is a pseudo R-squared for a yes-or-no outcome. Zero means the factors do no better than a single overall rate. One would mean a perfect fit. It is not the R-squared of a straight line through a cloud of points. McFadden's R-squared, a simpler ratio of log likelihoods, is stored beside it in the output file. Models are ranked by the Akaike information criterion, which charges a model for each extra factor. A factor that does not improve the fit enough raises the criterion, and the smaller model is preferred. The criterion is computed from the unpenalized fit when that fit is stable.
 
-For each outcome the prediction uses the four stable models with the best criterion, plus the single stable model with the highest R-squared if the criterion had not already kept it. That is a cap of about five models per outcome.
+For each outcome the screen records the four stable models with the best criterion, plus the single stable model with the highest R-squared if the criterion had not already kept it. That is a cap of about five models per outcome. The ranking mixes models fit on different meetings. A model that includes priority review drops every meeting whose review type is unverified, and the criterion, being a sum of meeting-level terms, is then smaller partly because fewer meetings enter the sum. The results therefore start from the rates on the full approval-question set. The models the criterion kept are reported after that. Priority review is also compared with a model that has no factors on the same meetings, which puts the two fits on one scale.
 
 Two intervals are reported, and they answer different questions. The bootstrap interval resamples the meetings 400 times, refits the penalized model, and takes the 2.5th and 97.5th percentiles of the predicted probability. The seed is fixed, so the interval can be rebuilt. The stratum interval ignores the regression and looks only at the meetings that match AMT-130 on the factors in that model. With k successes in n such meetings, the interval is a Jeffreys interval, which is the 2.5th and 97.5th percentiles of a beta distribution with parameters 0.5 plus k and 0.5 plus n minus k. When n is under about eight, that interval is the honest description, and the logistic probability is borrowing strength from meetings that match on only some of the labels.
 
@@ -121,43 +127,65 @@ AMT-130 enters every model as orphan yes, priority review, cell and gene therapy
 
 ## Results
 
-The validity check passed: the meetings used in the model reproduce the published vote-by-outcome counts. The main set is the 116 approval or benefit-risk questions that have a final outcome. Of those votes, 101 come from FDA minutes or transcripts and 15 from press reports. Of those outcomes, 83 come from an FDA document or openFDA, 27 from press reports, and 6 from a company or Securities and Exchange Commission filing. Forty-five priority cells in the whole table remain unverified, so models that use priority are fit on 85 of these 116 meetings. The two orphan cells still marked "review" drop out of models that use orphan status. Among the 68 approval-question meetings that have both a final action and a one-year action, the two labels disagree 13 times.
+The validity check passed: the meetings used in the model reproduce the published vote-by-outcome counts. The main set is the 116 approval or benefit-risk questions that have a final outcome. Of those votes, 101 come from FDA minutes or transcripts and 15 from press reports. Of those outcomes, 83 come from an FDA document or openFDA, 27 from press reports, and 6 from a company or Securities and Exchange Commission filing. Thirty-one priority cells in the whole table remain unverified. Of the 116 meetings in the main set, 24 have no verified review type, so a model that uses priority review is fit on the other 92. The two orphan cells still marked "review" drop out of models that use orphan status. Among the 68 approval-question meetings that have both a final action and a one-year action, the two labels disagree 13 times.
 
-### Chance of a favourable vote
+### Base rates
 
-Priority review is in every model the criterion kept. Adding orphan status, an initial application, or the cell-and-gene-therapy and biologics-center labels raises R-squared by a small amount and does not improve the criterion by enough to displace the smaller models. The highest R-squared is 0.16, from priority review together with cell and gene therapy, the biologics center, and an initial application. That is a small share of the variation in the vote.
+The rates below use all 116 meetings. A meeting stays in the count when its review type is unverified. Priority review is not set to yes.
+
+| Outcome | Meetings | Events | Rate | Jeffreys 95% |
+| --- | ---: | ---: | ---: | --- |
+| Favourable vote | 116 | 78 | 0.67 | 0.58 to 0.75 |
+| Eventual approval | 116 | 80 | 0.69 | 0.60 to 0.77 |
+| Approval, given a favourable vote | 78 | 72 | 0.92 | 0.85 to 0.97 |
+| Approval, given an unfavourable vote | 38 | 8 | 0.21 | 0.11 to 0.36 |
+
+The penalized logistic intercept matches these rates at two decimals: 0.67 for a favourable vote and 0.69 for eventual approval. The bootstrap intervals run from 0.59 to 0.75 and from 0.61 to 0.77.
+
+Among stable models that do not use priority review, the criterion prefers orphan status alone. An orphan product, which is AMT-130's designation, has a fitted chance of 0.82 of a favourable vote and 0.80 of eventual approval. Those fits use 115 meetings. One orphan cell still marked "review" is left out. The matching cells are 34 favourable votes out of 40, and 33 approvals out of 40.
+
+| Outcome | Meetings | R-squared | Probability | Bootstrap 95% | Matching meetings (successes) | Interval for that cell |
+| --- | ---: | ---: | ---: | --- | ---: | --- |
+| Favourable vote | 115 | 0.11 | 0.82 | 0.72 to 0.90 | 40 (34) | 0.85 (0.72 to 0.94) |
+| Eventual approval | 115 | 0.07 | 0.80 | 0.68 to 0.89 | 40 (33) | 0.82 (0.69 to 0.92) |
+
+The 24 meetings with no verified review type account for much of the gap between these rates and the higher figures below. Four of the 24 votes were favourable, and none of the 24 products was later approved. The 92 meetings with a recorded review type include 74 favourable votes and 80 approvals.
+
+### Chance of a favourable vote, with priority review set to yes
+
+The screen ranked by the criterion keeps four models that include priority review, and one model without it that has the highest R-squared. Adding orphan status or an initial application raises R-squared by a small amount and does not improve the criterion by enough to displace priority review alone. The highest R-squared is 0.15, from orphan status, the neurology-committee factor, the biologics center, and an initial application, fit on 115 meetings. That is a small share of the variation in the vote. Its matching cell is six meetings, all favourable.
+
+The criterion on the priority rows sums 92 meetings, and the criterion for the full set sums 116, so the two numbers answer different samples. On the same 92 meetings, a model with no factors has a criterion of 93.0, and the priority-review model has a criterion of 90.4. Priority review does improve that comparison. The R-squared is 0.08. Forty-one of 46 priority-review meetings were favourable, against 33 of 46 standard-review meetings.
 
 | Factors | Meetings | R-squared | Probability | Bootstrap 95% | Matching meetings (favourable) | Interval for that cell |
 | --- | ---: | ---: | ---: | --- | ---: | --- |
-| Priority | 85 | 0.12 | 0.90 | 0.83 to 0.95 | 43 (40) | 0.93 (0.83 to 0.98) |
-| Priority, initial application | 85 | 0.14 | 0.92 | 0.86 to 0.96 | 32 (31) | 0.96 (0.86 to 1.00) |
-| Orphan, priority | 84 | 0.13 | 0.92 | 0.84 to 0.98 | 25 (23) | 0.91 (0.77 to 0.98) |
-| Orphan, priority, initial application | 84 | 0.16 | 0.93 | 0.87 to 0.98 | 20 (19) | 0.94 (0.79 to 0.99) |
-| Priority, cell and gene therapy, biologics center, initial application | 85 | 0.16 | 0.96 | 0.92 to 0.98 | 5 (5) | 0.96 (0.62 to 1.00) |
+| Priority | 92 | 0.08 | 0.87 | 0.79 to 0.94 | 46 (41) | 0.89 (0.78 to 0.96) |
+| Orphan, priority | 91 | 0.08 | 0.88 | 0.77 to 0.96 | 27 (23) | 0.85 (0.69 to 0.95) |
+| Priority, initial application | 92 | 0.08 | 0.88 | 0.80 to 0.94 | 35 (32) | 0.91 (0.79 to 0.98) |
+| Orphan, priority, initial application | 91 | 0.09 | 0.89 | 0.78 to 0.96 | 22 (19) | 0.86 (0.68 to 0.96) |
+| Orphan, neurology committee, biologics center, initial application | 115 | 0.15 | 0.87 | 0.76 to 0.94 | 6 (6) | 0.96 (0.67 to 1.00) |
 
-The probabilities run from 0.90 to 0.96. The top of the range is the five-meeting cell in the last row, and all five were favourable. The Jeffreys interval on that cell runs from 0.62 to 1.00. The logistic interval is narrower because the model borrows strength from the larger priority-review pattern. For a cell this small, the wider interval is the one that describes the cell itself.
+The first four probabilities run from 0.87 to 0.89. They are the chance for a product with priority review, inside the 92 meetings that have a recorded review type. They are a different quantity from the 0.67 rate on all 116 meetings. The last row does not set priority review. Its matching cell is six meetings, and the interval on that cell runs from 0.67 to 1.00. The logistic interval is narrower because the model borrows strength from the larger pattern. For a cell this small, the wider interval is the one that describes the cell itself.
 
-None of these five models contains the neurology-committee factor, so the probability is the same if the meeting is later assigned to one of those two committees. The same-label counts are also unchanged, because the factor is not in the model.
-
-![Figure 1. Predicted probabilities for AMT-130 when the meeting is not held by either neurology committee. Each point is the penalized logistic probability. The line is the bootstrap 95 percent interval.](../charts/amt130_prediction_forest.png)
+The four priority models do not contain the neurology-committee factor, so those probabilities are the same if the meeting is later assigned to one of those two committees. The last model does contain it. Switching that factor on moves its probability from 0.87 to 0.93, and the matching cell is empty.
 
 ### Chance of FDA approval, before the vote is known
 
-The same exercise for eventual approval, without using the vote, keeps a similar set of models. Priority review alone has an R-squared of 0.01. The predicted probability is still 0.89, because approval is already common in this table. The factor adds almost no discrimination. The highest R-squared among the kept models is 0.15.
+On all 116 meetings the approval rate is 0.69, from the base-rate table. The screen keeps four models that include priority review and one, with the highest R-squared, that does not. On the 92 meetings with a recorded review type, a model with no factors has a criterion of 73.2. Adding priority review raises the criterion to 74.9, so the factor does not earn its place. The R-squared is 0.01. Eighty of those 92 products were approved. Standard review accounts for 41 of 46, and priority review for 39 of 46. The predicted probability of 0.85 for a priority-review product is the rate in this subset. The highest R-squared among the kept models is 0.11.
 
 | Factors | Meetings | R-squared | Probability | Bootstrap 95% | Matching meetings (approved) | Interval for that cell |
 | --- | ---: | ---: | ---: | --- | ---: | --- |
-| Priority, initial application | 85 | 0.13 | 0.92 | 0.86 to 0.98 | 32 (30) | 0.93 (0.81 to 0.99) |
-| Orphan, priority, initial application | 84 | 0.14 | 0.93 | 0.85 to 0.98 | 20 (19) | 0.94 (0.79 to 0.99) |
-| Priority | 85 | 0.01 | 0.89 | 0.81 to 0.96 | 43 (38) | 0.88 (0.76 to 0.95) |
-| Priority, cell and gene therapy, biologics center, initial application | 85 | 0.15 | 0.95 | 0.92 to 0.98 | 5 (5) | 0.96 (0.62 to 1.00) |
-| Orphan, priority, cell and gene therapy, biologics center, initial application | 84 | 0.15 | 0.95 | 0.91 to 0.98 | 5 (5) | 0.96 (0.62 to 1.00) |
+| Priority | 92 | 0.01 | 0.85 | 0.76 to 0.93 | 46 (39) | 0.85 (0.72 to 0.93) |
+| Priority, initial application | 92 | 0.03 | 0.87 | 0.78 to 0.95 | 35 (31) | 0.88 (0.75 to 0.96) |
+| Orphan, priority | 91 | 0.01 | 0.84 | 0.72 to 0.93 | 27 (22) | 0.81 (0.64 to 0.93) |
+| Orphan, priority, initial application | 91 | 0.04 | 0.86 | 0.75 to 0.94 | 22 (19) | 0.86 (0.68 to 0.96) |
+| Orphan, neurology committee, biologics center, initial application | 115 | 0.11 | 0.85 | 0.73 to 0.93 | 6 (6) | 0.96 (0.67 to 1.00) |
 
-Across these models the probability of eventual approval runs from 0.89 to 0.95. The five-meeting cell is again all successes, and its own interval again runs from 0.62 to 1.00. Setting the neurology-committee factor to yes does not change these five probabilities, because none of the kept models includes that factor.
+Across the four priority models the probability of eventual approval runs from 0.84 to 0.87. That range sits with 80 approvals out of 92 meetings that have a recorded review type. The six-meeting cell in the last row is all approvals, and its own interval runs from 0.67 to 1.00. The four priority models do not contain the neurology-committee factor. The last model does, and switching it on leaves no matching meeting.
 
 ### Chance of FDA approval, after the vote is known
 
-Adding the vote changes the picture. R-squared rises to about 0.59. The criterion prefers a model that uses the vote and little else. Given a favourable vote, these models put the chance of eventual approval at 0.88 to 0.92. Given an unfavourable vote, they put it at 0.28 to 0.37.
+Every model this screen kept leaves priority review out. The raw counts are in the base-rate table: 72 approvals out of 78 favourable votes, and 8 approvals out of 38 unfavourable votes. Adding the vote raises R-squared to about 0.59. The criterion prefers a model that uses the vote and little else. The penalized fits put the chance of eventual approval at 0.88 to 0.92 after a favourable vote, and at 0.28 to 0.37 after an unfavourable vote. The first row, which uses the vote alone, shrinks the raw rates of 0.92 and 0.21 toward one half, to 0.89 and 0.29.
 
 | Factors besides the vote | R-squared | If the vote is favourable | If the vote is unfavourable | Marginal probability | Bootstrap 95%, favourable case | Matching meetings if favourable (approved) |
 | --- | ---: | ---: | ---: | ---: | --- | ---: |
@@ -171,39 +199,41 @@ The marginal probability multiplies the model's own chance of a favourable vote 
 
 If the neurology-committee factor in the last row is switched on, the favourable-vote probability moves from 0.91 to 0.92 and the matching cell is empty. No meeting in the table was both a cell or gene therapy at the biologics center and a meeting of either neurology committee. That probability is an extrapolation.
 
+![Figure 1. The top two points are the unfiltered rates on all 116 meetings: a favourable vote, and eventual approval. Each later priority row sets priority review to yes and is fit on the 92 meetings with a recorded review type. The rows that include the vote leave priority review out. Each point is the penalized logistic probability. The line is the bootstrap 95 percent interval. The neurology-committee factor is off.](../charts/amt130_prediction_forest.png)
+
 ## Discussion
 
-The headline range sits near 0.90 because the products in this table, and especially the products with priority review, have usually been approved after a favourable vote. Priority review alone barely moves the approval model: the R-squared is 0.01, and the probability of 0.89 is close to the overall rate of approval among meetings that have a known review type. The model is reporting a high base rate. It is not detecting a large effect of the label.
+The rate on all 116 approval questions is 0.67 for a favourable vote and 0.69 for eventual approval. The figures near 0.87 come from models that set priority review to yes. Those models are fit on the 92 meetings with a recorded review type, and 80 of those 92 were later approved. Within those 92, priority review does not improve the approval model: the criterion rises from 73.2 to 74.9, and the R-squared is 0.01. Standard review was followed by approval in 41 of 46 meetings, and priority review in 39 of 46. The high approval rate is the rate among meetings whose review type was recorded. The 24 meetings with no verified review type include 4 favourable votes and no later approvals, and leaving them out lifts the average.
 
 The vote is the factor that separates outcomes. An unfavourable vote is associated with a chance of eventual approval near one in three in the kept models. A favourable vote is associated with a chance near nine in ten. That gap is visible in the four-cell counts. Of 116 approval questions with a known final action, 72 were favourable and later approved, 6 were favourable and not approved, 8 were unfavourable and later approved, and 30 were unfavourable and not approved.
 
-Two readings of "approved" diverge, and the divergence matters for a decision date. The final action counts a later approval. Ryoncil is the clearest example in this table: the committee voted in 2020, the FDA issued a complete response, and the product was approved in 2024. The final action is approved. The one-year action is not approved. Across the approval-question rows that have both labels, they disagree 13 times out of 68. Refitting the kept approval models on the one-year action lowers the probabilities to a range of 0.71 to 0.83 before the vote is known, and to about 0.68 to 0.79 given a favourable vote. For a target date such as 1 May 2027, the one-year reading is the closer analogue of the first decision. The final-action reading answers a different question, which is whether the product is approved eventually.
+Two readings of "approved" diverge, and the divergence matters for a decision date. The final action counts a later approval. Ryoncil is the clearest example in this table: the committee voted in 2020, the FDA issued a complete response, and the product was approved in 2024. The final action is approved. The one-year action is not approved. Across the approval-question rows that have both labels, they disagree 13 times out of 68. On the 68 meetings with a one-year label, 45 were approved within a year, 42 of 53 after a favourable vote and 3 of 15 after an unfavourable vote. Refitting the priority-conditioned approval models on that one-year action gives a range of 0.80 to 0.83 before the vote is known, and about 0.69 to 0.79 given a favourable vote. Those refits still set priority review to yes. For a target date such as 1 May 2027, the one-year reading is the closer analogue of the first decision. The final-action reading answers a different question, which is whether the product is approved eventually.
 
-The cell and gene therapy cell that matches AMT-130 most closely has five meetings, all approved after a favourable vote, in the approval-question set. The logistic model pulls the probability to 0.95 or 0.96 and the bootstrap interval stays narrow. The interval computed from those five meetings alone runs from 0.62 to 1.00. Both numbers are in the tables so that the borrowing of strength is visible. A cell of five is a count. It is a weak basis for a percentage.
+The cell that matches AMT-130 on orphan status, an initial application, and priority review has 22 approval-question meetings, 19 of them approved. The logistic probability on that row is 0.86, and the interval computed from those 22 meetings runs from 0.68 to 0.96. The six-meeting cell in the last approval row, which does not require priority review, is all approvals, and its own interval runs from 0.67 to 1.00. A cell of six is a count. It is a weak basis for a percentage.
 
 The committee assignment can still move a prediction, and it cannot move it with any matching history. Huntington's disease is a disease of the brain. In this table the neurology factor records the name of the committee, and the gene-therapy products were reviewed elsewhere. If the FDA seats AMT-130 at the gene-therapy committee, or at a cancer committee that has reviewed other cell therapies, the factor is off and the main tables apply. If the FDA seats it at the Peripheral and Central Nervous System Drugs Advisory Committee, the factor is on, and any model that needs a gene-therapy meeting of that committee is predicting into an empty cell.
 
-A year term, evaluated at 2026, lowers the chance of a favourable vote into a range of 0.77 to 0.89 and improves the criterion for every kept vote model. Later meetings in this table have been somewhat less often favourable. The same term does not improve the approval models, and one of those year-augmented fits separates and is not used. The year 2026 is already represented in the table, through July 2026, so this is the fitted line at the right-hand end of the observed years.
+A year term, evaluated at 2026, does not improve the criterion for the kept models. For the priority-review model of the vote the criterion moves from 90.4 to 91.2. The same term does not improve the approval models. The year 2026 is already represented in the table, through July 2026.
 
 What the model cannot see is the part a briefing book would be about. AMT-130's development has been discussed publicly in terms of an external control comparison and a 48-month result on the composite Unified Huntington's Disease Rating Scale, and the company has said the application is for accelerated approval. None of those facts is a column. Accelerated approval appears only as a feature of particular past votes, such as the Elevidys benefit-risk question, and it was not coded as its own factor. Two products with the same orphan, priority, and cell-therapy labels can have very different evidence. This prior treats them as exchangeable.
 
 The source mix cuts the same way. Fifteen of the 116 approval-question votes, and 33 of the 116 outcomes, rest on press or company documents rather than an FDA record. The solithromycin row that this round added is an FDA transcript for the vote and a company annual report for the rejection and the priority designation. The historical rate is a rate in a table with that mix of sources.
 
-Selection sits underneath the base rate. The FDA calls an advisory committee when the decision is uncertain enough to want one. Products that sail through do not appear. The 0.90 figure is a rate among products that reached a vote, with labels like AMT-130's. It is silent on products that never reached a committee.
+Selection sits underneath the base rate. The FDA calls an advisory committee when the decision is uncertain enough to want one. Products that sail through do not appear. The 0.67 and 0.69 figures are rates among products that reached a vote. They are silent on products that never reached a committee. The figures near 0.87 further restrict that set to meetings with a recorded review type and set priority review to yes.
 
 ## Conclusions
 
-For a product with AMT-130's regulatory labels, the meetings since November 2016 imply a chance of about 0.90 to 0.96 of a favourable approval vote, and about 0.89 to 0.95 of eventual FDA approval, if the committee is not one of the two neurology committees. Given a favourable vote, the kept models put eventual approval at 0.88 to 0.92. Given an unfavourable vote, they put it at 0.28 to 0.37.
+On the 116 approval or benefit-risk questions with a known final outcome, the chance of a favourable vote is 0.67 (78 of 116) and the chance of eventual approval is 0.69 (80 of 116). Every such meeting is included, whether or not its review type is recorded. Given a favourable vote, 72 of 78 were approved. Given an unfavourable vote, 8 of 38 were approved. The penalized models that use the vote put eventual approval at 0.88 to 0.92 after a favourable vote and at 0.28 to 0.37 after an unfavourable vote.
 
-The pre-meeting labels explain little. The best R-squared for the vote is 0.16. The best small model for approval, using priority review alone, has an R-squared of 0.01. The probability is high because approval after these meetings has usually happened, particularly after a favourable vote and particularly among priority-review products.
+Priority review does not improve a model of eventual approval once the comparison uses the meetings that have a recorded review type. On that subset, 80 of 92 were approved, 41 of 46 after standard review and 39 of 46 after priority review. The R-squared is 0.01. For the vote, priority review is associated with a higher favourable rate, 41 of 46 against 33 of 46, and the R-squared on those same meetings is 0.08. Models that set priority review to yes produce probabilities of about 0.87 to 0.89 for a favourable vote and 0.84 to 0.87 for eventual approval. The best R-squared among the kept pre-meeting models is 0.15, and that model does not use priority review.
 
-The one-year action is less optimistic, at 0.71 to 0.83 before the vote. That reading counts only an approval within a year of the meeting. The closest cell-and-gene-therapy cell has five meetings. Its own interval runs from 0.62 to 1.00, which is wide enough that the point estimate of 0.96 should not be quoted alone.
+The one-year action, on the 68 meetings with that label, is 45 approvals. The priority-conditioned refits of that outcome run from 0.80 to 0.83 before the vote. The orphan-and-priority-and-initial cell in the approval table has 22 meetings, 19 approved, and its own interval runs from 0.68 to 0.96.
 
 Orphan status is taken from FDA designation 525216. Priority review is taken from the company's November 2026 releases until an FDA letter confirms it. The clinical evidence, the external control, and the accelerated-approval request are outside this calculation.
 
 ## Suggested improvements
 
-Forty-five priority cells are still unverified. Each one should be closed from the approval letter, the review memo, or a company filing that names priority or standard review for the submission the committee reviewed. Carvykti, Abecma, NurOwn, and the deramiocel and Tudriqev resubmissions are the open cell-and-gene-therapy cases. A designation on the original application should stay off the resubmission unless the source says it carried over.
+Thirty-one priority cells are still unverified. The page checked for each one is named in the basis column. The remaining open cell-and-gene-therapy cases are NurOwn and the resubmissions of deramiocel and Tudriqev. A designation on the original application stays off the resubmission unless the source says it carried over. Carvykti and Abecma, at the 15 March 2024 supplement meetings, are now standard review, from the FDA reviews of those supplements.
 
 The two orphan cells marked "review" should be set to yes or no only if a source settles the indication. Darzalex Faspro for high-risk smoldering myeloma, and Tudriqev, do not meet that bar today.
 
@@ -219,11 +249,13 @@ Where a matching cell has fewer than about eight meetings, the Jeffreys interval
 
 ## Appendix. Additional results
 
-The tables in this appendix are sensitivities. They are not inside the ranges quoted in the summary. "Neurology committee on" means the meeting is assigned to the Peripheral and Central Nervous System Drugs Advisory Committee or the Psychopharmacologic Drugs Advisory Committee. Probabilities are from the penalized fit. R-squared is Nagelkerke's. The criterion is the Akaike information criterion, and a lower value is a better penalized fit.
+The tables in sections A, B, and C were fit before the 4 November priority fills. The refit after those fills is in `amt130_prediction.md`. On that refit, the all-pivotal models that set priority review to yes give a favourable-vote probability of about 0.81 to 0.83 and an approval probability, before the vote, of about 0.82 to 0.86. A year term does not improve the criterion. The tables below are kept so the earlier fit can be compared with that file.
+
+The summary's opening rates are the unfiltered counts on all 116 approval questions. "Neurology committee on" means the meeting is assigned to the Peripheral and Central Nervous System Drugs Advisory Committee or the Psychopharmacologic Drugs Advisory Committee. Probabilities are from the penalized fit. R-squared is Nagelkerke's. The criterion is the Akaike information criterion, and a lower value is a better penalized fit.
 
 ### A. All pivotal votes
 
-This pass includes effectiveness questions as well as approval and benefit-risk questions. The chance of a favourable vote is a little lower than in the main set, at 0.85 to 0.95. The chance of eventual approval, before the vote, is 0.91 to 0.95.
+This pass includes effectiveness questions as well as approval and benefit-risk questions. The rows below are the earlier fit. The refit puts the favourable-vote probability at about 0.81 to 0.83 and the approval probability, before the vote, at about 0.82 to 0.86.
 
 | Outcome | Factors | Neurology committee | Meetings | R-squared | Criterion | Probability |
 | --- | --- | ---: | ---: | ---: | ---: | ---: |

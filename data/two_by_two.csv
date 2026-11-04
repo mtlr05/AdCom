@@ -5,24 +5,24 @@ Rare (orphan Y),final,55,40,2,2,11,1
 Rare (orphan Y),1yr,35,23,6,2,4,21
 Common (orphan N),final,93,48,4,8,32,0
 Common (orphan N),1yr,52,28,7,3,14,41
-Priority,final,59,48,2,2,6,0
-Priority,1yr,41,31,6,2,2,18
-Standard,final,48,34,0,8,6,0
-Standard,1yr,36,20,6,3,7,12
+Priority,final,67,52,2,2,10,0
+Priority,1yr,42,31,6,2,3,25
+Standard,final,54,37,0,8,9,0
+Standard,1yr,37,20,6,3,8,17
 CNS (PCNS/PDAC),final,20,12,0,1,7,0
 CNS (PCNS/PDAC),1yr,14,10,1,1,2,6
 CGT (CTGTAC + CAR-T/MSC),final,11,10,0,0,1,1
 CGT (CTGTAC + CAR-T/MSC),1yr,5,2,2,0,1,7
-Rare + priority,final,35,29,1,1,4,0
-Rare + priority,1yr,23,18,3,1,1,12
+Rare + priority,final,39,29,1,1,8,0
+Rare + priority,1yr,24,18,3,1,2,15
 Approval-only: All,final,116,72,6,8,30,0
 Approval-only: All,1yr,68,42,11,3,12,48
 Approval-only: Common,final,75,39,4,7,25,0
 Approval-only: Common,1yr,44,25,5,2,12,31
 Approval-only: Rare,final,40,32,2,1,5,0
 Approval-only: Rare,1yr,23,17,5,1,0,17
-Approval-only: Rare + priority,final,25,22,1,0,2,0
-Approval-only: Rare + priority,1yr,14,12,2,0,0,11
+Approval-only: Rare + priority,final,27,22,1,0,4,0
+Approval-only: Rare + priority,1yr,14,12,2,0,0,13
 Approval-only: CGT,final,8,8,0,0,0,0
 Approval-only: CGT,1yr,2,1,1,0,0,6
 2016-11-04..2021 (Daval overlap),final,91,55,4,6,26,0
