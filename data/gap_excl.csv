@@ -1,0 +1,39 @@
+meeting_date,committee,app,reason,source
+2017-03-29,ODAC,209099,NDA withdrawn before meeting; no vote,https://www.onclive.com/view/binimetinib-nrasmutant-melanoma-application-withdrawn
+2023-01-09,DODAC,125387,no voting question (aflibercept ROP discussion),https://www.fda.gov/media/168199/download
+2024-11-21,CTGTAC,125586,no vote (Andexxa confirmatory discussion),https://www.fda.gov/media/185461/download
+2023-10-31,CTGTAC,125787,no voting question (exa-cel off-target discussion),https://www.fda.gov/media/175831/download
+2023-11-16,ODAC,022468,marketed-product accelerated-approval status review,https://www.fda.gov/media/175668/download
+2023-11-16,ODAC,206256,marketed-product accelerated-approval status review,https://www.fda.gov/media/175668/download
+2024-09-26,ODAC,125377,PD-1 class question,https://www.fda.gov/media/184929/download
+2024-09-26,ODAC,125514,PD-1 class question,https://www.fda.gov/media/184929/download
+2024-09-26,ODAC,125554,PD-1 class question,https://www.fda.gov/media/184929/download
+2024-09-26,ODAC,761417,PD-1 class question,https://www.fda.gov/media/184929/download
+2019-01-11,AAC,021856,postmarketing safety review (Uloric CARES),FR notice
+2019-10-29,BRUDAC,021945,proposed withdrawal review of marketed product (Makena),FR notice
+2020-09-10,DSaRM,022272,postmarketing study review (OxyContin),FR notice
+2021-12-02,ODAC,205353,marketed-product accelerated-approval status review (Farydak),FR notice
+2021-12-02,ODAC,53069,marketed-product accelerated-approval status review (Marqibo),FR notice
+2019-03-27,PADAC,208646,meeting cancelled (PRE-PEN Plus),https://www.sentinelinitiative.org/studies/drugs/pre-pen-plus-benzylpenicilloyl-polylysine
+2020-04-23,MIDAC,212123,meeting cancelled (flortaucipir; claims withdrawn),https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212123Orig1s000IntegratedR.pdf
+2020-04-21,PADAC,209482,meeting postponed (COVID); Trelegy voted 2020-08-31,https://www.federalregister.gov/documents/2020/04/07/2020-07262/pulmonary-allergy-drugs-advisory-committee-postponed
+2022-04-22,ODAC,213176,application withdrawn and meeting session cancelled (U2); PI3K class vote only,https://www.healio.com/news/hematology-oncology/20220422/fda-panel-pi3k-inhibitor-approvals-for-blood-cancers-should-be-backed-by-randomized-data
+2022-04-22,ODAC,761207,application withdrawn and meeting session cancelled (U2),same
+2022-03-30,PCNS,216660,duplicate FR item: vote already in pivotal sheet,dataset
+2026-07-29,CTGTAC,125842,duplicate: deramiocel row already in pivotal sheet,dataset
+2022-11-18,NDAC,017031,meeting postponed; Opill voted 2023-05-09,https://www.federalregister.gov/documents/2022/10/27/2022-23379/joint-meeting-of-the-nonprescription-drugs-advisory-committee-and-the-obstetrics-reproductive-and
+2022-12-14,CRDAC,021845,meeting cancelled (Revatio pediatric),https://insights.citeline.com/PS147216/Zejula-Revatio-Advisory-Committee-Meetings-Cancelled-Palovarotene-Panel-Postponed/
+2022-11-22,ODAC,208447,meeting cancelled (Zejula indication restricted by sponsor),https://www.fiercepharma.com/pharma/gsks-zejula-fda-oncology-adcomm-cancelled-leaving-ovarian-cancer-nod-schrodingers-box
+2022-10-31,EMDAC,215559,meeting postponed (palovarotene),https://insights.citeline.com/PS147216/Zejula-Revatio-Advisory-Committee-Meetings-Cancelled-Palovarotene-Panel-Postponed/
+2023-03-20,NDAC,217722,meeting cancelled (RiVive naloxone),https://www.thefdalawblog.com/2023/03/upcoming-otc-naloxone-joint-advisory-committee-meeting-cancelled/
+2024-07-25,ODAC,761069,no product approval vote (trial-design class question 11-0),https://www.onclive.com/view/odac-vote-aims-to-introduce-clarity-on-phase-of-treatment-benefits-in-resectable-nsclc
+2024-09-09,AMDAC,213972,no voting question (sulopenem discussion only),https://www.iterumtx.com/news/press-releases/detail/133/iterum-therapeutics-provides-update-on-fda-advisory
+2025-02-24,CRDAC,218276,meeting cancelled (Fabhalta C3G),https://endpoints.news/two-february-fda-adcomm-meetings-are-delayed-canceled/
+2019-12-18,ODAC,761136,ODAC review of luspatercept withdrawn by FDA; no vote,https://news.bms.com/news/details/2019/Bristol-Myers-Squibb-and-Acceleron-Pharma-Provide-Update-on-FDA-Advisory-Committee-for-Reblozyl-luspatercept-aamt/default.aspx
+2017-09-14,AADPAC,021306,no voting question (Butrans pediatric labeling discussion),https://www.medscape.com/viewarticle/885750
+2017-09-14,DSaRM,021306,no voting question (Butrans pediatric labeling discussion),https://www.medscape.com/viewarticle/885750
+2017-04-04,BPAC,125611,no vote on this topic (AABB meeting summary),https://www.aabb.org/regulatory-and-advocacy/regulatory-affairs/government-advisory-regulatory-meetings/blood-products-advisory-committee/bpac-meeting-170404
+2021-10-28,ODAC,214383,meeting cancelled (Pepaxto withdrawn; rescheduled 2022-09-22 marketed review),https://oncopeptides.com/press-releases/oncopeptides-ab-oncopeptides-withdraws-pepaxto-in-us-scale-down-organization-and-focus-on-rd/
+2017-02-16,PDAC,209241,meeting cancelled (valbenazine),https://www.federalregister.gov/documents/2017/01/19/2017-01170/psychopharmacologic-drugs-advisory-committee-cancellation
+2026-10-30,DODAC,219694,no formal vote (SYD-101 discussion questions) - per trade press; FDA minutes not yet read,https://www.fda.gov/media/196138/download
+2023-02-09,ODAC,157775,IND 157775 dostarlimab trial-design discussion; no marketing application,https://www.federalregister.gov/documents/2022/12/22/2022-27834/oncologic-drugs-advisory-committee-notice-of-meeting-establishment-of-a-public-docket-request-for

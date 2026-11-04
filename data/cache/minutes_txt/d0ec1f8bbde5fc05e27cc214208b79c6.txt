@@ -1,0 +1,299 @@
+                           Food and Drug Administration
+                      Center for Drug Evaluation and Research
+      Final Summary Minutes of the Genetic Metabolic Diseases Advisory Committee
+                                 (GeMDAC) Meeting
+                                    August 2, 2024
+
+Location: FDA and invited participants attended the meeting at FDA White Oak Campus,
+Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New Hampshire Avenue,
+Silver Spring, Maryland. The public participated via an online teleconferencing and/or video
+conferencing platform, and the meeting presentations were heard, viewed, captioned, and
+recorded through an online video conferencing platform.
+
+Topic: The Committee discussed new drug application 214927, for arimoclomol, submitted by
+Zevra Denmark A/S, for the treatment of adults and pediatric patients 2 years of age and older
+with Niemann-Pick disease type C.
+
+
+These summary minutes for the August 2, 2024 meeting of the Genetic Metabolic Diseases
+Advisory Committee of the Food and Drug Administration were approved on September 10,
+2024.
+
+
+I certify that I attended the August 2, 2024 meeting of the Genetic Metabolic Diseases Advisory
+Committee of the Food and Drug Administration and that these minutes accurately reflect what
+transpired.
+
+
+
+
+_________/s/ ____________________                        __________ _/s/__________________
+Moon Hee V. Choi, PharmD                                 Robert Alexander, MD
+Designated Federal Officer, GeMDAC                       Chairperson, GeMDAC
+
+
+
+
+                                           Page 1 of 6
+August 2, 2024
+Genetic Metabolic Diseases Advisory Committee Meeting
+
+
+  Final Summary Minutes of the Genetic Metabolic Diseases Advisory Committee Meeting
+                                    August 2, 2024
+
+The Genetic Metabolic Diseases Advisory Committee (GeMDAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research met on August 2, 2024. FDA and
+invited participants attended the meeting at FDA White Oak Campus, Building 31 Conference
+Center, the Great Room (Rm. 1503), 10903 New Hampshire Avenue, Silver Spring, Maryland.
+The public participated via an online teleconferencing and/or video conferencing platform, and
+the meeting presentations were heard, viewed, captioned, and recorded through an online video
+conferencing platform. Prior to the meeting, the members and temporary voting members were
+provided the briefing materials from the FDA and Zevra Denmark A/S. The meeting was called
+to order by Robert Alexander, MD (Acting Chairperson). The conflict of interest statement was
+read into the record by Moon Hee V. Choi, PharmD (Designated Federal Officer). There were
+approximately 70 people in attendance in-person and approximately 697 people online. There
+were 15 Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The Committee discussed new drug application 214927, for arimoclomol, submitted by
+Zevra Denmark A/S, for the treatment of adults and pediatric patients 2 years of age and older with
+Niemann-Pick disease type C.
+
+Attendance:
+
+Genetic Metabolic Diseases Advisory Committee Members Present (Voting): Gerard T.
+Berry, MD; Sarah Chamberlin (Consumer Representative); Wendy K. Chung, MD, PhD; Priya
+S. Kishnani, MD (via video conferencing platform); Jonathan W. Mink, MD PhD
+
+Genetic Metabolic Diseases Advisory Committee Members Not Present (Voting): None
+
+Genetic Metabolic Diseases Advisory Committee Member Present (Non-Voting): Bradley J.
+Glasscock, PharmD (Industry Representative)
+
+Temporary Members (Voting): Robert C. Alexander, MD (Acting Chairperson); Kiera N.
+Berggren, MA/CCC-SLP, MS; Cheryl D. Coon, PhD; Susan S. Ellenberg, PhD; Kenneth
+Fischbeck, MD; Elizabeth Heinze (Patient Representative); Walter K. Kraft, MD; Richard J.
+Kryscio, PhD; Jean Baptiste Le Pichon MD, PhD, FAAP; Andrew Lieberman, MD, PhD; Carole
+A. Tucker, PhD
+
+FDA Participants (Non-Voting): Patrizia Cavazzoni, MD; Peter Stein, MD; Janet Maynard,
+MD, MHS (via video conferencing platform); Catherine Pilgrim-Grayson, MD, MPH; Naomi
+Knoble, PhD; Maura RZ Ruzhnikov, MD, FACMG; Shawna L. Weis, PhD; Wonyul Lee, PhD;
+Sydney Stern, PhD
+
+Designated Federal Officer (Non-Voting): Moon Hee V. Choi, PharmD
+
+
+                                               Page 2 of 6
+August 2, 2024
+Genetic Metabolic Diseases Advisory Committee Meeting
+
+
+
+
+Open Public Hearing Speakers: Elizabeth Berry-Kravis MD, PhD (via video conferencing
+platform); Krystal Samuelson; Alexander Kray (via video conferencing platform); David Sellers;
+Cara Gilmore (via video conferencing platform); Barbara Lazarus; Raymond Wang (via video
+conferencing platform), MD; Saikat Santra (Birmingham Women’s and Children’s NHS
+Foundation Trust) (via video conferencing platform); Anna and Sanjay Kambhatla (via video
+conferencing platform); Dawn Stites; Amanda Wallace (via video conferencing platform); Justin
+Hopkin, MD and Joslyn Crowe (National Niemann Pick Disease Foundation); Garland Alvey
+(AbbyStrong Fights NPC); Toni Mathieson (Niemann-Pick UK) (via video conferencing
+platform); Caitlin Hahn (via video conferencing platform)
+_____________________________________________________________________________
+The agenda was as follows:
+
+  Call to Order and Introduction of           Robert Alexander, MD
+  Committee                                   Acting Chairperson, GeMDAC
+
+  Conflict of Interest Statement              Moon Hee V. Choi, PharmD
+                                              Designated Federal Officer, GeMDAC
+
+  FDA Initial Remarks                         Patrizia Cavazzoni, MD
+                                              Director
+                                              CDER, FDA
+
+  FDA Opening Remarks                         Catherine Pilgrim-Grayson, MD, MPH
+                                              Acting Director
+                                              Division of Rare Diseases and Medical Genetics
+                                              (DRDMG)
+                                              Office of Rare Diseases, Pediatrics, Urologic and
+                                              Reproductive Medicine (ORPURM)
+                                              Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                     Zevra Therapeutics
+
+  Introduction                                Louise Himmelstrup
+                                              Vice President (VP), Regulatory Affairs
+                                              Zevra Therapeutics
+
+  Clinical Background on                      Marc Patterson, MD
+  Niemann-Pick Type C                         Professor of Neurology, Pediatrics and Medical Genetics
+                                              Emeritus Chair
+                                              Division of Child and Adolescent Neurology
+                                              Mayo Clinic, Rochester, MN
+
+  Pivotal Efficacy                            Dan Gallo, PhD
+                                              Senior VP, Medical Affairs and Advocacy
+                                              Zevra Therapeutics
+
+
+                                               Page 3 of 6
+August 2, 2024
+Genetic Metabolic Diseases Advisory Committee Meeting
+
+
+  APPLICANT PRESENTATIONS (CONT.)
+
+  Confirmatory Evidence of                    Travis Mickle, PhD
+  Effectiveness                               Co-Founder, Senior Advisor
+                                              Zevra Therapeutic
+
+  Safety                                      Christine í Dali, MD
+                                              VP, Group Clinical Science
+                                              Zevra Therapeutics
+
+  Clinical Perspective                        Kristina Julich, MD
+                                              Assistant Professor
+                                              Department of Neurology
+                                              Chief, Pediatric Neurogenetics Center
+                                              University of Texas at Austin
+
+  Clarifying Questions to the Applicant
+
+  LUNCH
+
+  FDA PRESENTATIONS
+
+  Overview of the Clinical Program            Maura RZ Ruzhnikov, MD, FACMG
+                                              Clinical Reviewer
+                                              DRDMG, ORPURM, OND, CDER, FDA
+
+  Primary Efficacy Results in Pivotal         Wonyul Lee, PhD
+  Trial                                       Senior Staff Fellow
+                                              Division of Biometrics IV
+                                              Office of Biostatistics
+                                              Office of Translational Sciences (OTS)
+                                              CDER, FDA
+
+  NPCCSS: Measurement                         Naomi Knoble, PhD
+  Considerations                              Associate Director
+                                              Division of Clinical Outcome Assessment
+                                              Office of Drug Evaluation Sciences
+                                              OND, CDER, FDA
+
+  Additional Data: Nonclinical                Shawna L. Weis, PhD
+                                              Lead Pharmacologist (Acting)
+                                              Division of Pharmacology/Toxicology for
+                                              Rare Diseases, Pediatrics, Urologic and Reproductive
+                                              Medicine
+                                              ORPURM, OND, CDER, FDA
+
+
+
+                                               Page 4 of 6
+August 2, 2024
+Genetic Metabolic Diseases Advisory Committee Meeting
+
+
+  FDA PRESENTATIONS (CONT.)
+
+  Additional Data: Clinical                   Sydney Stern, PhD
+  Pharmacology                                Pharmacokineticist
+                                              Division of Translational and Precision Medicine
+                                              Office of Clinical Pharmacology
+                                              OTS, CDER, FDA
+
+  Additional Clinical Data and                Maura RZ Ruzhnikov, MD, FACMG
+  Summary
+
+  Clarifying Questions to the FDA
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+  Charge to the Committee                     Catherine Pilgrim-Grayson, MD, MPH
+
+  Questions to the
+  Committee/Committee Discussion
+
+  ADJOURNMENT
+______________________________________________________________________________
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss your assessment of the efficacy results of trial CT-ORZY-NPC-002
+   (NPC-002). In your discussion, please comment on:
+
+        a. The 5-domain Niemann-Pick disease type C Clinical Severity Scale (5DNPCCSS)
+           and the rescored 4-domain Niemann-Pick disease type C Clinical Severity Scale
+           (R4DNPCCSS).
+
+            Committee Discussion: The general consensus on the Committee’s assessment of the
+            efficacy results of trial CT-ORZY-NPC-002 in regard to the 5DNPCCSS and the
+            R4DNPCCSS was that both scales could be improved, adding that although
+            imperfect, probably they are adequate to the task of measuring improvement in the
+            trial. Please see the transcript for details of the Committee’s discussion.
+
+        b. Your assessment of whether the trial results demonstrate a treatment effect of
+           arimoclomol on the treatment of Niemann-Pick disease type C (NPC).
+
+            Committee Discussion: The consensus of the Committee members was that the study
+            showed a treatment effect. There were differences of opinion on the importance and
+            reliability of the treatment effect given that it was a small study with a lot of
+
+
+                                               Page 5 of 6
+August 2, 2024
+Genetic Metabolic Diseases Advisory Committee Meeting
+
+
+            variability. The treatment effect was described as small or really small. Some
+            Committee members commented that the improvements observed in a number of
+            patients may seem small; however, given the number of patients enrolled in a rare
+            disease trial, the trial results suggested a treatment effect of arimoclomol. Please see
+            the transcript for details of the Committee’s discussion.
+
+2. DISCUSSION: Discuss your assessment of other data (specifically the additional clinical
+   and nonclinical data) with respect to support for the effectiveness of arimoclomol.
+
+    Committee Discussion: Overall, the Committee members agreed the additional clinical data
+    was consistent with the data from the trial. For the non-clinical data, the Committee
+    members expressed concerns with the apparent lack of randomization and blinding, and the
+    lack of pharmacokinetic (PK) data, given that the drug was administered in the drinking
+    water, and agreed the data did not support treatment effectiveness. One committee member
+    noted the mice studies may have been more compelling if treatment was initiated after
+    disease manifestation. Please see the transcript for details of the Committee’s discussion.
+
+3. VOTE: Do the results of trial NPC-002 in concert with the other data (clinical and
+   nonclinical in particular) support a conclusion that arimoclomol is effective in the treatment
+   of patients with NPC? Provide a rationale for your vote.
+
+    Vote Result:        Yes: 11         No: 5           Abstain: 0
+
+        a. If you voted no, provide recommendations for additional data that may support a
+           conclusion that arimoclomol is effective.
+
+    Committee Discussion: The majority of the Committee members agreed that the results of
+    trial NPC-002 in concert with the other clinical data support a conclusion that arimoclomol
+    is effective in the treatment of patients with NPC. These Committee members noted: 1) there
+    was a clinical unmet need; 2) arimoclomol displayed a good safety profile; and 3) there was
+    consistency in the clinical efficacy data. The Committee members who voted “No” noted,
+    both the clinical and nonclinical data had problems and did not meet evidentiary standards
+    for approval. These Committee members provided the following recommendations for
+    additional data that may support a conclusion that arimoclomol is effective: 1) an additional
+    study with a prospective statistical analysis plan and 2) additional animal studies and studies
+    on the mechanism of action. Please see the transcript for details of the Committee’s
+    discussion.
+
+The meeting was adjourned at approximately 4:59 p.m.
+
+
+
+
+                                                Page 6 of 6
+

@@ -1,0 +1,197 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+     Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                   October 5, 2023
+
+
+Location: All meeting participants were heard, viewed, captioned, and recorded for this advisory
+committee meeting via an online teleconferencing and/or video conferencing platform.
+
+Topic: The Committee discussed supplemental new drug application (sNDA) 214665/S-005, for
+LUMAKRAS (sotorasib) tablets, submitted by Amgen Inc., for the proposed treatment of adult
+patients with KRAS G12C mutated locally advanced or metastatic non-small cell lung cancer
+(NSCLC), as determined by an FDA approved test, who have received at least one prior systemic
+therapy. This supplement proposes to convert the NDA to full approval based on the
+confirmatory study, CodeBreaK 200. The Committee considered the results of the CodeBreaK
+200 study and discussed the benefit-risk profile of LUMAKRAS.
+
+These summary minutes for the October 5, 2023 meeting of the Oncologic Drugs Advisory
+Committee of the Food and Drug Administration were approved on December 1, 2023.
+
+I certify that I attended the October 5,2023 meeting of the Oncologic Drugs Advisory Committee
+of the Food and Drug Administration and that these minutes accurately reflect what transpired.
+
+
+
+__________ ___/s/________________                ____________/s/_________________
+Joyce Frimpong, PharmD                           Ravi A. Madan, MD
+Acting Designated Federal Officer, ODAC          Chairperson, ODAC
+
+
+
+
+                                           Page 1 of 4
+Ocotber 5, 2023
+Oncologic Drugs Advisory Committee Meeting
+
+       Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                    October 5, 2023
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research met on October 5, 2023. The meeting presentations
+were heard, viewed, captioned, and recorded through an online video conferencing platform.
+Prior to the meeting, the members and temporary voting members were provided the briefing
+materials from the FDA and Amgen Inc. The meeting was called to order by Ravi Madan, MD
+(Chairperson). The conflict of interest statement was read into the record by Joyce Frimpong,
+PharmD (Acting Designated Federal Officer). There were approximately 1400 people in
+attendance. There were 6 Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The Committee discussed supplemental new drug application (sNDA) 214665/S-005,
+for LUMAKRAS (sotorasib) tablets, submitted by Amgen Inc., for the proposed treatment of
+adult patients with KRAS G12C mutated locally advanced or metastatic non-small cell lung
+cancer (NSCLC), as determined by an FDA approved test, who have received at least one prior
+systemic therapy. This supplement proposes to convert the NDA to full approval based on the
+confirmatory study, CodeBreaK 200. The Committee considered the results of the CodeBreaK
+200 study and discussed the benefit-risk profile of LUMAKRAS.
+
+Attendance:
+Oncologic Drugs Advisory Committee Members Present (Voting): Mark R. Conaway, PhD;
+William J. Gradishar, MD; Ravi A. Madan, MD (Chairperson); David E. Mitchell (Consumer
+Representative); Jorge J. Nieva, MD; Ashley Rosko, MD; Daniel Spratt, MD; Neil Vasan, MD,
+PhD
+
+Oncologic Drugs Advisory Committee Members Not Present (Voting): Ranjana H. Advani,
+MD; Toni K. Choueiri, MD; Pamela L. Kunz, MD; Christopher H. Lieu, MD; Alberto S. Pappo,
+MD
+
+Oncologic Drugs Advisory Committee Member Not Present (Non-Voting): Johnathan D.
+Cheng, MD (Industry Representative)
+
+Acting Industry Representative to the Committee (Non-Voting): Albert L. Kraus, PhD
+
+Temporary Members (Voting): James L. Gulley, MD, PhD, FACP; Philip C. Hoffman, MD;
+James Pantelas (Patient Representative); Pamela Shaw, PhD, MS
+
+FDA Participants (Non-Voting): Richard Pazdur, MD; Harpreet Singh, MD; Paz Vellanki,
+MD, PhD; Jeevan Puthiamadathil, MD; Pallavi Mishra-Kalyani, PhD; Anup Amatya, PhD; Chi
+(Chuck) Song, PhD
+
+Acting Designated Federal Officer (Non-Voting): Joyce Frimpong, PharmD
+
+
+
+                                             Page 2 of 4
+Ocotber 5, 2023
+Oncologic Drugs Advisory Committee Meeting
+
+
+
+Open Public Hearing Speakers: Howard Mosby (Heal Collective); Terri Conneran (KRAS
+Kickers); Dusty Joy Donaldson (Dusty Joy Foundation (LiveLung)); Debbie Weir (Cancer
+Support Community); Jim Baranski (Lung Cancer Foundation of America); Sherri Eccleston
+_____________________________________________________________________________
+
+The agenda was as follows:
+
+  Call to Order                              Ravi A. Madan, MD
+                                             Chairperson, ODAC
+
+  Introduction of Committee/ Conflict of     Joyce Frimpong, PharmD
+  Interest Statement                         Acting Designated Federal Officer, ODAC
+
+  FDA Opening Remarks                        Harpreet Singh, MD
+                                             Director
+                                             Division of Oncology 2 (DO2)
+                                             OOD, OND, CDER, FDA
+
+  APPLICANT PRESENTATIONS                    Amgen Inc.
+
+  Introduction                               Jackie Kline, PhD
+                                             Vice President, Global Regulatory Affairs
+                                             Amgen Inc.
+
+  Efficacy                                   Bhakti Mehta, MD, MPH
+                                             Executive Medical Director
+                                             Global Clinical Development
+                                             Amgen Inc.
+
+  Safety                                     Osa Eisele, MD, MPH
+                                             Executive Medical Director
+                                             Global Patient Safety
+                                             Amgen Inc.
+
+  Reliability of CodeBreak 200 Results       Gregory Friberg, MD
+                                             Vice President, Medical Affairs
+                                             Amgen Inc.
+
+  Clinical Perspective                       Melissa Johnson, MD
+                                             Director of Lung Cancer Research
+                                             Sarah Cannon Research Institute
+
+
+  FDA PRESENTATIONS
+
+  Sotorasib for KRAS G12C Mutated            Jeevan Puthiamadathil, MD
+  Locally Advanced or Metastatic             Clinical Reviewer
+  Nonsquamous Non-Small Cell                 DO2, OOD, OND, CDER, FDA
+  Lung Cancer
+
+
+                                             Page 3 of 4
+Ocotber 5, 2023
+Oncologic Drugs Advisory Committee Meeting
+
+
+                                             Chi (Chuck) Song, PhD
+                                             Statistical Reviewer
+                                             Division of Biometrics V (DBV)
+                                             Office of Biostatistics (OB)
+                                             Office of Translation Sciences (OTS)
+                                             CDER, FDA
+
+                                             Paz Vellanki, MD, PhD
+                                             Cross Disciplinary Team Lead
+                                             DO2, OOD, OND, CDER, FDA
+
+  Clarifying Questions
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee Discussion
+
+  ADJOURNMENT
+______________________________________________________________________________
+Questions to the Committee:
+
+1. VOTE: Can the primary endpoint, progression-free survival (PFS) per blinded independent
+   central review (BICR), be reliably interpreted in CodeBreak200?
+
+   Vote Result:          Yes: 2               No: 10                 Abstain: 0
+
+   Committee Discussion: A majority of the committee agreed that the primary endpoint, PFS
+   per BICR cannot be reliably interpreted in CodeBreak200. Those who voted, “No”,
+   questioned whether the study results could be reliably interpreted due to asymmetric early
+   dropout with more patients on the control arm compared to the experimental arm who never
+   received study therapy, imaging assessments favoring the experimental arm, and early
+   crossover of patients on the control arm prior to confirmation of disease progression by
+   BICR. Those who voted, “No” also questioned if there were study conduct issues related to
+   the BICR-assessment of PFS, and in general the study’s integrity. Many committee members
+   also noted that the PFS results did not translate to an overall survival benefit. Those who
+   voted, “Yes”, stated that from their interpretation of the question, the study had met the
+   primary endpoint based on its intent to treat analysis. Please see the transcript for details of
+   the Committee’s discussion.
+
+
+The meeting was adjourned at approximately 3:00 p.m.
+
+
+
+
+                                             Page 4 of 4
+

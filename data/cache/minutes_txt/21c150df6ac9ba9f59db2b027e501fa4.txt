@@ -1,0 +1,353 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+ Final Summary Minutes of the Joint Meeting of Anesthetic and Analgesic Drug Products
+  Advisory Committee and the Drug Safety and Risk Management Advisory Committee
+                                 November 14, 2018
+
+
+Location: FDA White Oak Campus, Building 31 Conference Center, The Great Room (Rm.
+1503), 10903 New Hampshire Ave, Silver Spring, Maryland.
+
+Topic: The committees discussed new drug application (NDA) 209774, for an immediate-
+release oral tablet formulation of oxycodone, which is intended to resist common methods of
+physical or chemical manipulation and to deter intravenous and intranasal abuse, submitted by
+SpecGx LLC, for the management of pain severe enough to require an opioid analgesic and for
+which alternative treatments are inadequate. The committees were also asked to determine
+whether the Applicant adequately demonstrated that the abuse-deterrent properties of the
+proposed product are sufficient to include this information in the product label, and whether the
+product should be approved.
+
+These summary minutes for the November 14, 2018 joint meeting of the Anesthetic and
+Analgesic Drug Products Advisory Committee (AADPAC) and the Drug Safety and Risk
+Management (DSaRM) Advisory Committee of the Food and Drug Administration were
+approved on January 24, 2019.
+
+I certify that I attended the November 14, 2018 joint meeting of the Anesthetic and Analgesic
+Drug Products Advisory Committee and the Drug Safety and Risk Management Advisory
+Committee of the Food and Drug Administration and that these minutes accurately reflect what
+transpired.
+
+
+
+__________ ____/s/______________                  _____________/s/____ ___________
+Moon Hee V. Choi, PharmD                          Brian Bateman, MD, MSc
+Designated Federal Officer, AADPAC                Acting Chairperson, AADPAC
+
+
+
+
+                                            Page 1 of 7
+                     Final Summary Minutes of the Joint Meeting of the
+            Anesthetic and Analgesic Drug Products Advisory Committee and the
+                  Drug Safety and Risk Management Advisory Committee
+                                    November 14, 2018
+
+The Anesthetic and Analgesic Drug Products Advisory Committee (AADPAC) and the Drug
+Safety and Risk Management Advisory Committee (DSaRM) of the Food and Drug
+Administration, Center for Drug Evaluation and Research met on November 14, 2018, at the
+FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903
+New Hampshire Avenue, Silver Spring, Maryland. Prior to the meeting, the members and
+temporary voting members were provided the briefing materials from the FDA and SpecGx
+LLC. The meeting was called to order by Brian Bateman, MD, MSc (Acting Chairperson). The
+conflict of interest statement was read into the record by Moon Hee Choi, PharmD (Designated
+Federal Officer). There were approximately 90 people in attendance. There were 10 Open
+Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committees discussed new drug application (NDA) 209774, for an immediate-
+release oral tablet formulation of oxycodone, which is intended to resist common methods of
+physical or chemical manipulation and to deter intravenous and intranasal abuse, submitted by
+SpecGx LLC, for the management of pain severe enough to require an opioid analgesic and for
+which alternative treatments are inadequate. The committees were also asked to determine
+whether the Applicant adequately demonstrated that the abuse-deterrent properties of the
+proposed product are sufficient to include this information in the product label, and whether the
+product should be approved.
+
+Attendance:
+Anesthetic and Analgesic Drug Products Advisory Committee Members Present (Voting):
+Brian T. Bateman, MD, MSc (Acting Chairperson); Basavana G. Goudra, MD, FRCA,
+FCARSCI; Mary Ellen McCann, MD, MPH; Abigail B. Shoben, PhD; Lonnie Zeltzer, MD
+
+Anesthetic and Analgesic Drug Products Advisory Committee Member Present (Non-
+Voting): W. Joseph Herring, MD, PhD (Industry Representative)
+
+Anesthetic and Analgesic Drug Products Advisory Committee Members Not Present
+(Voting): Raeford E. Brown, Jr., MD, FAAP; Ronald S. Litman, DO, ML; Kevin L. Zacharoff,
+MD, FACIP, FACPE, FAAP
+
+Drug Safety and Risk Management Advisory Committee Members Present (Voting): Sonia
+Hernandez-Diaz, MD, MPH, DrPH; Steven B. Meisel, PharmD, CPPS; Suzanne B. Robotti
+
+
+
+
+                                            Page 2 of 7
+November 14, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Drug Safety and Risk Management Advisory
+Committee Joint Meeting
+
+Drug Safety and Risk Management Advisory Committee Members Not Present (Voting):
+Kelly Besco, PharmD, FISMP, CPPS; Denise M. Boudreau, PhD, RPh; Marie R. Griffin, MD,
+MPH; Laurel A. Habel, MPH, PhD; Martin Kulldorff, PhD; Anne-Michelle Ruha, MD,
+FACMT; Soko Setoguchi, MD, DrPH; Terri L. Warholak, PhD, RPh, CPHQ, FAPhA
+
+Drug Safety and Risk Management Advisory Committee Member Not Present (Non-
+Voting): Linda Scarazzini, MD, RPh
+
+Temporary Members (Voting): Cynthia L. Arfken, PhD; Michael Fischer, MD, MS; Traci C.
+Green, PhD, MSc; Jennifer Higgins, PhD (Acting Consumer Representative); Brandon D.L.
+Marshall, PhD; Joseph P. O'Brien, MBA (Patient Representative); Jeanmarie Perrone, MD,
+FACMT; Thomas Prisinzano, PhD; Jon E. Zibbell, PhD
+
+FDA Participants (Non-Voting): Sharon Hertz, MD; Jennifer L. Nadel, MD; Judy Staffa, PhD,
+RPh; Tamra Meyer, PhD, MPH; Dominic Chiapperino, PhD
+
+Designated Federal Officer (Non-Voting): Moon Hee V. Choi, PharmD
+
+Open Public Hearing Speakers: Sidney M. Wolfe, MD (Public Citizen’s Health Research
+Group); Stacy Litz; Edwin R. Thompson (Pharmaceutical Manufacturing Research Services,
+Inc.); Charlie Cichon (National Association of Drug Diversion Investigators); Barrye Price
+(Community Anti-Drug Coalitions of America); Stephen C. Mullenix, BPharm, RPh on behalf of
+Dan Cohen (Abuse Deterrent Coalition); Fred Wells Brason II (Project Lazarus); Stephen C.
+Mullenix, BPharm, RPh (National Council for Prescription Drug Programs); Dave Zook
+(Collaborative for Effective Prescription Opioid Policies); Joshua Lewis
+
+The agenda was as follows:
+
+Call to Order and Introduction of           Brian Bateman, MD
+Committee                                   Acting Chairperson, AADPAC
+
+Conflict of Interest Statement              Moon Hee V. Choi, PharmD
+                                            Designated Federal Officer, AADPAC
+
+FDA Opening Remarks                         Sharon Hertz, MD
+                                            Director, Division of Anesthesia, Analgesia, and
+                                            Addiction Products (DAAAP)
+                                            Office of Drug Evaluation II (ODE-II)
+                                            Office of New Drugs (OND), CDER, FDA
+
+APPLICANT PRESENTATIONS                     SpecGx LLC
+
+Introductions                               Martha Sclicher, PhD
+                                            Vice President, R&D
+                                            Mallinckrodt Pharmaceuticals
+
+
+
+
+                                               Page 3 of 7
+November 14, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Drug Safety and Risk Management Advisory
+Committee Joint Meeting
+
+APPLICANT PRESENTATIONS (CONT.)
+
+Public Health Need for Abuse-               Richard Dart, MD, PhD
+Deterrent IR Opioid Analgesics              Director Rocky Mountain Poison & Drug Center
+                                            Professor of Emergency Medicine
+                                            University of Colorado School of Medicine
+                                            Executive Director, RADARS® System
+
+                                            Edward Cone, PhD
+Category 1 In Vitro Studies
+                                            Principal Scientist
+                                            Drug Delivery and Abuse Deterrent Drug Products
+                                            Pinney Associates
+
+Nonclinical Excipient Safety Studies        Mike Orr, PhD, DABT
+                                            President/CEO
+                                            Orr Nonclinical Consulting, LLC
+
+Intranasal Human Abuse Potential            Sandra Comer, PhD
+Study                                       Professor of Neurobiology (in Psychiatry)
+                                            Division on Substance Use Disorders
+                                            Columbia University
+
+                                            Jeff Gudin, MD
+Clinical Perspective
+                                            Director
+                                            Pain Management and Palliative Care
+                                            Englewood Hospital and Medical Center
+
+Clarifying Questions
+
+BREAK
+
+FDA PRESENTATIONS
+
+MNK-812 Introduction and Overview           Jennifer L. Nadel, MD
+                                            Medical Officer
+                                            DAAAP, ODE-II, OND, CDER, FDA
+
+In Vitro Category I Abuse-Deterrent         Valerie Amspacher, PharmD
+Studies of MNK-812                          Chemistry, Manufacturing and Controls Reviewer
+                                            Division of New Drug Products II
+                                            Office of New Drug Products (ONDP)
+                                            Office of Pharmaceutical Quality, CDER, FDA
+
+Nonclinical Safety Assessment of            R. Daniel Mellon, PhD
+MNK-812 Excipients                          Pharmacology Toxicology Supervisor
+                                            DAAAP, ODE-II, OND, CDER, FDA
+
+
+
+
+                                               Page 4 of 7
+November 14, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Drug Safety and Risk Management Advisory
+Committee Joint Meeting
+
+FDA PRESENTATIONS (CONT.)
+
+Examination of Intranasal Human             James M. Tolliver, PhD
+Abuse Potential Study MNK48121013           Pharmacologist
+                                            Controlled Substance Staff
+                                            Office of the Center Director
+                                            CDER, FDA
+
+Review of Recent Epidemiologic Data         Tamra Meyer, PhD, MPH
+on Use, Misuse and Abuse of                 Team Lead, Prescription Drug Abuse Team
+Oxycodone                                   Division of Epidemiology II
+                                            Office of Pharmacovigilance and Epidemiology
+                                            Office of Surveillance and Epidemiology
+                                            CDER, FDA
+
+MNK-812 Clinical Summary of Abuse           Jennifer L. Nadel, MD
+Deterrence
+
+Clarifying Questions
+
+LUNCH
+
+OPEN PUBLIC HEARING
+
+Charge to the Committee                     Sharon Hertz, MD
+
+Questions to the Committee/
+Committee Discussion
+
+BREAK
+
+Questions to the Committee/
+Committee Discussion (cont.)
+
+ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Please discuss whether there are sufficient data to support a finding that
+   oxycodone hydrochloride immediate-release tablets (MNK-812) has properties that can be
+   expected to deter abuse, commenting on support for abuse-deterrent effects for each of the
+   following routes of abuse:
+
+    a.    Nasal
+    b.    Intravenous
+
+
+                                               Page 5 of 7
+November 14, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Drug Safety and Risk Management Advisory
+Committee Joint Meeting
+
+    Committee Discussion: Overall, a majority of the committee members agreed that there
+    were sufficient data to support a finding that oxycodone hydrochloride immediate-release
+    tablets (MNK-812) has properties that can be expected to deter intranasal abuse.
+    Some committee members disagreed that the data were sufficient to determine if the
+    oxycodone hydrochloride immediate-release tablets (MNK-812) would be effective in
+    dissuading physically-dependent abusers. Other committee members expressed concern that
+    the formulation would result in individuals who abuse opioids transitioning to the
+    intravenous route of abuse if they were unsuccessful with abuse by the nasal route.
+
+    The majority of the committees agreed that there was insufficient evidence to show
+    effectiveness in deterring intravenous abuse. Several committee members expressed concern
+    that dosage form could be manipulated using large volumes of solvent, which could
+    potentially lead to increased intravenous drug abuse. Please see the transcript for details of
+    the committees’ discussion.
+
+2. DISCUSSION: The Applicant is requesting approval of oxycodone hydrochloride immediate-
+   release tablets (MNK-812) as an analgesic with properties expected to deter abuse by the
+   intravenous and intranasal routes. Discuss whether you have any concerns regarding the
+   impact of this oxycodone hydrochloride immediate-release product (MNK-812) on public
+   health. Take into consideration its potential effect on the abuse of opioids, including
+   oxycodone, as well as potential consequences of administration of this product by unintended
+   routes.
+
+    Committee Discussion: Some committee members expressed concerns that oxycodone
+    hydrochloride immediate-release ADF products may provide a false sense of safety among
+    prescribers that could lead to over-prescribing. Other members emphasized the gap in data
+    about the effectiveness of ADF products and stressed the importance of getting data from
+    studies that evaluate both the effectiveness of ADFs and their impact on opioid prescribing
+    patterns. In terms of the impact on public health, some committee members expressed concern
+    that some ADF products could increase the risk of sharing paraphernalia for injection and
+    transmitting bloodborne disease similar to other opioids that are abused via the intravenous
+    route. Some committee members wanted the oral route of abuse to be addressed. Please see
+    the transcript for details of the committees’ discussion.
+
+3. VOTE: If approved, should oxycodone hydrochloride immediate-release tablets (MNK-812)
+   be labeled as an abuse-deterrent product by the nasal route of abuse?
+
+    Vote Result:        Yes: 12         No: 5            Abstain: 0
+
+    Committee Discussion: The majority of the committees agreed that if approved, oxycodone
+    hydrochloride immediate-release tablets (MNK-812) should be labeled as an abuse-deterrent
+    product by the nasal route of abuse. Some committee members who voted “Yes” noted that
+    the clinical trial data demonstrated an abuse-deterrent effect, but that it was only
+    demonstrated in the very narrow study population. The committee members who voted “No”
+    stated that any aversive effects demonstrated in the study were very short-lived and there was
+
+
+
+                                                Page 6 of 7
+November 14, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Drug Safety and Risk Management Advisory
+Committee Joint Meeting
+
+    insufficient evidence that the abuse-deterrent effect would be effective in a real-world setting.
+    Please see the transcript for details of the committees’ discussion.
+
+4. VOTE: If approved, should oxycodone hydrochloride immediate-release tablets (MNK-812)
+   be labeled as an abuse-deterrent product by the intravenous route of abuse?
+
+    Vote Result:        Yes: 7          No: 10           Abstain: 0
+
+    Committee Discussion: The majority of the committees did not agree that oxycodone
+    hydrochloride immediate-release tablets (MNK-812) should be labeled as an abuse-deterrent
+    product by the intravenous route of abuse, if approved. Some of these committee members
+    agreed that there was a lack of data to support this labeling. Other committee members
+    expressed concerns with possible long-term safety effects of injecting excipients intended for
+    oral administration and the potential for transmission of infectious diseases with the
+    intravenous route of abuse. The committee members who voted “Yes” agreed that this
+    formulation of oxycodone hydrochloride immediate-release tablets (MNK-812) presents
+    more of a barrier compared to oxycodone immediate-release tablets not formulated to have
+    abuse-deterrent properties (e.g., Roxicodone). Please see the transcript for details of the
+    committees’ discussion.
+
+5. VOTE: Should oxycodone hydrochloride immediate-release tablets (MNK-812) be
+   approved for the management of pain severe enough to require an opioid analgesic and for
+   which alternative treatments are inadequate?
+
+    Vote Result:        Yes: 10         No: 7            Abstain: 0
+
+    Committee Discussion: The majority of the committees agreed that oxycodone
+    hydrochloride immediate-release tablets (MNK-812) should be approved for the
+    management of pain severe enough to require an opioid analgesic and for which alternative
+    treatments are inadequate. Some of the committee members who supported approval based
+    their decisions on the demonstration of bioequivalence to the comparator oxycodone
+    hydrochloride immediate-release product and concluded that oxycodone hydrochloride
+    immediate-release tablets (MNK-812) represents an abuse-deterrent option relative to
+    existing non-ADF immediate-release oxycodone formulations. The committee members who
+    voted “No” concluded that oxycodone hydrochloride immediate-release tablets (MNK-812)
+    would provide minimal benefit over risk and expressed concern that it may provide a false
+    sense of security to prescribers. Please see the transcript for details of the committees’
+    discussion.
+
+The meeting was adjourned at approximately 4:04 p.m.
+
+
+
+
+                                                Page 7 of 7
+

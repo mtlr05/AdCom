@@ -1,0 +1,253 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+Final Summary Minutes of the Psychopharmacologic Drugs Advisory Committee Meeting
+                                     June 17, 2022
+
+
+Location: Please note that due to the impact of the COVID-19 pandemic, all meeting participants
+joined this advisory committee meeting via an online teleconference platform.
+
+Topic: The committee discussed supplemental new drug applications (sNDAs) 210793-s008 and
+207318-s011, efficacy supplement resubmission for NUPLAZID (pimavanserin) tablets, submitted
+by Acadia Pharmaceuticals Inc., for the proposed treatment of hallucinations and delusions
+associated with Alzheimer’s disease psychosis.
+
+These summary minutes for the June 17, 2022 meeting of the Psychopharmacologic Drugs
+Advisory Committee of the Food and Drug Administration were approved on July 8, 2022.
+
+I certify that I attended the June 17, 2022 meeting of the Psychopharmacologic Drugs Advisory
+Committee of the Food and Drug Administration and that these minutes accurately reflect what
+transpired.
+
+
+
+___________/s/_ ____________                     ______________/s/______________
+Joyce Frimpong, PharmD                           Rajesh Narendran, MD
+Designated Federal Officer, PDAC                 Chairperson, PDAC
+
+
+
+
+                                            Page 1 of 6
+    Final Summary Minutes of the Psychopharmacologic Drugs Advisory Committee
+                                     Meeting June 17, 2022
+
+The Psychopharmacologic Drugs Advisory Committee (PDAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research met on June 17, 2022. The meeting
+presentations were heard, viewed, captioned, and recorded through an online teleconferencing
+platform. Prior to the meeting, the members and temporary voting members were provided the
+briefing materials from the FDA and Acadia Pharmaceuticals, Inc. The meeting was called to
+order by Rajesh Narendran, MD (Chairperson). The conflict of interest statement was read into
+the record by Joyce Frimpong, PharmD. There were approximately 1,069 people online. There
+were 21 Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committee discussed supplemental new drug applications (sNDAs) 210793-s008
+and 207318-s011, efficacy supplement resubmission for NUPLAZID (pimavanserin) tablets,
+submitted by Acadia Pharmaceuticals Inc., for the proposed treatment of hallucinations and
+delusions associated with Alzheimer’s disease psychosis.
+
+Attendance:
+
+Psychopharmacologic Drugs Advisory Committee Members Present (Voting): Walter S.
+Dunn, MD, PhD; Jess G. Fiedorowicz, MD, PhD; Satish Iyengar, PhD; Sonia L. Krishna, MD,
+FAPA, DFAACAP; Rajesh Narendran, MD (Chairperson); Kim O. Witczak (Consumer
+Representative)
+
+Psychopharmacologic Drugs Advisory Members Not Present (Voting): Jessica J. Jeffrey,
+MD, MPH, MBA; William R. Keller, MD, MBA; Patrick S. Thomas, Jr., MD, PhD
+
+Psychopharmacologic Drugs Advisory Committee Member Present (Non-Voting): Robert
+W. Baker, MD (Industry Representative)
+
+Temporary Members (Voting): Liana G. Apostolova, MD, MSc, FAAN; Merit E. Cudkowicz,
+MD, MSC; Dean Follmann, PhD; Colette Johnston (Patient Representative); Paul Stander, MD,
+MBA; Madhav R. Thambisetty, MD, PhD
+
+FDA Participants (Non-Voting): Billy Dunn, MD; Tiffany R. Farchione, MD; Bernard Fischer,
+MD; Paul Bossie, MD; Xiang Ling, PhD
+
+Designated Federal Officer (Non-Voting): Joyce Frimpong, PharmD
+
+Open Public Hearing Speakers: Gus Alva, MD, DFAPA; Gary Smalls, MD; Chad Worz,
+PharmD (American Society of Consultant Pharmacists); Susan Peschin (Alliance for Aging
+Research); John Schall (Caregiver Action Network); Sidney M. Wolfe, MD (Public Citizen’s
+Health Research Group); Karl Steinberg, MD; Aaron Ritter, MD; Nina Zeldes, PhD (National
+                                            Page 2 of 6
+June 17, 2022
+Psychopharmacologic Drugs Advisory Committee Meeting
+
+
+Center for Health Research); Leigh F. Callahan, PhD; Agustin Artiles; George T. Grossberg,
+MD; Meryl Comer (Us Against Alzheimer’s); Jed A. Levine (CaringKind); Howard Kirshner,
+MD (Clinical Neurological Society of America); Nadine Arce; Anita Royal; Jany Moreira;
+Daniel Claassen, MD; Stephen Chambers; Adriane Fugh-Berman, MD (Georgetown University
+Medical Center, PharmedOut)
+
+
+The agenda was as follows:
+
+  Call to Order                                Rajesh Narendran, MD
+                                               Chairperson, PDAC
+
+  Introduction of Committee and Conflict       Joyce Frimpong, PharmD
+  of Interest Statement                        Designated Federal Officer, PDAC
+
+  FDA Opening Remarks                          Tiffany R. Farchione, MD
+                                               Director
+                                               Division of Psychiatry (DP)
+                                               Office of Neuroscience (ON)
+                                               Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                      Acadia Pharmaceuticals Inc.
+
+  Introduction                                 Daryl DeKarske, MPH
+                                               Sr. Vice President, Global Head of Regulatory
+                                               Affairs and Translational Sciences
+                                               Acadia Pharmaceuticals Inc.
+
+  Unmet Need                                   Pierre Tariot, MD
+                                               Director, Banner Alzheimer’s Institute
+                                               Research Professor of Psychiatry
+                                               University of Arizona College of Medicine
+
+  Efficacy                                     Clive Ballard, MD
+                                               Pro-Vice Chancellor and Executive Dean
+                                               Professor of Age-related Diseases
+                                               College of Medicine and Health
+                                               University of Exeter United Kingdom
+
+                                               Suzanne Hendrix, PhD
+                                               President and CEO, Pentara Corporation
+
+  Overview of Safety                           Mary Ellen Turner, MD, MPH
+                                               Sr. Vice President, Pharmacovigilance and
+                                               Corporate Safety Officer
+                                               Acadia Pharmaceuticals Inc.
+
+
+                                              Page 3 of 6
+June 17, 2022
+Psychopharmacologic Drugs Advisory Committee Meeting
+
+
+
+  Benefit-Risk                                 Serge Stankovic, MD
+                                               President
+                                               Acadia Pharmaceuticals Inc.
+
+  Clarifying Questions to Applicant
+
+  BREAK
+
+  FDA PRESENTATIONS
+
+  Pimavanserin (NUPLAZID) for the              Paul Bossie, MD
+  treatment of hallucinations and              Clinical Reviewer
+  delusions associated with Alzheimer’s        DP, ON, OND, CDER, FDA
+  disease psychosis
+                                               Xiang Ling, PhD
+                                               Statistical Reviewer
+                                               Division of Biometrics I (DBI)
+                                               Office of Biostatistics (OB)
+                                               Office of Translational Sciences (OTS)
+                                               CDER, FDA
+
+  Clarifying Questions to FDA
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee
+  Discussion
+
+  ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss whether the evidence supports the effectiveness of pimavanserin for
+   the treatment of hallucinations and delusions in the Alzheimer's disease psychosis (ADP)
+   population. In your discussion, comment on the strengths, limitations, and the extent to
+   which each of the following potential sources of evidence contribute to your overall
+   assessment of effectiveness:
+       • Study 019
+       • Study 045
+       • The prior approval of pimavanserin for the treatment of hallucinations and delusions
+           associated with Parkinson’s disease psychosis
+
+
+
+                                              Page 4 of 6
+June 17, 2022
+Psychopharmacologic Drugs Advisory Committee Meeting
+
+
+
+
+   Committee Discussion: Regarding Study 019, some committee members felt that the study
+   was not adequate, with members noting the issues with study protocol deviations, although
+   some felt those issues appeared to have been somewhat addressed by the Agency’s review.
+   The committee members also noted concerns about the separation (on the primary endpoint)
+   only at Week 6, with a very small effect, and some concerns that the effect was not maintained.
+   There were also questions raised about the construct validity of the outcome measures used in
+   the study, lack of signal on the secondary measures, and lack of functional outcome
+   improvement. Some members raised concerns about the racial and ethnic composition of the
+   study. Some committee members thought that because this study was designed as a phase 2
+   trial, it did not provide sufficient evidence (as a larger phase 3 trial would have provided). On
+   the other hand, some members felt that Study 019 was positive and that the data were
+   supportive, if not perfect. These members concluded that the study was persuasive despite the
+   audit for the protocol deviations and noted that the study was technically a win.
+
+   Regarding Study 045, some committee members believed that the randomized trial design
+   was not the best to study efficacy because of the selection bias of only including responders
+   and withdrawing the drug. Some committee members also acknowledged that because Study
+   045 was terminated early and the Alzheimer’s disease subgroup was underpowered, it did
+   not allow for the study to truly gauge the efficacy in Alzheimer’s disease psychosis. Some
+   members did not find the dopaminergic drug issue convincing, and that the post hoc analysis
+   in the separate groups was not a randomized comparison that could provide clear-cut
+   efficacy data.
+
+   Regarding the prior approval of pimavanserin for Parkinson’s disease psychosis (i.e., Study
+   020), some of the committee members noted that it was irrelevant or that the relevance was
+   unclear because it is a different illness, although others agreed there may be some overlap
+   between the two conditions and some biological plausibility and that psychosis could be
+   effectively treated with pimavanserin. Some committee members expressed the opinion that,
+   because pimavanserin had been administered safely to large population of patients with
+   Parkinson’s disease psychosis, it could be reasonable to go forward in the Alzheimer’s
+   disease population.
+
+   Please see the transcript for details of the Committee’s discussion.
+
+2. VOTE: Does the available evidence support a conclusion that pimavanserin is effective for
+   the treatment of hallucinations and delusions in the ADP population?
+       • If yes, provide the rationale.
+       • If no, provide your rationale and a recommendation for what further evidence should
+           be generated.
+
+   Vote Result:        Yes: 3          No: 9            Abstain: 0
+
+   Committee Discussion: The majority of the committee members voted “No,” i.e., that the
+   available evidence does not support a conclusion that pimavanserin is effective for the
+   treatment of hallucinations and delusions in the ADP population. Those who voted “No”
+   stated the need for an additional randomized controlled trial, with adequate ethnic and
+                                               Page 5 of 6
+June 17, 2022
+Psychopharmacologic Drugs Advisory Committee Meeting
+
+   racial representation, and a longer duration to assess efficacy. The committee members who
+   voted “Yes” noted that there was a strong unmet need and that the studies demonstrated
+   modest efficacy, particularly Study 019. Please see the transcript for details of the
+   Committee’s discussion.
+
+
+The meeting was adjourned at approximately 4:21 p.m.
+
+
+
+
+                                              Page 6 of 6
+

@@ -1,0 +1,389 @@
+                                Food and Drug Administration
+                     Center for Biologics Evaluation and Research (CBER)
+
+                             SUMMARY MINUTES
+ 67th CELLULAR, TISSUE, AND GENE THERAPIES ADVISORY COMMITTEE MEETING
+                               October 12, 2017
+
+Cellular, Tissue, and Gene Therapies Advisory Committee Members (Voting)
+Dale Ando, M.D. ** (Non-Voting Industry Representative)
+David Bartlett, M.D. +
+Bollard, Catherine, M.D., MBChB+
+Butterfield, Lisa, Ph.D.
+Barry Byrne, M.D., Ph.D. (Temporary Chair)
+Hawkins, Randy, M.D.* (Consumer Representative)
+Longo, Daniel, M.D. +
+Grace E. Pluhar, D.V.M, Ph.D.
+Roos, Raymond, M.D. +
+Wu, Joseph, M.D., Ph.D.
+Wittes, Janet, Ph.D. +
+Ann C. Zovein, M.D.
+
+Temporary Members (Voting)
+Brooks, Brian, M.D. Ph.D.
+Marcia Carney, M.D.
+Chiorini, John (Jay) Ph.D.
+Emerson, Jeffrey , M.D.Ph.D.
+Flotte, Terrence, M.D.
+Humsberger, Sally, Ph.D.
+Lai, Michael, M.D. Ph.D.
+Lee, Brendan, M.D. Ph.D.
+Massof, Robert, W., M.D.
+Raasch, Thomas, W., M.D.
+West, Constance, M.D.
+
+Sponsor Presentation Speakers
+High, Katherine, M.D. Spark Therapeutics
+Kelley, Deborah, M.D. Spark Therapeutics
+Maguire, Albert, M.D. Children’s Hospital of Philadelphia (CHOP)
+Pennesi, Mark, M.D., Ph.D. Oregon Health and Science University (OHSU)
+Reape, Kathleen, M.D. Spark Therapeutics
+
+FDA Participants (Speakers)
+Bryan, Wilson, M.D., Director, Office of Tissues and Advanced Therapies (OTAT), CBER, FDA
+Zhu, Yao-Yao, M.D., Ph.D., Medical Officer, OTAT, CBER, FDA
+Chambers, Wiley A., M.D., Supervisory Medical Officer, CDER, FDA
+
+                                               1
+Designated Federal Officer Prabhakara L. Atreya, Ph.D., DSAC, CBER, FDA
+
+Committee Management Specialists
+Joanne Lipkind, M.S., DSAC, CBER, FDA
+Denise Royster, DSAC, CBER, FDA
+
++ Not in attendance
+* Consumer Representative
+** Industry Representative
+
+
+These summary minutes for the 67th meeting of the Cellular, Tissue, and Gene Therapies Advisory
+Committee (CTGTAC) that took place on October 12, 2017 were approved on March 22, 2018
+
+I certify that I participated in the 67th meeting of the Cellular, Tissue, and Gene Therapies Advisory
+Committee on October 12, 2017 and that these minutes accurately reflect what transpired.
+
+
+/S/                                          /S/
+Barry Byrne, M.D., Ph.D.                     Prabhakara L. Atreya, Ph.D.
+Acting Chair, CTGTAC                         Designated Federal Officer, CTGTAC
+
+
+The CTGTAC meeting to discuss the safety and efficacy of Biologics License Application (BLA)
+125610, voretigene neparvovec, Spark Therapeutics, for the treatment of patients with vision loss due
+to confirmed biallelic RPE65 mutation-associated retinal dystrophy was called to order at 8:30 a.m.
+Eastern Standard Time on October 12, 2017 by the CTGTAC ACTING Chair, Dr. Barry Byrne.
+
+The Chair invited the members and temporary members seated at the table to introduce themselves.
+The Designated Federal Office (DFO) made administrative remarks and read the conflict of interest
+statement into the public record.
+
+An introduction and overview of the topic for the meeting were presented by Dr. Wilson Bryan, the
+Director of the Office of Tissues and Advanced Therapies (OTAT), Center for Biologics Evaluation
+and Research (CBER), FDA. Dr. Bryan’s presentation was followed by five (5) presentations from the
+Applicant, Spark Therapeutic, Inc., on the unmet medical need, clinical program, efficacy, safety, and
+clinical perspective for voretigene neparvovec, Spark Therapeutics, BLA 125610, for the treatment of
+patients with vision loss due to confirmed biallelic RPE65 mutation-associated retinal dystrophy. The
+Applicant’s presentations were followed by an FDA presentation on BLA 125610 for voretigene
+neparvovec, submitted by Spark Therapeutics, Inc.
+
+
+
+                                                    2
+The Open Public Hearing (OPH) began after the questions and answers portion of the meeting. During
+the OPH, several clinical trial participants, their family members and other professionals familiar with
+these trials provided oral comments on their experience with the disease and the trials. They are listed
+as follows and their statements are in Transcripts available on FDA website for this meeting under the
+meeting materials
+(https://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/BloodVaccinesandOtherBiol
+ogics/CellularTissueandGeneTherapiesAdvisoryCommittee/ucm574396.htm).
+
+OPEN PUBLIC HEARING SPEAKERS
+
+LAURA MANFRE
+Co-Founder/President, Sofia Sees Hope
+
+ERIC PIERCE, M.D., Ph.D.
+Director, Ocular Genomics Institute and
+Inherited Retinal Disorders Clinical Service
+Massachusetts Eye and Ear Infirmary
+Harvard Medical School
+
+KATELYN COREY
+Study Participant
+
+CHRISTOPHER COREY
+Father of Study Participant
+
+KRISTIN SMEDLEY
+President, Curing Retinal Blindness Foundation
+
+ASHLEY CARPER
+Mother of Study Participant
+
+COLE CARPER
+Study Participant
+
+EUGENE DE JUAN, M.D.
+Department of Ophthalmology
+University of California, San Francisco
+
+MISTY LOVELACE
+Study Participant
+
+BART LEROY, M.D., Ph.D.
+Chairman and Head of Department of Ophthalmology
+Director, Ophthalmic Genetics Clinics
+Children's Hospital of Philadelphia
+
+JOAN O'BRIEN, M.D.
+Chairman, Department of Ophthalmology
+University of Pennsylvania
+
+                                                   3
+Director, Scheie Eye Institute
+
+LAURA GATT
+Mother of Study Participant
+
+ANGELINA GATT
+Study Participant
+
+ELIZABETH GUARDINO
+Mother of Study Participant
+
+CHRISTIAN GUARDINO
+Study Participant
+
+CHRISTINE KAY, M.D.
+Ophthalmologist/Vitreoretinal Surgeon
+
+STEPHEN ROSE, Ph.D.
+Chief Research Officer
+Foundation Fighting Blindness
+
+
+There were two sessions for Questions and Answers (Q & A), one before the OPH and one after the
+OPH and lunch break. During the Q & A, the AC members asked questions mainly to the Applicant
+regarding the AC presentations. The main discussions are summarized below:
+
+•   There was no clear correlation between the outcomes and the types of RPE65 mutations (e.g.,
+    nonsense, small deletion or insertions). There was also no clear correlation between the immune
+    response to voretigene neparvovec and the types of RPE65 mutations.
+
+•   Applicant did not consider using sham control (e.g., surgical prep, a needle injecting into the
+    vitreous body) in the Phase 3 trial because the sham procedure involves more than minimal risks
+    and provides no prospect of direct benefit to children.
+
+•   There was no clear correlation between the age of a subject and improvement in his / her MLMT in
+    the trial.
+
+•   Subjects whose subretinal injection went into the macular area were more likely to have macular
+    thinning.
+
+•   The success rate of subretinal injections for all five surgeons in the trials was 100%. Training for
+    subretinal injection is recommended even though it involves only standard maneuvers of retinal
+    surgery.
+
+•   The surgeons in the trials did not experience additional surgical difficulties or complications when
+    operating on adult patients with more retinal scarring or gliosis.
+
+                                                    4
+•   All cases of increased intraocular pressure were resolved. Sixteen eyes developed cataracts. Seven
+    of them had cataract extraction. Nine cataracts are ongoing and considered clinically insignificant.
+
+•   FDA considered several factors in order to determine the clinical meaningfulness of the product.
+    For example, the amount of change in visual acuity was expected to reach a certain degree (e.g., a
+    doubling of the visual angle or 0.3 LogMAR) to be considered clinically meaningful. Other factors
+    such as improvement in conducting activities of daily living that involve multiple different aspects
+    were considered important, e.g., the patient could see in dim light.
+
+
+Final Discussion Questions (clinical) for the Advisory Committee (AC)
+
+Discussion Question 1
+
+The primary efficacy endpoint of Study 301 was a score change of MLMT. At the one-year
+evaluation, eleven (11) of the 21 (11/21, 52%) subjects using both-treated eyes and fifteen (15) of
+the 21 (15/21, 71%) subjects using the first-treated eye had 2-light level or more improvement in
+MLMT (i.e., an MLMT score improvement of ≥2). The difference in the median MLMT score
+change, comparing the treatment and control groups, is statistically significant. This endpoint is
+new and has not been used to support prior applications.
+
+    a. Please discuss whether a 2-light level improvement in MLMT is clinically meaningful in
+       “patients with vision loss due to confirmed biallelic RPE65 mutation-associated retinal
+       dystrophy.”
+
+    b. If you consider that the 2-light level improvement in MLMT is not clinically meaningful,
+       please discuss,
+
+          i.   whether a larger change in MLMT would be clinically meaningful;
+
+         ii.   whether any other endpoint used in the clinical trial is clinically meaningful.
+
+The discussion of Question 1 is summarized below:
+
+    •   A two-light level improvement in MLMT (i.e., an MLMT score change of 2) is clinically
+        meaningful although the design of MLMT is not perfect.
+
+    •   The overall design of MLMT achieves its goal of evaluating functional vision although MLMT
+        is performed in a compact navigation course of 5 by 10 feet, which is much smaller than many
+        of the tasks patients have to deal with daily.
+
+    •   The intervals (measured in log luminance) between consecutive light levels of the seven light
+        levels used in MLMT is not evenly distributed. Therefore, depending on a patient’s baseline, a
+        two-light level change may mean something different.
+
+                                                   5
+   •   The change in FST (Full-Field Light Sensitivity Threshold), a secondary endpoint, which
+       showed a 2-log increase in white light sensitivity, supports the MLMT results.
+
+Discussion Question 2
+
+Because of the safety concerns related to the subretinal injection procedure, only subjects who
+had significant vision loss were enrolled into the clinical studies. The youngest subject treated was
+4 years old. Additionally, individuals with more advanced disease did not appear to benefit from
+study agent administration. Considering that patients carrying disease-causing RPE65 mutations
+would be expected to have progressive vision loss, please discuss the optimal time to treat
+patients, especially,
+
+   a. At what stage of clinical presentation do the benefits of therapy outweigh the risks?
+   b. How can the data from subjects with advanced vision loss be extrapolated to patients with
+      earlier stages of disease, with or without measurable vision loss prior to treatment?
+   c. Considering the adverse events associated with the subretinal injection of voretigene
+      neparvovec and the concomitant use of oral prednisone, what are your concerns for
+      treating pediatric patients at a young age?
+   d. What is the minimal age, if any, that you would recommend for treatment?
+
+The discussion of Question 2 is summarized below:
+
+   •   The benefits of voretigene neparvovec include an increase in the ability to perform activities of
+       daily living under varying levels of low luminance. The risks of treatment are largely
+       associated with delivery procedures, including cataract, elevated intraocular pressure (IOP),
+       retinal tears and holes, inflammation, and endophthalmitis.
+
+   •   Similar short term corticosteroid regimens are commonly used to treat children with serious
+       illnesses. The safety profile is known and acceptable.
+
+   •   Vitrectomy in young children may introduce media opacities and refractive errors, which could
+       lead to amblyopia. However, there is a window around 3 or 4 years of age where the risk of
+       introducing amblyopia would be low and benefits from voretigene neparvovec could be
+       substantial.
+
+   •   Although there are no clinical trial data for patients younger than four years of age, there is a
+       need to treat these patients as natural history suggests that they don't improve without
+       intervention. There was a suggestion of treating patients before they become symptomatic to
+       prevent cell death of retinal pigment epithelium (RPE).
+
+
+
+
+                                                    6
+   •   The appropriate age to treat patients should be based on when most of the terminally
+       differentiated retinal cells complete proliferation, which occurs around 8 months of age, as
+       AAV, a non-replicating vector is going to be lost to the dividing cells.
+
+   •   Instead of recommending a minimum age for treatment, it may be preferable to leave the
+       decision as to the optimal time for treatment to the discretion of the treating physician. The
+       level of comfort, the training, and the ability to operate on patients of very young ages vary
+       among the treating physicians. Some may be comfortable operating on a 3-year-old eyeball that
+       is close to adult eyeball size. Others may be comfortable operating on eyes of very young
+       patients, such as infants in the intensive care units who are much younger and fragile, and who
+       undergo much riskier procedures to preserve eyesight.
+
+   •   Compared to older children’s eyes, younger children’s eyes are harder to operate on because the
+       posterior hyaloid is very adherent and needs more manipulations and maneuvers. It is
+       reasonable to wait until patients are over 3 or even 6 years of age. In addition, it is easier to
+       assess visual function in older children.
+
+   •   Considering the risks associated with delivery procedures, after treating the first eye, it may be
+       beneficial to wait for 30 days before treating the second eye for children younger than 4 years of
+       age.
+
+   •   Potential risks of subretinal injection can be minimized by relying on the expertise of qualified
+       pediatric retinal surgeons and pediatric anesthesiologists who are comfortable with young
+       patients.
+
+
+Discussion Question 3
+
+In the clinical studies supporting the BLA, each eye received a one-time subretinal injection of
+voretigene neparvovec. The median MLMT score change of 2 in the treatment group of Study
+301 was observed at the Day 30 visit following voretigene neparvovec administration, and was
+maintained throughout the 1-year follow-up period. However, the duration of AAV2-mediated
+transgene expression leading to sustained clinical benefits beyond one year is unclear.
+
+As such, repeat administration of voretigene neparvovec may be indicated to maintain vision or
+delay vision loss. However, repeat administration of voretigene neparvovec in any eye was not
+evaluated in the clinical studies. Therefore, there are no clinical data that address the potential
+benefits and risks of repeat administration of voretigene neparvovec.
+
+   a. Please discuss the potential benefits and risks of repeat administration of voretigene
+      neparvovec into one eye.
+
+                                                    7
+   b. What additional data, if any, would be necessary to support such repeat administration?
+
+The discussion of Question 3 is summarized below:
+
+   •   The following general reasons for repeat administration of voretigene neparvovec to the same
+       eye were considered:
+
+           a. a decrease in gene expression following initial administration;
+
+           b. progressive disease that may overwhelm the therapeutic effect of the initial
+              administration and requiring repeat administration to maintain efficacy;
+
+           c. only one-fifth of the retina may be exposed to voretigene neparvovec with the initial
+              administration; a repeat administration to the same eye may extend the treatment to
+              additional parts of the retina for additional effect.
+
+   •   In the clinical trials, the immune response to AAV vector and RPE65 protein was low following
+       voretigene neparvovec administration to both eyes. However, the immune response following
+       repeat administration of voretigene neparvovec to one eye may be different from what was
+       noted following initial administration to both eyes. Therefore, additional careful studies will be
+       necessary to ensure the safety of repeat administration to a single eye.
+
+   •   The human cellular immune response to AAV vectors are not well-predicted by animal studies.
+       Therefore, human studies will be required to understand the cellular immune response to AAV
+       vector following repeat administration.
+
+   •   There was no clinical information available as to whether repeat administration to one eye
+       would be safe from a surgical perspective.
+
+
+Discussion Question 4 (voting question)
+
+Considering the efficacy and safety information provided in the briefing document, as well as the
+presentations and discussions during the AC meeting, do you conclude that voretigene
+neparvovec has an overall favorable benefit-risk profile for the treatment of patients with vision
+loss due to confirmed biallelic RPE65 mutation-associated retinal dystrophy?
+
+There were further discussions regarding Question 4 before the voting process.
+
+   •   It is important to consider that a drug for any disease, and especially for a rare disease, should
+       be available for use in a wider population following marketing approval.
+
+                                                    8
+   •   It is important for the Applicant to implement the proposed risk mitigation plan to ensure safe
+       administration of voretigene neparvovec.
+
+   •   Outcome measures used in the studies were not able to fully capture and quantitate the impact
+       of voretigene neparvovec on developmental aspects that accompany visual impairment, such as
+       learning and socialization.
+
+   •   Statistical analyses methods are sound, and the results are consistent and reassuring. Both FDA
+       and Applicant presented their statistical analyses and results well.
+
+The committee participates in simultaneous electronic voting. The results of the CTGTAC Committee
+voting were as follows: 16 Yes, 0 No, and 0 Abstention. It is a 16/16 votes, a unanimous vote with
+regards to voretigene neparvovec having an overall favorable benefit-risk profile for the treatment of
+patients with vision loss due to confirmed biallelic RPE65 mutation-associated retinal dystrophy.
+
+After the individual member votes were read by the DFO for the public record, the meeting was
+adjourned at 3:20 p.m.
+
+
+
+
+                                                   9
+

@@ -1,0 +1,217 @@
+                          Food and Drug Administration
+                     Center for Drug Evaluation and Research
+            Summary Minutes of the Oncologic Drugs Advisory Committee
+                                  March 7, 2018
+
+Location: FDA White Oak Campus, 10903 New Hampshire Avenue, Building 31 Conference
+Center, the Great Room (Rm. 1503), Silver Spring, Maryland.
+
+Topic: The committee discussed supplemental biologic license application (sBLA) 125557/S-
+013, for BLINCYTO (blinatumomab) injection for intravenous use, application submitted by
+Amgen, Inc. The proposed indication (use) for this product is for the treatment of minimal
+residual disease-positive B-cell precursor acute lymphoblastic leukemia.
+
+These summary minutes for the March 7, 2018 meeting of the Oncologic Drugs Advisory
+Committee of the Food and Drug Administration were approved on March 27, 2018.
+
+I certify that I attended the March 7, 2018, meeting of the Oncologic Drugs Advisory Committee
+of the Food and Drug Administration and that these minutes accurately reflect what transpired.
+
+
+
+         ___/S/_________________                           ______ ____/S/_______________
+      Lauren D. Tesh, PharmD, BCPS                                 Bruce J. Roth, MD
+      Designated Federal Officer, ODAC                            Chairperson, ODAC
+
+
+
+
+                                          Page 1 of 5
+March 7, 2018
+Oncologic Drugs Advisory Committee Meeting
+
+           Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                    March 7, 2018
+
+The following is a final report of the Oncologic Drugs Advisory Committee meeting held on
+March 7, 2018. A verbatim transcript will be available in approximately six weeks, sent to the
+Division of Hematology Products and posted on the FDA website at:
+https://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/OncologicDrugs
+AdvisoryCommittee/ucm597081.htm
+
+
+All external requests for the meeting transcript should be submitted to the CDER Freedom of
+Information Office.
+
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research met on March 7, 2018, at the FDA White Oak
+Campus, Building 31 Conference Center, the Great Room (Rm. 1503), Silver Spring, Maryland.
+Prior to the meeting, the members and temporary voting members were provided the briefing
+materials from the FDA and Amgen, Inc. The meeting was called to order by Bruce J. Roth, MD
+(Chairperson). The conflict of interest statement was read into the record by Lauren D. Tesh,
+PharmD, BCPS (Designated Federal Officer). There were approximately 150 people in
+attendance. There was one Open Public Hearing (OPH) speaker presentation.
+
+Issue: The committee discussed supplemental biologic license application (sBLA) 125557/S-
+013, for BLINCYTO (blinatumomab) injection for intravenous use, application submitted by
+Amgen, Inc. The proposed indication (use) for this product is for the treatment of minimal
+residual disease-positive B-cell precursor acute lymphoblastic leukemia.
+
+Attendance:
+ODAC Members Present (Voting): Susan Halabi, PhD; Philip C. Hoffman, MD; Grzegorz S.
+Nowakowski, MD; Vassilliki A. Papadimitrakopoulou, MD; Courtney J. Preusse, MA
+(Consumer Representative); Bruce J. Roth, MD (Chairperson)
+
+ODAC Members Not Present (Voting): Harold J. Burstein, MD, PhD; Heidi D. Klepin, MD,
+MS; Alberto S. Pappo, MD; Gregory J. Riely, MD, PhD; Brian I. Rini, MD, FACP; Alice T.
+Shaw, MD, PhD; Thomas S. Uldrick, MD, MS
+
+ODAC Members Not Present (Non-Voting): Phuong Khanh (P.K.) Morrow, MD, FACP
+(Industry Representative)
+
+Temporary Members (Voting): Catherine Bollard, MD, FRACP, FRCPA; Andy Chen, MD
+PhD; Arthur Flatau, PhD (Patient Representative); David Harrington, PhD, MA; Christopher S.
+Hourigan, DPhil, FACP; Anthony D. Sung, MD
+
+Acting Industry Representative to the Committee (Non-Voting): Gary Gordon, MD, PhD
+
+
+
+
+                                             Page 2 of 5
+March 7, 2018
+Oncologic Drugs Advisory Committee Meeting
+
+FDA Participants (Non-Voting): Richard Pazdur, MD; Ann T. Farrell, MD; Donna Przepiorka,
+MD, PhD; Emily Jen, MD, PhD; Qing Xu, PhD
+
+Designated Federal Officer (Non-Voting): Lauren D. Tesh, PharmD, BCPS
+
+Open Public Hearing Speakers: Matthew Zachary (Stupid Cancer)
+_____________________________________________________________________________
+
+The agenda was as follows:
+
+  Call to Order and Introduction of          Bruce J. Roth, MD
+  Committee                                  Chairperson, ODAC
+
+  Conflict of Interest Statement             Lauren D. Tesh, PharmD, BCPS
+                                             Designated Federal Officer, ODAC
+
+  Opening Remarks                            Donna Przepiorka, MD, PhD
+                                             Cross-Discipline Team Leader
+                                             Division of Hematology Products (DHP)
+                                             Office of Hematology and Oncology Products (OHOP)
+                                             Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                    Amgen, Inc.
+
+  Introduction                               Kathy Kross, MSc
+                                             Executive Director, Global Regulatory Affairs
+                                             Amgen, Inc.
+
+  Overview of MRD+ ALL and Unmet             Jerald Radich, MD
+  Medical Need                               External Consultant
+                                             Fred Hutchinson Cancer Center
+
+  Clinical Efficacy and Safety               Janet Franklin, MD, MPH
+                                             Executive Medical Director, Global Development Lead
+                                             for BLINCYTO
+                                             Amgen, Inc.
+
+  Benefit-Risk                               Gregory Friberg, MD
+                                             Vice President, Oncology Global Development
+                                             Amgen, Inc.
+
+  A Clinician’s Perspective                  Aaron Logan, MD, PhD
+                                             External Consultant
+                                             University of California, San Francisco
+
+
+  FDA PRESENTATIONS
+
+
+
+
+                                             Page 3 of 5
+March 7, 2018
+Oncologic Drugs Advisory Committee Meeting
+
+  BLA 125557 S013                               Emily Jen, MD, PhD
+  Blincyto (blinatumomab)                       Clinical Reviewer
+                                                DHP, OHOP, OND, CDER, FDA
+
+  Statistical Evaluation of Propensity Score    Qing Xu, PhD
+  Analyses                                      Statistical Reviewer
+                                                Division of Biometrics V
+                                                Office of Biostatistics
+                                                Office of Translational Sciences, CDER, FDA
+
+  Safety Analysis                               Emily Jen, MD, PhD
+
+  Clarifying Questions
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee Discussion
+
+  ADJOURNMENT
+
+
+
+Questions to the Committee:
+
+1. DISCUSSION: Study MT103-203 included patients with MRD > 0.1%. Do the available
+   data support the cut-off of MRD > 0.1% as describing a subpopulation of patients with ALL
+   in CR who have a need for pre-emptive therapy?
+
+   Committee Discussion: Members of the committee agreed that patients with MRD > 0.1%
+   had a very high risk of relapse, but they also noted that the exact population that would
+   benefit from additional therapy is not yet defined. It was also mentioned that patients who
+   are MRD-positive have a higher risk of relapse in general than those considered MRD-
+   negative, but patients with MRD < 0.1% might benefit from additional therapy as well, so the
+   agency shouldn’t limit treatment to this level as the scientific assays are constantly
+   improving with time and the ability to detect MRD at lower concentrations in the future
+   might arise. It was also brought up that the scientific community does not yet know if the
+   eradication of MRD improves long-term clinical outcomes and that randomized controlled
+   trials are needed. Please see the transcript for details of the committee discussion.
+
+2. VOTE: Do the results of MT103-203 demonstrate that for patients with ALL in CR who
+   have MRD > 0.1%, treatment with blinatumomab provides a potential benefit that outweighs
+   the risks from the treatment?
+
+   Vote Result:          Yes: 8         No: 4            Abstain: 0
+
+
+
+
+                                                Page 4 of 5
+March 7, 2018
+Oncologic Drugs Advisory Committee Meeting
+
+   Committee Discussion: Eight committee members voted “Yes” that the results of MT103-203
+   demonstrate that for patients with ALL in CR who have MRD > 0.1%, treatment with
+   blinatumomab provides a potential benefit that outweighs the risks from the treatment. Four
+   members voted “No”. It was mentioned that it is not clear where blinatumomab would be
+   used in the treatment cascade given that based on the data presented a “potential” benefit
+   was assumed from trends in the data, but 80% of the patients went to transplantation so the
+   benefit with receiving blinatumomab is confounded. Comments were made about seeing
+   clinical trials conducted for blinatumomab versus transplantation alone and more data on
+   patients who get blinatumomab who convert to MRD negative status who then go on to get
+   transplantation and their long term outcomes. One of the members who voted “No”
+   mentioned that the clinical data looks promising, but it is not a strong enough clinical
+   conclusion to merit FDA labeling for this indication. One member noted that they would like
+   to have the option of blinatumomab available for patients who aren’t able to go on to
+   transplantation but might benefit from being MRD negative. Please see the transcript for
+   details of the committee discussion.
+
+ The meeting was adjourned at approximately 11:45 a.m.
+
+
+
+
+                                             Page 5 of 5
+

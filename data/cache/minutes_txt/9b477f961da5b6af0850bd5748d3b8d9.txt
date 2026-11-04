@@ -1,0 +1,285 @@
+                           Food and Drug Administration
+                      Center for Drug Evaluation and Research
+            Summary Minutes of the Oncologic Drugs Advisory Committee
+                                  May 25, 2017
+
+Location: FDA White Oak Campus, 10903 New Hampshire Avenue, Building 31 Conference
+Center, the Great Room (Rm. 1503), , Silver Spring, Maryland.
+
+Topic: The committee discussed biologics license application (BLA) 125545 for a proposed
+biosimilar to Amgen Inc.'s Epogen/Procrit (epoetin alfa), submitted by Hospira Inc., a Pfizer
+company. The proposed indications (uses) for this product are (1) for the treatment of anemia
+due to chronic kidney disease (CKD), including patients on dialysis and not on dialysis to
+decrease the need for red blood cell (RBC) transfusion, (2) for the treatment of anemia due to
+zidovudine administered at ≤ 4,200 mg/week in HIV-infected patients with endogenous serum
+erythropoietin levels of ≤ 500 mUnits/mL, (3) for the treatment of anemia in patients with non-
+myeloid malignancies where anemia is due to the effect of concomitant myelosuppressive
+chemotherapy, and upon initiation, there is a minimum of two additional months of planned
+chemotherapy, and (4) to reduce the need for allogeneic RBC transfusions among patients with
+perioperative hemoglobin > 10 to < 13 g/dL who are at high risk for perioperative blood loss
+from elective, noncardiac, nonvascular surgery.
+
+These summary minutes for the May 25, 2017, meeting of the Oncologic Drugs Advisory
+Committee of the Food and Drug Administration were approved on June 28, 2017.
+
+I certify that I attended the May 25, 2017, meeting of the Oncologic Drugs Advisory Committee
+of the Food and Drug Administration and that these minutes accurately reflect what transpired.
+
+
+
+        __/S/__ ______________                               ______ ____/S/______________
+  Lauren D. Tesh, PharmD, BCPS                                     Brian I. Rini, MD, FACP
+  Designated Federal Officer, ODAC                                Acting Chairperson, ODAC
+
+
+
+
+                                           Page 1 of 6
+May 25, 2017
+Oncologic Drugs Advisory Committee Meeting
+
+                                       Summary Minutes
+                          Oncologic Drugs Advisory Committee Meeting
+                                        May 25, 2017
+
+The following is the final report of the Oncologic Drugs Advisory Committee (ODAC) meeting
+held on May 25, 2017. A verbatim transcript will be available in approximately six weeks, sent
+to the Office of Hematology and Oncology Products and posted on the FDA website at:
+https://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/OncologicDrugs
+AdvisoryCommittee/ucm547155.htm
+
+All external requests for the meeting transcript should be submitted to the CDER Freedom of
+Information Office.
+______________________________________________________________________________
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration, Center
+for Drug Evaluation and Research met on May 25, 2017 at the FDA White Oak Campus, Building
+31 Conference Center, The Great Room, 10903 New Hampshire Avenue, Silver Spring, Maryland.
+Prior to the meeting, members and temporary voting members were provided copies of the briefing
+materials from the FDA and the Sponsor, Hospira Inc., a Pfizer company. The meeting was called
+to order by Brian I. Rini, MD, FACP (Acting Chairperson). The conflict of interest statement was
+read into the record by Lauren D. Tesh, PharmD, BCPS (Designated Federal Officer). There were
+approximately 150 people in attendance. There were five Open Public Hearing speakers.
+
+Issue: The committee discussed biologics license application (BLA) 125545 for a proposed
+biosimilar to Amgen Inc.'s Epogen/Procrit (epoetin alfa), submitted by Hospira Inc., a Pfizer
+company. The proposed indications (uses) for this product are (1) for the treatment of anemia due to
+chronic kidney disease (CKD), including patients on dialysis and not on dialysis to decrease the
+need for red blood cell (RBC) transfusion, (2) for the treatment of anemia due to zidovudine
+administered at ≤ 4,200 mg/week in HIV-infected patients with endogenous serum erythropoietin
+levels of ≤ 500 mUnits/mL, (3) for the treatment of anemia in patients with non-myeloid
+malignancies where anemia is due to the effect of concomitant myelosuppressive chemotherapy,
+and upon initiation, there is a minimum of two additional months of planned chemotherapy, and (4)
+to reduce the need for allogeneic RBC transfusions among patients with perioperative hemoglobin >
+10 to < 13 g/dL who are at high risk for perioperative blood loss from elective, noncardiac,
+nonvascular surgery.
+
+Attendance:
+
+ODAC Members Present (Voting): Bernard F. Cole, PhD; Heidi D. Klepin, MD, MS;
+Grzegorz S. Nowakowski, MD; Courtney J. Preusse, MA (Consumer Representative); Gregory J.
+Riely, MD, PhD; Brian I. Rini, MD, FACP (Acting Chairperson); Thomas S. Uldrick, MD, MS
+
+ODAC Members Not Present (Voting): Harold J. Burstein, MD, PhD; Alberto S. Pappo, MD;
+Vassilliki A. Papadimitrakopoulou, MD; Alice T. Shaw, MD, PhD; Bruce J. Roth, MD
+
+
+
+
+                                             Page 2 of 6
+May 25, 2017
+Oncologic Drugs Advisory Committee Meeting
+
+ODAC Members Not Present (Non-Voting): Phuong Khanh (P.K.) Morrow, MD, FACP
+(Industry Representative)
+
+Temporary Members (Voting): Karen E. Arscott, DO, MSc (Patient Representative); Steven
+M. Cramer, PhD; Michelle M. Estrella, MD; William S. Hancock, PhD; Adel Karara, BPharm,
+PhD, FCP; Julia B. Lewis, MD; Donald E. Mager, PharmD, PhD; Scott A. Waldman, MD, PhD,
+FCP, FAHA
+
+Acting Industry Representative to the Committee (Non- Voting): Gary Gordon, MD, PhD
+
+FDA Participants (Non-Voting): Ann Farrell, MD; R. Angelo de Claro, MD; Leah Christl,
+PhD; Emanuela Lacana, PhD; Susan Kirshner, PhD
+
+Designated Federal Officer (Non-Voting): Lauren D. Tesh, PharmD, BCPS
+
+Open Public Hearing Speakers: Mary Jo Carden, RPh, JD (Academy of Managed Care Pharmacy);
+Kathleen A. Arntsen (Lupus and Allied Diseases Association, ASBM and PBSA); Lawrence A. La
+Motte (IDF and Patients for Biologic Safety and Access); Thair Phillips (RetireSafe); Dennis R. Cryer,
+MD, FAHA (Biologics Prescribers Collaborative)
+
+The agenda proceeded as follows:
+ Call to Order and Introduction of           Brian I. Rini, MD, FACP
+ Committee                                   Acting Chairperson, ODAC
+
+ Conflict of Interest Statement              Lauren Tesh, PharmD, BCPS
+                                             Designated Federal Officer, ODAC
+
+ 351(k) Regulatory Pathway                   Leah Christl, PhD
+                                             Associate Director for Therapeutic Biologics
+                                             Office of New Drugs (OND)Therapeutic Biologics and
+                                             Biosimilars Staff (TBBS), CDER, FDA
+
+ Clarifying Questions to the Presenter
+
+ Opening Remarks                             R. Angelo de Claro, MD
+                                             Medical Officer Team Leader
+                                             Division of Hematology Products (DHP)
+                                             Office of Hematology and Oncology Products (OHOP)
+                                             Office of New Drugs (OND), CDER, FDA
+
+ APPLICANT PRESENTATIONS                     Hospira Inc., a Pfizer company
+
+ Introduction to Epoetin Hospira –           Sumant Ramachandra, MD, PhD
+ Biosimilar to Epogen®/Procrit®              Senior VP, Research & Development Head
+                                             Pfizer Essential Health
+
+ Analytical Biosimilarity Assessment         Thomas Vanden Boom, PhD
+                                             VP, Biosimilars Pharmaceutical Sciences
+                                             Pfizer World Wide Research & Development
+
+                                             Page 3 of 6
+May 25, 2017
+Oncologic Drugs Advisory Committee Meeting
+
+
+
+ Nonclinical, Clinical Pharmacology          Nancy Martin, MD, PharmD, FCP
+ and Clinical Biosimilarity Assessment       Consultant, previously VP Clinical Development,
+                                             Biosimilars
+                                             Hospira, A Pfizer Company
+
+ Conclusion Supporting Biosimilarity and     Sumant Ramachandra, MD, PhD
+ Extrapolation Across Indications
+
+ FDA PRESENTATIONS
+
+ “Epoetin Hospira”, a proposed biosimilar    Frances Namuswe, PhD
+ to US-licensed Epogen/Procrit - BLA         CMC Reviewer
+ 125545                                      Office of Biotechnology Products (OBP)
+                                             Office of Pharmaceutical Quality (OPQ), CDER, FDA
+
+ Chemistry, Manufacturing, and Controls      Chao Wang, PhD
+ (CMC)                                       CMC Statistical Reviewer
+                                             Division of Biometrics VI (DBVI)
+                                             Office of Biostatistics (OB)
+                                             Office of Translational Sciences (OTS), CDER, FDA
+
+ Pharmacology/Toxicology                     Natalie Simpson, PhD
+                                             Pharmacology/Toxicology Reviewer
+                                             Division of Hematology Oncology Toxicology
+                                             OHOP, OND, CDER, FDA
+
+ Clinical Immunogenicity                     Steven Bowen, PhD
+                                             Immunogenicity Reviewer
+                                             OBP, OPQ, CDER, FDA
+
+ Clinical Pharmacology                       Vicky Hsu, PhD
+                                             Clinical Pharmacology Reviewer
+                                             Division of Clinical Pharmacology V
+                                             Office of Clinical Pharmacology, OTS, CDER, FDA
+
+ Clinical Efficacy                           Lola Luo, PhD
+                                             Clinical Statistical Reviewer
+                                             Division of Biometrics V (DBV)
+                                             OB, OTS, CDER, FDA
+
+ Clinical Safety                             Lori Ehrlich, MD, PhD
+                                             Medical Officer
+                                             DHP, OHOP, OND, CDER, FDA
+
+ BREAK
+ Clarifying Questions to the Presenters
+
+ Open Public Hearing
+
+ Questions to the Committee/Committee Discussion
+
+                                             Page 4 of 6
+May 25, 2017
+Oncologic Drugs Advisory Committee Meeting
+
+
+
+ ADJOURNMENT
+
+Questions to the Committee:
+
+1.    DISCUSSION: Please discuss whether evidence from analytical studies supports a
+     demonstration that “Epoetin Hospira” is highly similar to US-licensed Epogen/Procrit,
+     notwithstanding minor differences in clinically inactive components.
+
+     Committee Discussion: The analytical chemistry experts on the panel agreed that evidence
+     from analytical studies supports a demonstration that “Epoetin Hospira” is highly similar to
+     US-licensed Epogen/Procrit, notwithstanding minor differences in clinically inactive
+     components. Please see the transcript for details of the committee discussion.
+
+
+2. DISCUSSION: Please discuss whether there are no clinically meaningful differences
+   between “Epoetin Hospira” and US-licensed Epogen/Procrit based on the results from the
+   clinical studies.
+
+     Committee Discussion: A panel member noted that the data presented was similar in clinical
+     effects that could be measured and noted the sponsor presented convincing studies that
+     supports a demonstration that there are no clinically meaningful differences between
+     “Epoetin Hospira” and US-licensed Epogen/Procrit. Please see the transcript for details of
+     the committee discussion.
+
+
+3. DISCUSSION: Please discuss whether there is adequate scientific justification to support
+   licensure for all of the proposed indications.
+
+     Committee Discussion: The committee agreed that the mechanism of action and similarity
+     of PK/PD properties had been established. There were some residual concerns regarding the
+     lack of direct immunogenicity data in patients with HIV and cancer. Please see the transcript
+     for details of the committee discussion.
+
+
+4. VOTE: Does the totality of the evidence support licensure of “Epoetin Hospira” as a
+   biosimilar product to US-licensed Epogen/Procrit for the following indications for which US-
+   licensed Epogen/Procrit is currently licensed and for which the Applicant is seeking
+   licensure?
+
+     PROPOSED INDICATIONS FOR “EPOETIN HOSPIRA”:
+     1) for the treatment of anemia due to chronic kidney disease (CKD), including patients on
+            dialysis and not on dialysis to decrease the need for red blood cell (RBC) transfusion
+     2) for the treatment of anemia due to zidovudine administered at ≤ 4200 mg/week in HIV-
+            infected patients with endogenous serum erythropoietin levels of ≤ 500 mUnits/mL
+
+
+                                             Page 5 of 6
+May 25, 2017
+Oncologic Drugs Advisory Committee Meeting
+
+   3) for the treatment of anemia in patients with non-myeloid malignancies where anemia is
+          due to the effect of concomitant myelosuppressive chemotherapy, and upon initiation,
+          there is a minimum of two additional months of planned chemotherapy
+   4) to reduce the need for allogeneic RBC transfusions among patients with perioperative
+          hemoglobin > 10 to ≤ 13 g/dL who are at high risk for perioperative blood loss from
+          elective, noncardiac, nonvascular surgery
+
+   Please explain the reasons for your vote.
+
+
+               YES: 14                 NO: 1          ABSTAIN: 0
+
+   Committee Discussion:
+
+   The majority of the committee voted in favor of the totality of the evidence supporting
+   licensure of “Epoetin Hospira” as a biosimilar product to US-licensed Epogen/Procrit for
+   the four indications for which US-licensed Epogen/Procrit is currently licensed and for
+   which the Applicant is seeking licensure. The one member that voted “No” did not agree
+   with approving “Epoetin Hospira” for the HIV and oncology indications. The member
+   further noted that the basic safety data in these indications had not been established with this
+   product as presented by the Applicant. Please see the transcript for details of the committee
+   discussion.
+
+   The meeting was adjourned at approximately 11:40 a.m.
+
+
+
+
+                                             Page 6 of 6
+

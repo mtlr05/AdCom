@@ -1,0 +1,291 @@
+                              Food and Drug Administration
+                         Center for Drug Evaluation and Research
+
+ Summary Minutes of the Anesthetic and Analgesic Drug Products Advisory Committee
+    and the Drug Safety and Risk Management Advisory Committee Joint Meeting
+                                   April 5, 2017
+
+Location: Tommy Douglas Conference Center, 10000 New Hampshire Avenue, Silver Spring,
+Maryland.
+
+Topic: On April 5, 2017, the committees discussed new drug application (NDA) 209777, for
+oxycodone hydrochloride immediate-release oral tablets, submitted by Inspirion Delivery
+Sciences, LLC., with the proposed indication of management of moderate to severe pain where
+the use of an opioid analgesic is appropriate. The product has been formulated with properties
+intended to deter abuse, and the applicant has submitted data to support these abuse-deterrent
+properties for this product. The committees discussed the overall risk-benefit profile of the
+product, and whether the applicant has demonstrated abuse-deterrent properties for their product
+that would support labeling.
+
+
+These summary minutes for the April 5, 2017, joint meeting of the Anesthetic and Analgesic
+Drug Products Advisory Committee and the Drug Safety and Risk Management Advisory
+Committee of the Food and Drug Administration were approved on April 19, 2017.
+
+I certify that I attended the April 5, 2017, joint meeting of the Anesthetic and Analgesic Drug
+Products Advisory Committee and the Drug Safety and Risk Management Advisory Committee
+of the Food and Drug Administration and that these minutes accurately reflect what transpired.
+
+
+
+____________/s/_________________                ____________/s/__________________
+Stephanie L. Begansky, PharmD                   Raeford E. Brown, Jr., MD, FAAP
+Designated Federal Officer, AADPAC              Chairperson, AADPAC
+
+
+
+
+                                          Page 1 of 6
+  Summary Minutes of the Anesthetic and Analgesic Drug Products Advisory Committee
+     and the Drug Safety and Risk Management Advisory Committee Joint Meeting
+                                     April 5, 2017
+
+The following is the final report of the joint meeting of the Anesthetic and Analgesic Drug
+Products Advisory Committee and the Drug Safety and Risk Management Advisory Committee,
+held on April 5, 2017. A verbatim transcript will be available in approximately six weeks, sent
+to the Division of Analgesia, Anesthesia and Addiction Products and the Office of Surveillance
+and Epidemiology, and posted on the FDA website at:
+http://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/AnestheticAndA
+nalgesicDrugProductsAdvisoryCommittee/ucm486848.htm and
+http://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/DrugSafetyandRi
+skManagementAdvisoryCommittee/ucm486856.htm.
+
+All external requests for the meeting transcript should be submitted to the CDER Freedom of
+Information Office.
+
+The Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee of the Food and Drug Administration, Center for Drug
+Evaluation and Research, met on April 5, 2017, at the Tommy Douglas Conference Center,
+10000 New Hampshire Avenue, Silver Spring, Maryland. Prior to the meeting, the members and
+temporary voting members were provided the briefing materials from the FDA and Inspirion
+Delivery Services, LLC. The meeting was called to order by Raeford E. Brown, Jr., MD, FAAP
+(Chairperson). The conflict of interest statement was read into the record by Stephanie
+Begansky, PharmD (Designated Federal Officer). There were approximately 150 people in
+attendance. There were eight Open Public Hearing (OPH) speaker presentations.
+
+Issue: The committees discussed new drug application (NDA) 209777, for oxycodone
+hydrochloride immediate-release oral tablets, submitted by Inspirion Delivery Sciences, LLC.,
+with the proposed indication of management of moderate to severe pain where the use of an
+opioid analgesic is appropriate. The product has been formulated with properties intended to
+deter abuse, and the applicant has submitted data to support these abuse-deterrent properties for
+this product. The committees discussed the overall risk-benefit profile of the product, and
+whether the applicant has demonstrated abuse-deterrent properties for their product that would
+support labeling.
+
+Attendance:
+
+Anesthetic and Analgesic Drug Products Advisory Committee Members Present (Voting):
+Brian T. Bateman, MD, MSc; Raeford E. Brown, Jr., MD, FAAP (Chairperson); David S. Craig,
+PharmD; Jeffrey L. Galinkin, MD, FAAP; Anita Gupta, DO, PharmD; Jennifer G. Higgins, PhD
+(Consumer Representative); Ronald S. Litman, DO; Mary Ellen McCann, MD, MPH; Abigail B.
+Shoben, PhD; Kevin L. Zacharoff, MD, FACIP, FACPE, FAAP
+
+Anesthetic and Analgesic Drug Products Advisory Committee Member Present (Non-
+Voting): W. Joseph Herring, MD, PhD (Industry Representative)
+
+
+                                            Page 2 of 6
+April 5, 2017
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+
+
+Drug Safety and Risk Management Advisory Committee Members Present (Voting):
+Niteesh K. Choudhry, MD, PhD; Christopher H. Schmid, PhD; Terri L. Warholak, PhD, RPh,
+FAPhA
+
+Drug Safety and Risk Management Advisory Committee Members Not Present (Voting):
+Kelly Besco, PharmD, FISMP, CPPS; Tobias Gerhard, PhD, RPh; Suzanne B. Robotti
+(Consumer Representative); Anne-Michelle Ruha, MD, FACMT; Andy S. Stergachis, PhD, RPh;
+Til Sturmer, MD, MPH, PhD; Linda Tyler, PharmD, FASHP; Almut Winterstein, RPh, PhD,
+FISPE
+
+Drug Safety and Risk Management Advisory Committee Member Present (Non-Voting):
+Linda Scarazzini, MD, RPh (Industry Representative)
+
+Temporary Members (Voting): Gregory E. Amidon, PhD; Charles W. Emala, Sr., MS, MD;
+Alan D. Kaye, MD, PhD; Arthur H. Kibbe, RPh, PhD; Elaine H. Morrato, DrPH, MPH; Joseph
+O’Brien, MBA (Patient Representative); Sharon L. Walsh, PhD
+
+FDA Participants (Non-Voting): Sharon Hertz, MD; Ellen Fields, MD, MPH; Judy Staffa,
+PhD, RPh; Joshua Lloyd, MD
+
+Designated Federal Officer (Non-Voting): Stephanie Begansky, PharmD
+
+Open Public Hearing Speakers: Michael Mandale (Solstice Counseling and Wellness Center);
+Dan Cohen (Abuse Deterrent Coalition); Charlie Cichon (National Association of Drug
+Diversion Investigators); Megan Polanin, PhD (National Center for Health Research Cancer
+Prevention and Treatment Fund); Fred Wells Brason II (Project Lazarus); Edwin R. Thompson
+(Pharmaceutical Manufacturing Research Services, Inc.); Wendy Foster (US Pain Foundation);
+Shruti Kulkarni (Center for Lawful Access and Abuse Deterrence)
+
+The agenda was as follows:
+
+  Call to Order and Introduction of           Raeford E. Brown, Jr., MD, FAAP
+  Committee                                   Chairperson, AADPAC
+
+  Conflict of Interest Statement              Stephanie L. Begansky, PharmD
+                                              Designated Federal Officer, AADPAC
+
+  FDA Introductory Remarks                    Sharon Hertz, MD
+                                              Director
+                                              Division of Anesthesia, Analgesia, and Addiction
+                                              Products (DAAAP)
+                                              Office of Drug Evaluation II (ODE-II)
+                                              Office of New Drugs (OND), CDER, FDA
+
+
+
+
+                                                 Page 3 of 6
+April 5, 2017
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+  APPLICANT PRESENTATIONS                     Inspirion Delivery Sciences, LLC
+
+  Introduction                                Stefan Aigner, MD
+                                              Co-founder/Chief Executive Officer
+                                              Inspirion Delivery Sciences, LLC
+
+  Public Health Need for Abuse-               Richard C. Dart, MD, PhD
+  deterrent Immediate-Release                 Director, Rocky Mountain Poison and Drug Center
+  Opioid Analgesics                           Professor of Emergency Medicine
+                                              University of Colorado School of Medicine
+                                              Executive Director, RADARS System
+
+  In vitro Physical Manipulation and          Robert Bianchi
+  Chemical Extraction Studies                 President and Chief of Scientific and Technical
+                                              Affairs Prescription Drug Research Center
+
+  Intranasal Human Abuse Potential            Lynn Webster, MD
+  Study                                       Vice President, Scientific Affairs
+                                              PRA Health Sciences
+
+  Clinical Perspective                        Jeffrey Gudin, MD
+                                              Director, Pain Management and Palliative Care
+                                              Englewood Hospital and Medical Center
+
+  Clarifying Questions
+
+  BREAK
+
+  FDA PRESENTATION
+
+  Drug Utilization Patterns for               Tracy Minh Pham, PharmD
+  Oxycodone-Containing Analgesics,            Drug Utilization Data Analyst
+  2009-2016                                   Division of Epidemiology II (DEPI-II)
+                                              Office of Pharmacovigilance and Epidemiology
+                                              Office of Surveillance and Epidemiology (OSE)
+                                              CDER, FDA
+
+  Clarifying Questions
+
+  LUNCH
+
+  Open Public Hearing
+
+  Charge to the Committee                     Sharon Hertz, MD
+
+
+
+
+                                                 Page 4 of 6
+April 5, 2017
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+  Questions to the Committee/
+  Committee Discussion
+  BREAK
+
+  Questions to the Committee/
+  Committee Discussion (cont.)
+
+  ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Please discuss whether there are sufficient data to support a finding that
+   RoxyBond (oxycodone hydrochloride immediate-release tablets) has properties that can be
+   expected to deter abuse, commenting on support for abuse-deterrent effects for each of the
+   following routes of abuse:
+
+            a. Nasal
+            b. Intravenous
+
+    Committee Discussion: The majority of the committee concurred that there is sufficient data
+    to support a finding that RoxyBond has properties that can be expected to deter abuse by the
+    intravenous and nasal routes. The committee agreed that the abuse-deterrent physiochemical
+    properties designed to deter both nasal and intravenous abuse; the in vitro results
+    demonstrating decreased potential for manipulation, extraction, and syringeability; and the
+    results from the intranasal human abuse potential study demonstrating decreased drug liking
+    and willingness to take the drug again supported this finding. Several committee members
+    mentioned that they were concerned with the lack of data surrounding injury potential when
+    injecting the excipients in this product and encouraged the Agency and the Applicant to
+    consider this. Please see the transcript for details of the committee discussion.
+
+2. VOTE: If approved, should RoxyBond be labeled as an abuse-deterrent product by the nasal
+   route of abuse?
+
+    Vote Result:         Yes:     19      No:      1       Abstain: 0
+
+    Committee Discussion: The majority of the committee voted “Yes,” agreeing that RoxyBond
+    should be labeled as an abuse-deterrent product by the nasal route of abuse if approved.
+    These committee members stated that, on the whole, the pharmacokinetic and
+    pharmacodynamic data provided were compelling and showed that the product will make it
+    more difficult for some people to abuse it. The committee member who voted “No” stated
+    that the definition of abuse deterrence was unclear. Please see the transcript for details of
+    the committee discussion.
+
+
+
+
+                                                 Page 5 of 6
+April 5, 2017
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+3. VOTE: If approved, should RoxyBond be labeled as an abuse-deterrent product by the
+   intravenous route of abuse?
+
+    Vote Result:         Yes:     16      No:      4       Abstain: 0
+
+    Committee Discussion: The majority of the committee voted “Yes,” agreeing that RoxyBond
+    should be labeled as an abuse-deterrent product by the intravenous route of abuse if
+    approved. These committee members stated that the in vitro data, drug dissolution data,
+    gelling properties of the product, and large injection volume necessary were convincing
+    factors in their vote. Many committee members stated that they would like to see a warning
+    of some sort about the lack of knowledge surrounding possible outcomes of injecting the
+    product’s excipients. One of the committee members who voted “No” stated that the
+    intravenous abuse-deterrent steps were relatively easy to accomplish. Other committee
+    members who voted “No" opined that they were worried about the unknown risks of injecting
+    the product’s excipients. Please see the transcript for details of the committee discussion.
+
+4. VOTE: Should RoxyBond be approved for the management of pain severe enough to require
+   an opioid analgesic and for which alternative treatments are inadequate?
+
+    Vote Result:         Yes:     19      No:      0       Abstain: 1
+
+    Committee Discussion: The majority of the committee voted “Yes,” that RoxyBond should be
+    approved for the management of pain severe enough to require an opioid analgesic and for
+    which alternative treatments are inadequate. These committee members stated that this
+    product shows an incremental advantage in abuse-deterrence and meets an important public
+    health need. Some committee members stated that they support approval of this product with
+    clear labeling describing the abuse-deterrent studies so that prescribers can decide who is a
+    proper candidate for this abuse-deterrent formulation versus available non-abuse-deterrent
+    formulations. Several committee members encouraged the Agency and Applicant to explore
+    the use of this product in children. The committee member who abstained from voting stated
+    that having another abuse-deterrent formulation on the market will just detract from
+    addressing the opioid epidemic, even if RoxyBond isn't labeled as an abuse-deterrent
+    formulation, as it is still formulated as such. Please see the transcript for details of the
+    committee discussion.
+
+The meeting was adjourned at approximately 3:00 p.m.
+
+
+
+
+                                                 Page 6 of 6
+

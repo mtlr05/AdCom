@@ -1,0 +1,365 @@
+                              Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+Final Summary Minutes of the Endocrinologic and Metabolic Drugs Advisory Committee
+                                     Meeting
+
+                                         May 24, 2024
+
+Location: All meeting participants will be joining this advisory committee meeting via an online
+teleconferencing platform.
+
+Topic: The Committee discussed the safety and efficacy of biologics license application 761326
+for NNC0148-0287 injection (insulin icodec), a long-acting insulin analog product, submitted by
+Novo Nordisk. The proposed indication is to improve glycemic control in adults with diabetes
+mellitus.
+
+These summary minutes for the May 24, 2024 meeting of the Endocrinologic and Metabolic
+Drugs Advisory Committee of the Food and Drug Administration were approved on July 25,
+2024 .
+
+I certify that I attended the May 24, 2024 meeting of the Endocrinologic and Metabolic Drugs
+Advisory Committee Meeting of the Food and Drug Administration and that these minutes
+accurately reflect what transpired.
+
+
+
+
+             /s/                                              /s/
+______________________________                      ___________________________
+LaToya Bonner, PharmD                               Cecilia C. Low Wang, MD
+Designated Federal Officer, EMDAC                   Chairperson, EMDAC
+
+
+
+
+                                           Page 1 of 1
+               Summary Minutes of the Endocrinologic and Metabolic Drugs
+                            Advisory Committee Meeting
+                                     May 24, 2024
+
+The Endocrinologic and Metabolic Drugs Advisory Committee (EMDAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research, met on May 24, 2024. The meeting
+presentations were heard, viewed, captioned, and recorded through an online video conferencing
+platform. Prior to the meeting, the members and temporary voting members were provided the
+briefing materials from the FDA and Novo Nordisk. The conflict-of-interest statement was read
+into the record by LaToya Bonner, PharmD (Designated Federal Officer). There was
+approximately 2942 people online. There was a total of 6 Open Public Hearing (OPH) speaker
+presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda:
+
+The Committee discussed the safety and efficacy of biologics license application (BLA) 761326
+for NNC0148-0287 injection (insulin icodec), a long-acting insulin analog product, submitted by
+Novo Nordisk. The proposed indication is to improve glycemic control in adults with diabetes
+mellitus.
+
+Attendance:
+
+EMDAC Members Present (Voting): Matthew T. Drake, MD, PhD; Robert Alan Greevy, Jr.,
+PhD; Rita R. Kalyani, MD, MHS; Cecilia C. Low Wang, MD (Chairperson)
+
+EMDAC Members Not Present (Voting): Michael Blaha, MD, MPH; Thomas Wang, MD
+
+Acting Industry Representative to the Committee (Non-Voting): Sandeep Dutta, PhD (Acting
+Industry Representative)
+
+Temporary Members (Voting): Paul Beringer, PharmD; Erica Brittain, PhD; Jill P. Crandall,
+MD; Martha Nason, PhD; Barbara Onumah, MD; Paul Tibbits, Jr. (Patient Representative);
+Thomas J. Weber, MD
+
+FDA Participants (Non-Voting): Lisa Yanoff, MD; Patrick Archdeacon, MD; Michael Nguyen,
+MD; Frank Pucino, PharmD, MPH; Leslie Kenna, PhD; Roberto Crackel, PhD; Jaejoon Song,
+PhD; Elyes Dahmane, PhD
+
+Designated Federal Officer (Non-Voting): LaToya Bonner, PharmD
+
+Open Public Hearing Speakers Present: Julie Heverly (diaTribe Foundation); Azza
+AbuDagga, PhD (Public Citizen’s Health Research Group); Thomas Danne, MD (Juvenile
+Diabetes Research Foundation International); Kelly Close (Close Concerns) Alan Beltran,
+
+
+                                            Page 1 of 7
+May 24, 2024
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+Andrew Goyette, and Mahima Chillakanti (dQ&A); Sethu Reddy, MD, William Biggs, MD, and
+Janet McGill, MD (American Association of Clinical Endocrinology)
+
+The agenda was as follows:
+
+ Call to Order                                               Cecilia Low Wang, MD
+                                                             Chairperson, EMDAC
+
+ Introduction of Committee and Conflict of                   LaToya Bonner, PharmD
+ Interest Statement                                          Designated Federal Officer, EMDAC
+
+ FDA Introductory Remarks                                    Michael Nguyen, MD
+                                                             Cross Discipline Team Leader
+                                                             Division of Diabetes, Lipid Disorders, and Obesity
+                                                             (DDLO)
+                                                             Office of Cardiology, Hematology, Endocrinology, and
+                                                             Nephrology (OCHEN)
+                                                             Office of New Drugs (OND)
+                                                             CDER, FDA
+
+ APPLICANT PRESENTATIONS                                     Novo Nordisk
+
+ Introduction                                                Shawn Hoskin, MS
+                                                             Executive Director, Regulatory Affairs
+                                                             Novo Nordisk
+
+ Unmet Need for Basal Insulin Treatment                      Ildiko Lingvay, MD, MPH, MSCS
+                                                             Professor of Medicine
+                                                             Department of Internal Medicine/Endocrinology
+                                                             UT Southwestern Medical Center
+
+ ONWARDS Development Program and Icodec                      Stephen Gough, MD, FRCP
+ Dosing                                                      Global Chief Medical Officer
+                                                             Senior Vice President
+                                                             Novo Nordisk
+
+ Safety of Once-Weekly Injection of Insulin                  Roman Cailleteau, MD
+ Icodec                                                      Senior Medical Director
+                                                             Novo Nordisk
+
+ Efficacy and Hypoglycemia in Participants with Type         Roman Cailleteau, MD
+ 2 Diabetes
+
+ Efficacy and Hypoglycemia in Participants with              Stephen Gough, MD, FRCP
+ Type 1 Diabetes
+
+ Clinical Perspective                                        ldiko Lingvay, MD, MPH, MSCS
+
+
+
+                                               Page 2 of 7
+May 24, 2024
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+ Conclusion                                                  Stephen Gough, MD, FRCP
+
+ Clarifying Questions to Applicant
+
+ BREAK
+
+ FDA PRESENTATIONS
+
+ Clinical Pharmacology Assessment of Insulin                 Leslie Kenna, PhD
+ Icodec                                                      Clinical Pharmacology Reviewer
+                                                             Division of Cardiometabolic and Endocrine
+                                                             Pharmacology (DCEP)
+                                                             Office of Clinical Pharmacology (OCP)
+                                                             Office of Translational Sciences (OTS)
+                                                             CDER, FDA
+
+ ONWARDS 6: Study Design                                     Frank Pucino, PharmD, MPH
+                                                             Clinical Reviewer
+                                                             DDLO, OCHEN, OND, CDER, FDA
+
+ ONWARDS 6: Summary of Efficacy                              Roberto Crackel, PhD
+                                                             Statistical Reviewer
+                                                             Division of Biometrics II (DBII)
+                                                             Office of Biostatistics (OB)
+                                                             OTS, CDER, FDA
+
+ ONWARDS 6: Safety Review                                    Frank Pucino, PharmD, MPH
+
+ Exploratory Analysis of Percent Coefficient of              Jaejoon Song, PhD
+ Variation (%CV) Subgroup                                    Safety Statistical Reviewer
+                                                             Division of Biometrics VII (DBVII)
+                                                             OB, OTS, CDER, FDA
+
+ Pharmacometric Modeling of Alternative Dose                 Elyes Dahmane, PhD
+ Titration Strategies                                        Pharmacometrics Reviewer
+                                                             Division of Pharmacometrics (DPM)
+                                                             OCP, OTS, CDER, FDA
+
+ ONWARDS 6: Benefit-Risk Summary                             Frank Pucino, PharmD, MPH
+
+
+ Clarifying Questions to FDA
+
+ LUNCH
+
+ OPEN PUBLIC HEARING
+
+ BREAK
+
+
+
+                                               Page 3 of 7
+May 24, 2024
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+ Questions to the Committee/Committee
+ Discussion
+
+ ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the benefits of insulin icodec and the risk of hypoglycemia in adults
+   with type 1 diabetes mellitus (T1D).
+
+    Committee Discussion: The Committee commented on the importance of adding more
+    options for treating adults with type 1 diabetes mellitus (T1D); however, they regarded the
+    potential benefits of reducing treatment burden and improving medication adherence with
+    the use of insulin icodec as hypothetical, since there were no data to support these benefits.
+    The committee expressed concerns about the increased risk of hypoglycemia seen in the
+    ONWARDS 6 study among subjects with T1D, and the higher incidence of serious
+    hypoglycemia related adverse events (e.g., loss of consciousness and requiring assistance
+    from medical professionals) observed in the icodec arm compared to control. The Committee
+    questioned who would benefit the most from insulin icodec and noted that insulin icodec was
+    not evaluated in patients who might stand to benefit most from a once-weekly basal insulin
+    (e.g., patients with difficulty adhering to daily basal insulin dosing and experience recurrent
+    diabetic ketoacidosis). Laslty, the Committee commented on the difficulty of translating the
+    clinical trial data from ONWARDS 6 to the real world.
+
+    Please see the transcript for details of the Committee’s discussion.
+
+2. DISCUSSION: Discuss the role of continuous glucose monitoring (CGM) devices and
+   measures of glycemic variability with respect to the risk of hypoglycemia in patients with
+   T1D using insulin icodec.
+
+    Committee Discussion: The Committee agreed that CGM devices are recommended for all
+    patients with T1D and appear to be needed to mitigate the risk of hypoglycemia with insulin
+    icodec, but strongly noted the unresolved issues of access and coverage for these devices.
+    The Committee also acknowledged problems regarding extrapolating the risk mitigation
+    strategies from the data. The Committee noted that there was no baseline assessment of the
+    coefficient of variation (CV), a measure of glycemic variability. In addition, the Committee
+    noted that there was a higher rate of hypoglycemia in the lower %CV subgroup (CV ≤36%)
+    receiving insulin icodec compared with the same subgroup receiving insulin degludec.
+    Furthermore it is unclear whether T1D patients with a lower %CV represent the patient
+    population who would most benefit from insulin icodec. Some committee members noted that
+    although glycemic variability as a general concept could be appealing, implementing this
+    mitigation strategy in routine clinical practice is complicated by the fact that not all patients
+    have access to CGMs or are sufficiently motivated to do self-monitoring with multiple
+    fingersticks per day, and clinicians may be required to continually examine glycemic
+
+                                               Page 4 of 7
+May 24, 2024
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    variability to prescribe the medication safely. It was noted that patients with the greatest
+    variability may not be self-monitoring consistently, and may not be adherent to insulin
+    therapy. Thus, the patients who could most benefit from a once-weekly insulin in terms of
+    improved adherence may overlap significantly with the patients who may not be able to use it
+    safely in terms of increased hypoglycemia risk.
+
+    Overall, the Committee concurred that CGM devices should be offered to all T1D patients,
+    but its implementation alone does not eliminate the occurrences of hypoglycemia or prevent
+    its associated adverse events.
+
+    Please see the transcript for details of the Committee’s discussion.
+
+3. DISCUSSION: Discuss the proposed dosing and titration regimen and the extent to which
+   the modeling data support alternative dosing strategies.
+
+    Committee Discussion: The Committee commended the Applicant’s efforts in implementing
+    alternative dosing strategies using exposure-response modelling and simulations aimed at
+    reducing the risk of hypoglycemia while maintaining efficacy in the insulin icodec arm.
+    However, some of the panel members were not convinced by these findings as their impact
+    has not been demonstrated in a clinical study. Several panel members also expressed
+    concern with the Applicant’s decision not to include a twice weekly insulin icodec arm in the
+    ONWARDS 6 trial.
+
+    Overall, the panel members agreed that the exposure-response modelling and simulations
+    helped to understand the potential effect of the alternative dosing strategies, specifically
+    reducing the doses of bolus insulin on Days 2 through 4. Although the dosing strategy was
+    supported by the model, the Committee commented that insulin icodec lost one of its
+    proposed benefits to simplify insulin administration in patients with T1D. The Committee
+    further commented that the potential benefit of reducing the number of basal insulin doses is
+    counterbalanced by increased complexity of having to adjust bolus doses on certain days of
+    the week. The Committee acknowledged the challenges of determining accurate bolus dosing.
+
+    Please see the transcript for details of the Committee’s discussion.
+
+4. DISCUSSION: Discuss the role of insulin icodec in the context of the available treatment
+   armamentarium to improve glycemic control in patients with T1D.
+
+    Committee Discussion: The Committee was undecided on the role of insulin icodec in the
+    context of the available treatment armamentarium to improve glycemic control in patients
+    with T1D. Overall, the Committee agreed that the specific subpopulation who would benefit
+    from insulin icodec to treat T1D has not been clearly identified. Some panel members stated
+    they believe that the prescribers and patients would learn to use this product such that they
+    can mitigate the risk of hypoglycemia with appropriate strategies. Other panel members
+    commented on the added complexity of therapy and the risks of hypoglycemia without
+
+                                               Page 5 of 7
+May 24, 2024
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    additional benefits (e.g., adherence, treatment satisfaction). It was also noted that the
+    proposed risk mitigation strategies had not been tested, and that data regarding
+    cardiovascular outcomes were lacking.
+
+    Please see the transcript for details of the Committee’s discussion.
+
+
+5. VOTE: Based on the available data, has the Applicant demonstrated that the benefits of
+   insulin icodec outweigh its risks for improving glycemic control in adults with T1D?
+
+            If yes, explain your rationale and comment on any risk mitigation measures you
+            believe would be necessary to ensure that the benefits outweigh the risks.
+
+            If no, explain your rationale and comment on additional data that could be provided
+            to demonstrate that the benefits outweigh the risks.
+
+    Vote Result:        Yes: 4          No: 7            Abstain: 0
+
+    Committee Discussion: The majority of the Committee agreed that the Applicant did not
+    demonstrate that the benefits of insulin icodec outweigh its risks for an indication to improve
+    glycemic control in adults with T1D. The Committee generally agreed that insulin icodec had
+    the potential to benefit some patients with T1D; however, that subgroup was not identified
+    and not evaluated in the clinical trial. It was also noted that the clinical trial met the primary
+    endpoint of noninferiority for reduction in A1C, but a lack a consensus from the Committee
+    that the demonstrated benefit outweighed the risks associated with insulin icodec in patients
+    with T1D.
+
+    The members who voted “No”, stated that the increased risk of hypoglycemia shown in the
+    data and the added complexity of bolus insulin dose adjustments posed safety concerns that
+    are too clinically significant to disregard. These members noted that the theoretical benefits
+    (once-weekly dosing) of insulin icodec did not supersede the hypoglycemia risk. Some
+    members of the Committee recommended that the Applicant implement patient satisfaction
+    surveys in future trials, determine the efficacy of hypoglycemia risk mitigation strategie
+    including the bolud dose titration protocol, and overall obtain more data to help inform the
+    benefit-risk assessment of this product. The members stressed more clinical data/information
+    is needed to determine which subgroups of patients with T1D would benefit from insulin
+    icodec use, and its safety in patients with lower %CV and in individuals not wearing a CGM
+    device.
+
+    The members who voted “Yes”, emphasized that the addition of insulin icodec to the
+    armamentarium of diabetes therapies grants clinicians the opportunity to individualize
+    glycemic control in their diabetic patients. Some members noted that the results from the
+    ONWARDS 6 trial demonstrated that insulin icodec was noninferior to insulin degludec for
+    the primary endpoint, change in A1C from baseline in adults with T1D, but also
+    acknowledged the concerns raised regarding the higher percentage of participants with
+    hypoglycemic events.
+
+
+                                                Page 6 of 7
+May 24, 2024
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    Some of the panel members suggested that the labeling include restricting use from those
+    recently diagnosed with T1D (e.g., within the first year), the need for CGM or more frequent
+    self-monitoring of blood glucose while taking insulin icodec, and warnings for patients at
+    higher risk of hypoglycemia (e.g., older, decreased renal function, higher %CV, recurrent
+    diabetic ketoacidosis, recurrent severe hypoglycemia, hypoglycemia unawareness, etc.,) In
+    addition, patient and prescriber education on insulin icodec dose adjustments and strategies
+    to mitigate that risk were recommended.
+
+    Please see the transcript for details of the Committee’s discussion.
+
+
+The meeting was adjourned at approximately 4:04 p.m. ET.
+
+
+
+
+                                               Page 7 of 7
+

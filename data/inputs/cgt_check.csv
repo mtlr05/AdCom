@@ -1,0 +1,53 @@
+product,adcom_held,meeting_date,committee,votes_yes_no_abst,fda_action,action_date,accelerated_approval,orphan,cns_neuro_relevance,evidence_url,already_in_dataset,notes
+Zolgensma (onasemnogene IV),N,,,,Approved,2019-05-24,N (traditional),not checked,Y - SMA,https://www.fda.gov/media/127961/download,N,SBRA s.8: 'No advisory committee meeting was held'
+Itvisma (onasemnogene IT),N,,,,Approved,2025-11-24,not checked,not checked,Y - SMA,https://www.fda.gov/media/190313/download,N,SBRA: 'not referred to the CTGTAC'
+Hemgenix,N,,,,Approved,2022-11-22,not checked,Y (SBRA),N,https://www.fda.gov/media/164094/download,N,SBRA: no AC held
+Roctavian,N,,,,Approved,2023-06-29,not checked,Y (SBRA),N,https://www.fda.gov/media/170455/download,N,SBRA: no AC held
+Casgevy (SCD),Y (no vote),2023-10-31,CTGTAC,No voting question (discussion of off-target editing only),Approved,2023-12-08,N,Y (SBRA),N,https://www.fda.gov/media/175831/download ; https://www.fda.gov/media/175179/download,N,Minutes + SBRA: 'There was no voting question'
+Casgevy (TDT),N,,,,Approved,2024-01-16,N,Y (SBRA),N,https://www.fda.gov/media/175842/download,N,SBRA: AC for SCD deemed sufficient
+Lyfgenia,N,,,,Approved,2023-12-08,not checked,not checked,N,https://www.fda.gov/media/175250/download,N,SBRA: not referred to CTGTAC
+Elevidys,Y,2023-05-12,CTGTAC,8-6 (in dataset),Accelerated approval,2023-06-22,Y,in dataset,Y - DMD,https://www.fda.gov/media/169746/download,Y,SBRA confirms meeting
+Vyjuvek,N,,,,Approved,2023-05 (SBRA undated in link title),not checked,Y (SBRA),N,https://www.fda.gov/media/169342/download,N,SBRA: no AC held
+Adstiladrin,N,,,,Approved,2022-12-16,not checked,not checked,N,https://www.fda.gov/media/164532/download,N,SBRA: no AC held
+Lenmeldy (Libmeldy),N,,,,Approved,2024-03-18,not checked,not checked,Y - MLD,https://www.fda.gov/media/177578/download,N,SBRA: not referred to CTGTAC
+Kebilidi (Upstaza),N,,,,Approved,2024-11-13,not checked (likely AA; unverified),not checked,Y - AADC deficiency,https://www.fda.gov/media/184353/download,N,SBRA: not referred to CTGTAC
+Beqvez,N,,,,Approved,2024-04-25,not checked,Y (SBRA),N,https://www.fda.gov/media/178688/download,N,SBRA: no AC held
+Zevaskyn,N,,,,Approved,2025-04-28,not checked,Y (SBRA),N,https://www.fda.gov/media/186796/download,N,SBRA: not referred
+Skysona,Y,2022-06-09,CTGTAC,Benefit-risk favourable: unanimous w/ 1 abstention (dataset 15-0),Accelerated approval,2022-09-16,Y,in dataset,Y - CALD,https://www.fda.gov/media/162098/download,Y,SBRA confirms
+Zynteglo,Y,2022-06-09/10,CTGTAC,13-0 (dataset); SBRA says unanimous,Approved,2022-08-17,N,in dataset,N,https://www.fda.gov/media/161472/download,Y,
+Kymriah (pediatric ALL),Y,2017-07-12,ODAC,Benefit-risk favourable 10-0,Approved,2017-08-30,N,not checked,N,https://www.fda.gov/media/107962/download ; https://fda.report/media/107129/Minutes-for-the-July-12---2017-Meeting-of-the-Oncologic-Drugs-Advisory-Committee-%28ODAC%29.pdf,N,Vote quoted in SBRA. 2018 DLBCL supplement: no AC (SBRA media/113215)
+Yescarta,N,,,,Approved,2017-10-18,N,not checked,N,https://www.fda.gov/media/108788/download,N,SBRA: not presented to an AC
+Tecartus,N,,,,"Accelerated approval (MCL) - from memory, unverified",2020-07-23,unverified,not checked,N,https://www.fda.gov/media/141093/download,N,SBRA: no AC held
+Breyanzi,N,,,,Approved,2021-02 (SBRA),not checked,not checked,N,https://www.fda.gov/media/146242/download,N,SBRA: no AC held
+Abecma (initial),N,,,,Approved,2021-03 (SBRA),not checked,not checked,N,https://www.fda.gov/media/147627/download,N,SBRA: no AC held
+Abecma (sBLA earlier line),Y,2024-03-15,ODAC,Benefit-risk favourable 8-3,Approved (date not verified),,N,n/a,N,https://www.fda.gov/media/178184/download (minutes); vote count from OncLive/Fierce excerpts,N,"Supplement, not initial approval; vote count not read from minutes text"
+Carvykti (initial),N,,,,Approved,2022-02-28,not checked,not checked,N,https://www.fda.gov/media/156999/download,N,SBRA: no AC held
+Carvykti (sBLA 2nd line),Y,2024-03-15,ODAC,Benefit-risk favourable 11-0,Approved Apr 2024 (press),2024-04,N,n/a,N,https://www.fda.gov/media/178184/download; OncLive,N,Supplement; vote count from press excerpts
+Provenge,Y,2007-03-29,CTGTAC,Safety 17-0; substantial evidence of efficacy 13-4,CRL 2007-05; approved 2010-04-29 (approval date from memory),2010-04-29,N,not checked,N,"https://www.fda.gov/media/106057/download (zip: Statistical Review, Clinical Review)",N,"Pre-2010 meeting; FDA went against favourable vote initially (CRL), approved after new trial"
+Imlygic,Y,2015-04-29,Joint CTGTAC+ODAC,Favourable benefit-risk for traditional approval 22-1,Approved (traditional) 2015-10 (date from memory),2015-10-27,N (memo: AA not necessary),not checked,N,"https://www.fda.gov/media/106900/download (zip: Statistical Review, Office memo)",N,Melanoma oncolytic HSV
+Gintuit (Apligraf oral),Y,2011-11-17,CTGTAC,Effective 15-0; safe 14-1,Approved 2012-03 (date from memory),2012-03-09,N,n/a,N,https://www.fda.gov/media/106952/download (zip: Statistical Review),N,
+"laViv (azficel-T, Isolagen)",Y,2009-10-09,CTGTAC,Efficacy 11-3; sufficient safety 6-7,CRL 2009-12-18; approved 2011-06 (date from memory),2011-06-21,N,n/a,N,"https://www.fda.gov/media/106221/download (zip: Clinical Review of Resubmissions, CRL)",N,Pre-2010 meeting
+MACI,N,,,,Approved 2016-12 (memory),2016-12-13,N,n/a,N,https://www.fda.gov/media/106194/download (zip: Filing letter 'not currently planning to hold an AC'; Stat review 'AC: N/A'),N,Moderate-strength evidence (filing letter + reviews)
+StrataGraft,N,,,,Approved,2021-06-15,N,not checked,N,https://www.fda.gov/media/150712/download,N,SBRA: no AC held
+Omisirge,N,,,,Approved,2023-04-17,not checked,Y (SBRA),N,https://www.fda.gov/media/168198/download,N,SBRA: no AC held
+Amtagvi,N,,,,"Accelerated approval (memory, unverified)",2024-02-16,unverified,Y (SBRA),N,https://www.fda.gov/media/176893/download,N,SBRA: no AC held
+Tecelra,N,,,,"Approved (AA per memory, unverified)",2024-08-01,unverified,Y (SBRA),N,https://www.fda.gov/media/180981/download,N,SBRA: not referred
+Aucatzyl,N,,,,Approved (traditional per SBRA),2024-11-08,N,Y (SBRA),N,https://www.fda.gov/media/183887/download,N,SBRA: not referred to CTGTAC
+Ryoncil,Y,2020-08-13,ODAC,Data support efficacy 9-1,CRL 2020-09; approved 2024-12-18 after resubmissions,2024-12-18,N,not checked,N,https://www.fda.gov/media/185192/download,N,FDA initially went against favourable vote
+Rethymic,N,,,,Approved,2021-10-08,not checked,not checked,N,https://www.fda.gov/media/153729/download,N,SBRA: no AC held
+Lantidra,Y,2021-04-15,CTGTAC,12-4-1 (dataset),Approved,2023-06-28,N,in dataset,N,https://www.fda.gov/media/170457/download,Y,
+Encelto,N,,,,Approved,2025-03-05,not checked,Y (SBRA),Eye (MacTel),https://www.fda.gov/media/185972/download,N,SBRA: not referred
+Papzimeos,N,,,,Approved,2025-08-14,not checked,not checked,N,https://www.fda.gov/media/188592/download,N,SBRA: not referred
+Luxturna,Y,2017-10-12,CTGTAC,16-0 (dataset),Approved,2017-12-18,N,in dataset,Eye,https://www.fda.gov/media/110141/download,Y,
+Tudriqev (RP1),Y,2026-07-30,CTGTAC,10-3 (SBRA),Accelerated approval,2026-08-06,Y,not checked,N,https://www.fda.gov/media/194230/download,Y,SBRA confirms dataset vote
+Kresladi,N,,,,Accelerated approval,2026-03-26,Y (SBRA),Y (SBRA),N,https://www.fda.gov/media/191993/download,N,not on task list; found on FDA list
+Otarmeni,N,,,,Accelerated approval,2026-04-22,Y (SBRA),not checked,not checked,https://www.fda.gov/media/192364/download,N,not on task list
+Tregzi,N,,,,Approved,2026-06-30,not checked,not checked,N,https://www.fda.gov/media/193956/download,N,not on task list
+Genglycos,N,,,,Approved,2026-08-19,not checked,Y (SBRA),not checked,https://www.fda.gov/media/194583/download,N,not on task list
+Fayuvi,N,,,,Approved,2026-09-17,not checked,not checked,not checked,https://www.fda.gov/media/195198/download,N,not on task list
+Waskyra,N,,,,Approved,2025-12-09,not checked,Y (SBRA),N,https://www.fda.gov/media/190281/download,N,not on task list
+Symvess,N,,,,Approved,2024-12-19,n/a,n/a,N,https://www.fda.gov/media/185033/download,N,tissue-engineered vessel
+Voceryq,not verified,,,,Approved,2026-10-30,,,,https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/voceryq,N,No SBRA posted yet
+MCNA (Telesta) - not approved,Y,2015-11-18,Joint CTGTAC+ODAC,Favourable benefit-risk: 6 yes-18 no-0,"Not approved (outcome from Cancer Letter excerpt, unverified)",2016-02,N,,N,https://www.federalregister.gov/documents/2015/09/28/2015-24541 ; https://www.prnewswire.com/news-releases/telesta-therapeutics-announces-results-of-the-fda-advisory-committee-vote-551715101.html,N,"Vote from company release (search excerpt), not minutes. Not a cell/gene therapy (bacterial cell-wall complex) but reviewed at CTGTAC"
+Hemacord (NYBC cord blood),Y,2011-09-22,CTGTAC,vote NOT verified,Approved 2011-11-10 (press excerpt),2011-11-10,N,,N,https://www.federalregister.gov/documents/2011/08/11/2011-20399,N,Cord blood; vote counts not found
+Andexxa sBLA (not CGT),Y,2024-11-21,CTGTAC,not checked,,,,,N,https://www.federalregister.gov/documents/2024/10/02/2024-22561,N,Not a cell/gene therapy; listed for completeness

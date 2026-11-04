@@ -1,0 +1,319 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+             Summary Minutes of the Endocrinologic and Metabolic Drugs
+                          Advisory Committee Meeting
+                                   June 20, 2017
+
+
+
+Location: The FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.
+1503), 10903 New Hampshire Avenue, Silver Spring, Maryland.
+
+Topic: The committee discussed a supplemental new drug application for VICTOZA (liraglutide)
+injection (NDA 022341), sponsored by Novo Nordisk, for the proposed additional indication of:
+as an adjunct to standard treatment of cardiovascular risk factors to reduce the risk of major
+adverse cardiovascular events (cardiovascular death, non-fatal myocardial infarction, or non-
+fatal stroke) in adults with type 2 diabetes mellitus and high cardiovascular risk.
+
+These summary minutes for the June 20, 2017 meeting of the Endocrinologic and Metabolic
+Drugs Advisory Committee of the Food and Drug Administration were approved on
+August 30, 2017.
+
+I certify that I attended the June 20, 2017, meeting of the Endocrinologic and Metabolic Drugs
+Advisory Committee of the Food and Drug Administration and that these minutes accurately
+reflect what transpired.
+
+
+
+__________/s/_________________                   ____________/s/________________
+LaToya Bonner, PharmD                            Peter Wilson, MD
+Designated Federal Officer, EMDAC                Chairperson, EMDAC
+
+
+
+
+                                           Page 1 of 7
+                Summary Minutes of the Endocrinologic and Metabolic Drugs
+                             Advisory Committee Meeting
+                                     June 20, 2017
+
+The following is the final report of the Endocrinologic and Metabolic Drugs Advisory
+Committee meeting held on June 20, 2017. A verbatim transcript will be available in
+approximately six weeks, sent to the Division of Metabolism and Endocrinology Products and
+posted on the FDA website at:
+https://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/Endocrinologica
+ndMetabolicDrugsAdvisoryCommittee/ucm560480.htm.
+
+All external requests for the meeting transcript should be submitted to the CDER Freedom of
+Information Office.
+
+
+The Endocrinologic and Metabolic Drugs Advisory Committee (EMDAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research met on June 20, 2017, at the FDA
+White Oak Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New
+Hampshire Avenue, Silver Spring, Maryland. Prior to the meeting, the members and temporary
+voting members were provided the briefing materials from the FDA and Novo Nordisk, Inc. The
+meeting was called to order by Peter Wilson, MD (Chairperson). The conflict of interest
+statement was read into the record by LaToya Bonner, PharmD (Designated Federal Officer).
+There were approximately 175 people in attendance. There were 13 Open Public Hearing (OPH)
+speaker presentations.
+
+Issue: The committee discussed a supplemental new drug application for VICTOZA (liraglutide)
+injection (NDA 022341), sponsored by Novo Nordisk, for the proposed additional indication of:
+as an adjunct to standard treatment of cardiovascular risk factors to reduce the risk of major
+adverse cardiovascular events (cardiovascular death, non-fatal myocardial infarction, or non-fatal
+stroke) in adults with type 2 diabetes mellitus and high cardiovascular risk.
+
+Attendance:
+
+EMDAC Members Present (Voting): Michael Blaha, MD, MPH; Daniel Budnitz, MD, MPH;
+Kenneth D. Burman, MD; Brendan M. Everett, MD, MPH (via telephone); Diana Hallare, MPH
+(Consumer Representative); Cecilia C. Low Wang, MD; James D. Neaton, PhD; Peter W.F.
+Wilson, MD (Chairperson); Susan Z. Yanovski, MD
+
+EMDAC Members Not Present (Voting): Susan R. Heckbert, MD, PhD; Thomas J. Weber,
+MD
+
+EMDAC Member Present (Non-Voting): Reshma Kewalramani, MD, FASN (Industry
+Representative) (via telephone)
+
+
+
+
+                                            Page 2 of 7
+June 20, 2017
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+Temporary Members (Voting): Carmen J. Allergra, MD (via telephone); Leslie Cho, MD,
+FACC, FSCAI; James A. de Lemos, MD; Judith Fradkin, MD; Marvin A. Konstam, MD; Debra
+McCall, MBA (Patient Representative); David Oakes, PhD (via telephone); Yves Rosenberg,
+MD; David C. Robbins, MD; Hanna Sanoff, MD, MPH
+
+FDA Participants (Non-Voting): Jean-Marc Guettier, MD; Lisa Yanoff, MD; Tania Condarco,
+MD; Kiya Hamilton, PhD; Julie Golden, MD; Shannon Sullivan, MD, PhD
+
+Designated Federal Officer (Non-Voting): LaToya Bonner, PharmD
+
+Open Public Hearing Speakers: Kelly L. Close (diatribe Foundation); Richard Pratley, MD
+(Translational Research Institute for Metabolism and Diabetes); Stephanie Fox-Rawlings
+(National Center for Health Research); Sammy Almashat (Public Citizen’s Health Research
+Group); Mark Warren; Robert Chilton; Mansur Shamali, MD; Vincent Coles (Novo Nordisk);
+Jonathan Leffert (American Association of Clinical Endocrinologists); Tamar Darsow (American
+Diabetes Association); Abigail Dove (dQ&A); Helen Gao; Pyal Marathe (Close Concerns)
+_____________________________________________________________________________
+
+The agenda was as follows:
+
+   Call to Order and Introduction of            Peter Wilson, MD
+   Committee                                    Chairperson, EMDAC
+
+   Conflict of Interest Statement               LaToya Bonner, PharmD
+                                                Designated Federal Officer, EMDAC
+
+   FDA Introductory Remarks                     Jean-Marc Guettier, MD
+                                                Director, Division of Metabolism and Endocrinology
+                                                Products (DMEP)
+                                                Office of Drug Evaluation II (ODE-II)
+                                                Office of New Drugs (OND), CDER, FDA
+
+   APPLICANT PRESENTATIONS                      Novo Nordisk Inc.
+
+   Introduction                                 Robert Clark
+                                                Vice President, Regulatory Affairs
+                                                Novo Nordisk
+
+   LEADER Clinical Design                       Steve Marso, MD
+                                                Medical Director, Cardiovascular Services
+                                                HCA Midwest Health Heart and Vascular Institute
+
+   CVOT Results                                 Alan Moses, MD
+                                                Global Chief Medical Officer
+                                                Novo Nordisk
+
+   Safety                                       Todd Hobbs, MD
+                                                US Chief Medical Officer
+                                                Novo Nordisk
+
+
+                                               Page 3 of 7
+June 20, 2017
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+   APPLICANT PRESENTATIONS (CONT.)
+
+   Clinical Implications                        John Buse, MD, PhD
+                                                Verne S. Caviness Distinguished Professor
+                                                Chief, Division of Endocrinology
+                                                University of North Carolina School of Medicine
+
+   Benefit-Risk                                 Alan Moses, MD
+
+   Clarifying Questions to Applicant
+
+   BREAK
+
+   FDA PRESENTATIONS
+
+   Clinical and Statistical Overview            Tania Condarco, MD
+                                                Clinical Reviewer
+                                                DMEP, ODE-II, OND, CDER, FDA
+
+                                                Kiya Hamilton, PhD
+                                                Mathematical Statistician
+                                                Division of Biostatistics II (DB-II)
+                                                Office of Biostatistics (OB)
+                                                Office of Translational Sciences (OTS), CDER, FDA
+
+   Safety Overview                              Julie Golden, MD
+                                                Clinical Reviewer
+                                                DMEP, ODE-II, OND, CDER, FDA
+
+                                                Shannon Sullivan, MD, PhD
+                                                Clinical Reviewer
+                                                DMEP, ODE-II, OND, CDER, FDA
+
+   Clarifying Questions to FDA
+
+   LUNCH
+
+   OPEN PUBLIC HEARING
+
+   Questions to the Committee/Committee Discussion
+
+   BREAK
+
+   Questions to the Committee/Committee Discussion (cont.)
+
+   ADJOURNMENT
+
+
+
+
+                                               Page 4 of 7
+June 20, 2017
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+Questions to the Committee:
+
+1. DISCUSSION: The Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular
+   Outcome Results (LEADER) trial assessed several non-CV safety outcomes including
+   medullary thyroid carcinoma, pancreatic neoplasm, and pancreatitis. Please discuss whether
+   the data presented today inform the potential for a causal relationship between liraglutide use
+   and these non-CV safety outcomes. Please also discuss whether additional studies should be
+   conducted to further evaluate these.
+    Committee Discussion: Altogether, the committee was generally reassured by the non-CV
+    safety outcomes of interest, such as medullary thyroid carcinoma, pancreatic neoplasm, and
+    pancreatitis assessed in the LEADER trial, although it was noted that the number of cases
+    were small in comparison to the CV outcomes. Many committee members expressed that the
+    exposure to liraglutide in LEADER was too short to consider the glucagon-like peptide-1
+    receptor agonist (GLP-1 RA) as the causative factor for the cancer outcomes of concern,
+    given that agents that are known to cause cancer do so at least a decade after exposure. The
+    committee recommended the sponsor to continue the medullary thyroid carcinoma registry to
+    allow for further investigation of this safety issue. Please see the transcript for details of the
+    committee discussion.
+
+2. DISCUSSION: Please comment on the design, conduct, and results of LEADER and
+   whether LEADER
+
+    a. Adequately addresses the post-approval CV risk assessment as recommended in the 2008
+       FDA Guidance titled Diabetes Mellitus – Evaluating Cardiovascular Risk in New
+       Antidiabetic Therapies to Treat Type 2 Diabetes.
+
+    b. Provides substantial evidence establishing that liraglutide reduces the risk of major
+       adverse cardiovascular events (cardiovascular death, non-fatal myocardial infarction, or
+       non-fatal stroke) in adults with type 2 diabetes mellitus and high cardiovascular risk.
+
+    In your discussion, consider the patient population enrolled (e.g., baseline cardiovascular
+    disease history), reliability of the results (e.g., impact of missing data), the clinical
+    meaningfulness of the results, and the consistency of the results across the components of the
+    MACE endpoint and subgroups.
+
+    Committee Discussion: The committee unanimously agreed that the LEADER study fulfilled
+    the recommendations in the 2008 FDA Guidance and addressed the post-approval CV risk
+    assessment in patients with type 2 diabetes mellitus (T2DM). As a whole, the committee
+    members described LEADER as a well-designed clinical trial. Members identified the
+    following as strenghts of the trial: the consistency of the the individual components of
+    MACE, the successful enrollment of a large high risk CV population, and the low amount of
+    missing data.
+
+    In addition to meeting the recommendations for CV risk assessment as described in the 2008
+    FDA Guidance, the committee also found that the results of the trial were robust and overall
+    demonstrated cardiovascular (CV) benefit in high risk T2DM patients. However, the
+
+
+                                               Page 5 of 7
+June 20, 2017
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    committee voiced concerns with the results for two subgoups: the US (vs. Non-US) and the
+    “3b (vs. 3a) subgroup” both of which had a point estimate greater than 1 for the Hazard
+    Ratio for MACE. The committee struggled with the interpretation of these findings in the
+    context of the primary endpoint results. The Sponsor put forward the hypothesis that the US
+    subgroup results may have resulted from lower exposure to liraglutide (possibly due to lower
+    adherence) among US patients and presented on-treatment analyses to support this position.
+    While some committee members thought this hypothesis had merit, others were unsure
+    whether it could fully account for US subgroup findings. In light of these findings, some
+    members stated their uncertainty as to whether the data were sufficiently robust to support a
+    CV indication that would pertain to these subgroups. Please see the transcript for details of
+    the committee discussion.
+
+3. VOTE: Do the results of LEADER establish that use of liraglutide in patients with Type 2
+   Diabetes Mellitus (T2DM) is not associated with unacceptably high cardiovascular risk?
+   Provide the rationale for your vote.
+
+    Vote Result:        Yes: 19                 No: 0           Abstain: 0
+
+    Committee Discussion: The committee unanimously voted “Yes”, agreeing that the results
+    of LEADER establish that the use of liraglutide in patients with T2DM is not associated with
+    unacceptably high cardiovascular risk. As noted above, committee members commented on
+    the strengths of the LEADER trial. Please see the transcript for details of the committee
+    discussion.
+
+4. VOTE: Does the LEADER trial provide the substantial evidence needed to establish that
+   liraglutide 1.8 mg daily reduces cardiovascular risk in patients with T2DM? Provide the
+   rationale for your vote.
+
+    Vote Result:        Yes: 17                 No: 2           Abstain: 0
+
+    a. If yes, discuss the population for whom you believe this benefit applies.
+
+        Committee Discussion: The majority of the committee voted “Yes,” the LEADER trial
+        provided substantial evidence needed to establish that liraglutide 1.8 mg daily reduces
+        cardiovascular risk in patients with T2DM. The committee members voiced their
+        confidence in their decision based on the primary MACE results, as well as the consistent
+        trends in the individual components of MACE. Members noted that although the
+        subgroup findings described above were notable, they did not refute the overall LEADER
+        results. Members generally agreed that the results of this single trial were compelling
+        enough for them to support including a cardiovascular indication in the liraglutide label.
+        The committee members recommended that patients diagnosed with atherosclerosis
+        would be the population that would benefit the most from daily use of liraglutide 1.8 mg.
+        The committee also noted that there may not be the same benefit in lower risk patients.
+        Please see the transcript for details of the committee discussion.
+
+    b. If no, comment on what additional data would be needed.
+
+
+
+                                               Page 6 of 7
+June 20, 2017
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+
+
+        Committee Discussion: The two committee members who voted “No” noted that the
+        Agency’s general standard for approval of an indication is two adequate and well
+        controlled trials. They also voiced concern regarding the subgroup findings, namely, the
+        lack of a clear cardiovascualr benefit for the US subgroup as compared with the Non-US
+        subgroup (vs. Non-US). Even though both members who voted “No” agreed that the
+        LEADER trial was a well-designed study, the evidence did not compel them to vote in
+        favor of the new indication. Please see the transcript for details of the committee
+        discussion.
+
+ The meeting was adjourned at approximately 4:30 p.m.
+
+
+
+
+                                               Page 7 of 7
+

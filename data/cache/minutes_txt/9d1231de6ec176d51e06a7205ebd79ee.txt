@@ -1,0 +1,179 @@
+                              Food and Drug Administration
+                         Center for Drug Evaluation and Research
+
+     Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                    April 28, 2023
+
+
+Location: Please note that due to the impact of the COVID-19 pandemic, all meeting participants
+joined this advisory committee meeting via an online teleconferencing platform.
+
+Topic: The committee discussed supplemental new drug application (sNDA) 208558/S–025, for
+LYNPARZA (olaparib) tablets, submitted by AstraZeneca Pharmaceuticals LP. The proposed
+indication (use) for this product is in combination with abiraterone and prednisone or
+prednisolone for the treatment of adult patients with metastatic castration-resistant prostate
+cancer (mCRPC).
+
+These summary minutes for the April 28, 2023 meeting of the ODAC of the Food and Drug
+Administration were approved on May 31, 2023.
+
+I certify that I attended the April 28, 2023 meeting of the ODAC of the Food and Drug
+Administration and that these minutes accurately reflect what transpired.
+
+
+
+
+_________/s/__________________                  ___________/s/_________________
+She-Chia Chen, PharmD                           Jorge A. Garcia, MD, FACP
+Designated Federal Officer, ODAC                Chairperson, ODAC
+April 28, 2023
+Oncologic Drugs Advisory Committee Meeting
+
+        Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                     April 28, 2023
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research met on April 28, 2023. The meeting presentations were
+heard, viewed, captioned, and recorded through an online teleconferencing platform. Prior to the
+meeting, the members and temporary voting members were provided the briefing materials from
+the FDA, and AstraZeneca Pharmaceuticals LP. The meeting was called to order by Jorge A.
+Garcia, MD, FACP (Chairperson). The conflict of interest statement was read into the record by
+She-Chia Jankowski, PharmD (Designated Federal Officer). There were approximately 1,124
+people online. There were three Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committee discussed supplemental new drug application (sNDA) 208558/S–025,
+for LYNPARZA (olaparib) tablets, submitted by AstraZeneca Pharmaceuticals LP. The proposed
+indication (use) for this product is in combination with abiraterone and prednisone or
+prednisolone for the treatment of adult patients with metastatic castration-resistant prostate
+cancer (mCRPC).
+
+Attendance:
+ODAC Members Present (Voting): Mark Conaway, PhD; Jorge A. Garcia, MD, FACP
+(Chairperson); Christopher H. Lieu, MD; Ravi A. Madan, MD; David E. Mitchell (Consumer
+Representative); Jorge J. Nieva, MD; Ashley Rosko, MD; Neil Vasan, MD, PhD
+
+ODAC Members Not Present (Voting): Ranjana H. Advani, MD; Jaffer A. Ajani, MD; Pamela
+L. Kunz, MD; Alberto S. Pappo, MD; Anthony D. Sung, MD
+
+ODAC Member Not Present (Non-Voting): Jonathan D. Cheng, MD (Industry Representative)
+
+Acting Industry Representative to the Committee (Non-Voting): Michael Bui, DDS, JD
+
+Temporary Members (Voting): Rhonda Bitting, MD; Julie Graff, MD; Andrea L. Harzstark,
+MD; Terrence M. Kungel, MBA (Patient Representative); Brian I. Rini, MD, FASCO
+
+FDA Participants (Non-Voting): Richard Pazdur, MD; Paul Kluetz, MD; Laleh Amiri-
+Kordestani, MD; Daniel Suzman, MD; Chana Weinstock, MD; Jaleh Fallah, MD
+
+Designated Federal Officer (Non-Voting): She-Chia Jankowski, PharmD
+
+Open Public Hearing Speaker: Deepak Kilari, MD (spoke on behalf of Rana McKay, MD);
+Leonard Santoro; E. David Crawford, MD
+
+
+
+
+                                             Page 2 of 4
+April 28, 2023
+Oncologic Drugs Advisory Committee Meeting
+
+The agenda was as follows:
+
+  Call to Order                              Jorge A. Garcia, MD, FACP
+                                             Chairperson, ODAC
+
+  Introduction of Committee and              She-Chia Jankowski, PharmD
+  Conflict of Interest Statement             Designated Federal Officer, ODAC
+
+  FDA Introductory Comments
+
+  Olaparib with Abiraterone for Metastatic   Chana Weinstock, MD
+  Castration-Resistant Prostate Cancer       Supervisory Associate Director (Acting)
+  (mCRPC)                                    Division of Oncology 1 (DO1)
+                                             Office of Oncologic Diseases (OOD)
+                                             Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                    AstraZeneca Pharmaceuticals LP
+
+  Introduction                               Cristian Massacesi, MD
+                                             Chief Medical Officer and Oncology Chief
+                                             Development Officer
+                                             AstraZeneca
+
+  Disease Background and Unmet Needs in      Neal Shore, MD, FACS
+  mCRPC                                      Chief Medical Officer
+                                             Surgical Oncology and Urology
+                                             GenesisCare
+
+  Clinical Efficacy                          Laurence Toms, MD
+                                             Global Clinical Head
+                                             Late Development Oncology
+                                             AstraZeneca
+
+  Clinical Safety                            Simon Turner, PhD
+                                             Executive Director, Patient Safety Oncology
+                                             AstraZeneca
+
+  Clinical Perspective                       Daniel George, MD
+                                             Professor of Medicine and Surgery
+                                             Divisions of Medical Oncology and Urology
+                                             Director, Genitourinary Oncology
+                                             Duke Cancer Institute
+                                             Duke University School of Medicine
+
+  FDA PRESENTATION
+
+  Olaparib with Abiraterone for Metastatic   Jaleh Fallah, MD
+  Castration-Resistant Prostate Cancer       Clinical Reviewer
+  (mCRPC)                                    Genitourinary Malignancies
+                                             DO1, OOD, OND, CDER, FDA
+
+
+                                             Page 3 of 4
+April 28, 2023
+Oncologic Drugs Advisory Committee Meeting
+
+  Clarifying Questions to Presenters
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee Discussion
+
+  ADJOURNMENT
+
+Questions to the Committee:
+
+1. VOTE: As FDA reviews the proposed indication for olaparib in combination with
+   abiraterone for initial treatment of mCRPC, should the indication be restricted to patients
+   whose tumors have a BRCA mutation?
+
+    If you feel the combination should not be approved for any indication, please abstain from
+    voting and explain your thinking regarding approvability during the post-voting discussion
+    period.
+
+    Vote Result:        Yes: 11               No: 1         Abstain: 1
+
+    Committee Discussion: The majority of the Committee members voted “Yes”, indicating that
+    the proposed indication for olaparib in combination with abiraterone for initial treatment of
+    mCRPC should be restricted to patients whose tumors have a BRCA mutation. These
+    Committee members noted that the study did not show clinical benefit in the subgroup of
+    patients without a BRCA mutation. One Committee member voted against the restriction,
+    suggesting that a restricted indication in patients with HRR mutation might be more
+    appropriate. Another Committee member abstained from voting, explaining that it was
+    difficult to make the choice based on a suboptimal study design in which some patients with
+    known BRCA mutation did not receive any PARP inhibitor, even after disease progression.
+    Please see the transcript for details of the Committee’s discussion.
+
+
+The meeting was adjourned at approximately 4:10 p.m. Eastern Time.
+
+
+
+
+                                             Page 4 of 4
+

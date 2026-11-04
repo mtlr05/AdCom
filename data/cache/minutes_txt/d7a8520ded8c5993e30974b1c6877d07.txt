@@ -1,0 +1,297 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+          Final Summary Minutes of the Anesthetic and Analgesic Drug Products
+                            Advisory Committee Meeting
+                                   October 11, 2018
+
+
+Location: FDA White Oak Campus, Building 31 Conference Center, The Great Room (Rm.
+1503), 10903 New Hampshire Ave, Silver Spring, Maryland.
+
+Topic: The committee discussed new drug application (NDA) 210730, for oliceridine 1
+milligram/milliliter injection, submitted by Trevena, Inc., for the management of moderate-to-
+severe acute pain in adult patients for whom an intravenous opioid is warranted. The committee
+discussed the efficacy and safety data and benefit-risk considerations.
+
+These summary minutes for the October 11, 2018 meeting of the Anesthetic and Analgesic Drug
+Products Advisory Committee (AADPAC) of the Food and Drug Administration were approved
+on December 7, 2018.
+
+I certify that I attended the October 11, 2018 meeting of the Anesthetic and Analgesic Drug
+Products Advisory Committee of the Food and Drug Administration and that these minutes
+accurately reflect what transpired.
+
+
+
+_______     _ __/s/_______________               _________________ /s/    ______________
+Moon Hee V. Choi, PharmD                         Kevin Zacharoff, MD, FACIP, FACPE, FAAP
+Designated Federal Officer, AADPAC               Acting Chairperson, AADPAC
+
+
+
+
+                                           Page 1 of 6
+October 11, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Meeting
+
+           Final Summary Minutes of the Anesthetic and Analgesic Drug Products
+                             Advisory Committee Meeting
+                                    October 11, 2018
+
+The Anesthetic and Analgesic Drug Products Advisory Committee (AADPAC) of the Food and
+Drug Administration, Center for Drug Evaluation and Research met on October 11, 2018, at the
+FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903
+New Hampshire Avenue, Silver Spring, Maryland. Prior to the meeting, the members and
+temporary voting members were provided the briefing materials from the FDA and Trevena Inc.
+The meeting was called to order by Kevin Zacharoff, MD, FACIP, FACPE, FAAP (Acting
+Chairperson). The conflict of interest statement was read into the record by Moon Hee Choi,
+PharmD (Designated Federal Officer). There were approximately 95 people in attendance.
+There were 11 Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committee discussed new drug application (NDA) 210730, for oliceridine 1
+milligram/milliliter injection, submitted by Trevena, Inc., for the management of moderate-to-
+severe acute pain in adult patients for whom an intravenous opioid is warranted. The committee
+discussed the efficacy and safety data and benefit-risk considerations.
+
+Attendance:
+Anesthetic and Analgesic Drug Products Advisory Committee Members Present (Voting):
+Basavana G. Goudra, MD, FRCA, FCARSCI; Ronald S. Litman, DO, ML; Mary Ellen McCann,
+MD, MPH; Abigail B. Shoben, PhD; Kevin L. Zacharoff, MD, FACIP, FACPE, FAAP (Acting
+Chairperson); Lonnie Zeltzer, MD
+
+Anesthetic and Analgesic Drug Products Advisory Committee Member Present (Non-
+Voting): W. Joseph Herring, MD, PhD (Industry Representative)
+
+Anesthetic and Analgesic Drug Products Advisory Committee Members Not Present
+(Voting): Brian T. Bateman, MD, MSc; Raeford E. Brown, Jr., MD, FAAP;
+
+Temporary Members (Voting): John H. Alexander, MD, MHS; Michael Fischer, MD, MS;
+Jennifer Higgins, PhD (Acting Consumer Representative); Alan Kaye, MD, PhD; Joseph P.
+O'Brien, MBA (Patient Representative); Marjorie Shaw Phillips, MS, RPh, FASHP, CIP; Steven
+Solga, MD; Gregory Terman, MD, PhD; Terri L. Warholak, PhD, RPh, CPHQ, FAPhA
+
+FDA Participants (Non-Voting): Mary Thanh Hai, MD; Sharon Hertz, MD; Janet Maynard,
+MD, MHS; Elizabeth Kilgore, MD, MS; David Petullo, MS
+
+Designated Federal Officer (Non-Voting): Moon Hee V. Choi, PharmD
+
+Open Public Hearing Speakers: Joseph Answine, MD; Suzanne Griffith, BSN, RN, BBA;
+Robert Lapidus; Tina Quinn; Tim Beard, MD, FACS; Julie Thornton; Sergio D. Bergese, MD;
+
+
+
+                                                Page 2 of 6
+October 11, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Meeting
+
+Deborah Wagner, PharmD; Savannah Schwerin, BSN, RN; Stephanie Fox-Rawlings, PhD
+(National Center for Health Research); John V. LeVon, PharmD, PMP, MBA
+
+The agenda was as follows:
+
+ Call to Order and Introduction of            Kevin Zacharoff, MD, FACIP, FACPE, FAAP
+ Committee                                    Acting Chairperson, AADPAC
+
+ Conflict of Interest Statement               Moon Hee V. Choi, PharmD
+                                              Designated Federal Officer, AADPAC
+
+ FDA Opening Remarks                          Sharon Hertz, MD
+                                              Director, Division of Anesthesia, Analgesia, and
+                                              Addiction Products (DAAAP)
+                                              Office of Drug Evaluation II (ODE-II)
+                                              Office of New Drugs (OND), CDER, FDA
+
+ APPLICANT PRESENTATIONS                      Trevena, Inc.
+
+ Introduction                                 Maxine Gowen, PhD
+                                              Founding President and CEO
+                                              Trevena, Inc.
+
+ Efficacy and Safety                          Mark Demitrack, MD
+                                              Chief Medical Officer
+                                              Trevena, Inc.
+
+ Special Safety Topics                        Paul Watkins, MD
+ Clinical Interpretation of Hepatic           Professor of Medicine, Toxicology, and
+ Findings                                     Experimental Therapeutics
+                                              University of North Carolina, Chapel Hill
+
+ Special Safety Topics                        Robert B Kleiman, MD
+ Cardiac Safety                               Chief Medical Officer
+                                              Vice President Global Cardiology
+                                              ERT
+
+ Opioid-Related Adverse Events                Jonathan Violin, PhD
+                                              Co-Founder and Senior Vice President of Scientific
+                                              Affairs
+                                              Trevena, Inc.
+
+ Clinical Perspective                         Gregory Hammer, MD
+                                              Professor of Anesthesiology, Pediatric Perioperative
+                                              and Pain, and Pediatrics Critical Care
+                                              Stanford University Medical Center
+
+
+
+                                                Page 3 of 6
+October 11, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Meeting
+
+ Clarifying Questions
+
+ BREAK
+
+ FDA PRESENTATIONS
+
+ Introduction and Overview                    Elizabeth Kilgore, MD, MS
+                                              Medical Officer
+                                              DAAAP, ODE-II, OND, CDER, FDA
+
+ Abuse Potential of Oliceridine               Katherine Bonson, PhD
+                                              Pharmacologist
+                                              Controlled Substance Staff (CSS)
+                                              Office of the Center Director (OCD), CDER, FDA
+
+ Review of Efficacy                           James Travis, PhD
+                                              Statistical Reviewer
+                                              Division of Biometrics II
+                                              Office of Biostatistics
+                                              Office of Translational Sciences (OTS)
+                                              CDER, FDA
+
+ Safety Assessment and Benefit/Risk           Elizabeth Kilgore, MD, MS
+ Considerations
+
+ Clarifying Questions
+
+ LUNCH
+
+ OPEN PUBLIC HEARING
+
+ Charge to the Committee                      Sharon Hertz, MD
+
+ Questions to the Committee/
+ Committee Discussion
+
+ BREAK
+
+ Questions to the Committee/
+ Committee Discussion
+
+ ADJOURNMENT
+
+
+
+
+                                                Page 4 of 6
+October 11, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Meeting
+
+Questions to the Committee:
+
+    1. DISCUSSION: Discuss the efficacy of oliceridine and whether the data provide
+       substantial evidence for efficacy of oliceridine for the proposed indication of the
+       management of acute moderate-to-severe pain in adults for whom an intravenous opioid is
+       warranted.
+
+        Committee Discussion: Overall, the committee was in agreement that oliceridine showed
+        efficacy compared to placebo in relatively healthy individuals. However, the committee
+        members also agreed that the controlled Phase 3 post-operative study populations were not
+        indicative of complex populations that may have multiple drug interactions and
+        comorbidities, and therefore agreed that the efficacy of oliceridine is not clear compared to
+        an active comparator. Several committee members expressed concern that the dosing
+        recommendations are unclear and there was agreement that there would be challenges
+        treating patients with different conditions and with dose titration in real- world situations.
+        Some committee members stated that there was not substantial evidence of the efficacy of
+        the 0.1 mg dose based on the data presented. Other committee members noted their
+        appreciation of the rapid onset of efficacy. Please see the transcript for details of the
+        committee discussion.
+
+    2. DISCUSSION: Discuss the safety profile of oliceridine and whether the safety profile of
+       oliceridine is adequate to support approval of oliceridine for the proposed indication of the
+       management of moderate-to-severe acute pain in adults for whom an intravenous opioid is
+       warranted. Provide comment on the following issues:
+
+            a.   Safety database
+            b.   Hepatic safety
+            c.   Respiratory safety
+            d.   QT prolongation
+
+        Committee Discussion: The committee’s general consensus was that oliceridine is
+        relatively safe overall. Some committee members noted that the agonist-bias that was
+        displayed appeared to have potential benefits, as providers are looking for new ways to
+        find a tailored approach to treatment of acute pain. Several members of the committee
+        expressed concerns of possible safety signals that could arise with higher doses, comorbid
+        conditions, multimodal therapy, and use of concomitant medications, including other
+        opioids, in real- world situations. One committee member noted that the decreased
+        incidence of vomiting compared to morphine was notable. In regards to hepatic safety,
+        overall, the committee was in agreement that there wasn’t much concern for a hepatic
+        safety signal. In terms of respiratory safety, some committee members made note that the
+        hypercapnic testing that was performed in young healthy volunteers does not indicate a
+        lower risk of respiratory depression compared to morphine. One member noted the
+        decreased β-arrestin activation shown in animal models is suggestive of decreased
+        respiratory depression, but other members noted limitations in the available clinical
+        data. Some committee members noted there was insufficient data on QT prolongation and
+        agreed more ECG data were needed. Other committee members agreed that real world
+
+
+
+                                                Page 5 of 6
+October 11, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Meeting
+
+        implications were unclear, as there was a disconnect between pharmacokinetic and QT
+        effects. One committee member added that although there were modest effects on QT
+        prolongation used in the thorough QT study, the effects of the 40 mg per day in the
+        proposed labeling is unknown. Several committee members expressed concerns regarding
+        the available safety database that doesn’t appear to represent what will be used in terms of
+        doses in practice or the types of patients who are anticipated to receive the drug. Please
+        see the transcript for details of the committee discussion.
+
+    3. DISCUSSION: Considering the abuse potential of oliceridine, and its proposed use for
+       acute pain in adults for whom an intravenous opioid is warranted, please discuss any
+       concerns you have regarding the impact of this product, if approved, on public health.
+
+        Committee Discussion: Overall, the committee found no superiority for abuse
+        deterrence and considered Schedule II appropriate for oliceridine. Some committee
+        members agreed that people may presume that oliceridine is a safer medication, which
+        may increase its abuse potential. One committee member added that healthcare
+        professionals managing patients with opioid use disorders may improperly perceive
+        oliceridine as safer, which could limit vigilance and amplify public health concern.
+        Another committee member added that abuse of oliceridine may lead to unforeseen
+        adverse effects with respiratory depression, hepatic pathology, and QT prolongation.
+        Please see the transcript for details of the committee discussion.
+
+    4. VOTE: Do you recommend approval of the proposed dose of oliceridine for the proposed
+       indication of the management of moderate- to-severe acute pain in adults for whom an
+       intravenous opioid is warranted. If not, what data are needed?
+
+        Vote Result:            Yes: 7           No: 8              Abstain: 0
+
+        Committee Discussion: The committee did not reach a general consensus on the
+        approval of the proposed dose of oliceridine for the proposed indication of the
+        management of moderate- to-severe acute pain in adults for whom an intravenous opioid is
+        warranted. Committee members who voted “Yes” recommended inclusion of “not safer
+        than traditional opioids” on the label and that further studies be required.
+        Considerations in favor of recommending approval included a potentially favorable PK
+        data, no active metabolites, decreased β-arrestin activation, and positive GI profile with
+        decreased nausea and vomiting. Committee members who voted “No” stated that the
+        benefit/risk profile was not favorable enough, with a need for more data regarding
+        demographic variability, including patients with comorbidities, drug interactions, and
+        real-world dosing. Some members voiced concerns that the perception of oliceridine
+        being safer may lead to increased abuse and downstream problems. Several committee
+        members discussed the need for additional data. One member suggested a study showing
+        decrease in length of hospital stay (time to discharge) as possible compelling data for
+        approval. Please see the transcript for details of the committee discussion.
+
+The meeting was adjourned at approximately 3:54 p.m.
+
+
+
+
+                                                Page 6 of 6
+

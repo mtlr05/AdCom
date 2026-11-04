@@ -1,0 +1,181 @@
+                           Food and Drug Administration
+                      Center for Drug Evaluation and Research
+
+             Summary Minutes of the Oncologic Drugs Advisory Committee
+                                    July 11, 2017
+
+Location: FDA White Oak Campus, 10903 New Hampshire Avenue, Building 31 Conference
+Center, the Great Room (Rm. 1503), , Silver Spring, Maryland.
+
+Topic: The committee discussed biologics license application (BLA) 761060, MYLOTARG
+(gemtuzumab ozogamicin) for intravenous use, submitted by Wyeth Pharmaceuticals Inc., a
+subsidiary of Pfizer Inc. The proposed indication (use) for this product is in combination therapy
+with daunorubicin (DNR) and cytarabine (AraC) for the treatment of adult patients with
+previously untreated, de novo acute myeloid leukemia (AML).
+
+These summary minutes for the July 11, 2017, meeting of the Oncologic Drugs Advisory
+Committee of the Food and Drug Administration were approved on July 31, 2017.
+
+I certify that I attended the July 11, 2017, meeting of the Oncologic Drugs Advisory Committee
+of the Food and Drug Administration and that these minutes accurately reflect what transpired.
+
+
+
+          _/s/_____________________                         ______ /s/___________________
+Jennifer Shepherd, RPh                                      Bruce J. Roth, MD
+Acting Designated Federal Officer, ODAC                     Chairperson, ODAC
+                                         Summary Minutes
+                            Oncologic Drugs Advisory Committee Meeting
+                                           July 11, 2017
+
+The following is the final report of the Oncologic Drugs Advisory Committee (ODAC) meeting held on
+July 11, 2017. A verbatim transcript will be available in approximately six weeks, sent to the Office of
+Hematology and Oncology Products and posted on the FDA website at:
+https://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/OncologicDrugsAdvisor
+yCommittee/ucm547155.htm
+
+All external requests for the meeting transcript should be submitted to the CDER Freedom of Information
+Office.
+______________________________________________________________________________
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration, Center for Drug
+Evaluation and Research met on July 11, 2017 at the FDA White Oak Campus, Building 31 Conference
+Center, the Great Room (Rm. 1503), Silver Spring, Maryland. Prior to the meeting, members and temporary
+voting members were provided copies of the briefing materials from the FDA, and Wyeth Pharmaceuticals
+Inc., a subsidiary of Pfizer Inc. The meeting was called to order by Bruce J. Roth, MD, (Chairperson). The
+conflict of interest statement was read into the record by Jennifer Shepherd, RPh (Acting Designated Federal
+Officer). There were approximately 175 people in attendance. There were two Open Public Hearing (OPH)
+speakers.
+
+Issue: The committee discussed biologics license application (BLA) 761060, MYLOTARG
+(gemtuzumab ozogamicin) for intravenous use, submitted by Wyeth Pharmaceuticals Inc., a subsidiary of
+Pfizer Inc. The proposed indication (use) for this product is in combination therapy with daunorubicin
+(DNR) and cytarabine (AraC) for the treatment of adult patients with previously untreated, de novo acute
+myeloid leukemia (AML).
+
+Attendance:
+ODAC Members Present (Voting): Grzegorz S. Nowakowski, MD; Bruce J. Roth, MD (Chairperson)
+
+ODAC Members Not Present (Voting): Harold J. Burstein, MD, PhD; Philip C. Hoffman, MD; Heidi
+D. Klepin, MD, MS; Vassilliki A. Papadimitrakopoulou, MD; Alberto S. Pappo, MD; Courtney J.
+Preusse, MA (Consumer Representative); Gregory J. Riley, MD, PhD; Brian I. Rini, MD, FACP; Alice T.
+Shaw, MD, PhD; Thomas S. Uldrick, MD, MS
+
+ODAC Member Present (Non-Voting): Phuong Khanh (P.K.) Morrow, MD, FACP
+
+Temporary Members (Voting): Andy I. Chen, MD, PhD; Bernard F. Cole, PhD; David P. Harrington,
+PhD; Anthony D. Sung, MD; Wayne Taylor, MD (Patient Representative)
+
+FDA Participants (Non-Voting): Ann T. Farrell, MD; Emily Jen, MD, PhD; Chia-Wen Ko, PhD; Jee
+Eun Lee, PhD; Richard Pazdur, MD; Donna Przepiorka, MD, PhD
+
+Acting Designated Federal Officer (Non-Voting): Jennifer Shepherd, RPh
+
+Open Public Hearing Speakers: Kristen Santiago (Cancer Support Community); Jack Mitchell (National Center
+for Health Research)
+July 11, 2017
+Oncologic Drugs Advisory Committee Meeting
+The Agenda proceeded as follows:
+
+ Call to Order and Introduction of      Bruce J. Roth, MD
+ Committee                              Chairperson, ODAC
+
+ Conflict of Interest Statement         Jennifer Shepherd, RPh
+                                        Acting Designated Federal Officer, ODAC
+
+ FDA Introductory Remarks               Donna Przepiorka, MD, PhD
+                                        Cross-Discipline Team Leader
+                                        Division of Hematology Products (DHP)
+                                        Office of Hematology and Oncology Products (OHOP)
+                                        Office of New Drugs (OND), CDER, FDA
+
+ APPLICANT PRESENTATIONS                Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.
+
+ Introduction                           Mace Rothenberg, MD
+                                        Chief Development Officer, Oncology
+                                        Global Product Development
+                                        Pfizer Inc.
+
+ AML Treatment Landscape                Richard Stone, MD
+                                        Chief of Staff and Director of the Adult Acute Leukemia
+                                        Program
+                                        Dana Farber Cancer Institute
+                                        Boston, MA
+
+ Mylotarg in Patients with Previously   Iain Webb, MD
+ Untreated De Novo AML                  Global Clinical Lead, Hematologic Malignancies
+                                        Pfizer Inc.
+
+ Mylotarg Safety Considerations         Debbie Chirnomas, MD, MPH
+                                        Mylotarg Medical Monitor
+                                        Pfizer Inc.
+
+ Mylotarg Benefit/Risk: Clinical        Jorge E. Cortes, MD
+ Perspective                            Deputy Chair in the Department of Leukemia
+                                        MD Anderson Cancer Center
+                                        University of Texas, Houston, TX
+
+ FDA PRESENTATIONS
+
+ BLA 761060: MYLOTARG                   Emily Jen, MD, PhD
+                                        Clinical Reviewer
+                                        DHP, OHOP, OND, CDER, FDA
+
+
+
+
+                                            Page 3 of 4
+July 11, 2017
+Oncologic Drugs Advisory Committee Meeting
+
+
+
+ FDA PRESENTATIONS (CONT.)
+
+ Rationale for the Fractionated          Jee Eun Lee, PhD
+ Gemtuzumab Ozogamicin (GO)              Pharmacometrics Reviewer
+ Dosing Regimen                          Division of Pharmacometrics (DPM)
+                                         Office of Clinical Pharmacology (OCP)
+                                         Office of Translational Sciences (OTS)
+                                         CDER, FDA
+
+ Efficacy Evaluation in the              Chia-Wen Ko, PhD
+ First Line AML                          Statistical Reviewer
+                                         Division of Biometrics V (DBV)
+                                         Office of Biostatistics (OB)
+                                         OTS, CDER, FDA
+
+ Safety Analysis                         Emily Jen, MD, PhD
+ Clarifying Questions
+ BREAK
+ OPEN PUBLIC HEARING
+ Questions to the Committee/Committee Discussion
+ ADJOURNMENT
+
+Question to the Committee:
+
+
+1. VOTE: Do the results of ALFA-0701 demonstrate a favorable risk:benefit for gemtuzumab
+                     2
+   ozogamicin 3 mg/m days 1, 4 and 7 added to DA for patients with newly-diagnosed CD33-
+   positive AML? Please explain the reasons for your vote.
+
+   YES: 6               NO: 1          ABSTAIN: 0
+
+   Committee Discussion: The majority of the panel voted yes, that the results of ALFA-0701
+   demonstrate a favorable risk:benefit for gemtuzumab ozogamicin (GO) 3 mg/m2 days 1, 4 and 7
+   added to DA for patients with newly-diagnosed CD33- positive AML. Many stated that event free
+   survival (EFS) is an acceptable clinical endpoint for trials of patients with newly-diagnosed AML
+   being treated with curative intent, and that the benefit of GO in terms of EFS has been proven. Two
+   panel members stated that the fractionated dosing regimen proposed by the applicant has improved
+   upon the original safety profile of GO. Two panel members stated that GO may increase quality of
+   life in those patients who experience delayed relapse as a result of treatment. The panel member that
+   voted “No” stated that for patients with adverse cytogenetics, there did not appear to be any benefit
+   and there was potential for harm due to toxicities, such as veno-occlusive disease. Please see the
+   transcript for details of the committee discussion.
+
+The meeting on July 11, 2017 was adjourned at approximately 3:26 p.m.
+
+
+
+                                              Page 4 of 4
+

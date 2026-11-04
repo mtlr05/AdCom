@@ -1,0 +1,337 @@
+                              Food and Drug Administration
+                         Center for Drug Evaluation and Research
+
+     Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                    April 30, 2026
+
+
+Location: FDA White Oak Campus, 10903 New Hampshire Ave., Bldg. 31 Conference Center,
+the Great Room (Rm. 1503), Silver Spring, Maryland. The public also had the option to
+participate via an online teleconferencing and/or video conferencing platform, and the meeting
+presentations were heard, viewed, captioned, and recorded through an online video conferencing
+platform.
+
+Topic: On the morning of April 30, 2026, the Committee discussed new drug application (NDA)
+220359, for camizestrant tablets, submitted by AstraZeneca Pharmaceuticals LP. The proposed
+indication (use) is in combination with a CDK4/6 inhibitor (palbociclib, ribociclib or
+abemaciclib) for the treatment of adult patients with hormone receptor (HR)-positive, human
+epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast
+cancer upon emergence of ESR1 mutation during first-line endocrine-based therapy, based on an
+FDA approved test.
+
+On the afternoon of April 30, 2026, the Committee discussed supplemental new drug application
+(sNDA) 218197/S-004, for Truqap (capivasertib) tablets, submitted by AstraZeneca
+Pharmaceuticals LP. The proposed indication (use) is in combination with abiraterone for the
+treatment of adult patients with metastatic hormone-sensitive prostate cancer (mHSPC) that is
+PTEN-deficient as detected by an FDA-approved test.
+
+These summary minutes for the April 30, 2026 meeting of the Oncologic Drugs Advisory
+Committee (ODAC) of the Food and Drug Administration were approved on May 26, 2026.
+
+I certify that I attended the April 30, 2026 meeting of the ODAC of the Food and Drug
+Administration and that these minutes accurately reflect what transpired.
+
+
+
+_________ /s/ __________________                 ___________/s/____________________
+Joyce Frimpong, PharmD                           Neil Vasan, MD, PhD
+Acting Designated Federal Officer, ODAC          Acting Chairperson, ODAC
+
+
+
+
+                                           Page 1 of 7
+April 30, 2026
+Oncologic Drugs Advisory Committee Meeting
+
+           Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                    April 30, 2026
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research met on April 30, 2026, at the FDA White Oak
+Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New Hampshire
+Avenue, Silver Spring, Maryland. The public also had the option to participate via an online
+teleconferencing and/or video conferencing platform, and the meeting presentations were heard,
+viewed, captioned, and recorded through an online video conferencing platform. Prior to the
+meeting, the members and temporary voting members were provided the briefing materials from
+the FDA and AstraZeneca Pharmaceuticals LP. The meeting was called to order by Dr. Neil
+Vassan (Acting Chairperson). The conflict of interest statement was read into the record by
+Joyce Frimpong, PharmD (Acting Designated Federal Officer). There were approximately 1,850
+people in attendance. There were 7 Open Public Hearing (OPH) speaker presentations during the
+morning session and 6 OPH speaker during the afternoon session.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: On the morning of April 30, 2026, the Committee discussed new drug application
+(NDA) 220359, for camizestrant tablets, submitted by AstraZeneca Pharmaceuticals LP. The
+proposed indication (use) is in combination with a CDK4/6 inhibitor (palbociclib, ribociclib or
+abemaciclib) for the treatment of adult patients with hormone receptor (HR)-positive, human
+epidermal growth factor receptor 2 (HER2)-negative, locally advanced or metastatic breast
+cancer upon emergence of ESR1 mutation during first-line endocrine-based therapy, based on an
+FDA approved test.
+
+On the afternoon of April 30, 2026, the Committee discussed supplemental new drug application
+(sNDA) 218197/S-004, for Truqap (capivasertib) tablets, submitted by AstraZeneca
+Pharmaceuticals LP. The proposed indication (use) is in combination with abiraterone for the
+treatment of adult patients with metastatic hormone-sensitive prostate cancer (mHSPC) that is
+PTEN-deficient as detected by an FDA-approved test.
+
+Attendance:
+Oncologic Drugs Advisory Committee Members Present (Voting): Toni K. Choueiri, MD;
+William J. Gradishar, MD (via video conferencing platform); Neil Vasan, MD, PhD
+
+Oncologic Drugs Advisory Committee Members Not Present (Voting): Daniel Spratt, MD
+
+Oncologic Drugs Advisory Committee Member Present (Non-Voting): Tara L. Frenkl, MD,
+MPH (Industry Representative)
+
+Temporary Members (Voting): Karla V. Ballman, PhD, FASCO; Sarah Colonna, MD, MSCI
+(Morning Session Only); Natalie Compagni- Porits, PsyD, MFT (Patient Representative;
+Morning Session Only); Paul T. Conway (Patient Representative; Afternoon Session Only; via
+video conferencing platform); Lori E. Dodd, PhD (Morning Session Only); Franklin Huang, MD,
+
+
+
+                                             Page 2 of 7
+April 30, 2026
+Oncologic Drugs Advisory Committee Meeting
+
+PhD (Afternoon Session Only); Michael J. Kelley, MD (Morning Session Only); Stanley
+Lipkowitz, MD, PhD (Morning Session Only); Brian Rini, MD (Afternoon Session Only, via
+video conferencing platform); Kyle Robinson, MD (Afternoon Session Only); Aihua Edward
+Yen, MD (Afternoon Session Only)
+
+FDA Participants (Non-Voting): R. Angelo de Claro, MD; Laleh Amiri-Kordestani, MD;
+Daniel Suzman, MD (Afternoon Session Only); Mirat Shah, MD (Morning Session Only); Elaine
+Chang, MD (Afternoon Session Only); Joshua Donaldson, MD, PhD (Morning Session Only);
+Suparna Wedam, MD (Morning Session Only); Daniel Lee, MD, PhD (Afternoon Session Only);
+Daeyoung Lim, PhD (Morning Session Only)
+
+Designated Federal Officer (Non-Voting): Joyce Frimpong, PharmD
+
+Open Public Hearing Speakers:
+Morning session: Ming- Hei Tai, PharmD; Diana Zuckerman PhD (National Center for Health
+Research); Joyce O'Shaughnessy, MD (Baylor University Medical Center/ Sarah Cannon
+Research Institute); Sarah Sammons, MD (Dana-Farber Cancer Institute); Caroline Koffke, RN
+(Living Beyond Breast Cancer (LBBC)); Kacie Flaherty; Deanna Hirsch (statement read by
+Caroline Koffke)
+Afternoon session: Diana Zuckerman, PhD (National Center for Health Research); Neeraj
+Agarwal, MD (Huntsman Cancer Institute at the University of Utah); Michael Philbin, PhD
+(Facing Our Risk of Cancer Empowered-FORCE); Neal D. Shore, MD (START CANCER
+RESEARCH/Atlantic Urology Specialists); Gina B. Carithers (Prostate Cancer Foundation
+(PCF)); Courtney Bugler (ZERO Prostate Cancer)
+__________________________________________________________________________
+
+The agenda was as follows:
+
+  Call to Order and Introduction of          Neil Vasan, MD, PhD
+  Committee                                  Acting Chairperson, ODAC
+
+  Conflict of Interest Statement             Joyce Frimpong, PharmD
+                                             Acting Designated Federal Officer, ODAC
+
+  FDA Opening Remarks                        Mirat Shah, MD
+                                             Clinical Team Leader
+                                             Division of Oncology 1 (DO1)
+                                             Office of Oncologic Diseases (OOD),
+                                             Office of New Drugs (OND), CDER, FDA
+  OPEN PUBLIC HEARING
+
+  APPLICANT PRESENTATIONS                    AstraZeneca Pharmaceuticals LP
+
+  Introduction                               Ingrid Mayer, MD, MSCI
+                                             Vice President
+                                             Global Clinical Strategy Head, Breast/GYN Cancers
+                                             Late Development Oncology, Research & Development
+                                             AstraZeneca
+
+
+
+                                             Page 3 of 7
+April 30, 2026
+Oncologic Drugs Advisory Committee Meeting
+
+
+
+
+  Disease Background & Unmet Need            Massimo Cristofanilli, MD, FACP
+                                             Scientific Director of the Englander Institute of
+                                             Precision Medicine
+                                             Weill-Cornell Medicine and NY Presbyterian
+
+  SERENA-6 Efficacy and PROs                 Cynthia Huang-Bartlett, MD
+                                             Global Clinical Head – Camizestrant
+                                             AstraZeneca
+
+  SERENA-6 Clinical Safety                   Andrew Walding, MSc
+                                             Global Safety Head – Camizestrant
+                                             AstraZeneca
+
+  Clinical Perspective                       Kevin Kalinsky, MD, MS, FASCO
+                                             Director of the Glenn Family Breast Center at Winship
+                                             Cancer Center
+                                             Emory University School of Medicine
+
+  Concluding Remarks                         Ingrid Mayer, MD MSCI
+
+  FDA PRESENTATION                           Joshua Donaldson, MD, PhD
+                                             Clinical Reviewer
+  NDA 220359 Camizestrant                    DO1, OOD, OND, CDER, FDA
+
+  BREAK
+
+  Clarifying Questions
+
+  Questions to the Committee/Committee
+  Discussion
+
+  LUNCH
+
+  Call to Order and Introduction of          Neil Vasan, MD, PhD
+  Committee                                  Acting Chairperson, ODAC
+
+  Conflict of Interest Statement             Joyce Frimpong, PharmD
+                                             Acting Designated Federal Officer, ODAC
+
+  FDA Opening Remarks                        Elaine Chang, MD
+                                             Clinical Team Leader
+                                             DO1, OOD, OND, CDER, FDA
+
+
+  OPEN PUBLIC HEARING
+
+  APPLICANT PRESENTATIONS                    AstraZeneca Pharmaceuticals LP
+
+
+
+
+                                             Page 4 of 7
+April 30, 2026
+Oncologic Drugs Advisory Committee Meeting
+
+  Introduction                               Andrew Foxley, MFPM (Hon)
+                                             Vice President
+                                             Late Development Franchise Head
+                                             Oncology Small Molecules
+                                             AstraZeneca
+
+  Disease Background & Unmet Need            Elisabeth I. Heath, MD, FACP
+                                             Chair, Department of Oncology
+                                             Professor of Oncology
+                                             Mayo Clinic
+                                             Rochester, Minnesota
+
+  CAPItello-281 Clinical Efficacy            Gaia Schiavon, MD, PhD
+                                             Global Clinical Head – Capivasertib
+                                             AstraZeneca
+
+  CAPItello-281 Clinical Safety & PROs       Mayur Patel, PharmD
+                                             Vice President
+                                             Patient Safety, Oncology
+                                             AstraZeneca
+
+  Benefit: Risk & Clinical Perspective       Daniel J. George, MD
+                                             Professor of Medicine and Surgery
+                                             Divisions of Medical Oncology and Urology
+                                             Director, Genitourinary Oncology
+                                             Duke Cancer Institute
+                                             Duke University School of Medicine
+
+  FDA PRESENTATION
+
+  Capivasertib with Abiraterone and          Daniel Lee, MD, PhD
+  Prednisone for PTEN-deficient mHSPC        Clinical Reviewer
+                                             DO1, OOD, OND, CDER, FDA
+  BREAK
+
+  Clarifying Questions
+
+  ADJOURNMENT
+
+_________________________________________________________________________
+Questions to the Committee:
+
+Morning Session
+
+1. VOTE: Based on the results of SERENA-6, has clinically meaningful benefit for
+   camizestrant been demonstrated for the treatment of patients with HR+/HER2- metastatic
+   breast cancer with a tumor ESR1 mutation detected while on aromatase inhibitor and
+   CDK4/6 inhibitor treatment, prior to radiographic progression?
+
+
+
+
+                                             Page 5 of 7
+April 30, 2026
+Oncologic Drugs Advisory Committee Meeting
+
+   Vote Result: Yes: 3                 No: 6            Abstain: 0
+
+   Committee Discussion: A majority of the Committee did not find that a clinically meaningful
+   benefit for camizestrant had been demonstrated. Committee members who voted yes
+   emphasized that the trial showed a delay in disease progression, with supportive signals in
+   other endpoints and no detriment to overall survival. They viewed the results as clinically
+   meaningful because they could delay disease progression and potentially postpone the need
+   for more toxic therapies, such as chemotherapy. These members also highlighted the
+   potential of using circulating tumor DNA (ctDNA) to identify resistance earlier, viewing this
+   as an important step forward for the field.
+
+   Committee members who voted no emphasized that there was no demonstrated overall
+   survival benefit and felt that overall survival is a critical endpoint for changing the current
+   treatment paradigm. Members also stated that the trial did not adequately answer the central
+   question of whether treating earlier based on a mutation is better than waiting for standard
+   clinical or radiographic progression. Some members said the results were difficult to interpret
+   because of how and when patients were tested, while others raised concerns about the trial
+   design, including differences in treatment after progression and the fact that intervening
+   when the biomarker was detected has not yet been proven to predict clinical benefit.
+   Members also shared concerns about the quality of the patient-reported outcomes
+   information and stated that this information was not indicative of clinical benefit.
+
+   Please see the transcript for details of the committee discussion.
+
+Afternoon Session
+
+1. VOTE: Based on the CAPItello-281 results, does the benefit of adding capivasertib to
+   abiraterone and prednisone outweigh the risk for the proposed indication?
+
+   Vote Result:        Yes: 7          No: 1            Abstain: 1
+
+   Committee Discussion: The Committee voted 7 yes, 1 no, and 1 abstention, with most
+   members supporting that the benefits of adding capivasertib to abiraterone and prednisone
+   outweighed the risks for the proposed patient population. Members who voted yes discussed
+   that the trial met its primary endpoint with a statistically significant improvement in
+   radiographic progression-free survival (rPFS), and that the demonstrated median
+   improvement in rPFS may be clinically meaningful for some patients. Some members felt
+   that the biomarker selection criteria may need more refining. Several members highlighted
+   that this would not be a treatment for every patient, but rather an additional useful option for
+   a distinct subgroup of men with metastatic prostate cancer who may benefit from a targeted
+   approach. Members also discussed the importance of patient choice and individualized
+   decision-making, noting that some patients may prefer this option over chemotherapy despite
+   the added monitoring and toxicity management requirements. Some members expressed
+   confidence that these toxicities would be manageable in real-world practice, e.g., drawing on
+   experience with immunotherapy in GU cancers and PI3K pathway inhibitors in breast cancer.
+
+
+
+                                               Page 6 of 7
+April 30, 2026
+Oncologic Drugs Advisory Committee Meeting
+
+   The one member who voted no cited concerns that the magnitude of benefit appeared
+   relatively modest compared with the toxicity burden and duration of treatment. The member
+   who abstained stated that they were divided between recognizing the statistically significant
+   efficacy signal and concerns about real-world implementation and safety monitoring.
+   Overall, while members largely agreed on the value of expanding treatment options for this
+   biomarker-defined population, differing views on the magnitude of benefit, toxicity burden,
+   and real-world implementation reflected the complexity of benefit-risk assessment.
+
+   Please see the transcript for details of the committee discussion.
+
+The meeting was adjourned at approximately 4:53 p.m.
+
+
+
+
+                                             Page 7 of 7
+

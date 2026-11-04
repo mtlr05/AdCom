@@ -1,0 +1,353 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+     Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                   May 14, 2019
+
+Location: FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.
+1503), 10903 New Hampshire Avenue, Silver Spring, Maryland
+
+Topic: During the morning session, the committee discussed new drug application (NDA)
+211810 for pexidartinib capsule, submitted by Daiichi Sankyo, Inc. The proposed indication
+(use) for this product is for the treatment of adult patients with symptomatic tenosynovial giant
+cell tumor also referred to as giant cell tumor of the tendon sheath or pigmented villonodular
+synovitis, which is associated with severe morbidity or functional limitations, and which is not
+amenable to improvement with surgery.
+
+During the afternoon session, the committee discussed new drug application (NDA) 212166 for
+quizartinib tablets, submitted by Daiichi Sankyo, Inc. The proposed indication (use) for this
+product is for the treatment of adults with relapsed or refractory acute myeloid leukemia which is
+FLT3-ITD positive, as detected by an FDA-approved test.
+
+
+These summary minutes for the May 14, 2019 Oncologic Drugs Advisory Committee (ODAC)
+meeting of the Food and Drug Administration were approved on June 5, 2019.
+
+I certify that I attended the May 14, 2019 Oncologic Drugs Advisory Committee meeting of the
+Food and Drug Administration and that these minutes accurately reflect what transpired.
+
+
+
+________/s/__________________                      _________/s/_________________
+Jennifer Shepherd, RPh                             Brian I. Rini, MD, FACP
+Acting Designated Federal Officer                  Chairperson
+ODAC                                               ODAC
+     Summary Minutes of the Oncologic Drugs Advisory Committee (ODAC) Meeting
+                                    May 14, 2019
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research, met on May 14, 2019, at the FDA White Oak Campus,
+Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New Hampshire Avenue,
+Silver Spring, Maryland. Prior to the meeting, the members and temporary voting members
+were provided the briefing materials from the FDA and Daiichi Sankyo, Inc. The meeting was
+called to order by Brian I. Rini, MD, FACP (Chairperson). The conflict of interest statement was
+read into the record by Jennifer Shepherd, RPh (Acting Designated Federal Officer). There were
+approximately 170 people in attendance during the morning session and approximately 210
+people in attendance during the afternoon session. There were four (4) Open Public Hearing
+(OPH) speaker presentations during the morning session and four (4) OPH speaker presentations
+during the afternoon session.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: During the morning session, the committee discussed new drug application (NDA)
+211810 for pexidartinib capsule, submitted by Daiichi Sankyo, Inc. The proposed indication
+(use) for this product is for the treatment of adult patients with symptomatic tenosynovial giant
+cell tumor also referred to as giant cell tumor of the tendon sheath or pigmented villonodular
+synovitis, which is associated with severe morbidity or functional limitations, and which is not
+amenable to improvement with surgery.
+
+During the afternoon session, the committee discussed new drug application (NDA) 212166 for
+quizartinib tablets, submitted by Daiichi Sankyo, Inc. The proposed indication (use) for this
+product is for the treatment of adults with relapsed or refractory acute myeloid leukemia which is
+FLT3-ITD positive, as detected by an FDA-approved test.
+
+Attendance:
+
+Oncologic Drugs Advisory Committee Members Present (Voting): Massimo Cristofanilli,
+MD, FACP (Morning Session Only); Susan Halabi, PhD; Philip C. Hoffman, MD; Heidi D.
+Klepin, MD, MS; Grzegorz S. Nowakowski, MD; Courtney J. Preusse, MA (Consumer
+Representative); Brian I. Rini, MD, FACP (Chairperson); Thomas S. Uldrick, MD, MS
+
+Oncologic Drugs Advisory Committee Member Present (Non-Voting): Phuong Khanh
+(P.K.) Morrow, MD, FACP (Industry Representative)
+
+Oncologic Drugs Advisory Committee Members Not Present (Voting): Christian S.
+Hinrichs, MD; Vassilliki A. Papadimitrakopoulou, MD; Alberto S. Pappo, MD; Gregory J.
+Riely, MD, PhD; Alice T. Shaw, MD, PhD
+
+Temporary Members (Voting): Susan Broyles (Patient Representative; Morning Session
+Only); Karim Anton Calis, PharmD, MPH, FASHP, FCCP (Morning Session Only); Sally
+Hunsberger, PhD; Valerae O. Lewis, MD (Morning Session Only); A. Michael Lincoff, MD
+
+
+                                            Page 1 of 6
+May 14, 2019
+Oncologic Drugs Advisory Committee (ODAC) Meeting
+
+
+(Afternoon Session Only); Doris Strader, MD (Morning Session Only); Anthony D. Sung, MD
+(Afternoon Session Only); Wayne Taylor, MD (Patient Representative; Afternoon Session
+Only); Victor M. Villalobos, MD, PhD (Morning Session Only); Kevin Weinfurt, PhD
+(Morning Session Only)
+
+FDA Participants (Non-Voting): Kunthel By, PhD (Afternoon Session Only); Albert
+Deisseroth, MD, PhD (Afternoon Session Only); Ann Farrell, MD (Afternoon Session Only);
+Lola Fashoyin-Aje, MD, MPH (Morning Session Only); Mallorie Fiero, PhD (Morning Session
+Only); Patricia Keegan, MD (Morning Session Only); Aviva Krauss, MD (Afternoon Session
+Only); Christy Osgood, MD (Morning Session Only); Richard Pazdur, MD; Donna Przepiorka,
+MD, PhD (Afternoon Session Only); Ashley Ward, MD (Morning Session Only)
+
+Acting Designated Federal Officer (Non-Voting): Jennifer Shepherd, RPh
+
+Open Public Hearing Speakers for the Morning Session: Peter Tesler, MD, MPH; Varuna
+Srinivasan, MBBS, MPH (National Center for Health Research); Angie Rowe (Global Genes);
+Rhoda Mercado
+
+Open Public Hearing Speakers for the Afternoon Session: Dorothy Schilder; Patricia Lewis;
+Varuna Srinivasan, MBBS, MPH (National Center for Health Research); Justin Oh and Chung
+Oh
+
+The morning session agenda proceeded as follows:
+
+ Call to Order and Introduction of           Brian I. Rini, MD, FACP
+ Committee                                   Chairperson, ODAC
+
+ Conflict of Interest Statement              Jennifer Shepherd, RPh
+                                             Acting Designated Federal Officer, ODAC
+
+ Introductory Comments                       Lola Fashoyin-Aje, MD, MPH
+                                             Cross-Discipline Team Leader
+                                             Division of Oncology Products 2 (DOP2)
+                                             Office of Hematology & Oncology Products (OHOP)
+                                             Office of New Drugs (OND), CDER, FDA
+
+ APPLICANT PRESENTATIONS                     Daiichi Sankyo, Inc.
+ Introduction                                Eric Richards, MS, MPH
+                                             Vice President Global Head Regulatory Affairs,
+                                             Oncology
+                                             Daiichi Sankyo, Inc.
+
+ TGCT Disease Background and Treatment       Nicholas Bernthal, MD
+ Landscape                                   Chief, Division of Musculoskeletal Oncology
+                                             Department of Orthopaedic Surgery
+                                             David Geffen School of Medicine at UCLA
+
+
+
+
+                                             Page 2 of 6
+May 14, 2019
+Oncologic Drugs Advisory Committee (ODAC) Meeting
+
+
+ APPLICANT PRESENTATIONS (CONT.)
+
+ Development Program and Efficacy            William D. Tap, MD
+                                             Sarcoma Medical Oncology Service Chief
+                                             Memorial Sloan Kettering Cancer Center
+
+ General Safety Assessment of Pexidartinib   Antoine Yver, MD, MSc
+                                             Executive Vice President and Global Head Oncology
+                                             R&D
+                                             Daiichi Sankyo, Inc.
+
+ Hepatic Safety                              Laurie DeLeve, MD, PhD
+                                             Professor of Medicine
+                                             University of Southern California Keck School of
+                                             Medicine
+                                             Division of Gastrointestinal and Liver Diseases
+
+ Risk Evaluation and Mitigation Strategy     Eric Richards, MS, MPH
+ (REMS)
+
+ Clinical Perspective                        William D. Tap, MD
+
+ FDA PRESENTATIONS
+
+ Background & Safety Results and Issues      Christy Osgood, MD
+                                             Clinical Reviewer
+                                             DOP2, OHOP, OND, CDER, FDA
+
+ Efficacy Results and Issues                 Mallorie Fiero, PhD
+                                             Statistics Reviewer
+                                             Division of Biometrics V (DBV)
+                                             Office of Biostatistics (OB)
+                                             Office of Translational Sciences (OTS), CDER, FDA
+
+ Clarifying Questions
+
+ BREAK
+
+ OPEN PUBLIC HEARING
+
+ Questions to the Committee/Committee Discussion
+
+ LUNCH
+
+
+
+
+                                             Page 3 of 6
+May 14, 2019
+Oncologic Drugs Advisory Committee (ODAC) Meeting
+
+
+The afternoon session agenda proceeded as follows:
+
+ Call to Order and Introduction of           Brian I. Rini, MD, FACP
+ Committee                                   Chairperson, ODAC
+
+ Conflict of Interest Statement              Jennifer Shepherd, RPh
+                                             Acting Designated Federal Officer, ODAC
+
+ Introductory Comments                       Donna Przepiorka, MD, PhD
+                                             Cross-Discipline Team Leader
+                                             Division of Hematology Products (DHP)
+                                             OHOP, OND, CDER, FDA
+
+ APPLICANT PRESENTATIONS                     Daiichi Sankyo, Inc.
+ Introduction                                Eric Richards, MS, MPH
+                                             Vice President Global Head Regulatory Affairs,
+                                             Oncology
+                                             Daiichi Sankyo, Inc.
+
+ Disease Background/Unmet Need               Mark Levis, MD, PhD
+                                             Program Co-Leader, Hematologic Malignancies and
+                                             Bone Marrow Transplant Program
+                                             Director, Adult Leukemia Service
+                                             Johns Hopkins Sidney Kimmel Comprehensive Cancer
+                                             Center
+
+ Clinical Development and Efficacy           Jorge Cortes, MD
+                                             Deputy Chair and Professor of Medicine
+                                             Department of Leukemia
+                                             MD Anderson Cancer Center
+
+ Safety                                      Youngsook Choi, MD
+                                             Executive Director, Clinical Safety
+                                             Daiichi Sankyo, Inc.
+
+ Clinical Perspective                        Jorge Cortes, MD
+
+ FDA PRESENTATIONS
+
+ Introduction and Efficacy Review            Kunthel By, PhD
+                                             Statistical Reviewer
+                                             DBV, OB, OTS, CDER, FDA
+
+ Safety Review and Summary                   Aviva Krauss, MD
+                                             Clinical Reviewer
+                                             DHP, OHOP, OND, CDER, FDA
+
+ Clarifying Questions
+
+
+
+
+                                             Page 4 of 6
+May 14, 2019
+Oncologic Drugs Advisory Committee (ODAC) Meeting
+
+
+ BREAK
+
+ OPEN PUBLIC HEARING
+
+ Questions to the Committee/Committee Discussion
+
+ ADJOURNMENT
+
+
+Questions to the Committee:
+
+Morning Session: NDA 211810; Pexidartinib
+
+1. DISCUSSION: Discuss whether the benefits of pexidartinib, as characterized by a clinically
+   meaningful reduction in tumor burden and an improvement in range of motion, outweigh its
+   risk of hepatoxicity.
+
+   Committee Discussion: Many committee members stated that pexidartinib demonstrated
+   benefit as measured by response rate; however, many felt that although the patient-reported
+   outcomes also represented benefit, there is less certainty in the magnitude of effect due to
+   missing data. The committee members discussed that there is a clear benefit to some
+   individual patients, but that the evidence is less clear regarding benefit at a population level.
+   The committee members discussed that there is concern about hepatotoxicity and that a Risk
+   Evaluation and Mitigation Strategy (REMS) is needed to educate prescribers and further
+   eavluate this risk. The committee members also discussed the number of open questions
+   regarding this drug, given the relatively small sample size due to the rarity of the disease.
+   These questions included whether the optimal dose and duration of therapy had been
+   selected given the risk of hepatotoxicity. Please see the transcript for details of the
+   Committee discussion.
+
+2. VOTE: Does the demonstrated benefit of pexidartinib outweigh the risks of the drug in the
+   proposed indication?
+
+   Vote Result:        Yes: 12        No: 3            Abstain: 0
+
+   Committee Discussion: The majority of the committee agreed that the demonstrated benefit
+   of pexidartinib outweighs the risks of the drug in the proposed indication. Several committee
+   members who voted “Yes” emphasized the lack of treatment options for patients with TGCT
+   as a factor for their vote. Those voting “No” stated concerns over liver toxicity, proper use
+   in clinical practice, and the possibility that pexidartinib may be used in patients for whom
+   surgerical resection is appropriate. Please see the transcript for details of the Committee
+   discussion.
+
+
+
+
+                                              Page 5 of 6
+May 14, 2019
+Oncologic Drugs Advisory Committee (ODAC) Meeting
+
+
+Afternoon Session: NDA 212166; Quizartinib
+
+1. DISCUSSION: Please discuss whether the results of the OS analysis of Study AC220-007
+   are persuasive evidence of effectiveness of quizartinib and the reasons for your opinion.
+
+   Committee Discussion: The committee members discussed the uncertainty that remains
+   around the overall survival (OS) analysis and the question of benefit and magnitude of
+   benefit. Several committee members stated that the high drop-out rates and the lack of follow
+   up in those patients are very concerning. The committee also discussed concerns about the
+   uncertainty of clinical benefit of other non-standard endpoints such as increased transplant
+   rates and CRi (complete remission with incomplete hematologic recovery).. Please see the
+   transcript for details of the Committee discussion.
+
+2. DISCUSSION: Please discuss the feasibility and adequacy of a) a contra-indication for use
+   with drugs that prolong QT via the complementary IKr channel and b) a recommendation for
+   administration of beta-blockers to prevent arrythmias as means to reduce the risk of life-
+   threatening and fatal cardiac events resulting from IKs blockade if quizartinib is marketed.
+
+   Committee Discussion: Committee members voiced the opinion that it would be acceptable
+   to advise prescribers of the risk of using QT prolonging drugs with quizartinib, but a
+   contraindication for use with QT prolonging drugs is not warranted, since in the current era
+   of targeted therapies, oncologists are expereienced with managing patients on drugs with QT
+   prolonging effects. Additionally, the Committee indicated a relatively low concern over the
+   risk of QT prolongation with the administration of quizartinib for patients with relapsed or
+   refractory AML who would have no other treatment options, The committee also discussed
+   advising the administration of beta blockers to prevent arrhythmias was not something that
+   should be blanketly recommended. Please see the transcript for details of the Committee
+   discussion.
+
+3. VOTE: Do the results of Study AC220-007 demonstrate that treatment with quizartinib
+   provides for a benefit that outweighs the safety risks for patients with relapsed or refractory
+   FLT3-ITD-positive AML?
+
+   Vote Result:        Yes: 3         No: 8            Abstain: 0
+
+   Committee Discussion: The majority of the committee members voted “No” that the results
+   of Study AC220-007 did not demonstrate that treatment with quizartinib provides for a
+   benefit that outweighs the safety risk for patients with relapsed or refractory FLT3-ITD-
+   positive AML. Two committee members stated that the type of information from the trial was
+   similar to that typically provided by a Phase II trial and that additional study is needed to
+   demonstrate clinical benefit. Many committee members stated that the difference in patients
+   randomized but not treated in the control arm vs. the quizartinib arm and the potential bias
+   that this presented was very concerning. One member who voted “Yes” stated that there is
+   potential for risk with QT prolongation, but that it wasn’t clearly seen. Please see the
+   transcript for details of the Committee discussion.
+   The meeting was adjourned at approximately 4:45 p.m.
+
+
+                                              Page 6 of 6
+

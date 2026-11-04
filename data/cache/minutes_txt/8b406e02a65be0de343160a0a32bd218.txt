@@ -1,0 +1,266 @@
+August 31, 2020
+Pulmonary-Allergy Drugs Advisory Committee (PADAC) Meeting
+
+                                Food and Drug Administration
+                           Center for Drug Evaluation and Research
+
+  Final Summary Minutes of the Pulmonary-Allergy Drugs Advisory Committee Meeting
+                                   August 31, 2020
+
+Location: Please note that due to the impact of the COVID-19 pandemic, all meeting
+participants joined this advisory committee meeting via an online teleconferencing platform.
+
+Topic: The Committee discussed supplemental new drug application 209482/S-008, for
+TRELEGY ELLIPTA, a fixed-dose combination (fluticasone furoate, umeclidinium, and
+vilanterol inhalation powder oral inhalation), submitted by GlaxoSmithKline, for the following
+proposed labeling claim: Reduction in all-cause mortality in patients with chronic obstructive
+pulmonary disease (COPD). The focus of the discussion was on the efficacy data submitted to
+support the proposed labeling claim, including the results from the Informing the Pathway of
+COPD Treatment (IMPACT) trial and the influence of inhaled corticosteroid (ICS) withdrawal
+on the results.
+
+These summary minutes for the August 31, 2020 meeting of the Pulmonary-Allergy Drugs
+Advisory Committee of the Food and Drug Administration were approved on November 17,
+2020.
+
+I certify that I attended the August 31, 2020 meeting of the Pulmonary-Allergy Drugs Advisory
+Committee of the Food and Drug Administration and that these minutes accurately reflect what
+transpired.
+
+
+
+__________ __/s/________________                   _____________/s/___ ___________
+Philip Bautista, PharmD                            James Stoller, MD
+Acting Designated Federal Officer, PADAC           Acting Chairperson, PADAC
+August 31, 2020
+Pulmonary-Allergy Drugs Advisory Committee (PADAC) Meeting
+
+                   Final Summary Minutes of the Pulmonary-Allergy Drugs
+                           Advisory Committee (PADAC) Meeting
+                                     August 31, 2020
+
+The Pulmonary-Allergy Drugs Advisory Committee (PADAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research met on August 31, 2020. The meeting
+presentations were heard, viewed, captioned, and recorded through an online teleconferencing
+platform. Prior to the meeting, the members and temporary voting members were provided the
+briefing materials and pre-recorded presentations from the FDA and GlaxoSmithKline. The
+meeting was called to order by James K. Stoller, MD, MS (Acting Chairperson). The conflict of
+interest statement was read into the record by Philip Bautista, PharmD (Acting Designated
+Federal Officer). There were approximately 350 people online. There were a total of two Open
+Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The Committee discussed supplemental new drug application 209482/S-008, for
+TRELEGY ELLIPTA, a fixed-dose combination (fluticasone furoate, umeclidinium, and
+vilanterol inhalation powder oral inhalation), submitted by GlaxoSmithKline, for the following
+proposed labeling claim: Reduction in all-cause mortality in patients with chronic obstructive
+pulmonary disease (COPD). The focus of the discussion was on the efficacy data submitted to
+support the proposed labeling claim, including the results from the Informing the Pathway of
+COPD Treatment (IMPACT) trial and the influence of inhaled corticosteroid (ICS) withdrawal
+on the results.
+
+Attendance:
+PADAC Members Present (Voting): Emma H. D’Agostino, BS (Consumer Representative);
+Scott E. Evans, MD, FCCP, ATSF; John M. Kelso, MD; Gailen D. Marshall Jr., MD, PhD,
+FACP; Susanne May, PhD; Carrie A. Redlich, MD, MPH; James M. Tracy, DO
+
+PADAC Members Not Present (Voting): David H. Au, MD, MS; Brian T. Garibaldi, MD,
+PhD; Edwin H. Kim, MD; Loretta G. Que, MD
+
+PADAC Member Present (Non-Voting): Dawn M. Carlson, MD, MPH (Industry
+Representative)
+
+Temporary Members (Voting): Paula Carvalho, MD, FCCP; Lori E. Dodd, PhD; Susan S.
+Ellenberg, PhD; Patricia Lupole (Patient Representative); Francis X. McCormack, MD;
+Benjamin Medoff, MD; Steven D. Shapiro, MD; James K. Stoller, MD, MS (Acting
+Chairperson)
+
+FDA Participants (Non-Voting): Sally Seymour, MD; Banu Karimi-Shah, MD; Robert Busch,
+MD, MMSC; Yongman Kim, PhD; Susan Duke, MS, MS
+
+Acting Designated Federal Officer (Non-Voting): Philip Bautista, PharmD
+August 31, 2020
+Pulmonary-Allergy Drugs Advisory Committee (PADAC) Meeting
+
+Open Public Hearing Speakers: MeiLan Han, MD; Meg Seymour, PhD (National Center for
+Health Research)
+____________________________________________________________________________
+
+The agenda was as follows:
+
+  Call to Order and Introduction of          James K. Stoller, MD, MS
+  Committee                                  Acting Chairperson, PADAC
+
+  Conflict of Interest Statement             Philip Bautista, PharmD
+                                             Acting Designated Federal Officer, PADAC
+
+  FDA Introductory Remarks                   Banu A. Karimi-Shah, MD
+                                             Deputy Director
+                                             Division of Pulmonology, Allergy, and Critical
+                                             Care, Office of Immunology and Inflammation
+                                             Office of New Drugs, CDER, FDA
+
+  APPLICANT PRESENTATION                     GlaxoSmithKline
+
+  Request to Amend the TRELEGY™              C. Elaine Jones, PhD
+  ELLIPTA® Label to Include Data on          Medicine Development Leader
+  the Reduction in Risk of All-Cause         Trelegy COPD
+  Mortality in Patients with COPD            GlaxoSmithKline
+
+  Clarifying Questions to the Applicant
+
+  FDA PRESENTATION
+
+  FDA Summary Presentation                   Banu A. Karimi-Shah, MD
+
+  Clarifying Questions to the FDA
+
+  LUNCH
+
+  Open Public Hearing
+
+  Questions to the Committee/Committee
+  Discussion
+
+  ADJOURNMENT
+
+_____________________________________________________________________________
+August 31, 2020
+Pulmonary-Allergy Drugs Advisory Committee (PADAC) Meeting
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the persuasiveness of the data in the IMPACT trial to support the
+   claim that fluticasone furoate, as a component of TRELEGY ELLIPTA, improves all-cause
+   mortality in chronic obstructive pulmonary disease (COPD). Include the following elements
+   in your discussion:
+
+       a. The exploratory nature of the all-cause mortality (ACM) analysis, the lack of Type I
+          error control, and the strength of evidence in IMPACT
+       b. Whether the ACM results from IMPACT are persuasive in light of the additional
+          ACM data from fluticasone comparisons provided by SUMMIT and TORCH
+       c. The observed timeframe of the IMPACT results, i.e., the early separation in survival
+
+   Committee Discussion: Overall, the Committee agreed that the IMPACT trial data were not
+   persuasive enough to support the claim that fluticasone furoate, as a component of
+   TRELEGY ELLIPTA, improves all-cause mortality (ACM) in chronic obstructive pulmonary
+   disease. Some of the committee members re-emphasized the exploratory nature of the ACM
+   analysis given that IMPACT was not specifically designed to evaluate ACM. The committee
+   members agreed that the nominal p-value of 0.042 was not persuasive as there was a large
+   number of exploratory endpoints and a lack of type I error (multiplicity) control. The
+   Committee agreed that the additional ACM data from fluticasone comparisons provided by
+   SUMMIT and TORCH were not supportive of a mortality benefit attributable to the addition
+   of fluticasone products from the comparisons that isolated the contribution of the ICS. Many
+   of the committee members supported the contention that the observed difference in mortality
+   within approximately 90 days was likely due to harm from ICS removal rather than a benefit
+   of TRELEGY ELLIPTA. However, the Committee was divided on whether this observed
+   separation could also suggest a hypothesis that a subset of patients with uncontrolled COPD
+   might receive a benefit from the addition of ICS drugs (i.e., the contention that harm after the
+   removal of the drug class would inform the hypothesis of benefit after addition of the drug
+   class). The Committee expressed difficulty in hypothesizing a potential mechanism behind
+   this observed separation that would justify a claim of benefit from TRELEGY ELLIPTA
+   rather than a negative effect of ICS removal in the trial. One committee member emphasized
+   that there are many phenotypes in COPD and this separation may be due to different effects
+   in different subgroups. Please see the transcript for details of the Committee’s discussion.
+
+2. DISCUSSION: Discuss the implications of pre-study inhaled corticosteroid (ICS) use and
+   ICS-removal on the interpretation of the ACM data in the IMPACT trial. Include the
+   following elements in your discussion:
+
+       a. The clinical understanding of the contribution of ICS to COPD therapy and the
+          effects of ICS removal in patients with uncontrolled COPD and frequent
+          exacerbations
+       b. The implications of randomization to study drugs that do not contain ICS among
+          patients with uncontrolled COPD despite pre-study ICS therapy
+August 31, 2020
+Pulmonary-Allergy Drugs Advisory Committee (PADAC) Meeting
+
+       c. The observed timeframe of the IMPACT results, i.e., the early separation in survival
+       d. The pre-study ICS subgroup data from SUMMIT and TORCH, in light of the
+          differences from IMPACT in study design and patient population
+
+   Committee Discussion: The Committee agreed that, in current practice, clinicians would not
+   typically remove ICS from the treatment regimens of patients with uncontrolled COPD with a
+   history of exacerbations as was done in the IMPACT study. As such, it was noted that
+   randomization to a study arm that did not contain ICS in this patient population should not
+   have happened given current knowledge and practice. The committee members
+   acknowledged that at the time that this study was designed, this design may have seemed
+   acceptable. Regarding the early separation in survival, the Committee noted that the data
+   were not conclusive as to whether this was ascribable to withdrawal of ICS. However, one
+   committee member noted that it was hard to identify any other plausible mechanism for the
+   observed results; furthermore, another committee member noted that it was very difficult to
+   discount the possibility that this separation was attributable to anything other than the
+   adverse impact of ICS removal. Some committee members also suggested that the observed
+   results might generate a hypothesis for a benefit of FF/UMEC/VI triple therapy in a certain
+   subset of patients with uncontrolled COPD. Multiple committee members also noted that
+   harm after withdrawing ICS may not be tantamount to a benefit after adding ICS, and that
+   the data from IMPACT are limited in their ability to show a benefit after adding ICS.
+   Multiple members also noted that making the leap from TRELEGY ELLIPTA’s labeled
+   severe exacerbation benefit to a claim of mortality benefit must be approached with caution
+   and supported by substantial data. Committee members acknowledged that the pre-study
+   medication subgroup data from SUMMIT and TORCH were very material to these concerns
+   regarding ICS removal. In addition, one committee member emphasized the difference in
+   treatment comparisons between IMPACT, SUMMIT, and TORCH, and highlighted that
+   fluticasone furoate and fluticasone propionate have differing levels of potency. Please see the
+   transcript for details of the Committee’s discussion.
+
+3. DISCUSSION: Discuss the generalizability of the IMPACT ACM data to relevant clinical
+   practice decisions about fluticasone furoate (FF) as add-on therapy in COPD. Include the
+   following elements in your discussion:
+
+       a. The clinical relevance and persuasiveness of the ACM results from fluticasone
+          comparisons among the ICS-naïve subgroups of IMPACT, SUMMIT, and TORCH
+       b. The clinical relevance of data from the pre-study ICS subgroup to inform decisions
+          regarding the addition of FF
+       c. The clinical relevance of the IMPACT trial design and its ability to assess the benefit
+          of adding FF
+       d. The clinical implications of the proposed labeling claim in light of the submitted data
+August 31, 2020
+Pulmonary-Allergy Drugs Advisory Committee (PADAC) Meeting
+
+   Committee Discussion: The committee members agreed that the majority of the patients who
+   entered the study may have already been appropriately prescribed pre-study ICS (i.e. at
+   baseline). It was noted that those patients who were previously prescribed ICS before
+   entering the study had worse outcomes when ICS was removed, and that those patients who
+   were not previously on ICS did not have better outcomes. The Committee stated that the data
+   from the pre-study ICS subgroup could not be used to inform decisions regarding the benefit
+   of adding of FF. Regarding the clinical relevance of the IMPACT trial design, the Committee
+   agreed that IMPACT was not adequately designed to isolate the benefit of adding FF in this
+   patient population since many were already prescribed ICS at baseline. When addressing the
+   clinical implication of the proposed labeling claim, some members stated that the proposed
+   labeling would create the impression that there is a survival benefit conferred by TRELEGY
+   ELLIPTA when there is still uncertainty about whether the study results are due to the
+   withdrawal of ICS or due to TRELEGY ELLIPTA. Some members expressed concern that the
+   labeling could lead to inappropriate use. Given this, another member added their concern
+   about the risk for pneumonia with TRELEGY ELLIPTA due to the potency of the ICS
+   component. One member stated that if the proposed labeling were to move forward, the last
+   sentence of the proposed labeling should be edited to emphasize that there was no
+   demonstrable difference in the non-ICS subgroup rather than that “the evaluation of all-
+   cause mortality was limited by the small sample size.” Please see the transcript for details of
+   the Committee’s discussion.
+
+4. VOTE: Do the data from the IMPACT trial provide substantial evidence of efficacy to
+   support the claim that TRELEGY ELLIPTA improves all-cause mortality in patients with
+   COPD?
+
+       a. If no, what further data are needed?
+
+   Vote Result:        Yes: 1         No: 14          Abstain: 0
+
+   Committee Discussion: An overwhelming majority of the committee members agreed that the
+   data from the IMPACT trial did not provide substantial evidence of efficacy to support the
+   claim that TRELEGY ELLIPTA improves all-cause mortality in patients with COPD. Some
+   members stated that the data were suggestive but not definitive. The members who voted
+   “No” agreed that the survival difference was likely due to the adverse impact of ICS
+   withdrawal rather than the addition of TRELEGY ELLIPTA and that the data did not meet
+   the evidentiary standard. Many of these committee members also noted concerns regarding
+   type I error control (multiplicity) of the all-cause mortality analyses. Some members
+   reiterated that a step-up therapy trial would be the ideal design but they re-acknowledged
+   the difficulty of such a trial. The member who voted “Yes” noted the benefit of the
+   compliance with this combination product and the difficulties enrolling ICS naïve patients in
+   this study. Please see the transcript for details of the Committee’s discussion.
+
+The meeting was adjourned at approximately 3:55 p.m. Eastern Time.
+

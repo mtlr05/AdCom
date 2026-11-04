@@ -1,0 +1,285 @@
+                              Food and Drug Administration
+                         Center for Drug Evaluation and Research
+
+ Final Summary Minutes of the Pulmonary-Allergy Drugs Advisory Committee Meeting
+                                   May 11, 2023
+
+
+Location: Please note that due to the impact of the COVID-19 pandemic, all meeting
+participants joined this advisory committee meeting via an online teleconferencing platform.
+
+Topic: The committee discussed new drug application (NDA) 214697, for epinephrine nasal
+spray, submitted by ARS Pharmaceuticals Inc., for the proposed indication of emergency
+treatment of allergic reactions (Type I) including anaphylaxis in adults and children ≥ 30
+kilograms.
+
+
+These summary minutes for the May 11, 2023 meeting of the Pulmonary-Allergy Drugs
+Advisory Committee (PADAC) of the Food and Drug Administration were approved on
+July 6, 2023.
+
+I certify that I attended the May 11, 2023 meeting of the PADAC of the Food and Drug
+Administration and that these minutes accurately reflect what transpired.
+
+
+
+
+__________ _/s/________________                   ____________/s/________________
+Takyiah Stevenson, PharmD                         David H. Au, MD, MS
+Designated Federal Officer, PADAC                 Chairperson, PADAC
+
+
+
+
+                                           Page 1 of 6
+May 11, 2023
+Pulmonary-Allergy Drugs Advisory Committee Meeting
+
+ Final Summary Minutes of the Pulmonary-Allergy Drugs Advisory Committee Meeting
+                                  May 11, 2023
+
+The Pulmonary-Allergy Drugs Advisory Committee, Center for Drug Evaluation and Research,
+met on May 11, 2023. The meeting presentations were heard, viewed, captioned, and recorded
+through an online teleconferencing platform. Prior to the meeting, the members and temporary
+voting members were provided the briefing materials from the FDA and ARS Pharmaceuticals
+Inc. The meeting was called to order by David H. Au, MD, MS. The conflict-of-interest
+statement was read into the record by Takyiah Stevenson, PharmD (Designated Federal Officer).
+There were approximately 3499 people viewing the meeting. There was a total of 20 Open
+Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda:
+The committee discussed new drug application (NDA) 214697, for epinephrine nasal spray,
+submitted by ARS Pharmaceuticals Inc., for the proposed indication of emergency treatment of
+allergic reactions (Type I) including anaphylaxis in adults and children ≥ 30 kilograms.
+
+Attendance:
+
+Pulmonary-Allergy Drugs Advisory Committee Members (Voting):
+David H. Au, MD, MS (Chairperson); Leonard B. Bacharier, MD; Scott E. Evans, MD, FCCP,
+ATSF; Fernando Holguin, MD, MPH; John M. Kelso, MD; Janet S. Lee, MD, ATSF; Susanne
+May, PhD; James M. Tracy, DO
+
+Pulmonary-Allergy Drugs Advisory Committee Member Not Present (Voting):
+Emma H. D’Agostino, PhD; Brian T. Garibaldi, MD, PhD; Edwin H. Kim, MD, MS
+
+Pulmonary-Allergy Advisory Committee Member (Non-Voting):
+Dawn M. Carlson, MD, MPH (Industry Representative)
+
+Temporary Members (Voting):
+Maryann Amirshahi, PharmD, MD, MPH, PhD; Javed Butler, MD, MPH, MBA; Thomas
+Dowling, PharmD, PhD, FCCP; Mark S. Dykewicz, MD; Paul A. Greenberger, MD; Collin
+Hovinga, PharmD, MS, FCCP; Bridgette L. Jones, MD, MSc, FAAAAI, FAAP; Jennifer Le,
+PharmD, MAS; Lewis S. Nelson, MD, MBA; Michael R. Nelson, MD, PhD; David B. Peden,
+MD, MS, FAAAAI; Karen Schell DHSc, RRT, RRT-RPFT, RRT-SDS, RPSGT, AE-C, CTTS
+(Acting Consumer Representative); Jennifer Schwartzott, MS (Patient Representative); James
+Troendle, PhD
+
+FDA Participants (Non-Voting):
+Sally Seymour, MD; Kelly Stone, MD, PhD; Jennifer Lan, MD; Miya Paterniti, MD; Yunzhao
+Ren, MD, PhD; Qianni Wu, PharmD
+
+
+
+                                              Page 2 of 6
+May 11, 2023
+Pulmonary-Allergy Drugs Advisory Committee Meeting
+
+Designated Federal Officer (Non-Voting): Takyiah Stevenson, PharmD
+
+Open Public Hearing Speakers Present:
+Mark Lepore, MD, FAAAAI; Christine Creter; Thomas O’Rourke; Amanda Bee; Lianne
+Mandelbaum (No Nut Traveler, Inc.); Anne Ellis, MD MSc FRCPC; Nancy DeMore, MD,
+FACS; Stacey Saiontz and Jared Saiontz; Elani Wiest, PhD; Rachel Richardson;
+Sung Poblete, PhD, RN (Food Allergy Research & Education); Charmayne Anderson (Allergy &
+Asthma Network); Kelly Cleary; Priscilla Hernandez and Zacky Muñoz; Ashley Koranteng;
+Melanie Carver (Asthma and Allergy Foundation of America); Michelle Cades;
+Talia Day and Zachary Day; Dana Wallace, MD; Ruchi Gupta, MD, MPH
+
+The agenda was as follows:
+
+ Call to Order                              David Au, MD, MS
+                                            Chairperson, PADAC
+
+ Introduction of Committee and              Takyiah Stevenson, PharmD
+ Conflict of Interest Statement             Designated Federal Officer, PADAC
+
+ FDA Introductory Remarks                   Miya Paterniti, MD
+                                            Clinical Team Leader
+                                            Division of Pulmonology, Allergy, and Critical Care
+                                            (DPACC)
+                                            Office of Immunology and Inflammation (OII)
+                                            Office of New Drugs (OND), CDER, FDA
+
+ APPLICANT P RESENTATIONS                   ARS Pharmaceuticals Inc.
+
+ Introduction                               Richard Lowenthal, MSc, MSEL
+                                            CEO, President and Co-Founder
+                                            ARS Pharmaceuticals Inc.
+
+ Unmet Need in Use of Epinephrine           Thomas Casale, MD
+                                            Professor of Medicine and Pediatrics
+                                            Director, Division of Allergy & Immunology
+                                            University of South Florida
+
+ neffy Development Rationale:               Sarina Tanimoto, MD, PhD
+ Pharmacokinetic (PK),                      ARS Pharmaceuticals Inc.
+ Pharmacodynamic (PD) and Safety Data       Chief Medical Officer
+
+ Clinical Perspective and Conclusion        John Oppenheimer, MD
+                                            Clinical Professor of Medicine
+                                            Director, Clinical Research Pulmonary & Allergy
+                                            University of Medicine and Dentistry of New Jersey
+                                            (UMDNJ) – Rutgers University
+
+ Clarifying Questions to the Applicant
+
+ BREAK
+
+                                              Page 3 of 6
+May 11, 2023
+Pulmonary-Allergy Drugs Advisory Committee Meeting
+
+ FDA P RESENTATIONS
+
+ Overview of the Clinical Program           Jennifer Lan, MD
+                                            Medical Officer
+                                            DPACC, OII, OND, CDER, FDA
+
+ Overview of the Clinical Pharmacology      Qianni Wu, PharmD
+ Data                                       Clinical Pharmacology Reviewer
+                                            Division of Inflammation and Immune Pharmacology
+                                            Office of Clinical Pharmacology
+                                            Office of Translational Sciences, CDER, FDA
+
+ Clinical Considerations and Risk/Benefit   Jennifer Lan, MD
+
+ LUNCH
+
+ OPEN PUBLIC HEARING
+
+ Clarifying Questions to the FDA
+
+ BREAK
+
+ Charge to the Committee                    Miya Paterniti, MD
+
+ Questions to the Committee/Committee Discussion
+
+ ADJOURNMENT
+
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the pharmacokinetic/pharmacodynamic (PK/PD) approach for
+   establishing efficacy for ARS-1 (epinephrine nasal spray) for the emergency treatment of
+   allergic reactions (Type I) including anaphylaxis, specifically:
+
+       a. The PK-bracketing approach using approved epinephrine injection products.
+
+       b. The relevant PK/PD parameters to support clinical efficacy for the intended
+          indication, including the significance of the following findings:
+
+               •   The diminished PK/PD sustainability in subjects with allergen-induced nasal
+                   congestion compared to epinephrine injection products and lack of data from
+                   repeat dosing under allergen-induced nasal congestion conditions.
+
+               •   The different PK comparisons of single-dose ARS-1 and Adrenalin in the first
+                   10 minutes for Study EPI 15, EPI 16 (without allergen-induced nasal
+                   congestion), and EPI 17.
+
+
+
+                                              Page 4 of 6
+May 11, 2023
+Pulmonary-Allergy Drugs Advisory Committee Meeting
+
+       c. The uncertainty of translation of PK/PD results from healthy subjects and subjects
+          with allergen-induced nasal congestion to patients with anaphylaxis, and whether
+          clinical data are needed.
+
+    Committee Discussion: Overall, the committee members provided a variety of input on
+    whether the PK/PD approach was sufficient for establishing efficacy for ARS-1 (epinephrine
+    nasal spray) for the emergency treatment of Type I allergic reactions, including anaphylaxis.
+    Some members stated that the PD data were compelling as they demonstrated comparable to
+    higher systemic responses for ARS-1 when compared to injectable epinephrine products in
+    healthy subjects, and a similar trend is expected in patients with anaphylaxis. Some members
+    stated that the diminished PK of ARS-1 in allergen induced nasal congestion conditions may
+    be over-interpreted and the systemic epinephrine exposures were still likely within the
+    therapeutic range despite that the PK dropped below the injectable comparator arm after
+    around 20 minutes post-dose. Several members stated that the variable and inconsistent PK
+    profile of ARS-1 in the first 10 minutes of administration decreased their confidence that
+    minimum effective plasma concentrations were reached in a timely manner. Other members
+    expressed concern that the PK/PD data may not translate to clinical outcomes and
+    recommended that clinical data be collected. Members suggested potential clinical trial
+    designs, including studies on patients on oral immunotherapy, patients undergoing food
+    allergy challenges, utilizing injectable epinephrine as backup. Please see the transcript for
+    details of the Committee’s discussion.
+
+
+2. VOTE: Do the PK/PD results support a favorable benefit-risk assessment for ARS-1 in
+   adults for the emergency treatment of allergic reactions (Type I) and anaphylaxis?
+
+           a. If not, what additional data are needed?
+
+    Vote Result:       Yes: 16       No: 6       Abstain: 0
+
+    Committee Discussion: The majority (16) of committee members voted “Yes,” reflecting
+    agreement that the PK/PD results support a favorable benefit-risk assessment for ARS-1 in
+    adults for the emergency treatment of allergic reactions (Type I) and anaphylaxis. These
+    members acknowledged the unmet need of a needle-free delivery system for epinephrine and
+    stated that the in general, PD profile, more so than the PK profile, demonstrated a favorable
+    benefit-risk assessment. They recommended a robust post-marketing surveillance program to
+    further assess benefit-risk in adults. The six members who voted “No” expressed concerns
+    regarding the limitations of translating PK/PD data from healthy subjects to patients with
+    anaphylaxis, the lack of clinical outcomes data, and the inconsistent and lower PK data
+    within the first 10 minutes of ARS-1 administration, especially compared to EpiPen, which is
+    a product that is most commonly used in the community setting. Some of these members also
+    noted that higher doses should be explored and that ARS-1 would be administered in a
+    community setting, so the risks of lack of efficacy were high. These members recommended
+
+
+                                              Page 5 of 6
+May 11, 2023
+Pulmonary-Allergy Drugs Advisory Committee Meeting
+
+    additional studies be conducted to collect clinical outcomes data to better characterize
+    benefit-risk ratio. These members also acknowledged the unmet need of a needle-free
+    delivery device for epinephrine; however, they agreed that epinephrine auto-injectors
+    currently on the market are effective and administration is manageable. Please see the
+    transcript for details of the Committee’s discussion.
+
+
+3. VOTE: Do the PK/PD results support a favorable benefit-risk assessment for ARS-1 in
+   children (<18 years of age) ≥30 kg for the emergency treatment of allergic reactions (Type I)
+   and anaphylaxis?
+
+           a. If not, what additional data are needed?
+
+    Vote Result:      Yes: 17       No: 5       Abstain: 0
+
+    Committee Discussion: The majority (17) of the committee members voted “Yes” that the
+    PK/PD results support a favorable benefit-risk assessment for ARS-1 in children (<18 years
+    of age) ≥30 kg for the emergency treatment of allergic reactions (Type I) and anaphylaxis.
+    Members again acknowledged the unmet need of a needle-free delivery device for
+    epinephrine and emphasized a greater need in the pediatric population. These members
+    agreed that, if approved, ARS-1 would address the logistical issues that occur with injectable
+    products such as delays, hesitancy, and refusals. These members acknowledged that the low
+    number of pediatric patients enrolled in the study was of concern. As a result, members
+    recommended a robust post-marketing surveillance program to further assess benefit-risk,
+    including risks surrounding inappropriate use and ingestion. The five members who voted
+    “No” stated that the pediatric data were less robust than the adult data and also highlighted
+    the low number of enrolled pediatric patients. These members highlighted that children are
+    a vulnerable population and advised that additional studies be conducted if feasible. Please
+    see the transcript for details of the Committee’s discussion.
+
+
+The meeting was adjourned at approximately 6:13 p.m. ET on May 11, 2023.
+
+
+
+
+                                              Page 6 of 6
+

@@ -1,0 +1,503 @@
+                                Food and Drug Administration
+                           Center for Drug Evaluation and Research
+
+                    Final Summary Minutes of the Joint Meeting of the
+           Anesthetic and Analgesic Drug Products Advisory Committee and the
+                 Drug Safety and Risk Management Advisory Committee
+                                    January 15, 2020
+
+Location: FDA White Oak Campus, Building 31 Conference Center, The Great Room (Rm.
+1503), 10903 New Hampshire Ave, Silver Spring, Maryland.
+
+Topic: During the morning session, the committees discussed new drug application (NDA)
+213426, for tramadol 44 milligrams (mg) and celecoxib 56 mg tablet, which contains a fixed-
+dose combination of an opioid and a non-steroid anti-inflammatory drug, submitted by Esteve
+Pharmaceuticals, S.A., for the management of acute pain in adults that is severe enough to
+require an opioid analgesic and for which alternative treatments are inadequate. The committees
+were asked to discuss the safety and efficacy data as well as the overall risk-benefit profile of the
+product.
+
+During the afternoon session, the committees discussed NDA 209653, for an extended-release
+oral tablet formulation of oxycodone, submitted by Intellipharmaceutics Corp., with the
+management of moderate-to-severe pain when a continuous, around-the-clock opioid analgesic
+is needed for an extended period of time. The product has been formulated with properties
+intended to deter abuse, and the applicant has submitted data to support these abuse-deterrent
+properties for this product. The committees were asked to discuss whether the applicant has
+demonstrated abuse-deterrent properties for their product that would support labeling, as well as
+to discuss the overall risk-benefit profile of the product.
+
+These summary minutes for the January 15, 2020 joint meeting of the Anesthetic and Analgesic
+Drug Products Advisory Committee and the Drug Safety and Risk Management Advisory
+Committee of the Food and Drug Administration were approved on March 3, 2020.
+
+I certify that I attended the January 15, 2020 joint meeting of the Anesthetic and Analgesic Drug
+Products Advisory Committee (AADPAC) and the Drug Safety and Risk Management Advisory
+Committee (DSaRM) of the Food and Drug Administration and that these minutes accurately
+reflect what transpired.
+
+
+
+__________ ____/s/_          _______                _____________/s/__ ___________
+Moon Hee V. Choi, PharmD                            Ronald S. Litman, DO, ML
+Designated Federal Officer, AADPAC                  Chairperson, AADPAC
+
+
+
+
+                                             Page 1 of 10
+    Final Summary Minutes of the Joint Meeting of the Anesthetic and Analgesic Drug
+                       Products Advisory Committee and the
+               Drug Safety and Risk Management Advisory Committee
+                                  January 15, 2020
+
+The Anesthetic and Analgesic Drug Products Advisory Committee (AADPAC) and the
+Drug Safety and Risk Management Advisory Committee (DSaRM) of the Food and Drug
+Administration, Center for Drug Evaluation and Research, met jointly on January 15, 2020, at
+the FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm. 1503),
+10903 New Hampshire Avenue, Silver Spring, Maryland. Prior to the meeting, the members and
+temporary voting members were provided the briefing materials from the FDA, Esteve
+Pharmaceuticals, S.A., and Intellipharmaceutics Corp. The meeting was called to order by
+Ronald S. Litman, DO, ML (Chairperson). The conflict of interest statement was read into the
+record by Moon Hee V. Choi, PharmD (Designated Federal Officer). There were approximately
+125 people in attendance during the morning session and approximately 115 people in
+attendance during the afternoon session. There were six Open Public Hearing (OPH)
+presentations during the morning session and one OPH presentation during the afternoon session.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda:
+
+During the morning session, the committees discussed new drug application (NDA) 213426, for
+tramadol 44 milligrams (mg) and celecoxib 56 mg tablet, which contains a fixed-dose
+combination of an opioid and a non-steroid anti-inflammatory drug, submitted by Esteve
+Pharmaceuticals, S.A., for the management of acute pain in adults that is severe enough to
+require an opioid analgesic and for which alternative treatments are inadequate. The committees
+were asked to discuss the safety and efficacy data as well as the overall risk-benefit profile of the
+product.
+
+During the afternoon session, the committees discussed NDA 209653, for an extended-release
+oral tablet formulation of oxycodone, submitted by Intellipharmaceutics Corp., with the
+management of moderate-to-severe pain when a continuous, around-the-clock opioid analgesic
+is needed for an extended period of time. The product has been formulated with properties
+intended to deter abuse, and the applicant has submitted data to support these abuse-deterrent
+properties for this product. The committees were asked to discuss whether the applicant has
+demonstrated abuse-deterrent properties for their product that would support labeling, as well as
+to discuss the overall risk-benefit profile of the product.
+
+Attendance:
+
+Anesthetic and Analgesic Drug Products Advisory Committee Members Present (Voting):
+Basavana G. Goudra, MD, FRCA, FCARSCI; Jennifer Higgins, PhD (Consumer
+Representative); Ronald S. Litman, DO, ML (Chairperson); Maura S. McAuliffe, CRNA, MSN,
+
+
+
+                                             Page 2 of 10
+January 15, 2020
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+MSNA, PhD, FAAN; Mary Ellen McCann, MD, MPH; Abigail B. Shoben, PhD; Kevin L.
+Zacharoff, MD, FACIP, FACPE, FAAP; Lonnie Zeltzer, MD
+Drug Safety and Risk Management Advisory Committee Members Present (Voting): Sonia
+Hernandez-Diaz, MD, MPH, DrPH; Steven B. Meisel, PharmD, CPPS; Suzanne B. Robotti
+(Consumer Representative); Soko Setoguchi, MD, DrPh
+
+Anesthetic and Analgesic Drug Products Advisory Committee Member Present (Non-
+Voting): Jay Horrow, MD, MS, FACC (Industry Representative)
+
+Drug Safety and Risk Management Advisory Committee Member Present (Non-Voting):
+Reema J. Mehta, PharmD, MPH (Industry Representative)
+
+Anesthetic and Analgesic Drug Products Advisory Committee Members Not Present
+(Voting): Maryam Jowza, MD; Michael Sprintz, DO, DFASAM; Richard D. Urman, MD, MBA
+
+Drug Safety and Risk Management Advisory Committee Members Not Present (Voting):
+Denise M. Boudreau, PhD, RPh; Karim Anton Calis, PharmD, MPH, FASHP, FCCP; Marie R.
+Griffin, MD, MPH; Laurel A. Habel, MPH, PhD; Martin Kulldorff, PhD; Anne-Michelle Ruha,
+MD, FACMT; Terri L. Warholak, PhD, RPh, CPHQ, FAPhA
+
+Temporary Members (Voting): Maryann E. Amirshahi, PharmD, MD, MPH, PhD; Laura
+Block, PharmD, EMT-B (Patient Representative); Martin Garcia-Bunuel, MD; Traci C. Green,
+PhD, MSc; Lee D. Hoffer, PhD, MPE; Brandon D.L. Marshall, PhD; Edward Michna, MD, JD,
+RPh; Marjorie Shaw Phillips, MS, RPh, FASHP, CIP; Paul Pisarik, MD, MPH; Friedhelm
+Sandbrink, MD; Maria E. Suarez-Almazor, MD, PhD; Patrick Sullivan, DVM, PhD; Linda S.
+Tyler, PharmD; Sherif Zaafran, MD, FASA
+
+FDA Participants (Non-Voting): Rigoberto Roca, MD; Judy Staffa, PhD, RPh; Naomi Lowy,
+MD; Dominic Chiapperino, PhD; (morning session only); Pamela Horn, MD (morning session
+only); James Tolliver, PhD (afternoon session only); Elizabeth Kilgore, MD, MS (afternoon
+session only).
+
+Designated Federal Officer (Non-Voting): Moon Hee V. Choi, PharmD
+
+Open Public Hearing Speakers Present: Morning Session – Nina Zeldes, MSc (National
+Center for Health Research); Ira J. Gottlieb (Chesapeake Research Group); Jody L. Green, PhD,
+FAACT, CCRP (Inflexxion, an IBH Company); John J. Coleman, MA, MS, PhD; Edd Lyon,
+MD; Adriane Fugh-Berman MD (Physicians for Rational Opioid Prescribing and Pharmed Out,
+Georgetown Univ. Medical Center); Afternoon Session – Nina Zeldes, MSc (National Center
+for Health Research)
+
+The morning session agenda was as follows:
+
+Call to Order and Introduction of               Ronald S. Litman, DO, ML
+Committee                                       Chairperson, AADPAC
+
+
+
+                                                 Page 3 of 10
+January 15, 2020
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+Conflict of Interest Statement                  Moon Hee V. Choi, PharmD
+                                                Designated Federal Officer, AADPAC
+
+FDA Opening Remarks                             Naomi Lowy, MD
+                                                Deputy Director (Acting)
+                                                Division of Anesthesiology, Addiction Medicine and
+                                                Pain Medicine (DAAP)
+                                                Office of Neuroscience (ON)
+                                                Office of New Drugs, CDER, FDA
+
+APPLICANT PRESENTATIONS                         Esteve Pharmaceuticals S.A.
+
+Introduction                                    Mark Mayhew, PhD
+                                                Director, CTC Program
+                                                Esteve Pharmaceuticals, S.A.
+
+Urgent Need in Opioid Analgesia                 Eugene R. Viscusi, MD
+                                                Professor of Anesthesiology
+                                                Chief of Pain Medicine
+                                                Director, Acute Pain Management
+                                                Thomas Jefferson University
+                                                Philadelphia, PA
+
+Phase I Clinical Pharmacology                   Carlos R. Plata-Salaman, DSc, MD
+Phase 2 Dose-Finding Study                      Chief Scientific Officer and Chief Medical Officer
+                                                Esteve Pharmaceuticals, S.A.
+
+Phase 3 Efficacy and Safety                     Neus Gascon, MD
+                                                Head of Medical Sciences
+                                                Esteve Pharmaceuticals, S.A.
+
+Benefit-Risk Assessment                         Oscar de Leon-Casasola, MD
+                                                Chief, Division of Pain Medicine
+                                                Professor of Oncology
+                                                Roswell Park Cancer Institute
+                                                Professor of Anesthesiology and Medicine
+                                                The Jacobs School of Medicine at The University of
+                                                Buffalo
+
+Clarifying Questions
+
+FDA PRESENTATION
+
+Review of Recent Data on Use,                   Saranrat Wittayanukorn, PhD
+Misuse, Abuse, and Overdose of Tramadol         Epidemiologist, Division of Epidemiology II
+and Comparator Opioid Analgesics                Office of Pharmacovigilance and Epidemiology
+                                                Office of Surveillance and Epidemiology (OSE)
+                                                CDER, FDA
+
+
+
+
+                                                 Page 4 of 10
+January 15, 2020
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+Clarifying Questions
+
+BREAK
+
+OPEN PUBLIC HEARING
+
+Charge to the Committee                         Naomi Lowy, MD
+
+Questions to the Committee/
+Committee Discussion
+
+LUNCH
+
+The afternoon session agenda was as follows:
+
+ Call to Order and Introduction of               Ronald S. Litman, DO, ML
+ Committee                                       Chairperson, AADPAC
+
+ Conflict of Interest Statement                  Moon Hee V. Choi, PharmD
+                                                 Designated Federal Officer, AADPAC
+
+ FDA Opening Remarks                             Rigoberto A. Roca, MD
+                                                 Director (Acting)
+                                                 Division of Anesthesiology, Addiction Medicine and
+                                                 Pain Medicine (DAAP)
+                                                 Office of Neuroscience (ON)
+                                                 Office of New Drugs, CDER, FDA
+
+ APPLICANT PRESENTATIONS                         Intellipharmaceutics Corp.
+
+ Introduction                                    Isa Odidi, MBA, PhD, DSc.
+                                                 Chairman, CEO, co-CSO, co-Founder
+                                                 Intellipharmaceutics Corp.
+
+ Abuse-Deterrance (Category 1) Studies and Olu Aloba, RPh, PhD, RAC
+ Nonclinical Excipient Safety Studies      Senior Director, CMC Services
+                                           Camargo Pharmaceutical Services
+
+ APPLICANT PRESENTATIONS (CONT.)
+
+ Clinical Pharmacology and Abuse-                Ruth Stevens, PhD, MBA
+ Deterrence (Human Abuse Potential)              Chief Scientific Officer, Exec VP
+ Studies                                         Camargo Pharmaceutical Services
+
+ Risk/Benefit Profile and Risk Mitigation        Isa Odidi, MBA, PhD, DSc.
+ Plans
+
+ Clarifying Questions
+
+
+
+                                                 Page 5 of 10
+January 15, 2020
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+ FDA PRESENTATIONS
+
+ Use, Misuse, Abuse and Deaths involving         Matthew Daubresse, MHS, DrPH (candidate)
+ Oxycodone and Other Opioids in the              Epidemiologist, Drug Abuse
+ United States                                   Division of Epidemiology II
+                                                 Office of Pharmacovigilance and Epidemiology
+                                                 OSE, CDER, FDA
+
+ Nonclinical Safety Assessment of Aximris        Jaime D’Agostino, PhD
+ XR Excipients                                   Pharmacology/Toxicology Reviewer
+                                                 Division of Pharmacology/Toxicology for
+                                                 Neuroscience, ON, OND, CDER, FDA
+
+ Agency Interpretation of In Vitro and           James Tolliver, PhD
+ Human Abuse Potential Studies                   Pharmacologist
+                                                 Controlled Substance Staff
+                                                 Office of the Center Director, CDER, FDA
+
+ Clinical Summary – Aximris XR                   Elizabeth Kilgore, MD, MS
+                                                 Medical Officer
+                                                 DAAP, ON, OND, CDER, FDA
+
+ Clarifying Questions
+
+ OPEN PUBLIC HEARING
+
+ BREAK
+
+ Charge to the Committee                         Rigoberto Roca, MD
+
+ Questions to the Committee/Committee
+ Discussion
+
+ ADJOURNMENT
+
+Questions to the Committees:
+
+MORNING SESSION:
+
+1. DISCUSSION: Considering the abuse potential of tramadol 44mg and celecoxib 56mg
+   tablets and its proposed use for the management of acute pain in adults that is severe enough
+   to require an opioid analgesic and for which alternative treatments are inadequate, please
+   discuss any concerns you have regarding the impact of this product, if approved, on public
+   health.
+
+    Committee Discussion: In considering the abuse potential of tramadol 44mg and celecoxib
+    56mg tablets and its proposed use, some Committee members had concerns regarding the
+    impact of this product on public health (if approved) and expressed the need for comparison
+    data of the combination product to its individual ingredients at therapeutic doses and more
+
+                                                 Page 6 of 10
+January 15, 2020
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+    specifically, comparison data to celecoxib alone. These Committee members added that the
+    efficacy of this combination product for 12 hours could be due to the effects of celecoxib, and
+    thus there would be no benefit of introducing another opioid option in terms of public health.
+    Other Committee members noted the lack of flexibility for titration in a fixed dose
+    combination product, lack of data on the risks of intravenous abuse of the formulation, which
+    is a co-crystal, concerns about the toxicity of celecoxib if abused by the intravenous route,
+    and the financial considerations of the combination product compared to the currently
+    approved generic options of each ingredient. Those Committee members who did not
+    express concerns regarding the public health impact stated that both individual ingredients
+    have already been shown to have favorable profiles and thus agreed that this combination
+    product of tramadol 44mg and celecoxib 56mg tablets could be, if approved, a better
+    alternative to what is currently available to treat acute pain in terms of public health. Other
+    Committee members agreed and used the term “tramadol light” for the benefits of tramadol
+    observed in the relatively low dose of tramadol in the combination product compared to
+    other available tramadol products while having demonstrated efficacy and thus, the
+    possibility of less abuse in terms of public health. Please see the transcript for details of the
+    Committees’ discussion.
+
+2. DISCUSSION: Discuss whether the benefits outweigh the risks for the proposed indication.
+   Discuss if any additional data are needed for this application to be approved.
+
+    Committee Discussion: Several Committee members who agreed that the benefits of
+    tramadol 44mg and celecoxib 56mg tablets outweighed the risks for the proposed indication
+    expressed that tramadol and celecoxib have been individually available for a long time and
+    thus, combining the two ingredients as a lower-dose combination product would make
+    available an alternative to opioid treatments currently used for acute pain. These Committee
+    members also noted that this combination product may decrease the use of opioid rescue
+    medications and noted the convenience of using fewer pills. The Committee members who
+    disagreed that the benefits outweigh the risks for the proposed indication argued that the
+    combination product is not effective and patients will need some type of rescue pain
+    medication, thus increasing the potential of adding on another, stronger opioid. Other
+    Committee members added that combination tablets decrease flexibility in titrating doses and
+    the potential issues involved in using the combination tablet once pain is less severe and an
+    opioid is no longer needed. Please see the transcript for details of the Committees’
+    discussion.
+
+3. VOTE: Do you recommend approval of tramadol 44mg and celecoxib 56mg tablets for the
+   proposed indication of the management of acute pain in adults that is severe enough to
+   require an opioid analgesic and for which alternative treatments are inadequate?
+
+    Vote Result:         Yes: 13          No: 13           Abstain: 0
+
+    Committee Discussion: The Committee members were split on whether they recommend
+    approval of tramadol 44mg and celecoxib 56mg tablets for the proposed indication of the
+    management of acute pain in adults that is severe enough to require an opioid analgesic and
+    for which alternative treatments are inadequate. The majority of those who voted “Yes”
+
+                                                 Page 7 of 10
+January 15, 2020
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+    indicated that the overall benefits outweigh the risks for the proposed indication. These
+    committee members noted that efficacy was demonstrated in the Phase 3 study and the
+    pharmacokinetic data suggested an efficacy and safety advantage over tramadol and
+    celecoxib when used individually. Other Committee members who were in favor of approval
+    noted the potential advantages of the co-crystal feature of tramadol, a schedule IV controlled
+    substance, and celecoxib, as it may replace use of some short-acting, Schedule II opioids.
+    The Committee members who voted “No” stated the benefit/risk profile was not favorable
+    and noted the lack of comparative data of the combination product to its single ingredients.
+    Some of these Committee members voiced concerns that the perception of tramadol 44mg
+    and celecoxib 56mg tablets being safer may lead to over-prescribing, abuse/misuse and
+    potential for downstream effects. Please see the transcript for details of the Committees’
+    discussion.
+
+AFTERNOON SESSION:
+
+1. DISCUSSION: Please discuss whether the Applicant has demonstrated that AXIMRIS XR
+   (oxycodone extended-release tablets) has properties that can be expected to deter abuse by
+   the following routes:
+
+    •   Intravenous
+
+        Committee Discussion: The Committee members agreed that the Applicant
+        demonstrated that AXIMRIS XR (oxycodone extended-release tablets) has properties that
+        can be expected to deter abuse by the intravenous route. One Committee member added
+        that the extractability of AXIMRIS XR was much lower compared to OxyContin, which
+        has abuse-deterrent properties for the intravenous route. Please see the transcript for
+        details of the Committees’ discussion.
+
+    •   Intranasal
+
+        Committee Discussion: The Committee members agreed that the Applicant did not
+        demonstrate that AXIMRIS XR (oxycodone extended-release tablets) has properties that
+        can be expected to deter abuse by the intranasal route. One Committee member added
+        that AXIMRIS XR was more easily manipulated under certain conditions compared to
+        OxyContin, and thus would more likely be abused via the intranasal route. One
+        Committee member added that AXIMRIS XR may be more favorable for intranasal use
+        compared to Oxycontin based on the pharmacokinetic comparison data from the
+        intranasal human abuse potential study. Committee members also questioned the lack of
+        pharmacokinetic/pharmacodynamic (PK/PD) correlation for the study. Please see the
+        transcript for details of the Committees’ discussion.
+
+    •   Oral
+
+        Committee Discussion: The Committee members agreed that the Applicant did not
+        demonstrate that AXIMRIS XR (oxycodone extended-release tablets) has properties that
+        can be expected to deter abuse by the oral route. Some Committee members agreed that
+
+                                                 Page 8 of 10
+January 15, 2020
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+        in general, the term abuse-deterrent and the associated requirements for labelling need
+        to be more clearly defined by the Agency. Please see the transcript for details of the
+        Committees’ discussion.
+
+2. DISCUSSION: The Applicant is requesting approval of AXIMRIS XR as an analgesic with
+   properties expected to deter abuse by the intravenous route. Discuss the implications of
+   approval of AXIMRIS XR that can be expected to deter abuse by a single route.
+
+     Committee Discussion: Overall, the Committee members agreed and expressed that it was
+     difficult to approve a product and label it to have “abuse-deterrent” properties if it can only
+     deter abuse via a single route. The Committee members also agreed that if a product has
+     abuse-deterrent properties for one route of administration, the product will potentially be
+     abused via the other routes. One Committee member stated that the ideal would be to label
+     a product to have abuse-deterrence via all routes but acknowledged that it would be difficult
+     to develop such a product for approval. Several Committee members noted that although
+     AXIMRIS XR demonstrated properties expected to deter abuse by the intravenous route,
+     intravenous abuse is the least common form of abuse. They expressed more concern for the
+     potential to abuse via the intranasal route and agreed that it would be more ideal for
+     AXIMRIS XR to have abuse deterrent properties to deter abuse via the intranasal route as
+     well as the intravenous route. Please see the transcript for details of the Committees’
+     discussion.
+
+3. DISCUSSION: Discuss whether you have any concerns regarding the impact of AXIMRIS
+   XR on public health. Take into consideration its potential effect on abuse of extended-
+   release oxycodone as well as potential consequences of administration of this product by
+   unintended routes.
+
+    Committee Discussion: Since AXIMRIS XR deters abuse through the intravenous route only,
+    it was noted that this drug product may push abusers to abuse through the intranasal route.
+    Thus, if approved, AXIMRIS XR may have a negative impact on public health. Please see the
+    transcript for details of the Committees’ discussion.
+
+ 4. DISCUSSION: Discuss whether the benefits outweigh the risks for the proposed
+    indication. Discuss if any additional data are needed for this application to be approved.
+
+     Committee Discussion: Overall, the Committee members agreed that the benefits do not
+     outweigh the risks for the proposed indication. The Committee members noted that
+     AXIMRIS XR is similar to what is currently available on the market; furthermore, it did not
+     show abuse-deterrent advantages to what is currently available as it has properties to deter
+     abuse via the intravenous route only. In terms of additional data needed, some Committee
+     members suggested that data on the effects of taking more than the intended amount of the
+     product would be helpful. One Committee member noted that the Applicant needs to clarify
+     the pharmacokinetic data in the insufflation study to explain the disconnect of high Cmax
+     concentrations without having a significant impact on Drug Liking or Take Drug Again
+     parameters. Please see the transcript for details of the Committees’ discussion.
+
+
+                                                 Page 9 of 10
+January 15, 2020
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+5. VOTE: Do you recommend approval of AXIMRIS XR (oxycodone extended-release
+   tablets) for the management of pain severe enough to require daily, around-the-clock, long-
+   term opioid treatment and for which alternative treatment options are inadequate?
+
+    Vote Result:         Yes: 2           No: 24           Abstain: 0
+
+    Committee Discussion: A vast majority of the Committee members voted “No”, indicating
+    that they did not recommend approval of AXIMRIS XR (oxycodone extended-release tablets)
+    for the management of pain severe enough to require daily, around-the-clock, long-term
+    opioid treatment and for which alternative treatment options are inadequate. These
+    Committee members agreed that AXIMRIS XR did not offer any abuse-deterrent advantages
+    to what is currently available on the market and added that it offered more disadvantages
+    such as the issues involving abuse via the intranasal route. Moreover, committee members
+    expressed concerns that experienced opioid users may abuse higher strength or multiple
+    tablets via the intranasal route in the real world, which may result in higher plasma level
+    and pose higher risks of overdose. The two Committee members who voted “Yes” stated the
+    question being asked is a question on approvability of the product and not abuse-deterrent
+    properties. Please see the transcript for details of the Committees’ discussion.
+
+The meeting was adjourned at approximately 5:05 p.m. on January 15, 2020.
+
+
+
+
+                                                 Page 10 of 10
+

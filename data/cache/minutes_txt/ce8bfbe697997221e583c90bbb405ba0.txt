@@ -1,0 +1,288 @@
+                              Food and Drug Administration
+                         Center for Drug Evaluation and Research
+
+  Final Summary Minutes of the Pulmonary-Allergy Drugs Advisory Committee Meeting
+                                    May 8, 2019
+
+
+Location: FDA White Oak Campus, Building 31 Conference Center, The Great Room (Rm.
+1503), 10903 New Hampshire Ave, Silver Spring, Maryland.
+
+Topic: The committee discussed new drug application (NDA) 202049, for mannitol inhalation
+powder, for oral inhalation submitted by Chiesi USA, Inc., for the proposed indication of
+management of cystic fibrosis to improve pulmonary function in patients 18 years of age and
+older in conjunction with standard therapies.
+
+These summary minutes for the May 8, 2019 Pulmonary-Allergy Drugs Advisory
+Committee meeting of the Food and Drug Administration were approved on_9/17/19___.
+
+I certify that I attended the May 8, 2019 Pulmonary-Allergy Drugs Advisory Committee meeting
+of the Food and Drug Administration and that these minutes accurately reflect what transpired.
+
+
+
+         /s/                                           /s/
+Cindy Chee, PharmD                              David Au, MD, MS
+Designated Federal Officer, PADAC               Chairperson, PADAC
+Final Summary Minutes of the Pulmonary-Allergy Drugs Advisory Committee Meeting
+                                    May 8, 2019
+
+The Pulmonary-Allergy Drugs Advisory Committee (PADAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research, met on May 8, 2019, at the FDA
+White Oak Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New
+Hampshire Avenue, Silver Spring, Maryland. Prior to the meeting, the members and temporary
+voting members were provided the briefing materials from the FDA and Chiesi USA, Inc. The
+meeting was called to order by David H. Au, MD, MS (Chairperson). The conflict of interest
+statement was read into the record by Cindy Chee, PharmD (Designated Federal Officer). There
+were approximately 100 people in attendance. There were eleven Open Public Hearing speaker
+presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committee discussed new drug application (NDA) 202049, for mannitol inhalation
+powder, for oral inhalation submitted by Chiesi USA, Inc., for the proposed indication of
+management of cystic fibrosis to improve pulmonary function in patients 18 years of age and
+older in conjunction with standard therapies.
+
+Attendance:
+
+Pulmonary-Allergy Drugs Advisory Committee Members Present (Voting): David H. Au,
+MD, MS (Chairperson); John M. Kelso, MD; David J. Lederer, MD, MS; Gailen D. Marshall Jr,
+MD, PhD, FACP; Loretta G. Que, MD; Carrie A. Redlich, MD, MPH; Richard W. Weber, MD
+
+Pulmonary-Allergy Drugs Advisory Committee Member Present (Non-Voting): Stuart
+Green, MD (Industry Representative)
+
+Pulmonary-Allergy Drugs Advisory Committee Members Not Present (Voting): Emma H.
+D’Agostino, BS (Consumer Representative); Brian T. Garibaldi, MD, PhD; Susanne May, PhD
+
+Temporary Members (Voting): Kathryn Blake, PharmD, BCPS, FCCP, CIP; Erica Brittain,
+PhD; Mary Cataletto, MD, MMM; Scott S. Emerson, MD, PhD; Daniel L. Gillen, PhD; Erin
+Moore, BS (Patient Representative); Richard B. Parad, MD, MPH; Karen S. Schell, DHSc, RRT-
+NPS, RRT-SDS, RPFT, RPSGT, AE-C, CTTS (Acting Consumer Representative); James M.
+Tracy, DO
+
+FDA Participants (Non-Voting): Sally Seymour, MD; Robert H. Lim, MD; Yongman Kim,
+PhD; Khalid Puthawala, MD; Cesar Torres, PhD
+
+Designated Federal Officer (Non-Voting): Cindy Chee, PharmD
+
+Open Public Hearing Speakers: Brian Callanan; Veronica Wetmore; Nicholas Kelly, MS, RD,
+LD; Henry A. Wojtczak, MD; Stephanie Fox-Rawlings, PhD (National Center for Health
+
+
+                                            Page 1 of 5
+May 8, 2019
+Pulmonary-Allergy Drugs Advisory Committee
+
+Research); Zoë Hurley; Emily Grumbine (via video introduced by Zoë Hurley); Michael Boyle,
+MD (Cystic Fibrosis Foundation); Mary Beth and Angelica Rock; Tess Dunn (via video
+introduced by Angelica Rock); Emily Schaller (Rock CF Foundation) (via video introduced by
+Mary Beth Rock)
+
+The agenda was as follows:
+
+ Call to Order and Introduction of           David Au, MD
+ Committee                                   Chairperson, PADAC
+
+
+ Conflict of Interest Statement              Cindy Chee, PharmD
+                                             Designated Federal Officer, PADAC
+
+ FDA Introductory Remarks                    Robert H. Lim, MD
+                                             Clinical Team Leader
+                                             Division of Pulmonary, Allergy, and Rheumatology
+                                             Products (DPARP)
+                                             Office of Drug Evaluation II (ODE II)
+                                             Office of New Drugs (OND), CDER, FDA
+
+ APPLICANT PRESENTATIONS                     Chiesi USA, Inc.
+
+ Introduction to Bronchitol for Adult        Mark Parry-Billings, PhD
+ Patients with Cystic Fibrosis               Head of Corporate Drug Development
+                                             Chiesi Farmaceutici S.p.A.
+
+ Unmet Need and Disease Background           Scott H. Donaldson, MD
+                                             Professor of Medicine
+                                             University of North Carolina at Chapel Hill
+                                             School of Medicine; Division of Pulmonary and
+                                             Critical Care
+                                             Director, Adult Cystic Fibrosis Center
+
+ Efficacy in Adult Patients with Cystic      Carmen Dell’Anna, MD
+ Fibrosis                                    Vice President, Medical Affairs
+                                             Chiesi USA, Inc.
+
+ Safety of Bronchitol                        W. James Alexander, MD, MPH
+                                             Senior Medical Affairs Consultant
+                                             Chiesi USA, Inc.
+
+ Bronchitol: A Clinician’s Perspective       Patrick A. Flume, MD
+                                             Medical University of South Carolina
+                                             The Powers-Huggins Endowed Chair for Cystic
+                                             Fibrosis
+                                             Professor of Medicine and Pediatrics
+                                             Associate Provost for Research Compliance and
+                                             Regulatory Affairs
+
+
+                                             Page 2 of 5
+ May 8, 2019
+ Pulmonary-Allergy Drugs Advisory Committee
+
+   Clarifying Questions
+
+   BREAK
+
+   FDA PRESENTATIONS
+
+   Overview of Clinical Program               Khalid Puthawala, MD
+                                              Clinical Reviewer
+                                              DPARP, ODE II, OND, CDER, FDA
+
+   Statistical Review of Efficacy             Cesar Torres, PhD
+                                              Statistical Reviewer
+                                              Division of Biometrics II (DBII)
+                                              Office of Biostatistics (OB)
+                                              Office of Translational Sciences (OTS)
+                                              CDER, FDA
+
+   Clinical Review of Efficacy, Safety, and   Khalid Puthawala, MD
+   Benefit-Risk Assessment
+
+   Clarifying Questions
+
+   LUNCH
+
+   Open Public Hearing
+
+   Charge to the Committee                    Robert H. Lim, MD
+
+   Questions to the Committee/Committee
+   Discussion
+
+   BREAK
+
+   Questions to the Committee/Committee
+   Discussion
+
+   ADJOURNMENT
+
+ Questions to the Committee:
+
+1. DISCUSSION: Discuss the efficacy of dry powder mannitol (DPM) for the proposed
+   indication of the management of cystic fibrosis to improve pulmonary function in patients 18
+   years of age and older in conjunction with standard therapies. Include the following topics in
+   your discussion:
+           a. Effect on FEV1, including effect size and durability of effect
+           b. Secondary endpoints, particularly exacerbations and the Cystic Fibrosis
+              Questionnaire – Revised respiratory domain score
+           c. Statistical persuasiveness
+
+
+                                              Page 3 of 5
+ May 8, 2019
+ Pulmonary-Allergy Drugs Advisory Committee
+
+   Committee Discussion: The committee members noted that the increase in FEV1 is minimal,
+   but the small increase in FEV1 may still represent a clinically meaningful improvement for
+   some patients with CF. It was noted by a committee member that if 100 ml on a patient level
+   was clinically meaningful, then the number needed to treat would be ~ 10. Thus, it was
+   suggested that the decision to use DPM would be best left to the clinicians treating patients
+   with CF. The committee members also commented on the questionable durability of effect, how
+   missing data were addressed, ambiguity in the data presented, and the null secondary
+   exacerbation endpoint. Please see the transcript for details of the Committee discussion.
+
+2. DISCUSSION: Discuss the safety data for DPM for the proposed use in patients with cystic
+   fibrosis 18 years of age and older, particularly exacerbation and hemoptysis.
+
+   Committee Discussion: The committee members commented on the potential for concern for
+   exacerbations, particularly in the US population. It was noted that one of the primary benefits
+   was the convenience and potentially improved adherence over hypertonic saline. However,
+   because DPM did not reduce exacerbations, an unintended effect might be to increase overall
+   exacerbation rates. The committee members also noted that since patients with CF routinely
+   experience exacerbation, it may be difficult to determine if an exacerbation was associated
+   with DPM versus the normal disease course. One committee member noted an absence of
+   concern for hemoptysis in the adult population. The committee suggested that monitoring
+   discontinuation of hypertonic saline and risk of exacerbation should be performed in post-
+   marketing studies. Please see the transcript for details of the Committee discussion.
+
+3. VOTE: Do the data provide substantial evidence of efficacy for DPM for the proposed
+   indication of the management of cystic fibrosis to improve pulmonary function in patients 18
+   years of age and older in conjunction with standard therapies?
+           a. If no, what further data are needed?
+
+       Vote Result:            Yes: 10        No: 6         Abstain: 0
+
+   Committee Discussion: The majority of the committee agreed that the data provided
+   substantial evidence of efficacy for DPM for the proposed indication of the management of
+   cystic fibrosis to improve pulmonary function in patients 18 years of age and older in
+   conjunction with standard therapies. The committee members who voted “Yes” commented
+   that while the effect size was minimal as reflected by improvement in FEV1, this small increase
+   could be clinically meaningful in some patients. The committee also commented on the ease of
+   use of DPM having an impact on patient adherence and lowering administration time when
+   compared to hypertonic saline. The members who voted “No” commented on the small effect
+   on FEV1 and the lack of clarity on whether this is a clinically meaningful difference. They also
+   commented regarding whether the small effect was sustained effect over the 26-week period as
+   well as lack of support from secondary endpoints. The committee discussed additional studies
+   in those patients who are non-adherent to or unable to take hypertonic saline, those with more
+   advanced disease, and patients at higher risk for exacerbations. Please see the transcript for
+   details of the Committee discussion.
+
+
+
+                                              Page 4 of 5
+ May 8, 2019
+ Pulmonary-Allergy Drugs Advisory Committee
+
+
+
+4. VOTE: Are the safety data adequate to support approval of DPM for the proposed indication
+   of the management of cystic fibrosis to improve pulmonary function in patients 18 years of age
+   and older in conjunction with standard therapies?
+           a. If no, what further data are needed?
+
+       Vote Result: Yes: 10            No: 6           Abstain: 0
+
+   Committee Discussion: The majority of the committee agreed that the safety data are adequate
+   to support approval of DPM for the proposed indication of the management of cystic fibrosis to
+   improve pulmonary function in patients 18 years of age and older in conjunction with standard
+   therapies. The committee members who voted “Yes” commented that exacerbations appear to
+   be a natural process of the disease and may represent a lack of effectiveness rather than an
+   adverse effect. Thus, committee members voting “Yes” did not feel that DPM would cause
+   harm in most patients. They also mentioned the need for formal post marketing surveillance.
+   The committee members who voted “No” commented on the lack of information about which
+   patients will be at risk for exacerbations and the presence of a consistent safety signal. These
+   committee members also expressed concerns relating to different treatment patterns in the
+   United States (US) population and those of European countries. Please see the transcript for
+   details of the Committee discussion.
+
+5. VOTE: Does the benefit-risk profile support approval of DPM for the proposed indication of
+   the management of cystic fibrosis to improve pulmonary function in patients 18 years of age
+   and older in conjunction with standard therapies?
+          a. If no, what further data are needed?
+
+       Vote Result: Yes: 9             No: 7           Abstain: 0
+
+   Committee Discussion: A slight majority of the committee agreed that the benefit-risk profile
+   support approval of DPM for the proposed indication of the management of cystic fibrosis to
+   improve pulmonary function in patients 18 years of age and older in conjunction with standard
+   therapies. These committee members commented on the ease of use of DPM, that the primary
+   endpoint was met, and that a subset of patients will benefit from DPM. One committee member
+   noted that it is difficult to think that treatment approaches in Europe differ much from those in
+   the US. It was also noted that longer studies and a clarification of exacerbation risk are
+   needed. The committee members who voted “No” commented on the insufficient efficacy data
+   and the need for substantial evidence of efficacy to vote in favor of DPM’s approval. They also
+   commented on concerns with durability and overall effect, and the presence of practice
+   variation across different countries. One committee member expressed the desire to see
+   additional 6-month randomized withdrawal trial data. Please see the transcript for details of
+   the Committee discussion.
+
+The meeting was adjourned at approximately 4:25 p.m.
+
+
+
+
+                                               Page 5 of 5
+

@@ -1,0 +1,381 @@
+                          Food and Drug Administration
+                     Center for Drug Evaluation and Research
+   Final Summary Minutes of the Gastrointestinal Drugs Advisory Committee Meeting
+
+
+Location: FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.
+1503), 10903 New Hampshire Avenue, Silver Spring, Maryland. The public also had the option
+to participate via an online teleconferencing and/or video conferencing platform, and the meeting
+presentations were heard, viewed, captioned, and recorded through an online video conferencing
+platform.
+
+Topic: The Committee discussed supplemental new drug application (sNDA) 207999 S-011, for
+OCALIVA (obeticholic acid) 5 mg titrated to 10 mg oral tablets, administered once a day,
+submitted by Intercept Pharmaceuticals, Inc., to fulfill the accelerated approval postmarketing
+requirements specified in the OCALIVA approval letter dated May 27, 2016. The sNDA
+included data proposed to describe and verify clinical benefit for the indication of reducing the
+risk of death, liver transplant, and hepatic decompensation in adult patients with primary biliary
+cholangitis without cirrhosis or with compensated cirrhosis who do not have evidence of portal
+hypertension, either in combination with ursodeoxycholic acid (UDCA) with an inadequate
+response to UDCA or as monotherapy in patients unable to tolerate UDCA.
+
+These summary minutes for the September 13, 2024 meeting of the Gastrointestinal Drugs
+Advisory Committee of the Food and Drug Administration were approved on
+_________________.
+October 10, 2024
+
+
+I certify that I attended the September 13, 2024 meeting of the Gastrointestinal Drugs Advisory
+Committee (GIDAC) of the Food and Drug Administration and that these minutes accurately
+reflect what transpired.
+
+
+
+                /s/
+__________ ____________________                                    /s/
+                                                     __________ ____________________
+Jessica Seo, PharmD, MPH                             Benjamin Lebwohl, MD, MS
+Designated Federal Officer, GIDAC                    Chairperson, GIDAC
+
+
+
+
+                                            Page 1 of 8
+       Summary Minutes of the Gastrointestinal Drugs Advisory Committee Meeting
+                                 September 13, 2024
+
+The Gastrointestinal Drugs Advisory Committee (GIDAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research, met on September 13, 2024, at FDA White Oak
+Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New Hampshire
+Avenue, Silver Spring, Maryland. The public also had the option to participate via an online
+teleconferencing and/or video conferencing platform, and the meeting presentations were heard,
+viewed, captioned, and recorded through an online video conferencing platform. Prior to the
+meeting, the members and temporary voting members were provided the briefing materials from
+the FDA and Intercept Pharmaceuticals, Inc. The meeting was called to order by Benjamin
+Lebwohl, MD, MS (Chairperson). The conflict-of-interest statement was read into the record by
+Jessica Seo, PharmD, MPH (Designated Federal Officer). There were approximately 75 people
+in attendance in-person and approximately 697 people online. There was a total of 19 Open
+Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda:
+
+The Committee discussed supplemental new drug application (sNDA) 207999 S-011, for
+OCALIVA (obeticholic acid) 5 mg titrated to 10 mg oral tablets, administered once a day,
+submitted by Intercept Pharmaceuticals, Inc., to fulfill the accelerated approval postmarketing
+requirements specified in the OCALIVA approval letter dated May 27, 2016. The sNDA
+included data proposed to describe and verify clinical benefit for the indication of reducing the
+risk of death, liver transplant, and hepatic decompensation in adult patients with primary biliary
+cholangitis without cirrhosis or with compensated cirrhosis who do not have evidence of portal
+hypertension, either in combination with ursodeoxycholic acid (UDCA) with an inadequate
+response to UDCA or as monotherapy in patients unable to tolerate UDCA.
+
+Attendance:
+
+Gastrointestinal Drugs Advisory Committee Members Present (Voting): Christopher S.
+Coffey, PhD, MS; Theo Heller, MD; Benjamin Lebwohl, MD, MS (Chairperson); Brian P. Lee,
+MD, MAS; Joy M. McVey (Consumer Representative)
+
+Gastrointestinal Drugs Advisory Committee Members Not Present (Voting): David N.
+Assis, MD; Lin Chang, MD
+
+Gastrointestinal Drugs Advisory Committee Member Not Present (Non-Voting): Wallace V.
+Crandall, M.D., M.M.M. (Industry Representative)
+
+Acting Industry Representative to the Committee (Non-Voting): Marek J. Honczarenko, MD,
+PhD (Acting Industry Representative)
+
+
+
+                                             Page 2 of 8
+September 13, 2024
+Gastrointestinal Drugs Advisory Committee Meeting
+
+Temporary Members (Voting): Danielle Alstat, BAHM, RRT, CPFT (Patient Representative);
+Therese Bittermann, MD, MSCE; Daniel L. Gillen, PhD; David Goldberg, MD, MSCE; Patrick
+S. Kamath, MD (via video conferencing platform); Vincent Lo Re, MD, MSCE; Pamela Shaw,
+PhD, MS; Til Stürmer, MD, MPH, PhD (via video conferencing platform); Almut G.
+Winterstein, RPh, PhD, FISPE (via video conferencing platform)
+
+FDA Participants (Non-Voting): Frank A. Anania, MD, FACP, AGAF, FAASLD; Ruby
+Mehta, MD; Tram Tran, MD, FAASLD, FACG; Yura Kim, PhD; Eugenio Andraca-Carrera,
+PhD; Joel L. Weissfeld, MD, MPH
+
+Designated Federal Officer (Non-Voting): Jessica Seo, PharmD, MPH
+
+Open Public Hearing Speakers Present: Susan Popfinger; Jane Gisselquist; LaToya Marie
+Jones-Asad; Robert Mitchell-Thain (PBC Foundation); Lance Stein, MD, FAASLD, AGAF,
+FACP; Tracy J. Mayne, PhD; Abigail (Abby) Hunt-Metzbower (PBCers Organization); Suzanne
+M. Krol; Diana Zuckerman, PhD (National Center for Health Research); Deborah F. Sobel;
+Leslie Stratta; Cecilia Dueñas (Fryckman), PsyD; Kris V. Kowdley, MD; Julio Gutierrez, MD;
+Ziad Younes, MD; Steven Flamm, MD; Robert Tyler; Robert Gish; Mitchell L. Shiffman
+
+The agenda was as follows:
+
+8:30 a.m.       Call to Order and Introduction of              Benjamin Lebwohl, MD
+                Committee                                      Chairperson, GIDAC
+
+8:35 a.m.       Conflict of Interest Statement                 Jessica Seo, PharmD, MPH
+                                                               Designated Federal Officer, GIDAC
+
+8:45 a.m.       FDA Introductory Remarks                       Ruby Mehta, MD
+                                                               Cross-Discipline Team Leader
+                                                               Division of Hepatology and Nutrition (DHN)
+                                                               Office of Inflammation and Immunology (OII)
+                                                               Office of New Drugs (OND)
+                                                               CDER, FDA
+
+8:55 a.m.       APPLICANT PRESENTATIONS                        Intercept Pharmaceuticals, Inc.
+
+                Introduction                                   Sangeeta Sawhney, MD
+                                                               Senior Vice President, Head of US Research and
+                                                               Development
+                                                               Intercept Pharmaceuticals, Inc.
+
+                Disease Background                             Robert S. Brown, Jr, MD, MPH
+                                                               Vincent Astor Distinguished Professor of Medicine
+                                                               Chief, Division of Gastroenterology and
+                                                               Hepatology
+                                                               Editor-in-Chief, Liver Transplantation
+                                                               Weill Cornell Medical College
+
+
+                                                 Page 3 of 8
+September 13, 2024
+Gastrointestinal Drugs Advisory Committee Meeting
+
+                Methods Used to Estimate Clinical             Andrew Damokosh, PhD
+                Benefit                                       Senior Vice President, Biostatistics
+                                                              Intercept Pharmaceuticals, Inc.
+
+                Study 302 Efficacy and Safety                 Thomas Capozza, MD FACP
+                                                              Vice President, Clinical Research
+                                                              Intercept Pharmaceuticals, Inc.
+
+                Drug-Induced Liver Injury                     Lily Dara, MD
+                                                              Assistant Professor of Medicine
+                                                              Department of Medicine, Division of GI/Liver
+                                                              USC Research Center for Liver Disease
+                                                              Keck School of Medicine
+                                                              University of Southern California
+
+                Study 405 and Other Real-World                Leona Bessonova, PhD
+                Evidence (RWE)                                Executive Director, Medical Affairs Research
+                                                              Intercept Pharmaceuticals, Inc.
+
+                Clinical Perspective                          David Jones, OBE
+                                                              Director, Newcastle Health Innovation Partners
+                                                              Academy
+                                                              Director, Newcastle Center for Rare Disease
+                                                              Professor of Liver Immunology, Newcastle
+                                                              University
+                                                              Honorary Consultant Hepatologist, Newcastle
+                                                              upon Tyne Hospitals
+
+                Conclusions                                   Sangeeta Sawhney, MD
+
+10:10 a.m.      Clarifying Questions to the Applicant
+
+10:40 a.m.      BREAK
+
+10:55 a.m.      FDA PRESENTATIONS
+
+                Clinical Pharmacology                         Tao Liu, PhD
+                                                              Clinical Pharmacology Reviewer
+                                                              Division of Inflammation and Immune
+                                                              Pharmacology (DIIP)
+                                                              Office of Clinical Pharmacology (OCP)
+                                                              Office of Translational Sciences (OTS)
+                                                              CDER, FDA
+
+                Study 747-302                                 Tram Tran, MD, FAASLD, FACG
+                                                              Medical Officer
+                                                              DHN, OII, OND, CDER, FDA
+
+                Study 747-405                                 Joel L. Weissfeld, MD, MPH
+
+                                                Page 4 of 8
+September 13, 2024
+Gastrointestinal Drugs Advisory Committee Meeting
+
+                                                              Senior Medical Officer
+                                                              Division of Epidemiology (DEPI)
+                                                              Office of Surveillance and Epidemiology (OSE)
+                                                              CDER, FDA
+
+                                                              Eugenio Andraca-Carrera, PhD
+                                                              Division of Biometrics-VII (DB-VII)
+                                                              Office of Biostatistics (OB)
+                                                              OTS, CDER, FDA
+
+12:10 p.m.      Clarifying Questions to FDA
+
+12:40 p.m.      LUNCH
+
+1:30 p.m.       OPEN PUBLIC HEARING
+
+2:30 p.m.       Charge to the Committee                       Frank A. Anania, MD, FACP, AGAF, FAASLD
+                                                              Acting Director
+                                                              DHN, OII, OND, CDER, FDA
+
+2:40 p.m.       Questions to the Committee/Committee
+                Discussion
+
+3:40 p.m.       BREAK
+
+4:00 p.m.       Questions to the Committee/Committee
+                Discussion (cont.)
+
+5:00 p.m.       ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss whether the evidence generated post-approval verify the benefit of
+   obeticholic acid (OCA, Ocaliva®) on clinical outcomes (hepatic decompensation, liver
+   transplant, and death) in adults with PBC? Specifically, discuss the evidence generated in
+   the:
+       • Post-marketing required Study 302, and
+       • Observational Study 405
+
+    Committee Discussion: In evaluating the data presented, the panel members noted concerns
+    regarding the reliability of the evidence from both studies. There was an acknowledgement in
+    general of the challenges in conducting Study 302 after the drug was available commercially.
+    Some panel members were in agreement that more than treating a lab value, a drug should
+    be treating the disease, i.e., there should be a clinical benefit. However, many panel members
+    felt Study 302 did not verify clinical benefit (liver transplant, death, liver decompensation).
+    There was acknowledgement that the two labeling changes that occurred while the
+    randomized controlled trial (RCT) was ongoing, limited the ability of Study 302 to verify
+
+                                                Page 5 of 8
+September 13, 2024
+Gastrointestinal Drugs Advisory Committee Meeting
+
+    benefit. It was noted that alkaline phosphatase (ALP) normalization correlates with outcomes
+    was based on published data from prior studies; however, the degree of correlation between
+    the biomarker and clinical outcomes may be changing in recent times and we cannot expect
+    clinical benefit even the drug showed effect on ALP. Regarding Study 302, some panel
+    members acknowledged the data showed potential subgroup benefit, but the study was
+    underpowered to conclusively verify clinical benefit in this subgroup, with one member
+    noting the subgroup analysis was considered hypothesis-generating rather than definitive.
+
+    Panel members were also in overall agreement that the data generated by observational
+    Study 405 were not interpretable due to uncertainties in the data validity, concerns about
+    methodology, missing data, imbalance in index dates between the two groups, and potential
+    differential misclassification. Concerns were expressed for reliance on codes from
+    administrative claims and International Classification of Diseases (ICD) codes which were
+    not cross-referenced or verified by clinical chart review to confirm whether patients in the
+    control group actually had a clinical diagnosis of PBC. The panel questioned whether
+    Kaplan-Meier curves that showed separation between the OCA and control cohorts within a
+    relatively short time (as early as six months) could represent a true treatment effect, or,
+    whether these data were more likely to be indicative of differences between the study cohorts;
+    also whether these data demonstrated an inadequate analysis strategy. Another challenge
+    identified was that while the Agency and the Applicant reviewed the same observational data
+    each arrived at different conclusions. These discrepancies added to the complexity and
+    challenges of interpreting the observational study.
+
+    While several members acknowledged the challenges of conducting a randomized controlled
+    clinical trial under the circumstances following commercial availability of OCA all but one
+    committee member agreed that Study 405 as an observational study did not verify clinical
+    benefit. There was a general consensus that neither study verified a definitive benefit of OCA
+    on clinical outcomes.
+
+    Please see the transcript for details of the Committee’s discussion.
+
+2. DISCUSSION: Discuss the safety of OCA, including the incidence of liver transplant and
+   all-cause death in the United States Prescribing Information (USPI)-labeled and the overall
+   study population.
+
+    Committee Discussion: In discussing the safety of OCA in the USPI-labeled and overall
+    study populations there was overall agreement among members that the safety of OCA
+    remains a significant concern. Several panelists pointed to the high rate of liver transplants
+    among OCA users, including seven out of eight transplant cases in which Study 302 subjects
+    were being treated with OCA. This led to questions and discussion about hepatotoxicity.
+    Duration of Latency for hepatotoxicity was discussed., The Committee noted that liver
+    transplantation might occur months or years after OCA was stopped and the Model for End-
+    Stage Liver Disease (MELD) score might decrease just prior to liver transplant. Hence the
+    long interval from OCA exposure to transplantation could have been the result of the long
+    waiting time on a (liver) transplant and does not rule out the possibility that OCA was
+    responsible for decompensation. OCA is hepatotoxic in higher doses, and the Committee was
+
+
+                                                Page 6 of 8
+September 13, 2024
+Gastrointestinal Drugs Advisory Committee Meeting
+
+    concerned about hepatoxicity at the lower doses used for the treatment indication. One
+    member opined about the lessons learned from our experience with the glitazones about long
+    latent period prior to observation of hepatotoxicity. One member stated that the hazard ratio
+    and confidence interval for liver transplant and death as assessed by FDA analyses is not an
+    outlier to other analyses, as asserted by the Applicant, as the point estimates for other
+    analyses presented by the Applicant were included in the confidence interval. The imbalance
+    in numbers of liver transplant and death on the OCA arm compared to the placebo arm was
+    cited by several panel members and noted to be concerning.
+
+    It was noted that these clinical benefit trials do not have to prove harm and are not designed
+    to demonstrate harm on rare events such as death and liver transplants; however, there has
+    to be a reasonable doubt for harm. Individual practitioners might not discern these rare
+    events. Many deaths that occurred could have been due to hepatotoxicity or underlying liver
+    disease. Multiple panelists stressed the importance of further studies with rigorous design to
+    clarify the risk, as the existing safety data were deemed inadequate. Please see the transcript
+    for details of the Committee’s discussion.
+
+3. VOTE: Does the available evidence verify the benefit of OCA on clinical outcomes (hepatic
+   decompensation, liver transplant, and death) in the USPI-labeled population?
+      • Provide a rationale for your vote.
+
+    Vote Result:        Yes: 1           No: 13          Abstain: 0
+
+    Committee Discussion: The Committee members were in near unanimous agreement that the
+    available evidence does not verify the benefit of OCA on clinical outcomes in the USPI-
+    labeled population. In providing support for their vote, members who voted “No” cited
+    inconclusive results from Study 302, noting the trial did not meet its primary endpoint and
+    the numerous challenges faced by this study including crossovers due to OCA’s commercial
+    availability discussed in Question 1. In addition, panel members reiterated the unreliability
+    of Study 405’s results due to the methodological limitations detailed during discussion of
+    Question 1 and the study was difficult to interpret. The panel member who voted “Yes” also
+    acknowledged the inconclusive results of Study 302 but noted the real-world evidence from
+    Study 405 suggested a benefit of OCA if given at the right dose for the right patient with
+    appropriate follow-up. Please see the transcript for details of the Committee’s discussion.
+
+4. VOTE: Is the benefit-risk profile of OCA favorable in the USPI-labeled population?
+     • Provide a rationale for your vote.
+
+    Vote Result:        Yes: 1           No: 10          Abstain: 3
+
+    Committee Discussion: The majority of Committee members agreed that OCA’s benefit-risk
+    profile is not favorable in the USPI-labeled population. Members who voted “No” cited the
+    unproven benefit and significant safety concerns of OCA in providing the rationale for their
+    vote. Without clear evidence of benefit from the clinical trials, many panel members found it
+    difficult to balance the risk of serious adverse events such as liver transplant and death.
+    Several panel members also pointed to safety signals, particularly related to hepatotoxicity
+
+                                                Page 7 of 8
+September 13, 2024
+Gastrointestinal Drugs Advisory Committee Meeting
+
+    and decompensation, as concerning. Some panel members acknowledged challenges to
+    discern disease progression from drug-induced hepatotoxicity. Many panelists mentioned
+    the need for more rigorous studies to clarify the benefit-risk ratio. The unmet need for
+    treatment options in PBC was acknowledged from all panel members, but the lack of proven
+    benefit, as well as the presence of serious risks persuaded the majority of panelist to vote
+    against a favorable benefit-risk profile. Those who voted “Abstain” also cited the
+    uncertainty of the evidence for benefit and the need for more data. In addition to the panel
+    member who voted “Yes”, those who abstained also expressed empathy for patients who may
+    have few treatment options. In terms of developing drugs for PBC, there is difficulty in the
+    road ahead for developing second line therapies given the course of OCA and challenges in
+    conducting such trials in the current landscape (i.e., when drug is available commercially).
+    One panelist commented that the Agency and the industry needs to do a better job in
+    communicating with patients the difference between surrogate endpoints versus clinical
+    endpoints, and what it means when a drug has an accelerated approval. Please see the
+    transcript for details of the Committee’s discussion.
+
+
+The meeting was adjourned at approximately 4:18pm ET.
+
+
+
+
+                                                Page 8 of 8
+

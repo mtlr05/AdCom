@@ -1,0 +1,160 @@
+ Food and Drug Administration
+ Center for Biologics Evaluation and Research
+ Summary Minutes
+ 193rd Vaccines and Related Biological Products Advisory Committee Meeting
+
+                                            June 18, 2026
+
+Committee Members                                        Speakers and Guest Speakers
+(Voting)                                                 (in order of speaking)
+Adam Berger, PhD                                         Lisa Grohskopf, MD, MPH- CDC speaker
+Anna Durbin, MD                                          Richard Webby, PhD
+Hayley Gans, MD
+Flor M. Munoz-Rivas, MD MSc                              FDA Participants
+Michael R. Nelson, MD, PhD+                              David C. Kaslow, MD (Presenter)
+Saad B. Omer, MBBS, MPH, PhD                             Rachel Zhang, MD
+                                                         Joseph Kulinski, PhD (Presenter)
+Consumer Representative Member**                         Gauri Raval, MD, MPH (Presenter)
+(Non-Voting)                                             Timothy P. Brennan, MD, PhD, MS
+Jay Portnoy, MD+                                         (Presenter)
+                                                         Sudhakar Agnihothram, BPharm, PhD
+Industry Representative Member
+(Non-Voting)***                                          Designated Federal Officer (DFO)
+Temi Folaranmi, MD, MPH, MPP+                            Cicely Reese, PharmD
+
+Alternate Industry Representative
+(Non-Voting) ~                                           +Not Attending
+James Kollar, MD                                         *Chairperson
+                                                         **Consumer Representative
+                                                         ***Industry Representative
+Temporary Members                                        ~Alternate Industry Representative
+(Voting)
+Hana M. El Sahly, MD
+Arnold S. Monto, MD (*Acting)
+Manisha (Mo) Patel, MD, MS, MBA
+Stanley M. Monto, MD, PhD
+
+
+
+
+ These summary minutes for the June 18, 2026, meeting of the Vaccines and Related Biological
+ Products Advisory Committee (VRBPAC) were approved on the 20 of September 2026.
+
+
+ I certify that I participated in the June 18, 2026, meeting of the VRBPAC meeting and that these
+ minutes accurately reflect what transpired.
+
+
+           /s/                                         __________/s/____________
+ Cicely Reese, PharmD, LCDR                            Arnold S. Monto, MD
+ USPHS, DFO                                            Acting Chairperson
+                                                    Page 1 of 3
+Food and Drug Administration
+Center for Biologics Evaluation and Research
+Summary Minutes
+193rd Vaccines and Related Biological Products Advisory Committee Meeting
+
+                                           June 18, 2026
+
+On June 18, 2026, the 193rd meeting of the Vaccines and Related Biological Products Advisory
+Committee (VRBPAC) convened in open session to discuss and make recommendations on
+the safety and effectiveness of MFLUSIVA (Influenza Vaccine, mRNA), manufactured by Moderna
+TX Inc., with a requested indication in Biologics License Application STN 125869/0 for the prevention
+of influenza disease caused by influenza virus subtypes A and type B represented in the vaccine.
+
+On June 18, 2026, at 8:30 a.m. Eastern Daylight Time (EDT), Dr. Arnold Monto, Acting Chairperson,
+called the meeting to order. The DFO, Dr. Cicely Reese, made administrative remarks, conducted
+rollcall, invited the VRBPAC members and consultants to introduce themselves, and read the Conflict
+of Interest (COI) statement into the public record. There were no conflict-of-interest waivers issued
+under 18 U.S. Code Section 208 in connection with this meeting.
+
+Dr. David Kaslow, Office of Vaccines Research and Review, provided the Introduction to the VRBPAC
+Meeting Topics, and Dr. Joseph Kulinski provided a brief review of Biologics License Application for
+STN 125869/0, followed by Questions and Answers (Q&A).
+
+Following Introductory Remarks and Overview, the Center for Disease Control and Prevention (CDC),
+a Guest Speaker on Seasonal Influenza Vaccines, regulated industry and FDA presenters provided
+presentations entitled:
+• CDC: Seasonal Influenza Vaccine Surveillance and Effectiveness: Lisa Grohskopf, MD, MPH
+• Seasonal Influenza Vaccines: Current Status and Opportunities for Improved Effectiveness: Richard
+    Webby, PhD
+• Moderna Presentations:
+        o Moderna Investigational Influenza Vaccine mRNA-1010 in Adults = 50 Years:
+            Rituparna Das, MD, PhD
+        o Epidemiology of Seasonal Influenza in US Adults =50 Years and Effectiveness of Current
+            Vaccines: Evan Anderson, MD, FIDSA, FPIDS
+        o Clinical Data: Efficacy and Immunogenicity of mRNA-1010:
+            Rituparna Das, MD, PhD
+        o Clinical Safety: Eleanor Wilson, MD, MHS
+        o Benefit-Risk and Summary: Rituparna Das, MD, PhD
+• FDA Presentation: FDA Review of Efficacy, Immunogenicity, and Safety of MFLUSIVA
+    (Influenza Vaccine, mRNA) in Adults 50 Years of Age and Older: Gauri Raval, MD, MPH;
+    Timothy P. Brennan, MD, PhD, MS
+
+A 40-minute lunch break was held after the FDA presentation.
+
+After the lunch break, Dr. Monto convened the Open Public Hearing (OPH). Four registered speakers
+presented remarks during the OPH. The Chairperson closed the session and moved into presentations to
+the Committee.
+
+Immediately following the OPH, an additional Q&A session was held for the CDC, Industry, and FDA
+Presenters.
+
+
+
+                                                   Page 2 of 3
+Food and Drug Administration
+Center for Biologics Evaluation and Research
+Summary Minutes
+193rd Vaccines and Related Biological Products Advisory Committee Meeting
+
+                                           June 18, 2026
+
+The Chairperson began the general Committee Discussion of the topic. After the general discussion
+concluded, the Chairperson and DFO invited and led the Committee into the voting session. The
+outcome of the voting questions is noted below:
+
+Voting Question 1: Do the benefits of mFlusiva outweigh its risks for the prevention of influenza
+disease in adults 50 through 64 years of age?
+
+The vote was Yes: 9 No: 0 Abstain: 0.
+
+Voting Question 2: Do the benefits of mFlusiva outweigh its risks for the prevention of influenza
+disease in adults 65 years of age and older?
+
+The vote was Yes: 9 No: 0 Abstain: 0.
+
+Meeting Summary:
+
+The 193rd VRBPAC meeting, held on 18 June 2026, focused on evaluating the safety and effectiveness of
+MFLUSIVA (Influenza Vaccine, mRNA; mRNA-1010), manufactured by Moderna, for the prevention of
+influenza disease in adults 50 years of age and older. Committee members broadly supported the benefit-risk
+profile of MFLUSIVA. Discussion topics included labeling of the elevated reactogenicity profile, need for the
+second season data, establishment of correlates of protection, assessment of cell-mediated immunity and strain
+selection framework for mRNA-based influenza vaccines. Members emphasized the need for data in populations
+including immunocompromised, frail adults, and pregnant women. The committee voted unanimously 9–0 on
+both questions, recommending that the benefits of MFLUSIVA outweigh its risks for adults 50 through 64 years
+of age (supporting traditional approval) and for adults 65 years of age and older (supporting accelerated
+approval).
+
+Following Committee voting and the summary, Acting Chairperson, Dr. Arnold Monto, invited Dr.
+Kaslow to provide closing remarks. Dr. Kaslow thanked the committee for the 193rd VRBPAC
+meeting, which discussed the safety and effectiveness of MFLUSIVA (Influenza Vaccine, mRNA),
+manufactured by Moderna TX Inc., with a requested indication in Biologics License Application STN
+125869/0 for the prevention of influenza disease caused by influenza virus subtypes A and type B
+represented in the vaccine.
+
+Following Dr. Kaslow’s closing remarks, the committee DFO adjourned the meeting on June 18, 2026,
+at 2:53 p.m. EDT.
+
+Additional meeting information and details can be obtained from the transcript, which can be viewed
+at:
+2026 Meeting Materials, Vaccines and Related Biological Products Advisory Committee | FDA.
+
+The recording of the webcast of the meeting June be viewed at:
+https://youtube.com/live/9W18lwG7vD8
+
+
+
+                                                   Page 3 of 3
+

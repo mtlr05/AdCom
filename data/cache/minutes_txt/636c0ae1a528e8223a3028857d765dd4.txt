@@ -1,0 +1,156 @@
+                                                                                               1
+
+
+                              Food and Drug Administration
+                       Center for Biologics Evaluation and Research
+
+                           SUMMARY MINUTES
+      167th VACCINES AND RELATED BIOLOGICAL PRODUCTS ADVISORY
+                              COMMITTEE
+
+                                      September 17, 2021
+
+
+Committee Members                              Temporary Voting Members
+Hana El Sahly, M.D., Chair +                   Arnold Monto, M.D. (Acting Chair)
+Archana Chatterjee, M.D., Ph.D.                A. Oveta Fuller, Ph.D.
+CAPT. Amanda Cohn, M.D.                        James Hildreth, Sr., Ph.D., M.D.
+Hayley Gans, M.D.                              Jeannette Lee, Ph.D.
+Holly Janes, Ph.D. +                           Ofer Levy, M.D., Ph.D.
+Michael Kurilla, M.D., Ph.D.                   Pamela McInnes, D.D.S., M.Sc.
+Myron Levine, M.D., D.T.P.H., F.A.A.P. +       Stanley Perlman, M.D., Ph.D.
+H. Cody Meissner, M.D.                         Eric Rubin, M.D., Ph.D.
+Paul Offit, M.D.                               Mark Sawyer, M.D., F.A.A.P.
+Steven Pergam, M.D., M.P.H.                    Melinda Wharton, M.D., M.P.H.
+Andrea Shane, M.D., M.P.H., M.Sc. +
+Paul Spearman, M.D. +                          Speakers and Guest Speakers
+Geeta K. Swamy, M.D. +                         Donna Boyce, MS – Pfizer Inc.
+                                               Jonathan Sterne, Ph.D. – Univ. of Bristol, UK
+Industry Representatives                       Sara Oliver, M.D., MSPH – CDC
+Paula Annunziato, M.D.                         Sharon Alroy-Preis, M.D., MPH, MBA –
+Gregg Sylvester, M.D., M.P.H. <+               Ministry of Health, Israel
+                                               Ron Milo, Ph.D. – Weizmann Institute of
+Consumer Representative                        Science, Israel
+Jay Portnoy, M.D. * (Acting)                   William Gruber, M.D. – Pfizer Inc.
+
+Designated Federal Officer’s (DFO)             FDA Participants
+Prabhakara Atreya, Ph.D.                       Doran Fink, M.D.
+Kathleen Hayes, M.P.H.                         Joohee Lee, M.D. (Speaker)
+                                               Marion Gruber, Ph.D. (Speaker)
+Committee Management Specialist(s)             Philip Krause, M.D.
+Monique Hill, M.H.A.                           Peter W. Marks, M.D., Ph.D.
+                                               Ramachandra Naik, Ph.D. (Speaker)
+* Consumer Representative                      Celia M. Witten, Ph.D., M.D.
++ Not in attendance                            Jerry Weir, Ph.D.
+< Alternate Industry representative
+                                                                                                   2
+
+
+These summary minutes for the September 17, 2021 Meeting of the Vaccines and Related
+Biological Products Advisory Committee were approved on _September 22, 2021__.
+
+I certify that I participated in the September 17, 2021 Meeting of the Vaccines and Related
+Biological Products Advisory Committee and that these minutes accurately reflect what
+transpired.
+
+_________/s/__________                                        __________/s/__________
+Prabhakara Atreya, Ph.D.
+                                                              Arnold Monto, M.D.
+Designated Federal Officer
+                                                              Acting Chair
+
+On September 17, 2021 at 8:30 a.m. Eastern Standard Time (EST), the 167th Meeting of the
+Vaccines and Related Biological Products Advisory Committee (VRBPAC) took place in open
+session to discuss Pfizer-BioNTech’s supplemental Biologics License Application for
+administration of a third dose, or “booster” dose, of the COVID-19 vaccine, COMIRNATY, in
+individuals 16 years of age and older.
+
+Dr. Arnold Monto, the Acting Chair, called the meeting to order. The DFO made administrative
+remarks, conducted roll call and invited the committee members to introduce themselves, and
+read the Conflict of Interest (COI) statement into the public record. It was stated that one conflict
+of interest waiver was issued to a consultant and a temporary voting member, Dr. James
+Hildreth, under 18 U.S. Code 208 in connection with the meeting and the waiver was posted on
+the FDA website for public disclosure.
+
+Dr. Peter Marks, Director for the Center for Biologics Evaluation and Research (CBER), FDA
+made welcoming remarks and Dr. Marion Gruber, Director of the Office of Vaccines Research
+and Review (OVRR), FDA introduced the topic of the meeting with a presentation titled
+“Application for Licensure of a Booster Dose of COMIRNATY, COVID-19 Vaccine, mRNA.”
+Dr. Ramachandra Naik of OVRR, CBER, FDA then provided a background presentation titled
+“Comirnaty (COVID-19 Vaccine, mRNA) Supplemental Biologics License Application for a
+booster dose in individuals 16 years of age and older.” This was followed by a presentation by
+Dr. Sarah Oliver with the Centers for Disease Control and Prevention (CDC) titled “Updates to
+COVID-19 Epidemiology and COVID-19 Vaccines.” Dr. Jonathan Sterne with the University of
+Bristol Medical School then gave a presentation on “Real-word effectiveness of COVID-19
+vaccines.” This was followed by a presentation by Dr. Sharon Alroy-Preis with the Ministry of
+Health, Israel and Dr. Ron Milo with the Weizmann Institute, Israel, made a presentation titled,
+“Booster protection against confirmed infections and severe disease – data from Israel.”
+Following their presentations, the Committee was released for a 5-minute break. After the break,
+speakers Ms. Donna Boyce and Dr. William Gruber with the sponsor, Pfizer Inc. presented,
+“BNT162b2 [COMIRNATY (COVID-19 Vaccine, mRNA)] Booster (Third) Dose.”
+
+After the sponsors presentations concluded, Dr. Joohee Lee with OVRR, CBER, FDA provided a
+follow-up presentation titled “FDA Review of Effectiveness and Safety of COMIRNATY
+(COVID-19 Vaccine, mRNA) Booster Dose Biologics License Application Supplement.” The
+Committee was then released to a 25-minute lunch break. Once the Committee returned from
+                                                                                                 3
+
+
+lunch, a 60-minute Open Public Hearing (OPH) session was held in which 17 public pre-
+registered speakers made presentations and oral comments. The names of OPH speakers and
+their oral remarks may be obtained from the transcript posted on the website. Following the OPH
+session, the Committee proceeded with the discussion portion of the meeting.
+
+The VRBPAC was then asked to vote on the following question:
+
+   1. Do the safety and effectiveness data from clinical trial C4591001 support approval
+      of a COMIRNATY booster dose administered at least 6 months after completion of
+      the primary series for use in individuals 16 years of age and older?
+
+       Please vote Yes or No.
+
+       The results of the vote were as follows: Yes = 2, No = 16.
+
+Thus, the committee voted against approval of a booster dose for individuals 16 years of age and
+older. Committee members expressed concern regarding uncertainties about the benefit afforded
+by a booster dose relative to the benefit provided by previous vaccination with the primary series
+in persons 16 years of age and older. Concerns were expressed about post-authorization data
+demonstrating increased risks of myocarditis and pericarditis, particularly within 7 days
+following the second dose of COMIRNATY with the highest risk in males 16 to 17 years of age.
+There is currently only limited data whether this risk may be further increased after a booster
+dose of COMIRNATY. Some committee members also noted the absence of robust data
+regarding the effectiveness of a booster dose against the currently circulating Delta variant of
+SARS-C0V-2.
+
+Considering the committee’s feedback, the FDA then asked the committee members to vote on
+whether the available data would support an emergency use authorization of a booster dose for
+individuals 65 years and older. Prior to VRBPAC members casting their vote, FDA provided
+them with a brief overview of applicable EUA criteria.
+
+The committee was presented with a second voting question:
+
+   2. Based on the totality of scientific evidence available, including the safety and
+      effectiveness data from clinical trial C4591001, do the known and potential benefits
+      outweigh the known and potential risks of a COMIRNATY booster dose
+      administered at least 6 months after completion of the primary series for use in
+      individuals 65 years of age and older?
+
+       Please vote Yes or No.
+
+       The results of the vote were as follows: Yes = 18, No = 0.
+
+Thus, the committee voted unanimously that the known and potential benefits outweigh the
+known and potential risks of a single booster dose of the Pfizer-BioNTech COVID-19 Vaccine
+for individuals 65 years of age and older. Following the vote, the committee expressed support
+                                                                                                  4
+
+
+that the EUA include individuals at high risk of occupational exposure to COVID-19.
+
+Following the discussion, the meeting was then adjourned on September 17, 2021 at 4:45 PM
+EST.
+
+Additional information and details may be obtained from the transcript and the recording of the
+webcast of the meeting that may be viewed at: Vaccines and Related Biological Products Advisory
+Committee – 9/17/2021 - YouTube.
+

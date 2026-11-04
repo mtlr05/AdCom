@@ -1,0 +1,262 @@
+                           Food and Drug Administration
+                    Center for Drug Evaluation and Research
+ Final Summary Minutes of the Peripheral and Central Nervous System Drugs Advisory
+                                Committee Meeting
+
+
+Location: Please note that due to the impact of this COVID-19 pandemic, all meeting
+participants joined this advisory committee meeting via an online teleconferencing platform.
+
+Topic: The committee discussed supplemental biologics license application (sBLA) 761269/s-
+001, for LEQEMBI (lecanemab) solution for intravenous infusion, submitted by Eisai, Inc., for
+the treatment of Alzheimer's disease, initiated in patients with mild cognitive impairment or mild
+dementia stage of disease. This product was approved under 21 CFR 314.500 (subpart H,
+accelerated approval regulations) for the treatment of Alzheimer’s disease. Confirmatory studies
+are studies to verify and describe the clinical benefit of a product after it receives accelerated
+approval. The committee discussed the confirmatory study, BAN2401-G000-301, conducted to
+fulfill post-marketing requirement 4384-1 detailed in the January 6, 2023, approval letter,
+available at
+https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/761269Orig1s000ltr.pdf.
+
+These summary minutes for the June 9, 2023 meeting of the Peripheral and Central Nervous
+System Drugs Advisory Committee of the Food and Drug Administration were approved on
+___June 30, 2023___.
+
+I certify that I attended the June 9, 2023 meeting of the Peripheral and Central Nervous System
+Drugs Advisory Committee (PCNS) of the Food and Drug Administration and that these minutes
+accurately reflect what transpired.
+
+
+
+__________ _/s/_________________                     __________ _/s/_________________
+Jessica Seo, PharmD, MPH                             Robert C. Alexander, MD
+Designated Federal Officer, PCNS                     Acting Chairperson, PCNS
+
+
+
+
+                                            Page 1 of 6
+       Final Summary Minutes of the Peripheral and Central Nervous System Drugs
+                            Advisory Committee Meeting
+                                     June 9, 2023
+
+The Peripheral and Central Nervous System Drugs Advisory Committee (PCNS) of the Food and
+Drug Administration, Center for Drug Evaluation and Research, met on June 9, 2023. The
+meeting presentations were heard, viewed, captioned, and recorded through an online
+teleconferencing platform. Prior to the meeting, the members and temporary voting members
+were provided the briefing materials from the FDA and Biogen, Inc. The meeting was called to
+order by Robert C. Alexander, MD (Acting Chairperson). The conflict-of-interest statement was
+read into the record by Jessica Seo, PharmD, MPH (Designated Federal Officer). There were
+approximately 1881 people online. There was a total of 21 Open Public Hearing (OPH) speaker
+presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda:
+
+The committee discussed supplemental biologics license application (sBLA) 761269/s-001, for
+LEQEMBI (lecanemab) solution for intravenous infusion, submitted by Eisai, Inc., for the
+treatment of Alzheimer's disease, initiated in patients with mild cognitive impairment or mild
+dementia stage of disease. This product was approved under 21 CFR 314.500 (subpart H,
+accelerated approval regulations) for the treatment of Alzheimer’s disease. Confirmatory studies
+are studies to verify and describe the clinical benefit of a product after it receives accelerated
+approval. The committee discussed the confirmatory study, BAN2401-G000-301, conducted to
+fulfill post-marketing requirement 4384-1 detailed in the January 6, 2023, approval letter,
+available at
+https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2023/761269Orig1s000ltr.pdf.
+
+Attendance:
+
+Peripheral and Central Nervous System Drugs Advisory Committee Members Present
+(Voting): Robert C. Alexander, MD (Acting Chairperson); Merit E. Cudkowicz, MD
+
+Peripheral and Central Nervous System Drugs Advisory Committee Members Not Present
+(Voting): Liana G. Apostolova, MD, MSc, FAAN; Richard J. Kryscio, PhD; Michelle M.
+Mielke, PhD; Thomas J. Montine, MD, PhD
+
+Peripheral and Central Nervous System Drugs Advisory Committee Member Present
+(Non-Voting): Michael Gold, MS, MD (Industry Representative)
+
+Temporary Members (Voting): Dean Follmann, PhD; Colette Johnston (Patient
+Representative); Klaus Romero, MD, MS, FCP; Tanya Simuni, MD, FAAN
+
+
+
+
+                                            Page 2 of 6
+June 9, 2023
+Peripheral and Central Nervous System Drugs Advisory Committee Meeting
+
+FDA Participants (Non-Voting): Teresa Buracchio, MD; Laura Jawidzik, MD; Sally Yasuda,
+MS, PharmD
+
+Designated Federal Officer (Non-Voting): Jessica Seo, PharmD, MPH
+
+Open Public Hearing Speakers Present: Stephen Salloway, MD, MS; George Vradenburg
+(UsAgainstAlzheimer’s); Nina Zeldes, PhD (Public Citizen); Ian Kremer (LEAD Coalition);
+Joanne Pike, DrPH (Alzheimer's Association); Diana Zuckerman, PhD (National Center for
+Health Research; Susan Peschin, MHS (Alliance for Aging Research); Karyne Jones (National
+Caucus and Center on Black Aging, Inc.); John Dwyer (Global Alzheimer's Platform
+Foundation); Joanne Bridges and Jerome Bridges; Cindy Marshall, MD, DFAAGP; Reshma
+Ramachandran, MD, MPP, MHS (Yale Collaboration for Regulatory Rigor, Integrity, and
+Transparency); Claudia Padilla, MD; Patricia Bencivenga; Dona Kim Murphey, MD, PhD
+(Doctors for America); Doreen Monks; Zelik Bocknek and Gail Bocknek; Patricia Luiggi;
+Gretchen C. Wartman (National Minority Quality Forum); Ira Leffen and Mary Duda; Myra
+Garcia
+
+The agenda was as follows:
+
+  Call to Order                                               Robert C. Alexander, MD
+                                                              Acting Chairperson, PCNS
+
+  Introduction of Committee and                               Jessica Seo, PharmD, MPH
+  Conflict of Interest Statement                              Designated Federal Officer, PCNS
+
+  FDA Introductory Remarks                                    Teresa Buracchio, MD
+                                                              Director (Acting)
+                                                              Office of Neuroscience (ON)
+                                                              Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                                     Eisai, Inc.
+
+  Introduction                                                Lynn Kramer, MD, FAAN
+                                                              Chief Clinical Officer, Alzheimer’s Disease and Brain
+                                                              Health (ADBH)
+                                                              Eisai, Inc.
+
+  Study 301 Efficacy                                          Michael Irizarry, MD, MPH
+                                                              Senior Vice President, Deputy Chief Clinical Officer,
+                                                              ADBH
+                                                              Eisai, Inc.
+
+  Robustness of Efficacy Results                              Shobha Dhadda, PhD
+                                                              Senior Vice President, Biostatistics and Clinical
+                                                              Development Operations, ADBH
+                                                              Eisai, Inc.
+
+  Study 301 Safety                                            Michael Irizarry, MD, MPH
+
+                                                Page 3 of 6
+June 9, 2023
+Peripheral and Central Nervous System Drugs Advisory Committee Meeting
+
+  Clinician’s Perspective                                     Sharon Cohen, MD, FRCPC
+                                                              Medical Director
+                                                              Toronto Memory Program
+  Conclusion                                                  Lynn Kramer, MD, FAAN
+
+  Clarifying Questions to the Applicant
+
+  LUNCH
+
+  FDA PRESENTATIONS
+
+  Clinical Overview of Efficacy                               Kevin Krudys, PhD
+                                                              Clinical Efficacy Reviewer
+                                                              Associate Director
+                                                              ON, OND, CDER, FDA
+
+  Statistical Overview                                        Tristan Massie, PhD
+                                                              Biostatistics Reviewer
+                                                              Division of Biostatistics 1 (DB1)
+                                                              Office of Biostatistics
+                                                              OND, CDER, FDA
+
+  Clinical Overview of Safety                                 Deniz Erten-Lyons, MD
+                                                              Clinical Safety Reviewer
+                                                              Division of Neurology 1 (DN1)
+                                                              ON, OND, CDER, FDA
+
+  Concluding Remarks                                          Teresa Buracchio, MD
+
+  Clarifying Questions to FDA
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+  BREAK
+
+  Questions to the Committee/Committee Discussion
+
+  ADJOURNMENT
+
+
+
+
+                                                Page 4 of 6
+June 9, 2023
+Peripheral and Central Nervous System Drugs Advisory Committee Meeting
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the results from Study 301 (CLARITY AD) and whether they provide
+   evidence of clinical benefit of lecanemab for the treatment of Alzheimer’s disease (AD).
+
+    Committee Discussion: The Committee members agreed that Study 301 (CLARITY AD)
+    demonstrated both statistically and clinically significant benefit of lecanemab for the
+    treatment of Alzheimer’s disease. They highlighted that the study met both its primary and
+    secondary endpoints and expressed strong support that those benefits were clinically
+    meaningful. Several members pointed out the study was well designed and noted the
+    robustness of the results. Some members acknowledged the small difference observed
+    between the treatment and placebo groups and concluded that this difference was clinically
+    meaningful in the context of the early-stage AD population that was studied, citing
+    presentations made by the Applicant and FDA, as well as the testimony of patients and
+    caregivers during the Open Public Hearing. Please see the transcript for details of the
+    Committee’s discussion.
+
+2. VOTE: Do the results of Study 301 (CLARITY AD) verify the clinical benefit of lecanemab for
+   the treatment of AD?
+
+    Vote Result:        Yes: 6           No: 0            Abstain: 0
+
+    Committee Discussion: The Committee members were unanimously in agreement that the
+    results of Study 301 (CLARITY AD) verified the clinical benefit of lecanemab for the
+    treatment of AD, citing reasons given during the previous discussion. Please see the
+    transcript for details of the Committee’s discussion.
+
+3. DISCUSSION: Discuss the overall benefit/risk assessment of lecanemab for the treatment of
+   AD. Additionally, consider the following subgroups in your assessment:
+      • Apolipoprotein E (ApoE) ε4 homozygotes
+      • Patients requiring concomitant treatment with anticoagulant agents
+      • Patients with cerebral amyloid angiopathy
+
+    Committee Discussion: The Committee agreed that the overall benefit/risk assessment of
+    lecanemab for the treatment of AD was favorable in the population studied. The members
+    cited the following contributing factors in their assessment: similar overall tolerability and
+    risks for death or serious adverse events (AEs) between the treatment and placebo groups,
+    the ability to monitor those AEs, the burden and progressive nature of the disease, as well as
+    the unmet medical need.
+
+    The Committee discussed three subgroups at potentially higher risk for amyloid related
+    imaging abnormalities (ARIA) and serious events. The majority of Committee members
+    agreed that lecanemab demonstrated benefit across multiple endpoints in patients with AD
+    who were ApoE ε4 homozygotes. Some members recommended that ApoE ε4 status testing be
+    performed to inform patient-physician decision-making and benefit/risk discussions. Others
+    highlighted the potential need for increased vigilance and monitoring in this subgroup.
+    Regarding patients requiring concomitant treatment with anticoagulant agents, the
+
+                                                 Page 5 of 6
+June 9, 2023
+Peripheral and Central Nervous System Drugs Advisory Committee Meeting
+
+    Committee agreed that additional data was needed and provided a wide variety of
+    recommendations for this subgroup. One member proposed that patients on anticoagulants
+    should not be given lecanemab due to the risk for macrohemorrhage. Another member
+    recommended that this drug be avoided in patients on chronic anticoagulant therapy. Other
+    members advised not excluding this patient subgroup until more data are obtained to better
+    address the uncertainty surrounding the benefit/risk. With respect to patients with cerebral
+    amyloid angiopathy (CAA), the Committee members were generally in support of treating
+    this subgroup with lecanemab. Some members noted the need for a robust reporting system
+    to gather additional real-world data on lecanemab’s safety in these patients, and one
+    member recommended excluding use in patients with the CAA-related inflammation subtype.
+    Please see the transcript for details of the Committee’s discussion.
+
+The meeting was adjourned at approximately 4:36pm ET.
+
+
+
+
+                                                Page 6 of 6
+

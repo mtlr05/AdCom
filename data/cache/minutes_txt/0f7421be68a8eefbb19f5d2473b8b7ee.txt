@@ -1,0 +1,231 @@
+                                Food and Drug Administration
+                           Center for Drug Evaluation and Research
+
+       Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                    October 4, 2023
+
+
+Location: All meeting participants were heard, viewed, captioned, and recorded for this advisory
+committee meeting via an online teleconferencing and/or video conferencing platform.
+
+Topic: The Committee discussed new drug application (NDA) 215500, for eflornithine tablets,
+submitted by USWM, LLC (doing business as US WorldMeds). The proposed indication (use)
+for this product is to reduce the risk of relapse in pediatric patients with high-risk neuroblastoma
+(HRNB) who have completed multiagent, multimodality therapy.
+
+These summary minutes for the October 4, 2023 meeting of the Oncologic Drugs Advisory
+Committee of the Food and Drug Administration were approved on November 9, 2023.
+
+I certify that I attended the October 4, 2023 meeting of the Oncologic Drugs Advisory
+Committee of the Food and Drug Administration and that these minutes accurately reflect what
+transpired.
+
+
+
+__________ _/s/__________________                  ____________/s/___________________
+Joyce Frimpong, PharmD                             Christopher H. Lieu, MD
+Acting Designated Federal Officer, ODAC            Acting Chairperson, ODAC
+
+
+
+
+                                             Page 1 of 5
+October 4, 2023
+Oncologic Drugs Advisory Committee Meeting
+
+
+
+       Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                    October 4, 2023
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research met on October 4, 2023. The meeting presentations
+were heard, viewed, captioned, and recorded through an online video conferencing platform.
+Prior to the meeting, the members and temporary voting members were provided the briefing
+materials from the FDA and US WorldMeds. The meeting was called to order by Christopher H.
+Lieu, MD (Acting Chairperson). The conflict of interest statement was read into the record by
+Joyce Frimpong, PharmD (Acting Designated Federal Officer). There were approximately 600
+people in attendance. There were 9 Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The Committee discussed new drug application (NDA) 215500, for eflornithine tablets,
+submitted by USWM, LLC (doing business as US WorldMeds). The proposed indication (use)
+for this product is to reduce the risk of relapse in pediatric patients with high-risk neuroblastoma
+(HRNB) who have completed multiagent, multimodality therapy.
+
+Attendance:
+Oncologic Drugs Advisory Committee Members Present (Voting): Mark R. Conaway, PhD;
+William J. Gradishar, MD; Christopher H. Lieu, MD (Acting Chairperson); David E. Mitchell
+(Consumer Representative); Jorge J. Nieva, MD; Alberto S. Pappo, MD; Daniel Spratt, MD; Neil
+Vasan, MD, PhD
+
+Oncologic Drugs Advisory Committee Members Not Present (Voting): Ranjana H. Advani,
+MD; Toni K. Choueiri, MD; Pamela L. Kunz, MD; Ravi A. Madan, MD (Chairperson); Ashley
+Rosko, MD
+
+Oncologic Drugs Advisory Committee Member Present (Non-Voting): Johnathan D. Cheng,
+MD (Industry Representative)
+
+Temporary Members (Voting): G. Caleb Alexander, MD, MS; Shahab Asgharzadeh, MD;
+Mary Ellen Cosenza, PhD, DABT; AeRang Kim, MD, PhD; Gianna McMillan, DBE, MFA
+(Patient Representative); Donald Williams (Will) Parsons, MD, PhD; Pamela Shaw, PhD, MS;
+Til Stürmer, MD, MPH, PhD; Clare J. Twist, MD; Yoram Unguru, MD, MS, MA, HEC-C; Brian
+Weiss, MD; Brigitte Widemann, MD
+
+FDA Participants (Non-Voting): Richard Pazdur, MD; Paul Kluetz, MD; Martha Donoghue,
+MD; Nicole Drezner, MD; Diana Bradford, MD; Elizabeth S. Duke, MD; Arup Sinha, PhD;
+Emily Wearne, PhD
+
+Acting Designated Federal Officer (Non-Voting): Joyce Frimpong, PharmD
+
+
+
+
+                                             Page 2 of 5
+October 4, 2023
+Oncologic Drugs Advisory Committee Meeting
+
+Open Public Hearing Speakers: Melissa Block; Sarah Bartosz (Beat Childhood Cancer
+Foundation, Inc.); Patrick Lacey; Deanna Mitchell, MD; Jacqueline Kraveka, DO; Crystal Shaw
+(Team Parker 4 Life); Sarah Stephens; Rachel Sal Jansheski; Ashley Burnette
+_____________________________________________________________________________
+
+The agenda was as follows:
+
+  Call to Order                              Christopher H. Lieu, MD
+                                             Acting Chairperson, ODAC
+
+  Introduction of Committee/ Conflict of     Joyce Frimpong, PharmD
+  Interest Statement                         Acting Designated Federal Officer, ODAC
+
+  FDA Opening Remarks                        Diana Bradford, MD
+                                             Cross Disciplinary Team Leader
+                                             Division of Oncology 2 (DO2)
+                                             Office of Oncologic Drugs (OOD)
+                                             Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                    US WorldMeds
+
+  Introduction                               Kristen Gullo
+                                             Vice President of Development and
+                                             Regulatory Affairs
+                                             US WorldMeds
+
+  High-risk Neuroblastoma (HRNB) Unmet       Giselle Sholler, MD
+  Need and DFMO Development History          Division Chief
+                                             Pediatric Hematology, Oncology and Bone Marrow
+                                             Transplant
+                                             Penn State Health Children's Hospital
+
+  DFMO Efficacy                              Thomas Clinch
+                                             Senior Director
+                                             Biometrics and Clinical Development
+                                             US WorldMeds
+
+  Clinical Perspective                       Susan L. Cohn, MD
+                                             Professor and Director of Clinical Sciences
+                                             Department of Pediatrics
+                                             University of Chicago Medicine
+
+  Conclusion                                 Kristen Gullo
+
+
+
+
+                                             Page 3 of 5
+October 4, 2023
+Oncologic Drugs Advisory Committee Meeting
+
+  FDA PRESENTATIONS
+
+  Eflornithine (DFMO) for patients with      Elizabeth S. Duke, MD
+  high-risk neuroblastoma who have           Clinical Reviewer
+  completed multiagent, multimodality        DO2, OOD, OND, CDER, FDA
+  therapy
+                                             Arup Sinha, PhD
+                                             Statistics Reviewer
+                                             Division of Biometrics V
+                                             Office of Biostatistics (OB), CDER, FDA
+
+                                             Emily Wearne, PhD
+                                             Nonclinical Reviewer
+                                             Division of Hematology Oncology Toxicology (DHOT)
+                                             OOD, OND, CDER, FDA
+
+  Clarifying Questions
+
+  LUNCH
+
+  Charge to the Committee                    Nicole Drezner, MD
+                                             Deputy Division Director
+                                             DO2, OOD, OND, CDER, FDA
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee
+  Discussion
+
+  ADJOURNMENT
+______________________________________________________________________________
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the strengths and limitations of the externally controlled trial results
+   to support the use of DFMO in pediatric patients with high-risk neuroblastoma.
+
+   Committee Discussion: Committee members appreciated the thorough analyses that had
+   been performed by FDA and the Applicant to assess the impact of potential biases on the
+   results of the externally controlled trial. However, there was not a unanimous consensus
+   regarding the certainty or reliability of the results of the externally controlled trial. Many
+   committee members had concerns about setting precedent regarding utilization of an
+   external control. Several committee members questioned whether a randomized controlled
+   trial could be performed in this setting, while others stated that such a trial would be
+   infeasible. Some committee members were concerned about the impact of such an approval
+   on other trials in pediatric oncology. Please see the transcript for details of the Committee’s
+   discussion.
+
+
+
+
+                                             Page 4 of 5
+October 4, 2023
+Oncologic Drugs Advisory Committee Meeting
+
+2. DISCUSSION: Discuss the strengths and limitations of the additional nonclinical and
+   clinical data to support the use of DFMO in pediatric patients with high-risk neuroblastoma.
+
+   Committee Discussion: Some committee members noted that the nonclinical data appeared
+   to use a relevant model and provided supportive evidence of the effect of DFMO in this
+   setting. However, as for limitations, some committee members commented that nonclinical
+   data does not always translate into an effect in clinical studies. Please see the transcript for
+   details of the Committee’s discussion.
+
+3. VOTE: Has the Applicant provided sufficient evidence to conclude that DFMO improves
+   event-free survival in patients with high-risk neuroblastoma?
+
+   Vote Result:        Yes: 14                No: 6          Abstain: 0
+
+   Committee Discussion: The majority of the committee members agreed that the Applicant
+   provided sufficient evidence to conclude that DFMO improves event-free survival in patients
+   with high-risk neuroblastoma; however, there were questions for clarity around if this was
+   intended to mean substantial evidence and deferred to FDA on that aspect. Committee
+   members who voted “Yes”, noted the totality of data appeared to support the assertion that
+   DFMO improves event- free survival given the robustness and uniqueness of the external
+   control. There was also trust in the nonclinical data. Those who voted “No”, questioned
+   whether this type design could be used to demonstrate efficacy given the concerns regarding
+   confounding and bias that are inherent with use of external control arms. There were some
+   differences of opinions among Committee members as to whether a randomized controlled
+   trial of this drug in the proposed indication could be feasible, and, if so, whether such a trial
+   could be completed in a timely fashion. Please see the transcript for details of the
+   Committee’s discussion.
+
+
+The meeting was adjourned at approximately 3:35 p.m.
+
+
+
+
+                                             Page 5 of 5
+

@@ -1,0 +1,292 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+
+         Final Summary Minutes of the Arthritis Advisory Committee Meeting
+                                     July 25, 2019
+
+Location: FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.
+1503), 10903 New Hampshire Avenue, Silver Spring, Maryland
+Topic: The committee discussed supplemental new drug application (sNDA) 205832 for
+nintedanib capsules (drug name OFEV), sponsored by Boehringer Ingelheim, for the treatment of
+systemic sclerosis-associated interstitial lung disease (SSc-ILD). The focus of the discussion was
+whether the application provides substantial evidence of efficacy for the proposed indication.
+
+
+These summary minutes for the July 25, 2019 meeting of the Arthritis Advisory Committee
+(AAC) of the Food and Drug Administration were approved on August 20, 2019.
+
+
+I certify that I attended the July 25, 2019 AAC meeting of the Food and Drug Administration and
+that these minutes accurately reflect what transpired.
+
+
+
+
+__________/s/______________________               ________/s/_____________________
+Yinghua S. Wang, PharmD, MPH, RAC                 Daniel H. Solomon, MD, MPH
+Designated Federal Officer, AAC                   Chairperson, AAC
+
+
+
+
+                                            Page 1 of 6
+       Final Summary Minutes of the Arthritis Advisory Committee (AAC) Meeting
+                                         July 25, 2019
+
+The Arthritis Advisory Committee (AAC) of the Food and Drug Administration, Center for Drug
+Evaluation and Research, met on July 25, 2019, at the FDA White Oak Campus, Building 31
+Conference Center, the Great Room (Rm. 1503), 10903 New Hampshire Avenue, Silver Spring,
+Maryland. Prior to the meeting, the members and temporary voting members were provided the
+briefing materials from the FDA and Boehringer Ingelheim. The meeting was called to order by
+Daniel Solomon, MD (Chairperson). The conflict of interest statement was read into the record
+by Yinghua S. Wang, PharmD, MPH, RAC (Designated Federal Officer). There were
+approximately 105 people in attendance. There were four Open Public Hearing (OPH)
+presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committee discussed supplemental new drug application (sNDA) 205832 for
+nintedanib capsules (drug name OFEV), sponsored by Boehringer Ingelheim, for the treatment of
+systemic sclerosis-associated interstitial lung disease (SSc-ILD). The focus of the discussion was
+whether the application provides substantial evidence of efficacy for the proposed indication.
+
+Attendance:
+
+Arthritis Advisory Committee Members Present (Voting): Mara L. Becker, MD, MSCE;
+Jeffrey Curtis, MD, MS, MPH; Jennifer Horonjeff, PhD (Consumer Representative); Martha C.
+Nason, PhD; Alyce M. Oliver, MD, PhD; J. Steuart Richards, MD; Daniel H. Solomon, MD,
+MPH (Chairperson)
+
+Arthritis Advisory Committee Members Not Present (Voting): John M. Davis III, MD, MS;
+Aryeh Fischer, MD; Veena K. Ranganath, MD, MS; Jose U. Scher, MD
+
+Arthritis Advisory Committee Members Not Present (Non-voting): James B. Chung, MD,
+PhD (Industry Representative)
+
+Temporary Members (Voting): William Calhoun, MD, FACP, FCCP, FAAAAI, FACAAI;
+Brian Garibaldi, MD, MEHP; Nancy Gellar, PhD; Todd Gilligan, MA (Patient Representative);
+James Katz, MD; Gail Kerr, MD, FRCP(Edin); Susanne May, PhD; Carrie Redlich, MD, MPH;
+James Stoller, MD; Michael Weisman, MD.
+
+Acting Industry Representative to the Committee (Non-voting): Sean Curtis, MD (Acting
+Industry Representative)
+
+
+
+
+                                            Page 2 of 6
+July 25, 2019
+Arthritis Advisory Committee (AAC) Meeting
+
+FDA Participants (Non-voting): Sally Seymour, MD; Nikolay Nikolov, MD; Rachel Glaser,
+MD; Nadia Habel, MD; Yu Wang, PhD
+
+Designated Federal Officer (Non-voting): Yinghua S. Wang, PharmD, MPH, RAC
+
+Open Public Hearing Speakers: Luke Evnin, PhD (Scleroderma Research Foundation);
+Rosemary Markoff; Stephanie Fox-Rawlings, PhD (National Center for Health Research);
+Gregory Cosgrove, MD (Pulmonary Fibrosis Foundation)
+
+The agenda was as follows:
+
+   Call to Order and Introduction of               Daniel Solomon, MD
+   Committee                                       Chairperson, AAC
+
+   Conflict of Interest Statement                  Yinghua S. Wang, PharmD, MPH, RAC
+                                                   Designated Federal Officer, AAC
+
+   FDA Opening Remarks                             Rachel Glaser, MD
+                                                   Clinical Team Leader
+                                                   Division of Pulmonary, Allergy, and Rheumatology
+                                                   Products (DPARP)
+                                                   Office of Drug Evaluation II (ODE-II)
+                                                   Office of New Drugs (OND), CDER, FDA
+
+   APPLICANT PRESENTATIONS                         Boehringer Ingelheim
+
+   Introduction                                    Kay Teztlaff, MD
+                                                   Medical Head
+                                                   Therapeutic Area Respiratory Diseases
+                                                   Boehringer Ingelheim
+
+   Systemic Sclerosis-Associated Interstitial      James R. Seibold, MD
+   Lung Disease (SSc-ILD) Background and           Principal Member
+   Unmet Medical Need                              Scleroderma Research Consultants
+
+   Clinical Development Rationale for SSc-ILD      Susanne Stowasser, MD
+                                                   Associate Head Medicine
+                                                   Therapeutic Area Respiratory Diseases
+                                                   Boehringer Ingelheim
+
+   Efficacy of Nintedanib for SSc-ILD              Emmanuelle Clerisme-Beaty, MD
+                                                   Senior Clinical Program Leader
+                                                   Therapeutic Area Respiratory Diseases
+                                                   Boehringer Ingelheim
+
+   Safety of Nintedanib for SSc-ILD                Veronika M. Kohlbrenner, MD
+                                                   Director
+                                                   Global Pharmacovigilance
+                                                   Boehringer Ingelheim
+
+
+
+
+                                                Page 3 of 6
+July 25, 2019
+Arthritis Advisory Committee (AAC) Meeting
+
+   APPLICANT PRESENTATIONS (CONT.)
+
+   Benefit/Risk of Nintedanib for SSc-ILD          Kay Teztlaff, MD
+
+   Clinical Perspective                            Kevin K. Brown, MD
+                                                   Professor of Medicine
+                                                   National Jewish Health
+
+   Clarifying Questions
+
+   BREAK
+
+   FDA PRESENTATIONS
+
+   Overview of Clinical Program                    Nadia Habal, MD
+                                                   Medical Officer
+                                                   DPARP, ODE-II, OND, CDER, FDA
+
+   Statistical Review of Efficacy                  Yu Wang, PhD
+                                                   Statistical Reviewer
+                                                   Division of Biometrics II, Office of Biostatistics
+                                                   Office of Translational Sciences, CDER, FDA
+
+   Clinical Review of Safety and Benefit-Risk      Nadia Habal, MD
+   Assessment
+
+   Clarifying Questions
+
+   LUNCH
+
+   OPEN PUBLIC HEARING
+
+   Charge to the Committee                         Rachel Glaser, MD
+
+   Questions to the Committee/Committee
+   Discussion
+
+   BREAK
+
+   Questions to the Committee/Committee
+   Discussion
+
+   ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the efficacy of nintedanib for treatment of patients with systemic
+    sclerosis interstitial lung disease (SSc-ILD).
+    a. Discuss the clinical meaningfulness of the changes in forced vital capacity (FVC) with
+        nintedanib treatment in the population studied.
+
+
+
+
+                                                Page 4 of 6
+July 25, 2019
+Arthritis Advisory Committee (AAC) Meeting
+
+    Committee Discussion: The committee members agreed that nintedanib’s place in therapy is
+    not clear with regards to disease course and in the sequence of treatment with other agents.
+    The members also agreed that the study’s primary efficacy endpoint was met but noted that
+    the study data is not robust to answer questions on long-term use. The committee members
+    had mixed opinions on forced vital capacity (FVC) as an indicator of disease progression
+    and lung function; some members commented that FVC is an important key component of
+    pulmonary function tests while others weighed in on additional indicators (such as high-
+    resolution CT scans to guide decision-making). Several committee members noted that
+    changes in FVC are meaningful, especially in the context of a chronic, progressive disease.
+    Please see the transcript for details of the Committee’s discussion.
+
+2. DISCUSSION: Discuss the FVC data from the following subgroups and the implications for
+    use of nintedanib in patients in the US.
+    a. US and Canada subgroup compared to the overall study population
+    b. Patients on background mycophenolate versus no background mycophenolate treatment
+
+    Committee Discussion: The committee members agreed that while the subgroup analysis is
+    underpowered, there were interesting trends in the data. One member noted that overall
+    positive results were driven by data from the non-US and Canada subgroup and no
+    background mycophenolate subgroup. Other members expressed dissatisfaction with the
+    relatively sparse dataset for these subgroups. Please see the transcript for details of the
+    Committee’s discussion.
+
+3. VOTE: Do the data provide substantial evidence of the efficacy of nintedanib for the
+    treatment of systemic sclerosis interstitial lung disease?
+    a. If no, what further data are needed?
+
+    Vote Result:        Yes: 10         No: 7            Abstain: 0
+
+    Committee Discussion: The majority of committee members voted “Yes”, that the data
+    provide substantial evidence of the efficacy of nintedanib for the treatment of systemic
+    sclerosis interstitial lung disease. These members noted that the primary endpoint was met,
+    there are no alternative treatment options for fibrotic disease, and SSc-ILD is a rare disease
+    with tremendous unmet need. Several members who voted “Yes” expressed their hesitation in
+    voting the way they did because of the lack of robustness of the data but recognized that
+    there are challenges in conducting trials in this population. The committee members who
+    voted “No” argued that it is worrisome that FVC was used as a surrogate marker, that there
+    was no benefit seen in the secondary outcomes, and the data do not provide “substantial”
+    evidence of efficacy. Some committee members recommended additional trials to assess
+    effects of long-term use and to evaluate more patient-oriented outcomes. Please see the
+    transcript for details of the Committee’s discussion.
+
+
+
+
+                                                Page 5 of 6
+July 25, 2019
+Arthritis Advisory Committee (AAC) Meeting
+
+4. VOTE: Is the safety profile of nintedanib adequate to support approval of nintedanib for the
+    treatment of systemic sclerosis interstitial lung disease?
+    a. If no, what further data are needed?
+
+    Vote Result:        Yes: 14         No: 2            Abstain: 1
+
+    Committee Discussion: The majority of committee members voted “Yes”, that the safety
+    profile of nintedanib is adequate to support approval of nintedanib for the treatment of SSc-
+    ILD. These members noted that the safety profile is known and in line with what’s on the
+    current approved label. Some committee members expressed concern at the extent of
+    gastrointestinal side effects seen, and agreed that it may be difficult to piece out the
+    underlying cause in these patients who already have significant gastrointestinal disruption
+    from their disease state and are on other drugs that may cause similar adverse events. It was
+    also noted that the risk of pneumonia may be hard to interpret given that many patients were
+    on concomitant immunosuppressants. Some members commented that the discussion on
+    acceptable or tolerated level of adverse events should be held between physicians and
+    patients. The committee members who voted “No” noted that the adverse events may
+    precipitate other issues and the magnitude of side effects seems to offset the benefit. The
+    committee member who abstained noted that the safety profile of nintedanib may not be as
+    manageable as discussed. Please see the transcript for details of the Committee’s discussion.
+
+5. VOTE: Is the benefit-risk profile adequate to support approval of nintedanib at the proposed
+    dose of 150 mg twice daily for the treatment of systemic sclerosis interstitial lung disease?
+       a. If no, what further data are needed?
+
+    Vote Result:        Yes: 10         No: 7            Abstain: 0
+
+    Committee Discussion: The majority of committee members voted “Yes”, that the benefit-
+    risk profile is adequate to support approval of nintedanib at the proposed dose of 150 mg
+    twice daily for the treatment of systemic sclerosis interstitial lung disease. They agreed that
+    nintedanib provides a viable option for a disease that has a great unmet need and poor
+    outlook. The committee members who voted “No” noted that the benefit-risk profile is not
+    adequate to support approval of nintedanib because the magnitude and level of evidence for
+    efficacy were small and the side effect profile remains concerning. The committee members
+    noted the need for trials with longer term follow-up and more information on which
+    subgroups of patients will benefit from use of this medication. There was also a
+    recommendation for a trial using a lower dose, such as 100 mg twice daily. Please see the
+    transcript for details of the Committee’s discussion.
+
+The meeting was adjourned at approximately 4:30 p.m.
+
+
+
+
+                                                Page 6 of 6
+

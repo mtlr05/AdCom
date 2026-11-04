@@ -1,0 +1,429 @@
+                                      Food and Drug Administration
+                              Center for Biologics Evaluation and Research
+                                            Summary Minutes
+                72 nd Cellular, Tissue and Gene Therapies Advisory Committee Meeting
+                                             June 9-10, 2022
+
+
+
+Committee Members                            Speakers and Guest Speakers
+Lisa Butterfield, Ph.D. (Chair)              Stephen Hughes, Ph.D. NCI (Guest Speaker)
+Tabassum Ahsan Ph.D.
+Marshall Bloom, M.D.+                        FDA Participants
+Christopher Breuer, M.D.+                    Melanie Blank, M.D.
+Bernard Fox, Ph.D.                           Wilson Bryan, M.D.
+Jeannette Yen Lee, Ph.D.                     Andrew Byrnes, Ph.D.
+Sean Morrison, Ph.D.+                        Leah Crisafi, MD., FASA, CDR, USPHS
+Melanie Ott, Ph.D.                           (Speaker)
+Nirali Shah, M.D., MHSc.                     Shelby Elenburg, M.D. (Speaker)
+Gil Wolfe, M.D.+                             Denise Gavin, Ph.D.
+Joseph Wu, M.D., Ph.D.+                      Elizabeth Hart, M.D.
+                                             Adnan Jaigirdar, M.D., FACS
+Temporary Voting Members                     Karl Kasamon, Ph.D. (Speaker)
+Sylvia Anspach, M.S. > (Topic I)             Anna Kwilas, Ph.D.
+John Coffin, Ph.D. (Topic I and II)          Peter Marks, M.D., Ph.D.
+John DiPersio, Ph.D. (Topic I and II)        Steven Oh, Ph.D.
+Amylou Dueck, Ph.D. (Topic I)                Tejashri Purohit-Sheth, M.D.
+Victor Gordeuk, M.D. (TNVM Topic I and       Kimberly Schultz, Ph.D.
+TVM Topic II)                                Jakob Reiser, Ph.D.
+Stephanie Keller, M.D. (Topic I)
+Jaroslaw Maciejewsi, M.D., Ph.D., F.A.C.P.
+(Topic I and II)                             Designated Federal Officers (DFO)
+Donna Roberts, M.D., M.S. (Topic I)          Christina Vert, M.S.
+Steven Shapero, B.S.> (Topic I)
+Navdeep Singh, Ph.D. > (TNVM Topic I and     Committee Management Officer (CMO)
+TVM Topic II)                                Joanne Lipkind, M.S.
+Janelle Trieu, PharmD > (TNVM Topic I and
+TVM Topic II)                                Committee Management Specialist (CMS)
+                                             Tonica Burke, B.S.
+Industry Representative
+Eric Crombez, M.D. < (Topic I and II)        Director
+                                             Prabhakara Atreya, Ph.D.
+Consumer Representative
+Randy Hawkins, M.D.** (Topic I and II)
+
++Not Attending
+** Alternate Consumer Representative
+*** Industry Representative
+<Alternate Industry Representative
+>Patient Representative
+
+                                             Page 1 of 9
+                                      Food and Drug Administration
+                              Center for Biologics Evaluation and Research
+                                            Summary Minutes
+                72 nd Cellular, Tissue and Gene Therapies Advisory Committee Meeting
+                                             June 9-10, 2022
+
+
+These summary minutes for the June 9-10, 2022, meeting of the Cellular, Tissue, and Gene
+Therapies Advisory Committee were approved on August 4, 2022.
+
+I certify that I participated in the June 9-10, 2022, meeting of the Cellular, Tissue, and
+Gene Therapies Advisory Committee (CTGTAC) meeting and that these minutes
+accurately reflect what transpired.
+
+
+ ______/S/____________                                     /S/
+ Christina Vert, M.S.                              Lisa H. Butterfield, Ph.D.
+ Designated Federal Officer                        Chair
+
+
+On June 9-10, 2022, at 10:00 a.m. Eastern Daylight Time (EDT), the 73rd meeting of the Cellular,
+Tissue, and Gene Therapies Advisory Committee (CTGTAC) took place in open session to discuss
+two biologics license applications (BLAs) from bluebird bio, Inc.: (1) BLA 125755 for elivaldogene
+autotemcel to treat patients younger than 18 years of age with early cerebral
+adrenoleukodystrophy (2) BLA 125717 for betibeglogene autotemcel for the treatment of patients
+with β-thalassemia who require regular red blood cell transfusions. Given the topic of this
+meeting, it was determined to be a Particular Matter Involving Specific Parties (PMISP).
+
+On Day 1, June 9, Dr. Lisa Butterfield, the Chair, called the meeting to order. The DFO,
+Ms. Christina Vert, made administrative remarks, conducted roll call and invited the
+committee members to introduce themselves, and read the Conflict of Interest (COI)
+statement into the public record. There were no conflict- of- interest waivers issued under
+18 U.S. Code Section 208 in connection with this meeting. During the open session,
+CTGTAC members, consultants, the Sponsor/Applicant, FDA speakers, Guest Speakers,
+staff, and the public speakers all participated via the Adobe Connect web conference.
+
+Dr. Wilson Bryan, Director of the Office of Tissues and Advanced Therapies, provided
+FDA Opening Remarks. This was followed by Session 1: Early CALD Efficacy and Safety.
+The Applicant started the session with a set of presentations as listed below:
+
+Ms. Anne-Virginie Eggimann - Introduction
+Dr. Florian Eichler - Cerebral Adrenoleukodystrophy
+Dr. Jakob Sieker - Efficacy
+Dr. Laura Demopoulos - Safety and Benefit/Risk
+Dr. Christine Duncan - Clinical Perspective: The Role of eli-cel
+
+Immediately following the Applicant presentation, there was a joint FDA presentation
+                                              Page 2 of 9
+                                      Food and Drug Administration
+                              Center for Biologics Evaluation and Research
+                                            Summary Minutes
+                72 nd Cellular, Tissue and Gene Therapies Advisory Committee Meeting
+                                             June 9-10, 2022
+
+
+from Dr. Shelby Elenburg and Dr. Leah Crisafi on “Elivaldogene Autotemcel (Eli-cel): BLA
+125755 Clinical Considerations for Efficacy and Specific Safety in Early Cerebral
+Adrenoleukodystrophy” Following the FDA presentation time was given for Session 1
+clarifying questions to presenters.
+
+The Committee was released for a 25- minute lunch. Once the Committee returned from
+lunch, a 60-minute Open Public Hearing (OPH) session was held from 1:00 p.m. to 2:00
+p.m. in which 12 pre-registered public speakers provided presentations. The names of
+OPH speakers and their remarks may be obtained from the transcript posted on the
+website.
+Following the OPH session the Committee moved into Session 2: Safety, including vector
+integration. The guest speaker Dr. Stephen Hughes presented on “Integration of HIV
+Proviruses in Oncogenes Can Cause Clonal Expansion of T Cells and Contribute to the
+Development of T Cell Lymphomas” The Applicant next presented a set of presentations
+as listed below:
+
+Ms. Anne-Virginie Eggimann - Introduction
+Dr. Melissa Bonner - Lentiviral Vector Safety (relevant to both eli-cel and beti-cel)
+
+Immediately following the Applicant set of presentations, there was a 10 -minute break.
+Following the break, an FDA presentation was given by Dr. Leah Crisafi on “Risk of
+Insertional Oncogenesis with Eli-cel, Lovo-cel, and Beti-cel”. Following the FDA
+presentation, time was given for Session 2 clarifying questions to presenters.
+
+The Committee then started Session 3: Early CALD Discussion and Voting
+
+The following discussion and voting questions were presented to the Committee:
+
+ Day 1 Questions for BLA 125755
+
+ Discussion Questions
+ 1.    The eli-cel efficacy data are difficult to interpret due to problems with the
+ benchmark calculation, issues of comparability between populations, potential bias,
+ concerns regarding imputation methods, few events during a limited duration of follow-
+ up, and limited sample size for treatment and control populations.
+
+ a.   Please discuss the limitations of the primary and secondary efficacy endpoint data,
+ and whether the data support the presence of a clinically meaningful benefit of eli-cel.
+
+                                              Page 3 of 9
+                                      Food and Drug Administration
+                              Center for Biologics Evaluation and Research
+                                            Summary Minutes
+                72 nd Cellular, Tissue and Gene Therapies Advisory Committee Meeting
+                                             June 9-10, 2022
+
+
+ b.    Please discuss the population(s) (e.g., children without a matched and willing
+ sibling donor, children without a matched donor) in which the efficacy data are, or are
+ not, supportive of a clinically meaningful benefit.
+
+Summary of Discussion: The committee agreed that there are limitations to the efficacy
+data, but that the data supports the efficacy of eli-cel in boys without a matched donor.
+Some members of the committee indicated that the data were sufficient to support the
+use of eli-cel to treat patients with a matched unrelated donor. The committee thought
+that a 24-month time period for the primary efficacy endpoint was appropriate. That
+analysis should be ongoing for patients receiving eli-cel and compared against patients
+receiving a bone-marrow transplant, to assess the relative benefit-risk profile of the two
+treatment options.
+
+ 2.    Three eli-cel-treated subjects have developed myelodysplastic syndrome (MDS).
+ Subjects with sickle cell disease treated with a related product, lovotibeglogene
+ autotemcel (lovo-cel), have been diagnosed with myeloid malignancies. Please discuss
+ the extent to which the myeloid malignancies associated with lovo-cel raise concerns
+ regarding risk for hematologic malignancy with eli-cel.
+
+Summary of Discussion: The committee’s opinion was that lovo-cel and eli-cel are
+substantially different, such that the lovo-cel data should not negatively impact the
+eli-cel safety analysis.
+
+ 3.    Eli-cel has a risk of hematologic malignancy, a potentially fatal adverse event. The
+ number of cases of malignancy (currently 3/67, or 4%) seems likely to increase over time.
+ In addition to the three recognized cases of MDS, there are at least four other subjects
+ with concern for impending MDS. Although the clinical significance is unclear, 98% of
+ subjects in the eli-cel study population have vector integration sites in MECOM, a proto-
+ oncogene. Please discuss the risk of insertional oncogenesis in patients with early active
+ childhood cerebral adrenoleukodystrophy (CALD) treated with eli-cel.
+
+Summary of Discussion: The committee acknowledged the risk of MDS for patients
+treated with eli-cel, and the likelihood of more cases of hematologic malignancy being
+diagnosed over time. The committee expressed concerns that available data of MDS in
+pediatric patients may not inform prognosis in patients developing MDS after receiving
+eli-cel, because malignancies that result from insertional oncogenesis may behave
+differently than spontaneously arising MDS, and because the only cure for MDS is
+hematopoietic stem cell transplant, for which matched donor options would be limited
+in the eli-cel patient population. However, given the current risks of graft-versus-host
+disease (GvHD) and untreated CALD disease, the overall benefit-risk profile of eli-cel is
+favorable. The committee agreed with the need for continued close monitoring and
+
+                                             Page 4 of 9
+                                      Food and Drug Administration
+                              Center for Biologics Evaluation and Research
+                                            Summary Minutes
+                72 nd Cellular, Tissue and Gene Therapies Advisory Committee Meeting
+                                             June 9-10, 2022
+
+
+detailed surveillance, including sequence analysis of integration sites, bone marrow
+biopsies to identify MDS, and early intervention for cases of MDS. The committee also
+recommended that the Applicant perform additional mechanistic studies to understand
+why MDS occurred following eli-cel treatment. The committee also recommended that
+if the product is approved, that FDA continue to assess the benefit-risk of eli-cel
+treatment in the future, with consideration of any additional cases of malignancy and
+the outcomes for those who develop malignancy.
+
+ Voting Questions for BLA 125755
+
+ 1.   Are the lovo-cel safety data relevant to the safety assessment of eli-cel?
+
+      The results of the vote were as follows: Yes=1; No=13; Abstain=1.
+
+ 2.   Do the benefits of eli-cel outweigh the risks, for the treatment of any sub-
+ population of children with early active cerebral adrenoleukodystrophy (CALD)?
+
+      The results of the vote were as follows: Yes=15; No=0; Abstain=0.
+
+ When explaining your vote for Question 2:
+
+ a.   For Committee members who voted yes, please include discussion of the following:
+
+ i.    The sub-population(s) of children with early active CALD for whom you believe
+ there is a favorable benefit-risk profile.
+
+ ii.   Any additional information you consider necessary to support a favorable benefit-
+ risk profile in any other CALD sub-population.
+
+ iii. Your recommendations, if any, for risk monitoring and mitigation for patients with
+ CALD who receive eli-cel.
+
+ b.   For Committee members who voted no, please include discussion of the following:
+
+ i.    Any additional information you consider necessary to support a favorable benefit-
+ risk profile in a particular CALD sub-population.
+
+
+                                             Page 5 of 9
+                                      Food and Drug Administration
+                              Center for Biologics Evaluation and Research
+                                            Summary Minutes
+                72 nd Cellular, Tissue and Gene Therapies Advisory Committee Meeting
+                                             June 9-10, 2022
+
+
+ii.  Your recommendations, if any, for risk monitoring and mitigation for patients with
+CALD who receive eli-cel.
+
+Following the vote, the Chair asked that all voting members provide an explanation for
+their individual voting decisions, which they provided.
+
+After the Committee Discussion of Questions and Voting, Dr. Wilson Bryan, provided
+closing remarks.
+
+Dr. Lisa Butterfield then handed the meeting over to the DFO who adjourned the meeting
+on June 9, 2022, at 6:05 PM EDT.
+
+Day 2 Minutes
+
+On June 10, 2022, at 10:00 a.m. Eastern Daylight Time (EDT), the 73rd meeting of the
+Cellular, Tissue, and Gene Therapies Advisory Committee (CTGTAC) took place in open
+session to discuss bluebird bio, Inc. BLA 125717 for betibeglogene autotemcel for the
+treatment of patients with β-thalassemia who require regular red blood cell transfusions.
+On Day 2, June 10, Dr. Lisa Butterfield, the Chair, called the meeting to order. The DFO,
+Ms. Christina Vert, made administrative remarks, conducted roll call and invited the
+committee members to introduce themselves, and read the Conflict of Interest (COI)
+statement into the public record. There were no conflict- of -interest waivers issued under
+18 U.S. Code Section 208 in connection with this meeting. During the open session,
+CTGTAC members, consultants, Sponsor/Applicant, FDA speakers, Guest Speakers, staff,
+and the public speakers all participated via the Adobe Connect web conference.
+
+Dr. Wilson Bryan, Director of the Office of Tissues and Advanced Therapies, provided
+FDA Opening Remarks. This was followed by Session 4: beta-thalassemia Efficacy and
+Safety. The Applicant started the session with a set of presentations as listed below:
+
+Ms. Anne-Virginie Eggimann - Introduction
+Dr. Sujit Sheth - Unmet Medical Need
+Dr. Rich Colvin - Efficacy
+Dr. Ajay Singh - Safety
+Dr. Alexis Thompson – Benefit-Risk
+
+Immediately following the Applicant presentation, there was a FDA presentation by Dr.
+Karl Kasamon “BLA 125717 betibeglogene autotemcel (beti-cel) treatment of patients with
+
+                                             Page 6 of 9
+                                      Food and Drug Administration
+                              Center for Biologics Evaluation and Research
+                                            Summary Minutes
+                72 nd Cellular, Tissue and Gene Therapies Advisory Committee Meeting
+                                             June 9-10, 2022
+
+
+β-thalassemia who require regular red blood cell (RBC) transfusions”. Following the FDA
+presentation time was given for Session 4 clarifying questions to presenters.
+
+The committee was released for a 35-minute lunch break. Once the Committee returned
+from lunch break, a 60-minute Open Public Hearing (OPH) session was held from 1:00
+p.m. to 2:00 p.m. in which 12 pre-registered public speakers made presentations. The
+names of OPH speakers and their remarks may be obtained from the transcript posted on
+the website. Following the OPH session there was a Committee Discussion of Questions
+session with Committee Members and Temporary Voting Members.
+
+The Committee then started Session 5: beta-thalassemia Discussion and Voting
+
+The following discussion and voting questions were presented to the Committee:
+
+ Day 2 Questions for BLA 125717
+
+ Discussion Questions
+
+ 1.    Hematologic malignancies have not occurred in transfusion-dependent β-
+ thalassemia (TDT) subjects treated with beti-cel. However, the beti-cel lentiviral vector
+ (LVV) is similar to the vector used in sickle cell disease (SCD) and is related to the vector
+ used for cerebral adrenoleukodystrophy (CALD), and there have been cases of
+ hematologic malignancies in both SCD and CALD subjects in other studies. In this
+ setting, what is the likelihood that the constellation of delayed platelet reconstitution,
+ abnormal marrow morphology findings, and insertion site analyses will predict future
+ development of hematologic malignancies in TDT patients treated with beti-cel?
+
+Summary of Discussion: In their discussion, committee members highlighted the
+substantial differences between products, vectors, and disease states, as well as absence
+of any evidence of insertional oncogenesis to date with beti-cel. The committee reached
+agreement that while the etiology and significance of delayed hematopoietic
+reconstitution and cytopenias in beti-cel recipients is unclear, the differences between
+beti-cel versus eli-cel, as well as the underlying pathophysiology of beta-thalassemia vs.
+SCD and CALD, lessen their concern of hematologic malignancy risk in patients with
+beta-thalassemia.
+
+ 2.  Please discuss whether patients with TDT should be screened for potential
+ germline and somatic mutations predisposing to hematologic malignancy prior to
+ administration of beti-cel. What screening tests, if any, for such mutations would you
+
+                                               Page 7 of 9
+                                      Food and Drug Administration
+                              Center for Biologics Evaluation and Research
+                                            Summary Minutes
+                72 nd Cellular, Tissue and Gene Therapies Advisory Committee Meeting
+                                             June 9-10, 2022
+
+
+ recommend?
+
+Summary of Discussion: The majority of the panel generally did not recommend
+screening for germline somatic mutations prior to product administration. A
+suggestion was to evaluate subclone evolution with next-generation sequencing (NGS),
+although a sensitivity of 0.2-0.5 percent would be needed, and such high sensitivity may
+not be feasible with available panels. Another recommendation involved (in addition to
+germline/somatic mutation evaluation), baseline bone marrow testing with standard
+cytogenetics before treatment, to be subsequently reassessed in the event of cytopenias.
+
+ 3.    Please discuss the adequacy of the proposed postmarketing pharmacovigilance
+ program, including the long-term follow-up study and registry study and discuss
+ additional recommendations for safety monitoring for hematologic malignancies.
+
+Summary of Discussion: The committee was unable to reach a consensus regarding
+multiple different safety monitoring recommendations. Assays discussed included
+detailed phenotyping to include more rare sub-clones, differentiating between original
+and expanded products, as well as baseline cells before and after transduction. Also
+mentioned was bone marrow analysis at baseline and possibly when primary
+endpoints related to neutrophil and platelet engraftments are not reached.
+
+ 4.    Please discuss recommendations for specific testing for hematologic malignancies
+ following administration of beti-cel, to include frequency of testing, in patients with TDT.
+
+Summary of Discussion: The panel mentioned tracking the importance of percent
+transduction efficiency, tracking the integration sites, clonal hematopoiesis in subclones
+and primitive stem cells, as well as NGS for driver mutations and consideration of FISH
+for its greater sensitivity. Some committee members also mentioned performing pre-
+implantation integration site analysis on a small sample of CD34+ drug product cells to
+later determine if the frequencies of specific gene integration events have increased
+relative to what was transplanted.
+
+ Voting Question for BLA 125717
+
+ 1.   Do the benefits of beti-cel outweigh the risks for the treatment of subjects with
+      transfusion-dependent β-thalassemia?
+ The results of the vote were as follows: Yes=13; No=0; Abstain=0.
+
+ When explaining your vote:
+
+                                              Page 8 of 9
+                                        Food and Drug Administration
+                                Center for Biologics Evaluation and Research
+                                              Summary Minutes
+                  72 nd Cellular, Tissue and Gene Therapies Advisory Committee Meeting
+                                               June 9-10, 2022
+
+
+
+ a.    For Committee members who voted yes, please include discussion of your
+ recommendations, if any, for risk monitoring and mitigation for patients who receive
+ beti-cel for treatment of TDT.
+
+ b.       For Committee members who voted no, please discuss the following:
+
+ i.    Any additional information you consider necessary to support a favorable benefit-
+ risk profile.
+
+ ii.   Your recommendations, if any, for risk monitoring and mitigation for patients who
+ receive beti-cel for treatment of TDT.
+
+Following the vote, the Chair asked that all voting members provide an explanation for
+their individual voting decisions, which they provided.
+
+After the Committee Discussion of Questions, Dr. Peter Marks, Director of the Center for
+Biologics Evaluation and Research, provided closing remarks.
+
+Dr. Lisa Butterfield handed the meeting over to the DFO who adjourned the meeting on
+June 10, 2022, at 3:15 PM EDT.
+
+Additional information and details may be obtained from the transcript and the
+recording of the webcast of the meeting may be viewed at:
+https://www.fda.gov/advisory-committees/advisory-committee-calendar/cellular-tissue-
+and-gene-therapies-advisory-committee-june-9-10-2022-meeting-announcement-
+06092022
+
+Direct Link to Recording of the Open Session:
+      •   Day 1 June 9 link: https://youtu.be/RvtTK3KNl5g
+      •   Day 2 June 10 link: https://youtu.be/Eo2BXnGienc
+
+
+
+
+                                              Page 9 of 9
+

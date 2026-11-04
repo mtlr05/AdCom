@@ -1,0 +1,332 @@
+                                Food and Drug Administration
+                           Center for Drug Evaluation and Research
+
+   Final Summary Minutes of the Nonprescription Drugs Advisory Committee Meeting
+                                 September 18, 2019
+
+
+Location: FDA White Oak Campus, Building 31 Conference Center, The Great Room (Rm.
+1503), 10903 New Hampshire Ave, Silver Spring, Maryland.
+
+Topic: The committee discussed data submitted by GlaxoSmithKline Consumer Healthcare
+Holdings (US) LLC, to support new drug application (NDA) 208425, for over-the-counter
+(OTC) marketing of nicotine oral spray (1 milligram (mg) per spray). The proposed OTC use is
+to reduce withdrawal symptoms, including nicotine craving, associated with quitting smoking.
+The applicant proposes to label the product for adults 18 years and older. The committee was
+asked to consider whether data support an acceptable risk/benefit profile for the nonprescription
+use of nicotine oral spray (1 mg per spray) by OTC consumers.
+
+These summary minutes for the September 18, 2019 Nonprescription Drugs Advisory
+Committee meeting of the Food and Drug Administration were approved on__10/3/19_____.
+
+I certify that I attended the September 18, 2019 Nonprescription Drugs Advisory Committee
+meeting of the Food and Drug Administration and that these minutes accurately reflect what
+transpired.
+
+
+
+        /s/
+_________________________                                     /s/
+                                                     ___________________________
+Cindy Chee, PharmD                                   Richard A. Neill, MD
+Acting Designated Federal Officer, NDAC              Chairperson, NDAC
+    Final Summary Minutes of the Nonprescription Drugs Advisory Committee Meeting
+                                  September 18, 2019
+
+The Nonprescription Drugs Advisory Committee (NDAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research, met on September 18, 2019, at the FDA White Oak
+Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New Hampshire
+Avenue, Silver Spring, Maryland. Prior to the meeting, the members and temporary voting
+members were provided the briefing materials from the FDA and GlaxoSmithKline Consumer
+Healthcare Holdings (US) LLC. The meeting was called to order by Richard A. Neill, MD
+(Chairperson). The conflict of interest statement was read into the record by Cindy Chee,
+PharmD (Acting Designated Federal Officer). There were approximately 140 people in the
+attendance. There were four Open Public Hearing speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committee discussed data submitted by GlaxoSmithKline Consumer Healthcare
+Holdings (US) LLC, to support new drug application (NDA) 208425, for over-the-counter
+(OTC) marketing of nicotine oral spray (1 milligram (mg) per spray). The proposed OTC use is
+to reduce withdrawal symptoms, including nicotine craving, associated with quitting smoking.
+The applicant proposes to label the product for adults 18 years and older. The committee was
+asked to consider whether data support an acceptable risk/benefit profile for the nonprescription
+use of nicotine oral spray (1 mg per spray) by OTC consumers.
+
+Attendance:
+
+Nonprescription Drugs Advisory Committee Members Present (Voting): Lorenzo Di
+Francesco, MD, FACP, FHM; Neil J. Farber, MD, FACP; Tonya S. King, PhD; Daniel L.
+Krinsky, MS, RPh; Pamela Mack-Brooks, MSN, RN, NEA-BC (Consumer Representative);
+Richard A. Neill, MD (Chairperson); Maria C. Pruchnicki, PharmD, FCCP, BCPS, BCACP,
+CLS; Christianne L. Roumie, MD, MPH
+
+Nonprescription Drugs Advisory Committee Members Not Present (Voting): Elma D.
+Baron, MD; Victor Wu, MD, MPH
+
+Acting Industry Representative to the Committee (Non-Voting): Nora Zorich, MD, PhD
+(Acting Industry Representative)
+
+Temporary Members (Voting): Susan J. Curry, PhD; Dorothy Hatsukami, PhD; Suchitra
+Krishnan-Sarin, PhD; David B. Nelson, MD, MSc, FAAP; Ruth Parker, MD; Abigail B. Shoben,
+PhD; Jill Thomas, RMP, NMT (Patient Representative)
+
+FDA Participants (Non-Voting): Theresa Michele, MD; Jenny Kelty, MD; David Petullo, MS;
+Celia Winchell, MD
+
+Acting Designated Federal Officer (Non-Voting): Cindy Chee, PharmD
+
+
+                                            Page 1 of 6
+September 18, 2019
+Nonprescription Drugs Advisory Committee Meeting
+
+Open Public Hearing Speakers: Dennis Henigan (Campaign for Tobacco-Free Kids); David
+Spangler (Consumer Healthcare Products Association); Erika Sward (American Lung
+Association); Nina Zeldes (on behalf of Jack Mitchell; National Center for Health Research)
+
+The agenda was as follows:
+
+ Call to Order and Introduction of             Richard Neill, MD
+ Committee                                     Chairperson, NDAC
+
+ Conflict of Interest Statement                Cindy Chee, PharmD
+                                               Acting Designated Federal Officer, NDAC
+
+ FDA Introductory Remarks                      Jenny Kelty, MD
+                                               Lead Medical Officer
+                                               Division of Nonprescription Drug Products (DNDP)
+                                               Office of Drug Evaluation IV (ODE IV)
+                                               Office of New Drugs (OND), CDER, FDA
+
+ APPLICANT PRESENTATIONS                       GlaxoSmithKline Consumer Healthcare Holdings
+                                               (US) LLC
+
+ Introduction                                  Sue James
+                                               Vice President & Head of Global Regulatory Affairs
+                                               GSK Consumer Healthcare
+
+ Efficacy Review                               Mitchell Nides, PhD
+                                               President
+                                               Los Angeles Clinical Trials
+
+ Real-World Nicotine Replacement Therapy       John Hughes, MD
+ (NRT) Effectiveness                           Professor, Board Certified Psychiatrist
+                                               University of Vermont College of Medicine
+
+ Safety Review                                 Rajesh Mishra, MD, PhD
+                                               Vice President
+                                               Global Medical & Clinical Sciences
+                                               Johnson & Johnson Consumer Inc.
+
+ Consumer Studies Review                       Julie Aker, MT (ASCP)
+                                               President & CEO
+                                               Concentrics Research
+
+ Benefit-Risk Summary and Conclusion           Sue James
+
+ Clarifying Questions
+
+ BREAK
+
+
+
+
+                                               Page 2 of 6
+September 18, 2019
+Nonprescription Drugs Advisory Committee Meeting
+
+ FDA PRESENTATIONS
+
+ Efficacy and Safety Data in Clinical Trials   Sarah Arnold, MD, MPH
+                                               Medical Officer
+                                               Division of Anesthesia, Analgesia, and Addiction
+                                               Products
+                                               Office of Drug Evaluation II (ODE II)
+                                               OND, CDER, FDA
+
+                                               Katherine Meaker, MS
+                                               Statistical Reviewer
+                                               Division of Biometrics II, Office of Biostatistics Office
+                                               of Translational Sciences, CDER, FDA
+
+ Postmarketing Safety Data                     Martha Lenhart, MD, PhD
+                                               Medical Officer
+                                               DNDP, ODE IV, OND, CDER, FDA
+
+ Label Comprehension Study                     Barbara Cohen, MPA
+                                               Social Science Analyst
+                                               DNDP, ODE IV, OND, CDER, FDA
+
+ Clarifying Questions
+
+ LUNCH
+
+ Open Public Hearing
+
+ Charge to the Committee                       Theresa Michele, MD
+                                               Division Director
+                                               DNDP, ODE IV, OND, CDER, FDA
+
+ Questions to the Committee/Committee
+ Discussion
+
+ BREAK
+
+ Questions to the Committee/Committee
+ Discussion
+
+ ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the efficacy of nicotine mouth spray (1mg per spray) as an over-
+   the-counter (OTC) smoking cessation aid. Consider the differences between the efficacy data
+   from studies A6431111 and NICTDP3038.
+
+    Committee Discussion: The committee members were unclear as to whether Study 38 (a.k.a.
+    Study NICTDP3038) provided clinical significance, possibly due to differences in population,
+
+
+                                               Page 3 of 6
+September 18, 2019
+Nonprescription Drugs Advisory Committee Meeting
+
+    methodology, or ease of use of nicotine mouth spray (NMS) compared to Study 11 (a.k.a.
+    Study A6431111). They commented on the differences between quit-rates with NMS
+    compared to other nicotine replacement therapy (NRT) clinical studies. Some committee
+    members expressed concerns regarding the differences in the two studies, such as psycho-
+    social counseling provided in Study 11, but not in Study 38. Some members noted that
+    smokers wanting to quit would seek out a health professional’s help which could increase the
+    efficacy of NMS, while others noted that despite the marginal statistical significance seen in
+    Study 38, it was beneficial for the few patients who successfully quit smoking with NMS.
+    Some committee members noted that Study 11 did show efficacy but does not mimic the OTC
+    setting and was not conducted in the United States. The committee members also commented
+    that they would like to see a head-to-head study comparing NMS to a current NRT therapy
+    already on the market. Please see the transcript for details of the Committee discussion.
+
+2. DISCUSSION: Discuss the results of the label comprehension study and their implications
+   for efficacy in the OTC consumer setting.
+
+    Committee Discussion: The committee members commented that the results of the label
+    comprehension study showed that consumers have trouble understanding the multi-step
+    usage instructions of NMS. They also noted that the directions are difficult to follow and not
+    adequately communicated, and that consumers will need more guidance. Some committee
+    members commented on the need to add the ability to track the number of sprays used (i.e.,
+    spray counter) and a clearer product label. One committee member suggested the inclusion
+    of guidance for patients post 12 weeks NMS usage if the patient was not successful in quitting
+    smoking. The committee members also commented on the small font size of the instructions
+    on the label and expressed concerns that many consumers in the label comprehension study
+    did not open the package flap that included additional usage instructions. Please see the
+    transcript for details of the Committee discussion.
+
+3. VOTE: Do the data provide substantial evidence of efficacy of nicotine mouth spray (1mg
+   per spray) as a smoking cessation aid in the OTC setting?
+
+    a. If no, what further data should be obtained?
+
+    Vote Result:        Yes: 8          No: 7            Abstain: 0
+
+    Committee Discussion: A slight majority of the committee agreed that the data provide
+    substantial evidence of efficacy of NMS as a smoking cessation aid in the OTC setting. The
+    committee members who voted “Yes” commented that NMS provides another modality of
+    NRT for consumers, but NMS needs clearer directions. Some of these members noted that the
+    number needed to treat (NTT) of 40 was relatively high, but NMS will be effective in many
+    due to the number of people who are trying to quit smoking in the United States. The
+    committee members who voted “No” commented on the lack of substantial evidence of
+    efficacy and suggested improvements on product labeling, conducting a blinded non-
+    inferiority trial comparing NMS to other NRT therapies, another trial in the OTC setting in
+    the United States, and a study assessing the consumer’s ability in counting of doses and
+    tapering NMS therapy. Please see the transcript for details of the Committee discussion.
+
+
+
+                                                Page 4 of 6
+September 18, 2019
+Nonprescription Drugs Advisory Committee Meeting
+
+
+
+4. DISCUSSION: Discuss the safety of nicotine mouth spray (1mg per spray) as a smoking
+   cessation aid in the OTC setting.
+
+    Committee Discussion: Some committee members stated that safety was well established from
+    the post-marketing and clinical studies provided, and they had no concerns for its safety. Other
+    members expressed concerns regarding concurrent use of vaping products or NRT therapy
+    with NMS. A few members commented on the possible dependence to NMS due to length of use
+    seen in the clinical studies, while others noted that dependence to NMS is not as worrisome as
+    dependence to cigarettes. The committee members also expressed concern for oral mucosal
+    changes found with use of NMS and suggested further investigation. A committee member
+    suggested inclusion of warning on the label for children and pets due to the liquid dosage form
+    and the possibility of ingestion. Please see the transcript for details of the Committee
+    discussion.
+
+5. DISCUSSION: Discuss the potential for abuse of nicotine mouth spray (1 mg per spray) by
+   the adult and pediatric populations in the OTC setting. Consider its pharmacokinetic profile
+   and other characteristics that are different from currently marketed OTC nicotine
+   replacement therapy products.
+
+    Committee Discussion: Most of the committee members expressed concerns with potential
+    abuse in pediatric patients as this population was not studied. One committee member noted
+    that there was no evidence of marketing to children by the Applicant, while another noted that
+    vaping products do not advertise to children either, but still pose a problem in adolescents.
+    Another committee member commented that NMS is not only an additional form of nicotine
+    that could get into the hands of youth, but that use could be more easily hidden, as there is no
+    exhaled smoke or vapor. Many of the committee members were concerned with the ease of
+    online purchase by adolescents. Please see the transcript for details of the Committee
+    discussion.
+
+6. VOTE: Do the data provide substantial evidence of safety of OTC use of nicotine mouth
+   spray (1 mg per spray)?
+
+    a. If no, what further data should be obtained?
+
+    Vote Result:        Yes: 9          No: 6            Abstain: 0
+
+    Committee Discussion: The majority of the committee members agreed that the data provide
+    substantial evidence of safety of OTC use of NMS. The committee members who voted “Yes”
+    commented on the tolerable safety signal based on the available European post-marketing
+    data and thought that NMS was comparable to other NRTs currently available; however,
+    some expressed concern with possible transfer of addiction from another source of nicotine
+    to NMS. The committee members who voted “No” expressed concerns about abuse potential,
+    misuse by young users, and dependence. One member noted that the available post-
+    marketing surveillance data is insufficient and does not reflect abuse by youths. The
+    committee members also commented on the uncertain regulation amongst young users and
+
+
+
+                                                Page 5 of 6
+September 18, 2019
+Nonprescription Drugs Advisory Committee Meeting
+
+    the appeal of the product to this population, and the need for post-marketing surveillance in
+    the US. Please see the transcript for details of the Committee discussion.
+
+7. VOTE: Is the benefit-risk profile of nicotine mouth spray (1 mg per spray) supportive of OTC
+   use as a smoking cessation aid?
+
+    a. If yes, do you have additional comments or recommendations for labeling?
+    b. If no, what further data should be obtained?
+
+Vote Result:            Yes: 9          No: 6            Abstain: 0
+
+Committee Discussion: The majority of the committee members agreed that the benefit-risk
+profile of NMS is supportive of OTC use as a smoking cessation aid. The committee members who
+voted “Yes” commented that having more options to quit smoking is more beneficial to patients.
+Several members expressed that the labeling could be improved and tapering instructions need
+to be made clearer. One member commented that the product should be modified to be less
+attractive/appealing and should include the warning (like cigarettes are required to have) that
+the product contains nicotine, an addictive compound. The committee members who voted “No”
+commented on the marginal efficacy and the abuse potential among adolescents. One member
+noted that the quit rate in Study 38 reflects the lack of efficacy of NMS. The committee overall
+suggested additional efficacy trials in the US and improvements in the instructions on the label.
+Please see the transcript for details of the Committee discussion.
+
+The meeting was adjourned at approximately 4:35 p.m.
+
+
+
+
+                                                Page 6 of 6
+

@@ -1,0 +1,167 @@
+                                                                                      1
+
+
+                              Food and Drug Administration
+                       Center for Biologics Evaluation and Research
+
+                                    SUMMARY MINUTES
+        176   th VACCINES AND RELATED BIOLOGICAL PRODUCTS ADVISORY
+
+                                       COMMITTEE
+
+                                     September 22, 2022
+
+
+Committee Members                               Temporary Voting Members
+Hana El Sahly, M.D., Chair                      Dean Follmann, Ph.D.
+Adam Berger, Ph.D.+                             L. Clifford McDonald, M.D.
+CAPT. Amanda Cohn, M.D.                         Vincent Young, M.D., Ph.D.
+Andrea Shane, M.D., M.P.H., M.Sc.               William Petri, Jr., M.D., Ph.D.
+Archana Chatterjee, M.D., Ph.D.
+Arnold Monto, M.D.
+David Kim, M.D. M.S. M.H.A.                     Speakers and Guest Speakers
+Eric Rubin, M.D. Ph.D.                          Alice Guh, M.D., MPH - CDC Speaker
+Henry Bernstein, D.O. MHCM, FAAP                Qun Wang, Ph.D. - FDA Speaker
+Hayley Altman-Gans, M.D.+                       Omolara Adewuni, M.D. - FDA Speaker
+Jay Portnoy, M.D.                               Zhong Gao, Ph.D. - FDA Speaker
+Holly Janes, Ph.D.                              John Scott, Ph.D. - FDA Responder
+Paul Offit, M.D.                                Lihan Yan, Ph.D. - FDA Responder
+Stanley Perlman, M.D., Ph.D.                    Lee Jones - Rebiotix Speaker
+Steven Pergam, M.D., M.P.H.                     Sahil Khanna, MBBS, MS - Rebiotix Speaker
+                                                Linda Bencke, PharmD - Rebiotix Speaker
+Industry Representatives                        Jonas Pettersson, M.D., Ph.D. - Rebiotix Speaker
+Paula Annunziato, M.D. ***                      Colleen Kraft, M.D., MSC, FIDSA - Rebiotix Speaker
+                                                Scott Berry, Ph.D. - Rebiotix Responder
+                                                Karen Kuphal, Ph.D., MBA, PMP- Rebiotix Responder
+Consumer Representative                         Ken Blount, Ph.D. - Rebiotix Responder
+Jay Portnoy, M.D.*                              Greg Fluet - Rebiotix Responder
+
+Designated Federal Officers (DFO)               FDA Participants
+Sussan Paydar, Ph.D.                            Peter W. Marks, M.D., Ph.D.
+Prabhakara Atreya, Ph.D.                        Doran Fink, M.D., Ph.D.
+Christina Vert, M.S.                            Jay Slater, M.D.
+
+Committee Management Staff
+Joanne Lipkind                                  +Not Attending
+Karen Thomas                                    *Consumer Representative
+                                                *>Acting Consumer Rep
+LaShawn Marks                                   ***Industry Representative
+                                                                                        2
+
+
+These summary minutes for the September 22, 2022, meeting of the Vaccines and
+Related Biological Products Advisory Committee were approved on October 14,
+2022.
+
+I certify that I participated in the September 22, 2022, meeting of the Vaccines and
+Related Biological Products Advisory Committee and that these minutes accurately
+reflect what transpired.
+
+
+   -----S-----                                      -----S-----
+___________________                            ____________________
+
+Sussan Paydar, Ph.D.                             Hana El Sahly, M.D.
+Designated Federal Officer                         Chair
+
+
+On September 22, 2022, at 8:30 a.m. Eastern Standard Time (EST), the 176th
+meeting of the Vaccines and Related Biological Products Advisory Committee
+(VRBPAC) took place in open session to discuss the Biologics License
+Application # 125739 (BLA - 125739) from Rebiotix Inc. for a product, Rebyota
+(Fecal Microbiota, Live), with a requested indication to “reduce the recurrence of
+Clostridioides difficile infection (CDI) in adults following antibiotic treatment for
+recurrent Clostridioides difficile infection.”
+
+Dr. Hana El Sahly, the Chair, called the meeting to order. The DFO, Dr. Sussan
+Paydar made administrative remarks, conducted roll call, and invited the
+committee members to introduce themselves. She read the Conflict of Interest
+(COI) statement for the public record.
+
+Dr. Peter Marks, Director for the Center for Biologics Evaluation and Research
+(CBER), FDA made a 5-minute FDA Welcome remarks. Dr. Qun Wang, the
+Review Committee Chair from CBER, FDA made a 20- minutes presentation titled
+Biologics License Application for Rebyota (Fecal Microbiota, Live) followed by a
+5-minute Q & A. The guest speaker, Dr. Alice Guh from Centers for Disease
+Control and Prevention (CDC) made a 20-minute presentation titled “Current
+Epidemiology of Clostridiodes difficile (CDI) in adults in the United States”
+followed by a 10-minute Q & A.
+                                                                                       3
+
+
+On behalf of the Sponsor, Rebiotix Incorporated, 5 presentations were made for a
+total of 60 minutes, starting with an Introduction by Dr. Lee Jones, Founder and
+Past President and CEO of Rebiotix, followed by presentations on “Effective
+Management of C Difficile, An Unmet clinical Need” by Sahil Khanna,
+“RBX2660 Safety” by Dr. Lindy Bancke, “RBX2660 Safety” by Jonas Pettersson,
+and finally “Clinical Perspective by Colleen Kraft. The Committee was then
+provided 30 minutes for Q & A.
+
+The committee was given a 10-minute break before reconvening at 11:45AM ET
+for two back-to-back FDA presentations for a total of 60 minutes titled “Rebyota
+(fecal Microbiota, Live): Review of Efficacy and Safety” by Dr. Omolara
+Adewuni, Medical Officer, and Dr. Zhong Gao, Mathematical Statistician, both
+employees of CBER, FDA. The Committee was then provided 30 minutes for
+Questions and Answers before being released for a 40-minute lunch break.
+
+After lunch, an Open Public Hearing (OPH) session was held in which 19 pre-
+registered public speakers made oral comments only. The names of OPH speakers
+and their oral remarks may be obtained from the transcript posted on the website.
+
+Following the OPH session, the committee was given a 10-minute break before
+starting the 120-minute “Committee Discussion and Voting”.
+
+After Committee Discussion, there was a voting was session held for 2 Voting
+questions and Vote Explanation. The following two voting questions were
+presented to the Committee of 17 voting members:
+
+Voting Question #1:
+
+Are the available data adequate to support the effectiveness of REBYOTA to
+reduce the recurrence of Clostridioides difficile infection (CDI) in adults 18 years
+of age and older following antibiotic treatment for recurrent CDI?
+
+The voting results were as follows: 13 Yes, 4 No, 0 Abstain
+
+Voting Question #2:
+
+Are the available data adequate to support the safety of REBYOTA when
+administered to adults 18 years of age and older following antibiotic treatment for
+recurrent CDI?
+The voting results were as follows: 12 Yes, 4 No, 1 Abstain
+                                                                                    4
+
+
+Committee members noted the modest treatment effect estimated in each of the
+two placebo-controlled trials that contributed to the demonstration of effectiveness
+but acknowledged that even a modest treatment effect could be clinically
+meaningful for patients with recurrent CDI that have not responded to other
+available treatment options. Some committee members expressed concern about
+the statistical robustness of the Phase 3 Bayesian posterior credible interval
+resulting from the limited number of patients enrolled in the trial. However, other
+committee members acknowledged the difficult circumstances involved with trial
+recruitment in the setting of the FDA IND enforcement discretion policy for FMT
+to treat CDI not responding to standard therapies, and these committee members
+opined that given the patient population and seriousness of the condition, the Phase
+3 effectiveness results were sufficiently persuasive. Some committee members also
+expressed concern about imbalances in serious adverse events between treatment
+and placebo groups; however, committee members acknowledged that FDA did
+not appreciate any clear basis for a causal association in its review of these adverse
+events, and the imbalances were difficult to interpret due to the diminishing
+placebo group size resulting from cross-over of the sickest placebo recipients to
+open-label treatment. There was broad consensus across the committee that if
+REBYOTA were approved, post-marketing evaluation of both safety and
+effectiveness would be critical to further define the benefits and risks of the
+product.
+
+Following the voting discussion, Dr. Marks thanked the Members of the
+Committee, Sponsor, presenters, Open Public Hearing speakers, FDA presenters,
+and Advisory Committee staff. The meeting was then adjourned by Dr. Paydar on
+September 22, 2022, at 4:53 PM ET.
+
+Additional information and details may be obtained from the transcript and the
+recording of the webcast of the meeting that may be viewed at:
+
+Vaccines and Related Biological Products Advisory Committee September 22,
+2022 Meeting Announcement - 09/22/2022 | FDA
+

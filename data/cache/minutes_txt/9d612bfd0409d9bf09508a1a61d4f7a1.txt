@@ -1,0 +1,245 @@
+                              Food and Drug Administration
+                         Center for Drug Evaluation and Research
+
+    Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                       October 10, 2018
+
+
+Location: FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.
+1503), Silver Spring, Maryland
+
+Topic: The committee discussed biologics license application 761088 for CT-P10, a proposed
+biosimilar to Genentech, Inc.’s RITUXAN (rituximab), submitted by Celltrion, Inc. The
+proposed indications (uses) for this product are for the treatment of adult patients with (1)
+relapsed or refractory, low-grade or follicular, CD20-positive, B-cell Non-Hodgkin’s Lymphoma
+(NHL) as a single agent; (2) previously untreated follicular, CD20-positive, B-cell NHL in
+combination with first-line chemotherapy and, in patients achieving a complete or partial
+response to CT-P10 in combination with chemotherapy, as single-agent maintenance therapy;
+and (3) non-progressing (including stable disease), low-grade, CD20-positive, B-cell NHL as a
+single agent after first-line cyclophosphamide, vincristine, and prednisone.
+
+These summary minutes for the October 10, 2018 meeting of the Oncologic Drugs Advisory
+Committee of the Food and Drug Administration were approved on November 5, 2018.
+
+I certify that I attended the October 10, 2018 meeting of the Oncologic Drugs Advisory
+Committee of the Food and Drug Administration and that these minutes accurately reflect what
+transpired.
+
+
+
+_______ /S/______________                                 /S/_________
+Lauren D. Tesh, PharmD, BCPS                    Brian I. Rini, MD, FACP
+Designated Federal Officer                      Chairperson
+ODAC                                            ODAC
+
+
+
+
+                                          Page 1 of 5
+October 10, 2018
+Oncologic Drugs Advisory Committee Meeting
+
+
+                                    Final Summary Minutes of the
+                         Oncologic Drugs Advisory Committee (ODAC) Meeting
+                                           October 10, 2018
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration, Center for Drug
+Evaluation and Research, met on October 10, 2018, at the FDA White Oak Campus, Building 31 Conference
+Center, the Great Room (Rm. 1503), 10903 New Hampshire Avenue, Silver Spring, Maryland. Prior to the
+meeting, the members and temporary voting members were provided the briefing materials from the FDA and
+Celltrion, Inc. The meeting was called to order by Brian I. Rini, MD, FACP (Chairperson). The conflict of interest
+statement was read into the record by Lauren D. Tesh, PharmD, BCPS (Designated Federal Officer). There were
+approximately 175 people in attendance. There were five Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks following
+the meeting date.
+
+Agenda: The meeting focused on discussion of biologics license application (BLA) 761088 for CT-P10,
+a proposed biosimilar to Genentech, Inc.’s RITUXAN (rituximab), submitted by Celltrion, Inc. The
+proposed indications for CT-P10 are: treatment of adult patients with (1) relapsed or refractory, low-grade
+or follicular, CD20-positive, B-cell Non–Hodgkin’s Lymphoma (NHL) as a single agent; (2) previously
+untreated follicular, CD20-positive, B-cell NHL in combination with first line chemotherapy and, in
+patients achieving a complete or partial response to a rituximab product in combination with
+chemotherapy, as single-agent maintenance therapy, and (3) non-progressing (including stable disease),
+low-grade, CD20-positive, B-cell NHL as a single agent after first-line cyclophosphamide, vincristine,
+and prednisone (CVP) chemotherapy.
+
+Attendance:
+
+Oncologic Drugs Advisory Committee Members Present (Voting): Massimo Cristofanilli, MD,
+FACP; Susan Halabi, PhD; Christian S. Hinrichs, MD; Heidi Klepin, MD; Grzegorz S. Nowakowski,
+MD; Brian I. Rini, MD, FACP (Chairperson); Thomas S. Uldrick, MD, MS
+
+Oncologic Drugs Advisory Committee Members Not Present (Voting): Philip C. Hoffman, MD;
+Vassilliki A. Papadimitrakopoulou, MD; Alberto S. Pappo, MD; Courtney J. Preusse, MA (Consumer
+Representative); Gregory J. Riely, MD, PhD; Alice T. Shaw, MD, PhD
+
+Oncologic Drugs Advisory Committee Members Present (Non-Voting): Phuong Khanh (P.K.)
+Morrow, MD, FACP (Industry Representative)
+
+Temporary Members (Voting): Andy L. Chen, MD, PhD; Jerry M. Collins, PhD; William S. Hancock,
+PhD; Randy Hawkins, MD (Acting Consumer Representative); Adel H. Karara, PhD, FCP; Eric O. Long,
+PhD; Tracy G. Matson (Patient Representative); Paul J. Smith, PhD, MS; Scott A. Waldman, MD, PhD
+
+FDA Participants (Non-Voting): Ann Farrell, MD; Sue Lim, MD; Nicole Gormley, MD; Steven
+Kozlowski, MD; Vishal Bhatnagar, MD; Christopher Downey, PhD
+
+Designated Federal Officer (Non-Voting): Lauren D. Tesh, PharmD, BCPS
+
+Open Public Hearing Speakers: Jim Koeller, MS; Sonia T. Oskouei, PharmD, DPLA; Kashyap Patel,
+MD; Susannah Koontz, PharmD, BCOP, FHOPA; Joseph P. Fuhr, Jr., PhD
+
+                                                  Page 2 of 5
+October 10, 2018
+Oncologic Drugs Advisory Committee Meeting
+
+
+The agenda was as follows:
+
+ Call to Order and Introduction of Committee           Brian I. Rini, MD, FACP
+                                                       Chairperson, ODAC
+
+ Conflict of Interest Statement                        Lauren D. Tesh, PharmD, BCPS
+                                                       Designated Federal Officer, ODAC
+
+ Opening Remarks                                       Vishal Bhatnagar, MD
+                                                       Medical Officer Team Leader (Acting)
+                                                       Division of Hematology Products (DHP)
+                                                       Office of Hematology and Oncology Products (OHOP)
+                                                       Office of New Drugs (OND), CDER, FDA
+
+ APPLICANT PRESENTATIONS                               Celltrion, Inc.
+
+ Analytical Biosimilarity and Nonclinical              Elizabeth Pollitt, PhD
+ Assessment                                            CMC Expert, BPCRCS Ltd
+                                                       Former Vice President CELLTRION, Inc.
+
+ Clinical Pharmacology, Efficacy and Safety            Alexey Kudrin, MD, PhD, MBA
+ Assessment                                            Clinical Expert, Biotech Consultancy Services Ltd
+                                                       Former Vice President CELLTRION, Inc.
+
+ Clinical Perspective                                  David Alan Rizzieri, MD
+                                                       Professor of Medicine
+                                                       Chief, Section of Hematologic Malignancies
+                                                       Associate Director for Clinical Research
+                                                       Division of Hematologic Malignancies and Cellular
+                                                       Therapy
+                                                       Duke Cancer Institute, Duke University School of
+                                                       Medicine
+
+ FDA PRESENTATIONS
+
+ Product Quality                                       Haoheng Yan, MD, PhD
+                                                       Product Quality Reviewer
+                                                       Division of Biotechnology Review and Research IV
+                                                       Office of Biotechnology Products
+                                                       Office of Pharmaceutical Quality, CDER, FDA
+
+                                                       Yu-Ting Weng, PhD
+                                                       Product Quality Statistical Reviewer
+                                                       Division of Biometrics VI
+                                                       Office of Biostatistics (OB)
+                                                       Office of Translational Science (OTS)
+                                                       CDER, FDA
+
+ Clinical Pharmacology and Immunogenicity              Sang M. Chung, PhD
+ Assessment                                            Clinical Pharmacology Reviewer
+                                               Page 3 of 5
+October 10, 2018
+Oncologic Drugs Advisory Committee Meeting
+
+
+                                                        Division of Clinical Pharmacology II
+                                                        Office of Clinical Pharmacology
+                                                        OTS, CDER, FDA
+
+ Clinical Efficacy and Safety                           Rachel Ershler, MD
+                                                        Clinical Reviewer
+                                                        DHP, OHOP, OND, CDER, FDA
+
+                                                        Cindy Gao, PhD
+                                                        Clinical Statistical Reviewer
+                                                        Division of Biometrics V
+                                                        OB, OTS, CDER, FDA
+ Clarifying Questions to Presenters
+
+ BREAK
+
+ OPEN PUBLIC HEARING
+
+ Questions to the Committee/Committee Discussion
+
+ ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Please discuss whether the evidence supports a demonstration that CT-P10 is highly
+similar to US-licensed Rituxan, notwithstanding minor differences in clinically inactive components.
+
+Committee Discussion: The committee was in consensus that the totality of evidence based on various
+analytical, in-vitro, biological, and pharmacokinetic/pharmacodynamic testing, with orthogonal results
+filling information gaps, demonstrates robust evidence of high similarity between US-licensed Rituxan
+and CT-P10. Some members found the explanation of minor structural differences not affecting critical
+biological activities as beneficial because molecular biology translates well into in-vitro studies,
+indicating similarity. Please see the transcript for details of the committee discussion.
+
+
+2. DISCUSSION: Please discuss whether the evidence supports a demonstration that there are no
+clinically meaningful differences between CT-P10 and US-licensed Rituxan.
+
+Committee Discussion: The committee was in consensus that the clinical trials presented no evidence to
+suggest a clinically meaningful difference between US-licensed Rituxan and CT-P10. The panel took into
+consideration the complimentary design of the non-inferiority trial, the explanation of the adverse events,
+and the prespecified margins, agreeing none showed significant differences. One member stated that the
+neutropenia safety signal was adequately explained. Please see the transcript for details of the
+committee discussion.
+
+3. DISCUSSION: Please discuss whether there is adequate justification to support licensure for the
+proposed indications sought by the Applicant.
+
+                                                Page 4 of 5
+October 10, 2018
+Oncologic Drugs Advisory Committee Meeting
+
+
+
+Committee Discussion: The committee was in consensus that all three proposed indications are
+consistent with current use, and the evidence presented supports each indication adequately. Please see
+the transcript for details of the committee discussion.
+
+
+4. VOTE: Does the totality of the evidence support licensure of CT-P10 as a biosimilar product to US-
+licensed Rituxan for the following indications:
+
+Treatment of adult patients with
+
+    a. relapsed or refractory, low-grade or follicular, CD20-positive, B-cell Non–Hodgkin’s
+       Lymphoma (NHL) as a single agent
+
+    b. previously untreated follicular, CD20-positive, B-cell NHL in combination with first line
+       chemotherapy and, in patients achieving a complete or partial response to a rituximab product in
+       combination with chemotherapy, as single-agent maintenance therapy
+
+    c. non-progressing (including stable disease), low-grade, CD20-positive, B-cell NHL as a single
+       agent after first-line cyclophosphamide, vincristine, and prednisone (CVP) chemotherapy.
+
+Vote Result:            YES: 16                 NO: 0                   ABSTAIN: 0
+
+Committee Discussion: The committee unanimously agreed that the totality of analytical, pharmacologic,
+immunogenicity, and clinical evidence supported the licensure of CT-P10 for all three proposed
+indications based on the high degree of similarity, except for minor components, between US-licensed
+Rituxan and CT-P10. Some members mentioned the possible benefit to access for patients as well as price
+reduction to the healthcare systems post-approval. One member indicated the safety signal as a concern,
+but considered the lower number of patients treated as a possible reason for the imbalance. One member
+stated that the molecular discrepancies identified in analysis were overwhelmed by the clinical results.
+Please see the transcript for details of the committee discussion.
+
+
+The meeting on October 10, 2018 was adjourned at approximately 11:35 a.m.
+
+
+
+
+                                               Page 5 of 5
+

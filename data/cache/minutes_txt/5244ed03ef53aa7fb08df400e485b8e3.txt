@@ -1,0 +1,343 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+       Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                    August 13, 2020
+
+
+Location: Please note that due to the impact of the COVID-19 pandemic, all meeting participants
+joined this advisory committee meeting via an online teleconferencing platform.
+
+Topic: The committee discussed biologics license application (BLA) 125706, for remestemcel-L
+(ex-vivo culture-expanded adult human mesenchymal stromal cells suspension for intravenous
+infusion), submitted by Mesoblast, Inc. The proposed indication (use) for this product is for the
+treatment of steroid-refractory acute graft-versus-host disease in pediatric patients. The morning
+session discussed issues related to the characterization and critical quality attributes of
+remestemcel-L as they relate to clinical effectiveness. The afternoon session discussed results
+from clinical trials included in BLA 125706.
+
+These summary minutes for the August 13, 2020 meeting of Oncologic Drugs Advisory
+Committee (ODAC) of the Food and Drug Administration were approved on October 5, 2020.
+
+I certify that I attended the August 13, 2020 meeting of the ODAC meeting of the Food and Drug
+Administration and that these minutes accurately reflect what transpired.
+
+
+
+_________     /s/_________________                _________ __/s/________________
+Joyce Yu, PharmD                                  Philip C. Hoffman, MD
+Acting Designated Federal Officer, ODAC           Chairperson, ODAC
+
+
+
+
+                                            Page 1 of 7
+August 13, 2020
+Oncologic Drugs Advisory Committee Meeting
+
+       Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                    August 13, 2020
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research met on August 13, 2020. The meeting presentations
+were heard, viewed, captioned, and recorded through an online teleconferencing platform. Prior
+to the meeting, the members and temporary voting members were provided the briefing materials
+from the FDA and Mesoblast, Inc. The meeting was called to order by Philip C. Hoffman, MD
+(Chairperson). The conflict of interest statement was read into the record by Joyce Yu, PharmD
+(Acting Designated Federal Officer). There were approximately 1100 people online. There
+were a total of eight Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committee discussed biologics license application (BLA) 125706, for
+remestemcel-L (ex-vivo culture-expanded adult human mesenchymal stromal cells suspension
+for intravenous infusion), submitted by Mesoblast, Inc. The proposed indication (use) for this
+product is for the treatment of steroid-refractory acute graft-versus-host disease in pediatric
+patients. The morning session discussed issues related to the characterization and critical quality
+attributes of remestemcel-L as they relate to clinical effectiveness. The afternoon session
+discussed results from clinical trials included in BLA 125706.
+
+Attendance:
+ODAC Members Present (Voting): Jorge A. Garcia, MD, FACP; Susan Halabi, PhD; Christian
+S. Hinrichs, MD; Philip C. Hoffman, MD (Chairperson); Anthony D. Sung, MD
+
+ODAC Members Not Present (Voting): Jaffer A. Ajani, MD; Massimo Cristofanilli, MD,
+FACP; David E. Mitchell (Consumer Representative); Alberto S. Pappo, MD
+
+ODAC Member Present (Non-Voting): Jonathan D. Cheng, MD (Industry Representative)
+
+Temporary Members (Voting): Nancy J. Bunin, MD (Afternoon Session Only); Sandra
+Finestone, PsyD (Acting Consumer Representative; Afternoon Session Only); Naynesh R.
+Kamani, MD (Afternoon Session Only); Sean J. Morrison, PhD (Morning Session Only); Diana
+L. Pearl (Patient Representative); Pamela G. Robey, PhD (Morning Session Only); Ilyas Singec,
+MD, PhD (Morning Session Only); Mark C. Walters, MD (Afternoon Session Only)
+
+FDA Participants (Non-Voting): Richard Pazdur, MD (Afternoon Session Only); Wilson
+Bryan, MD; Marc R. Theoret, MD (Afternoon Session Only); Raj K. Puri, MD, PhD; Steven Oh,
+PhD (Morning Session Only); Steven R. Bauer, PhD; Bindu George, MD (Afternoon Session
+Only); Donna Przepiorka, MD, PhD (Afternoon Session Only); Kristin Baird, MD (Afternoon
+Session Only); Matthew Klinker, PhD; Stan Lin, PhD (Afternoon Session Only); Zhenzhen Xu,
+PhD (Afternoon Session Only)
+
+Designated Federal Officer (Non-Voting): Joyce Yu, PharmD (Acting)
+
+
+
+                                             Page 2 of 7
+August 13, 2020
+Oncologic Drugs Advisory Committee Meeting
+
+
+
+Open Public Hearing Speakers:
+Morning Session: Arnold Caplan, PhD; Kameron Kooshesh; Jacques Galipeau, MD, FRCP(C)
+Afternoon Session: Allyson Bradley; Mercedes Bazán; Ivan Harrison III; Meredith Cowden;
+Christina Wiedl, DO (Virginia Commonwealth University Medical Center)
+
+The agenda was as follows:
+
+Morning Session
+
+  Call to Order and Introduction of            Philip C. Hoffman, MD
+  Committee                                    Chairperson, ODAC
+
+  Conflict of Interest Statement               Joyce Yu, PharmD
+                                               Acting Designated Federal Officer, ODAC
+
+  FDA Opening Remarks                          Wilson Bryan, MD
+                                               Director
+                                               Office of Tissues and Advanced Therapies (OTAT)
+                                               Center for Biologics Evaluation and Research (CBER), FDA
+
+  GUEST SPEAKER PRESENTATION
+
+  Cell Manufacture for Therapeutic             Sally Temple, PhD
+  Application                                  Scientific Director
+                                               Neural Stem Cell Institute
+                                               Rensselaer, New York
+
+  APPLICANT PRESENTATIONS                      Mesoblast, Inc.
+
+  Introduction to Remestemcel-L                Geraldine Storton, BSc, MMS, MBA
+                                               Head of Regulatory Affairs & Quality Management
+                                               Mesoblast, Inc.
+
+  Manufacturing Process
+
+  Pathophysiology of Acute Graft-versus-       Silviu Itescu, MD
+  Host Disease (aGVHD)                         Chief Executive Officer
+                                               Mesoblast, Inc.
+
+  Mechanism of Action (MoA) of
+  Remestemcel-L in aGVHD
+
+  Potency Assay and Relationship to Clinical
+  Outcomes
+
+
+
+
+                                               Page 3 of 7
+August 13, 2020
+Oncologic Drugs Advisory Committee Meeting
+
+  FDA PRESENTATION
+
+  Product Characterization                   Steven Bauer, PhD
+                                             Branch Chief
+                                             Cellular and Tissue Therapy Branch (CTTB)
+                                             Division of Cellular & Gene Therapies (DCGT)
+                                             OTAT, CBER, FDA
+
+  Clarifying Questions to Presenters
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee
+  Discussion
+
+  LUNCH
+
+Afternoon Session
+
+  Call to Order and Introduction of          Philip C. Hoffman, MD
+  Committee                                  Chairperson, ODAC
+
+  Conflict of Interest Statement             Joyce Yu, PharmD
+                                             Acting Designated Federal Officer, ODAC
+
+  FDA Opening Remarks                        Bindu George, MD
+                                             Branch Chief
+                                             Clinical Hematology Branch (CHB)
+                                             Division of Clinical Evaluation & Pharmacology/Toxicology (DCEPT)
+                                             OTAT, CBER, FDA
+
+  APPLICANT PRESENTATIONS                    Mesoblast, Inc.
+
+  Introduction to Remestemcel-L              Geraldine Storton, BSc, MMS, MBA
+
+  Unmet Need in Steroid-Refractory Acute     Joanne Kurtzberg, MD
+  Graft-versus-Host Disease (SR-aGVHD)       Director, Marcus Center for Cellular Cures
+                                             Director, Pediatric Blood and Marrow Transplant Program
+                                             Director, Carolinas Cord Blood Bank
+                                             Duke University School of Medicine
+
+  Remestemcel-L Clinical Efficacy and        Fred Grossman, DO
+  Safety                                     Chief Medical Officer
+                                             Mesoblast, Inc.
+
+  Clinical Perspective                       Joanne Kurtzberg, MD
+
+  FDA PRESENTATION
+
+
+
+                                             Page 4 of 7
+August 13, 2020
+Oncologic Drugs Advisory Committee Meeting
+
+
+  Clinical Evidence                           Kristin Baird, MD
+                                              Clinical Reviewer
+                                              CHB, DCEPT, OTAT, CBER, FDA
+
+  Clarifying Questions to Presenters
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee
+  Discussion
+
+  ADJOURNMENT
+______________________________________________________________________________
+
+Questions to the Committee:
+
+Product Characterization Discussion – Morning Session
+
+1. DISCUSSION: Product quality attributes measured for remestemcel-L are intended to
+   ensure that key qualities of the drug product are maintained consistently from lot to lot.
+
+   Please discuss the adequacy of the potency assay established by the Applicant for
+   remestemcel-L.
+
+   Committee Discussion: One committee member noted that it was difficult to assess the
+   adequacy of the potency assay due to the complex mechanism of action of remestemcel-L.
+   Another member speculated if whether the existing data, while “imperfect,” may be the best
+   available. Please see the transcript for details of the Committee’s discussion.
+
+2. DISCUSSION: In addition to discussion of potency, please propose and discuss other
+   possible product quality attributes or characteristics that could be controlled to better assure
+   consistent quality of remestemcel-L with regard to safety or effectiveness of the product.
+
+   Committee Discussion: Overall, members commented that it was difficult to propose other
+   product quality attributes due to the unclear and complex mechanism of remestemcel-L. One
+   committee member suggested the addition of a transcriptomic profile to the product’s
+   certificate of analysis for each lot of cells to track product effectiveness and to address the
+   issue of lot-to-lot variability. There was a broader discussion on the use of TNFR-1
+   expression as a potential quality attribute. Please see the transcript for details of the
+   Committee’s discussion.
+
+Clinical Discussion – Afternoon Session
+
+
+
+
+                                             Page 5 of 7
+August 13, 2020
+Oncologic Drugs Advisory Committee Meeting
+
+1. DISCUSSION: Limitations of the single-arm study design of MSB-GVHD001 include, but
+   are not necessarily limited to, the following: a) limited ability to ensure that baseline
+   prognostic factors, both known and unknown, were similar in MSB-GVHD001 and the
+   Applicant’s control; b) limited ability to ensure that unknown and known potential
+   confounding factors (e.g., additional salvage therapies for treatment of aGVHD) that could
+   influence efficacy outcomes were similar in MSB-GVHD001 and the historical control
+   group; c) potential bias with selection of patients, subjective nature of the assessments to
+   score aGVHD d) the adequacy of the historical data to support a null hypothesis.
+
+   Please discuss the strengths and weaknesses of the design of Study MSB-GVHD001.
+
+   Committee Discussion: Committee members generally agreed that the strengths of Study
+   MSB-GVHD001 included potentially interesting biomarker data and a high overall response
+   rate. In general, the weaknesses of the trial were noted to be the single-arm design and
+   reliance on historical data. Members debated the feasibility of conducting a randomized
+   controlled trial in pediatric patients with SR-aGVHD and commented a placebo-controlled
+   trial would not be ethical. Additional comments acknowledged that while MSB-GVHD001
+   was not a randomized study, a high overall response rate in this population was compelling,
+   as was the absence of immunosuppressive adverse events typically seen in the available
+   treatments of aGVHD. Please see the transcript for details of the Committee’s discussion.
+
+2. DISCUSSION: As noted previously, primary endpoint results in Study MSB-GVHD001
+   were statistically significant; the measured response was durable (median 54 days). However,
+   the results of Studies 265 and 280, the two randomized trials, did not provide evidence of a
+   treatment effect for remestemcel-L in aGVHD, even when reanalyzed using the efficacy
+   endpoint of Day-28 ORR. In fact, a treatment effect has not been identified in any of the
+   previous clinical trials conducted in various disease entities, including: Type 1 diabetes
+   mellitus, Crohn’s Disease, myocardial infarction, or severe chronic obstructive pulmonary
+   disease and the mechanism of action of remestemcel-L in mitigating aGVHD remains
+   unclear.
+
+       a) Please discuss whether the results of Studies 265 and 280 are relevant to the
+          effectiveness of remestemcel-L for the treatment of pediatric SR-aGVHD. In your
+          discussion, please consider not only the similarities and differences in the study
+          populations, but also any other factors (e.g., number of years between studies;
+          pathophysiology of adult aGVHD / SR-aGVHD vs. pediatric aGVHD / SR-GVHD)
+          that you deem relevant.
+
+       b) FDA may require an additional clinical trial to support the effectiveness of the
+          remestemcel-L in pediatric SR-aGVHD. If so, what are your recommendations
+          regarding the design of such a trial? For example, please discuss the population (e.g.,
+          aGVHD or SR-aGVHD; adult and/or pediatric), treatment assignment (randomized
+          vs. single-arm), primary and secondary endpoints (e.g., Day-28 ORR, Day 100
+          survival, Day 180 survival, etc.), and any other aspects of the trial design.
+
+
+
+
+                                             Page 6 of 7
+August 13, 2020
+Oncologic Drugs Advisory Committee Meeting
+
+   Committee Discussion: Some committee members noted that Studies 265 and 280 were
+   relevant to the effectiveness of remestemcel-L, but considered factors such as changes in
+   product manufacturing over time and differences in patient population to be significant. In
+   general, members supported that Mesoblast conducts an additional clinical trial.
+   Recommendations regarding such a trial included further testing of the product in adults
+   and/or children with an adequate and well-controlled trial to confirm the efficacy signal.
+   Additional recommendations for a future trial were longer follow-up, biomarker data,
+   identify prognostic features and collection of patient-reported outcomes. Members also
+   considered the length of steroid-free treatment and degree of steroid tapering to be important
+   factors to highlight in future studies. Please see the transcript for details of the Committee’s
+   discussion.
+
+3. VOTE: Do the available data support the efficacy of remestemcel-L in pediatric patients
+   with steroid-refractory aGVHD?
+
+
+   Vote Result:        Yes: 8          No: 2            Abstain: 0
+
+   Committee Discussion: Majority of the committee members agreed that the available data
+   supports the efficacy of remestemcel-L in SR-aGVHD. Committee members who voted “Yes”,
+   also recognized the challenges in feasibility of an additional randomized trial. One member
+   considered the high response rate to be significant in such a disease with poor prognosis. It
+   was further noted that currently available options used in SR-aGVHD have poorer outcomes.
+   The committee member who voted “No”, commented that a single-arm trial may not be
+   sufficient to demonstrate efficacy and that further trials are needed. Please note that one
+   member who voted “No”, changed their vote due to the compelling medical information
+   provided and nature of the unmet need in this condition. Please see the transcript for details
+   of the Committee’s discussion.
+
+
+The meeting was adjourned at approximately 5:18 p.m.
+
+
+
+
+                                               Page 7 of 7
+

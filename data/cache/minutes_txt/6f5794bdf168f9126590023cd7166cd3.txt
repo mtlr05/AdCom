@@ -1,0 +1,283 @@
+                              Food and Drug Administration
+                         Center for Drug Evaluation and Research
+
+          Final Summary Minutes of the Dermatologic and Ophthalmic Drugs
+                          Advisory Committee Meeting
+                                  December 13, 2019
+
+Location: The FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.
+1503), 10903 New Hampshire Avenue, Silver Spring, Maryland.
+
+Topic: The committee discussed biologics license application (BLA) 761143, teprotumumab
+solution for intravenous use, submitted by Horizon Pharma Ireland, Ltd., proposed for the
+treatment of active thyroid eye disease.
+
+These summary minutes for the December 13, 2019 meeting of the Dermatologic and
+Ophthalmic Drugs Advisory Committee of the Food and Drug Administration were approved on
+January 22, 2020.
+
+I certify that I attended the December 13, 2019 meeting of the Dermatologic and Ophthalmic
+Drugs Advisory Committee of the Food and Drug Administration and that these minutes
+accurately reflect what transpired.
+
+
+
+__________ ___/s/______________                 ______________/s/______________
+Jay R. Fajiculay, PharmD                        James Chodosh, MD, MPH
+Acting Designated Federal Officer, DODAC        Chairperson, DODAC
+
+
+
+
+                                          Page 1 of 6
+            Final Summary Minutes of the Dermatologic and Ophthalmic Drugs
+                            Advisory Committee Meeting
+                                 December 13, 2019
+
+The Dermatologic and Ophthalmic Drugs Advisory Committee (DODAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research met on December 13, 2019, at the
+FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903
+New Hampshire Avenue, Silver Spring, Maryland. Prior to the meeting, the members and
+temporary voting members were provided the briefing materials from the FDA and Horizon
+Pharma Ireland, Ltd. The meeting was called to order by James Chodosh, MD (Chairperson).
+The conflict of interest statement was read into the record by Jay Fajiculay, PharmD (Acting
+Designated Federal Officer). There were approximately 100 people in attendance. There were 11
+Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committee discussed biologics license application (BLA) 761143, teprotumumab
+solution for intravenous use, submitted by Horizon Pharma Ireland, Ltd., proposed for the
+treatment of active thyroid eye disease.
+
+Attendance:
+Dermatologic and Ophthalmic Drugs Advisory Committee Members Present (Voting):
+James Chodosh, MD, MPH (Chairperson); Sidney Gicheru, MD; Mary Elizabeth Hartnett, MD;
+Timothy Murray, MD, MBA, FACS; Christina Y. Weng, MD, MBA
+
+Dermatologic and Ophthalmic Drugs Advisory Committee Members Not Present (Voting):
+Korey Capozza, MPH (Consumer Representative); Ken Katz, MD, MSc, MCSE (Dermatology
+Chairperson); Elaine Siegfried, MD; Megha Tollefson, MD
+
+Dermatologic and Ophthalmic Drugs Advisory Committee Member Present (Non-Voting):
+Ercem Atillasoy, MD (Industry Representative)
+
+Temporary Members (Voting): Erica Brittain, PhD; Kenneth D. Burman, MD; Tonya S. King,
+PhD; Cecilia C. Low Wang, MD; Jennifer Schwartzott, MS (Patient Representative); John F.
+Stamler, MD, PhD; David Yoo, MD
+
+FDA Participants (Non-Voting):
+Peter Stein, MD; Wiley Chambers, MD
+
+Acting Designated Federal Officer (Non-Voting): Jay Fajiculay, PharmD
+
+Open Public Hearing Speakers: Nancy Patterson, PhD (Graves’ Disease and Thyroid
+Foundation); Kathleen A. Arntsen (Lupus and Allied Diseases Association, Inc.); Fatemeh
+Rajaii, MD, PhD; Terry Smith, MD; Ron Barela; Susan Schatz; Wendy Labadie; Judy Bachman;
+
+
+
+
+                                            Page 2 of 6
+December 13, 2019
+Dermatologic and Ophthalmic Drugs Advisory Committee Meeting
+
+Randall Rutta (American Autoimmune Related Diseases Association); Karen Williams
+(Organization of Rare Diseases); Sara Brown (Prevent Blindness)
+_____________________________________________________________________________
+
+The agenda was as follows:
+
+  Call to Order and Introduction of            James Chodosh, MD
+  Committee                                    Chairperson, DODAC
+
+  Conflict of Interest Statement               Jay R. Fajiculay, PharmD
+                                               Designated Federal Officer (Acting), DODAC
+
+  FDA Opening Remarks                          Wiley A. Chambers, MD
+                                               Deputy Director
+                                               Division of Transplant and Ophthalmology
+                                               Products
+                                               Office of New Drugs, CDER, FDA
+
+  APPLICANT PRESENTATIONS                      Horizon Pharma Ireland, Ltd.
+
+  Introduction                                 Timothy P. Walbert
+                                               Chairman, President and Chief Executive Officer
+                                               Horizon Therapeutics
+
+  Unmet Medical Need                           Raymond S. Douglas, MD, PhD
+                                               Director of Orbital and Thyroid Eye Disease
+                                               Program
+                                               Cedars-Sinai Medical Center
+
+  Teprotumumab Mechanism and                   Shao-Lee Lin, MD, PhD
+  Program Overview                             Executive Vice President, Head of Research and
+                                               Development, Chief Scientific Officer
+                                               Horizon Therapeutics
+
+  Efficacy and Safety                          Elizabeth H.Z. Thompson, PhD
+                                               Vice President, Clinical Development, Rare
+                                               Disease
+                                               Horizon Therapeutics
+
+  Clinical Perspective                         Raymond S. Douglas, MD, PhD
+
+  Clarifying Questions to the Applicant
+
+  BREAK
+
+  Clarifying Questions to the Applicant (continued)
+
+
+
+                                              Page 3 of 6
+December 13, 2019
+Dermatologic and Ophthalmic Drugs Advisory Committee Meeting
+
+  FDA PRESENTATION
+
+  FDA Clinical Review of                       Wiley A. Chambers, MD
+  Teprotumumab
+
+  Clarifying Questions to FDA
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/ Committee Discussion
+
+  BREAK
+
+  Questions to the Committee/ Committee Discussion (cont.)
+
+  ADJOURNMENT
+______________________________________________________________________________
+Questions to the Committee:
+
+1. DISCUSSION: Please discuss the expected onset and duration of effect following the
+   administration of teprotumumab. Please also include in your discussion whether there is a
+   potential safety concern with repeated courses of treatment.
+
+   Committee Discussion: The committee discussed that the data presented showed a variable
+   expected time of teprotumumab-effect onset and duration of effect following administration.
+   Some members expressed concern that the limited number of clinical trial subjects may not
+   provide a full picture regarding the totality of adverse events potentially associated with
+   repeated courses of treatment with the drug, or potential side effects of long-term
+   teprotumumab use. The committee members also noted specific concerns regarding high
+   blood sugar and hearing loss. Please see the transcript for details of the committee
+   discussion.
+
+2. DISCUSSION: Please discuss any safety limitations or safety labeling that should result
+   from the relatively small database of patients in this orphan indication for teprotumumab.
+
+   Committee Discussion: The committee discussed that the labeling should include safety
+   concerns such as use in pregnancy, blood sugar monitoring and the potential for hearing
+   loss. Some members stated they would be interested to learn what types of hearing loss were
+   identified and at what time point after teprotumumab administration. Some members stated
+   the product should be avoided in patients with known irritable bowel disease. Please see the
+   transcript for details of the committee discussion.
+
+
+
+
+                                              Page 4 of 6
+December 13, 2019
+Dermatologic and Ophthalmic Drugs Advisory Committee Meeting
+
+3. DISCUSSION: Please discuss whether the term “Active” as used in the proposed
+   indication is informative to clinicians and patients considering use of the product.
+
+   Committee Discussion: The committee discussed that the term “Active” as used in the
+   proposed indication would be useful for clinicians; however, it would need to be defined in
+   labeling to aid clinicians to appropriately classify patients as having “Active” thyroid eye
+   disease. The committee offered various examples of how to classify “Active.” One member
+   suggested that the Agency could consider potentially using the product only in conjunction
+   with an ophthalmologist or endocrinologist to monitor treatment progress or potential
+   adverse events experienced. Please see the transcript for details of the committee discussion.
+
+4. DISCUSSION: Please discuss the need for glucose monitoring after initiation of
+   teprotumumab administration. If needed, please discuss the recommended timing of any
+   monitoring.
+
+   Committee Discussion: The committee discussed that the data provided did not contain
+   enough information to appropriately identify a schedule for glucose monitoring after
+   initiation of teprotumumab administration. However, a general consensus for baseline
+   glucose testing, fasting glucose testing every couple of months with repeated infusions, and
+   glucose monitoring after discontinuation of teprotumumab were discussed. Please see the
+   transcript for details of the committee discussion.
+
+5. DISCUSSION: Please discuss your level of concern with the episodes and frequency of
+   reported:
+
+   a. muscle spasms
+
+       Committee Discussion: The committee agreed that muscle spasms were not too
+       concerning and should be included in the Adverse Reactions section of the product label.
+       Please see the transcript for details of the committee discussion.
+
+   b. hypoacusis/loss of hearing
+
+       Committee Discussion: The committee suggested that hearing loss be included in the
+       Warnings and Precautions section of the product label since this side effect may affect a
+       patient’s decision to use teprotumumab, especially if the patient had prior hearing loss or
+       has a family history of hearing loss. Please see the transcript for details of the committee
+       discussion.
+
+   c. diarrhea/inflammatory bowel disease
+
+       Committee Discussion: The committee noted that while diarrhea should be included in
+       the Adverse Reactions section of the product label, irritable bowel disease could be
+       considered for inclusion in the Warning and Precautions section. Please see the
+       transcript for details of the committee discussion.
+
+
+
+
+                                              Page 5 of 6
+December 13, 2019
+Dermatologic and Ophthalmic Drugs Advisory Committee Meeting
+
+   d. infection rate
+
+       Committee Discussion: The committee stated that infection rates should be included in
+       the Adverse Reactions section of the product label. Please see the transcript for details of
+       the committee discussion.
+
+   e. alopecia
+
+       Committee Discussion: The committee stated that alopecia should be included in the
+       Adverse Reactions section of the product label. Please see the transcript for details of the
+       committee discussion.
+
+6. VOTE: Do the potential benefits of using teprotumumab as recommended outweigh the
+   potential risks associated with the use of the drug product for the intended population?
+
+   Vote Result:        Yes: 12                 No: 0           Abstain: 0
+
+   Committee Discussion: The committee unanimously voted “Yes”, that the potential benefits
+   of using teprotumumab as recommended outweigh the potential risks associated with the use
+   of the drug product for the intended population. The committee acknowledged that there are
+   currently no products available on the market to treat thyroid eye disease, and that the
+   benefits of teprotumumab use outweigh the adverse events observed in clinical trials. Some
+   committee members suggested that the Applicant conduct a clinical trial with a greater
+   number of subjects to identify any additional adverse event that may have not been identified
+   from the limited data presented. The committee also recommended that the Applicant work
+   with the Agency to identify post-marketing commitments such as appropriate labeling or use
+   of a registry. Please see the transcript for details of the committee discussion.
+
+7. DISCUSSION: If teprotumumab is approved, are there specific recommendations for the
+   labeling?
+
+   Committee Discussion: The committee had no further recommendations than what was
+   already discussed previously.
+
+The meeting was adjourned at approximately 3:22 p.m.
+
+
+
+
+                                              Page 6 of 6
+

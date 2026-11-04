@@ -1,0 +1,301 @@
+                              Food and Drug Administration
+                         Center for Drug Evaluation and Research
+
+ Final Summary Minutes meeting of the Psychopharmacologic Drugs Advisory Committee
+           and the Drug Safety and Risk Management Advisory Committee
+                                  November 1, 2018
+
+Location: FDA White Oak Campus, Building 31 Conference Center, The Great Room (Rm.
+1503), 10903 New Hampshire Avenue, Silver Spring, Maryland
+
+
+Topic: The committees discussed efficacy, safety and risk-benefit profile of new drug
+application (NDA) 210417 for buprenorphine and samidorphan sublingual tablets, submitted by
+Alkermes, Inc., for adjunctive treatment of major depressive disorder.
+
+These summary minutes for the November 1, 2018 meeting of the Psychopharmacologic Drugs
+Advisory Committee of the Food and Drug Administration were approved on December 10,
+2018.
+
+
+I certify that I attended the November 1, 2018 meeting of the Psychopharmacologic Drugs
+Advisory Committee and the Drug Safety and Risk Management of the Food and Drug
+Administration and that these minutes accurately reflect what transpired.
+
+
+
+
+________/S/_ ____________________               ________/S/_______________________
+Kalyani Bhatt, BS, MS                           Rajesh Narendran, MD
+Designated Federal Officer                      Chairperson
+Psychopharmacologic Drugs AC                    Psychopharmacologic Drugs AC
+  Summary Minutes meeting of the Psychopharmacologic Drugs Advisory Committee and
+            the Drug Safety and Risk Management Advisory Committee
+                                  November 1, 2018
+
+
+The meeting of the Psychopharmacologic Drugs Advisory Committee and the Drug Safety and
+Risk Management Advisory Committee of the Food and Drug Administration, Center for Drug
+Evaluation and Research, met jointly on November 1, 2018, at the FDA White Oak Campus,
+Building 31, The Great Room (Rm. 1503), White Oak Conference Center, Silver Spring,
+Maryland. Prior to the meeting, the members and temporary voting members were provided the
+background materials from the FDA and Alkermes, Inc. The meeting was called to order by
+Rajesh Narendran, MD (Chairperson). The conflict of interest statement was read into the record
+by Kalyani Bhatt, BS, MS (Designated Federal Officer). There were approximately 225 people
+in attendance for the meeting. There were 13 Open Public Hearing speaker presentations.
+
+Issue: The committees discussed efficacy, safety and risk-benefit profile of new drug
+application (NDA) 210417 for buprenorphine and samidorphan sublingual tablets, submitted by
+Alkermes, Inc., for adjunctive treatment of major depressive disorder.
+
+Attendance:
+
+Psychopharmacologic Drugs Advisory Committee Members Present (Voting): Walter S.
+Dunn, MD, PhD; Jess G. Fiedorowicz, MD, PhD; Satish Iyengar, PhD; Felipe A. Jain, MD;
+Rajesh Narendran, MD (Chairperson); Kim O. Wictzak (Consumer Representative)
+
+Psychopharmacologic Drugs Advisory Committee Members Not Present (Voting): Jessica J.
+Jeffrey, MD, MPH, MBA; Erick Turner, MD
+
+Psychopharmacologic Drugs Advisory Committee Members Present (Non- Voting):
+Robert R. Conley, MD (Industry Representative)
+
+Drug Safety and Risk Management Advisory Committee Members Present (Voting): Kelly
+Besco, PharmD, FISMP, CPPS; Marie R. Griffin, MD, MPH; Laurel A. Habel, MPH, PhD;
+Sonia Hernandez-Diaz, MD, MPH, DrPH; Martin Kulldorff, PhD; Steven B. Meisel, PharmD;
+Anne-Michelle Ruha, MD, FACMT; Anne-Michelle Ruha, MD, FACMT; Terri L. Warholak,
+PhD, RPh, CPHQ, FAPhA
+
+Drug Safety and Risk Management Advisory Committee Members Not Present (Voting):
+Denise M. Boudreau, PhD, RPh; Suzanne B. Robotti (Consumer Representative); Soko
+Setoguchi, MD, DrPh
+
+
+
+
+                                          Page 2 of 7
+Drug Safety and Risk Management Advisory Committee Members Not Present (Non-
+Voting): Linda Scarazzini, MD, RPh (Industry Representative)
+
+Temporary Members (Voting): Jane B. Acri, PhD; David Cella, PhD; Stephanie Y. Crawford,
+PhD, MPH; Harriet de Wit, PhD; Kathryn E. Flynn, PhD; Roxanne E. Jensen, PhD; Elizabeth
+Joniak-Grant (Patient Representative); Brandon D.L. Marshall, PhD; William T. Riley, PhD
+
+FDA Participants (Non-Voting): Robert Temple, MD; Ellis Unger, MD; Mitchell Mathis, MD;
+Judy Staffa, PhD, RPh; Tiffany, Farchione, MD; Dominic Chiapperino, PhD; Daniel J. Lee, MD;
+Semhar Ogbagaber, PhD
+
+Open Public Hearing Speakers: Maurizio Fava, MD (Massachusetts General Hospital and
+Harvard Medical School); Nathaniel Z. Counts, JD (Medical Health America); Ali Walker;
+Gordon Corsetti; J. Alexander Bodkin, MD (McLean Hospital); Kathryn Wichmann (Depression
+and Bipolar Support Alliance), Allen Sweatt (statement read by Eric Scharf) (Depression and
+Bipolar Support Alliance); Andrew Sperling (National Alliance on Mental Illness);
+Michael Pollock, (Depression and Bipolar Support Alliance); John H. Madigan, Jr.; Lauren
+Kenney; Angelo Sambunaris, MD; Stephanie Rawlings, PhD (National Center for Health
+Research)
+
+The Agenda was as follows:
+
+ Call to Order and Introduction of      Raj Narendran, MD
+ Committee                              Chairperson, PDAC
+
+ Conflict of Interest Statement         Kalyani Bhatt, BS, MS
+                                        Designated Federal Officer, PDAC
+
+ FDA Opening Remarks                    Mitchell Mathis, MD
+                                        Director
+                                        Division of Psychiatry Products (DPP)
+                                        Office of Drug Evaluation I (ODE I)
+                                        Office of New Drugs (OND), CDER, FDA
+
+
+ APPLICANT PRESENTATIONS                Alkermes, Inc.
+
+
+ Introduction                           Lisa von Moltke, MD
+                                        Senior Vice President, Clinical Development
+                                        Alkermes, Inc.
+
+ The Unmet Need in MDD, and             George Papakostas, MD
+ Challenges in MDD Clinical Trials      Harvard Medical School
+                                        Massachusetts General Hospital
+
+ Clinical Efficacy                      Jerald Schindler, DrPH
+                                        Vice President, Biostatistics
+                                        Alkermes, Inc.
+
+                                         Page 3 of 7
+Clinical Safety, and                    Gary Bloomgren, MD
+Risk Mitigation Strategies              Vice President, Drug Safety and Pharmacovigilance
+                                        Alkermes, Inc.
+
+Clinical Perspective and Benefit-Risk   Sanjay Mathew, MD
+Profile                                 Baylor College of Medicine
+
+Conclusion                              Lisa von Moltke, MD
+
+
+Clarifying Questions to Applicant
+
+BREAK
+
+FDA PRESENTATIONS
+
+Regulatory History                      Tiffany Farchione, MD
+                                        Deputy Director
+                                        DPP, ODE I, OND, CDER, FDA
+
+Clinical Efficacy and Safety Overview   Semhar Ogbagaber, PhD
+                                        Statistician
+                                        Division of Biometrics I
+                                        Office of Biostatistics
+                                        Office of Translational Sciences, CDER, FDA
+
+                                        Daniel J. Lee, MD
+                                        Clinical Reviewer
+                                        DPP, ODE I, OND, CDER, FDA
+
+Abuse Potential of                      Edward Hawkins, PhD
+Buprenorphine/Samidorphan (BUP/SAM)     Pharmacologist
+                                        Controlled Substance Staff
+                                        Office of the Center Director, CDER, FDA
+
+FDA Review of the Epidemiologic and     Celeste Mallama, PhD, MPH
+Surveillance Data                       Epidemiologist
+                                        Division of Epidemiology II
+                                        Office of Surveillance and Epidemiology (OSE)
+                                        CDER, FDA
+
+
+UNIVERSITY OF WASHINGTON MEDICAL
+SCHOOL DEPARTMENT OF PSYCHIATRY &
+BEHAVIORAL SCIENCES PRESENTATION
+
+Depression Effects On Long-Term         Mark Sullivan, MD, PhD
+Prescription Opioid Use, Abuse and      Professor, Psychiatry and Behavioral Sciences
+Addiction                               University of Washington Medical Center
+
+
+                                        Page 4 of 7
+ FDA PRESENTATIONS (cont.)
+
+ Risk Management for                            Somya Dunn, MD
+ Buprenorphine/Samidorphan                      Commander, United States Public Health Service
+                                                Risk Management Analyst
+                                                Division of Risk Management, OSE, CDER, FDA
+ Clarifying Questions to FDA and Dr. Sullivan
+
+ LUNCH
+
+ OPEN PUBLIC HEARING
+
+ Charge to Committee                            Mitchell Mathis, MD
+
+ Questions to the Committee/Committee Discussion
+
+ BREAK
+
+ Questions to the Committee/Committee Discussion (cont.)
+
+ ADJOURNMENT
+____________________________________________________________________________
+
+Questions to the Committee:
+
+   1. VOTE: Has substantial evidence been presented by the Applicant to support the
+      effectiveness of buprenorphine/samidorphan for the adjunctive treatment of major
+      depressive disorder?
+
+   Vote Result:               Yes: 3                     No: 20                Abstain: 0
+
+   Committee Discussion: The majority of the members voted “No” and agreed that there was
+   not substantial evidence to support the effectiveness of buprenorphine/samidorphan for the
+   adjunctive treatment of major depressive disorder. Those members who voted “Yes” were
+   convinced that the analysis that was conducted was adequate with a restricted Risk
+   Evaluation and Mitigation Strategy (REMS) program. Please see the transcript for details of
+   the committee discussion.
+
+   2. VOTE: Has the Applicant adequately characterized the safety profile of
+      buprenorphine/samidorphan for the adjunctive treatment of major depressive disorder?
+
+   Vote Result:               Yes: 13                    No: 10                Abstain: 0
+
+   Committee Discussion The committee members who voted “Yes” agreed that the safety
+   profile of buprenorphine/samidorphan was well characterized, and there seemed to be
+   minimal withdrawal effects, and abuse liability. However, the committee members who voted,
+   “No” had concerns that buprenorphine could be separated from samidorphan, some opioid-
+   induced euphoria and withdrawal is still evident with the buprenorphine/samidorphan, and
+
+                                                Page 5 of 7
+there are potential risks in using this compound to treat depression because of the
+established links between depression-pain-addictive disorders. Please see the transcript for
+details of the committee discussion.
+
+3. DISCUSSION: Related to the potential risks associated with the use, misuse, and abuse
+   of buprenorphine/samidorphan in post-market settings:
+   1. Discuss any concerns you have about the risks of misuse, abuse, addiction, or
+       overdose with buprenorphine/samidorphan in the intended patient population or in
+       others who may access the drug.
+   2. Discuss any concerns you have more generally about approving a product containing
+       buprenorphine, an opioid, for the first time, for the treatment of depression.
+   3. Discuss whether you are concerned about the risk of opioid overdose if other opioids
+       are used, misused, or abused concurrently with buprenorphine/samidorphan, perhaps
+       in higher doses intended to overcome buprenorphine/samidorphan’s μ-opioid
+       antagonist effects, with potential additive opioid agonist effects that have not been
+       fully characterized.
+   4. What risk reduction strategies could be implemented to decrease risks associated with
+       buprenorphine/samidorphan use?
+
+Committee Discussion: Some committee members voiced concerns that family members may
+take the drugs, and this may increase the risk of abuse and overdose. However, some
+members were reassured that the 2mg/2mg dose was low enough to not be of a concern for
+serious overdose. Some members raised concerns about the long-term risks of using an
+opioid medication in a disorder that requires long duration of treatment. The committee
+members also voiced concerns with respect to prescribing an opioid medication because of
+the link between major depressive disorder-pain and addictive disorders. Few members had
+concerns about the risk of patients getting high dose narcotics for pain to override the effects
+of buprenorphine/samidorphan in acute emergency settings, and the risk of
+buprenorphine/samidorphan precipitating withdrawal in patients on medication assisted
+treatment (in case both are not prescribed by the same providers), etc. Some members
+endorsed a REMS that would include urine drug screens before initiation of the medication,
+monitoring individuals for abuse, advocated a formulation in which
+buprenorphine/samidorphan cannot be easily separated (to reduce risk of diversion), and
+making prescribing practices at least as restrictive (i.e., keeping track of number of scripts
+and patients written by providers, tracking patients receiving the medication, etc.) Please see
+the transcript for details of the committee discussion.
+
+
+
+4. VOTE: Do the available data support a favorable benefit-risk profile of
+   buprenorphine/samidorphan to support approval?
+
+Vote Result:               Yes: 2                 No: 21                 Abstain:0
+
+Committee Discussion: Most of the committee members agreed that the available data do
+not support a favorable benefit-risk profile of buprenorphine/samidorphan to support
+
+
+                                         Page 6 of 7
+   approval. The two members who voted “Yes” provided qualified support to approve it and
+   recommended a strong REMS program. Please see the transcript for details of the committee
+   discussion.
+
+   5. DISCUSSION: What, if any, additional data are needed pre- or post-approval to address
+      outstanding issues with buprenorphine/samidorphan? Please be clear whether you believe
+      these data should be required prior to approval.
+
+   Committee Discussion: Committee members recommended studies: to get more clarity on
+   responders (i.e., who are the super-responders who benefit the most from the drug); to get
+   more data on long-term response and remission rates; consider studies in individuals with
+   comorbid depression and pain; conduct an adequately powered study to measure the small
+   effect; a medication discontinuation study to quantify the effects of opioid withdrawal with
+   the medication; and in vivo receptor occupancy studies to understand it’s mechanism of
+   action of the 2mg/2mg dose. Please see the transcript for details of the committee discussion.
+
+The meeting was adjourned at approximately 5:00 p.m.
+
+
+
+
+                                           Page 7 of 7
+

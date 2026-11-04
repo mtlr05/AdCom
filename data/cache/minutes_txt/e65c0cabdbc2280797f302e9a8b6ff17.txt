@@ -1,0 +1,708 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+           Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                       May 20-21, 2025
+
+    Location: FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.
+    1503), 10903 New Hampshire Avenue, Silver Spring, Maryland. The public also had the option
+    to participate via an online teleconferencing and/or video conferencing platform, and the meeting
+    presentations were heard, viewed, captioned, and recorded through an online video conferencing
+    platform.
+
+    Topic: On the morning of May 20, 2025, the Committee discussed supplemental biologics
+    license application (sBLA) 761309/S-001, for COLUMVI (glofitamab) injection, submitted by
+    Genentech, Inc. The proposed indication (use) is in combination with gemcitabine and
+    oxaliplatin for the treatment of adult patients with relapsed or refractory diffuse large B-cell
+    lymphoma, not otherwise specified (DLBCL, NOS) who are not candidates for autologous stem
+    cell transplant (ASCT).
+
+    On the afternoon of May 20, 2025, the Committee discussed sBLA 761145/S-029, for
+    DARZALEX FASPRO (daratumumab and hyaluronidase) injection, for subcutaneous use,
+    submitted by Janssen Biotech, Inc. The proposed indication (use) is as monotherapy for the
+    treatment of adult patients with high-risk smoldering multiple myeloma (SMM).
+
+    On the morning of May 21, 2025, the Committee discussed new drug application (NDA)
+    215793, for UGN-102 (mitomycin) intravesical solution, submitted by UroGen Pharma, Inc.
+    The proposed indication (use) is for the treatment of adult patients with low-grade intermediate-
+    risk non-muscle invasive bladder cancer (LG-IR-NMIBC).
+
+    On the afternoon of May 21, 2025, the Committee discussed supplemental new drug application
+    (sNDA) 211651/S-013, for TALZENNA (talazoparib) capsules, submitted by Pfizer Inc. The
+    proposed indication (use) is in combination with enzalutamide for the treatment of adult patients
+    with metastatic castration-resistant prostate cancer (mCRPC).
+
+    These summary minutes for the May 20-21, 2025 meeting of the Oncologic Drugs Advisory
+    Committee (ODAC) of the Food and Drug Administration were approved on _______________.
+                                                                              July 15, 2025
+
+
+    I certify that I attended the May 20-21, 2025 meeting of the ODAC of the Food and Drug
+    Administration and that these minutes accurately reflect what transpired.
+
+
+
+            /S/                                   /S/                                    /S/
+Jessica Seo, PharmD, MPH          Neil Vasan, MD                         Daniel Spratt, MD
+Acting Designated Federal         Acting Chairperson, ODAC               Acting Chairperson, ODAC
+Officer, ODAC                     (Day 1)                                (Day 2)
+
+
+
+                                               Page 1 of 14
+May 20-21, 2025
+Oncologic Drugs Advisory Committee
+
+          Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                  May 20-21, 2025
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research, met on May 20-21, 2025, at FDA White Oak Campus,
+Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New Hampshire Avenue,
+Silver Spring, Maryland. The public also had the option to participate via an online
+teleconferencing and/or video conferencing platform, and the meeting presentations were heard,
+viewed, captioned, and recorded through an online video conferencing platform. Prior to the
+meeting, the members and temporary voting members were provided the briefing materials from
+the FDA, Genentech, Inc, Janssen Biotech, Inc, UroGen Pharma, Inc, and Pfizer Inc. The
+meeting was called to order by Neil Vasan, MD (Acting Chairperson) on Day 1, and Daniel
+Spratt, MD (Acting Chairperson) on Day 2. The conflict of interest statement was read into the
+record by Jessica Seo, PharmD, MPH (Acting Designated Federal Officer). There were
+approximately 125 people in attendance in-person on Day 1 and Day 2, and approximately 1205
+people online during Day 1, and 896 people online during Day 2. There was a total of 2 Open
+Public Hearing (OPH) speaker presentations during the Day 1 morning session, 10 OPH speaker
+presentations during the Day 1 afternoon session, 7 OPH speaker presentations during the Day 2
+morning session, and 5 OPH speaker presentations during the Day 2 afternoon session.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda:
+
+On the morning of May 20, 2025, the Committee discussed supplemental biologics license
+application (sBLA) 761309/S-001, for COLUMVI (glofitamab) injection, submitted by
+Genentech, Inc. The proposed indication (use) is in combination with gemcitabine and
+oxaliplatin for the treatment of adult patients with relapsed or refractory diffuse large B-cell
+lymphoma, not otherwise specified (DLBCL, NOS) who are not candidates for autologous stem
+cell transplant (ASCT).
+
+On the afternoon of May 20, 2025, the Committee discussed sBLA 761145/S-029, for
+DARZALEX FASPRO (daratumumab and hyaluronidase) injection, for subcutaneous use,
+submitted by Janssen Biotech, Inc. The proposed indication (use) is as monotherapy for the
+treatment of adult patients with high-risk smoldering multiple myeloma (SMM).
+
+On the morning of May 21, 2025, the Committee discussed new drug application (NDA)
+215793, for UGN-102 (mitomycin) intravesical solution, submitted by UroGen Pharma, Inc.
+The proposed indication (use) is for the treatment of adult patients with low-grade intermediate-
+risk non-muscle invasive bladder cancer (LG-IR-NMIBC).
+
+On the afternoon of May 21, 2025, the Committee discussed supplemental new drug application
+(sNDA) 211651/S-013, for TALZENNA (talazoparib) capsules, submitted by Pfizer Inc. The
+proposed indication (use) is in combination with enzalutamide for the treatment of adult patients
+with metastatic castration-resistant prostate cancer (mCRPC).
+
+
+                                           Page 2 of 14
+May 20-21, 2025
+Oncologic Drugs Advisory Committee
+
+Attendance:
+
+Oncologic Drugs Advisory Committee Members Present (Voting): Toni K. Choueiri, MD
+(via video conferencing platform; May 20 Sessions Only); Mark R. Conaway, PhD (All
+Sessions); William J. Gradishar, MD (May 21 Sessions Only); Ravi A. Madan, MD (All
+Sessions); Daniel Spratt, MD (All sessions; Acting Chairperson for May 21 Sessions); Neil
+Vasan, MD, PhD (All Sessions; Acting Chairperson for May 20 Sessions);
+
+Oncologic Drugs Advisory Committee Members Not Present (Voting): Pamela L. Kunz,
+MD;
+
+Oncologic Drugs Advisory Committee Members Present (Non-Voting): Tara L. Frenkl, MD,
+MPH (May 20 Sessions and May 21 Morning Session Only)
+
+Acting Industry Representative to the Oncologic Drugs Advisory Committee (Non-Voting):
+Craig Tendler, MD (May 21 Afternoon Session Only)
+
+Temporary Members (Voting): Mark W. Ball, MD, FACS (May 21 Morning Session Only);
+Isla P. Garraway, MD, PhD (May 21 Morning Session Only); Julie Graff, MD (May 21
+Afternoon Session Only); Colette Johnston (via video conferencing platform; Patient
+Representative; May 21 Morning Session Only); Terrence “Terry” Kungel, MBA
+(Patient Representative; May 21 Afternoon Session Only); Christopher Lieu, MD
+(May 20 Sessions Only); Paul V. Majkowski, Esq. (Patient Representative; May 20 Morning
+Session Only); Heidi McKean, MD (All Sessions); Ajay K. Nooka, MD, MPH
+(May 20 Morning Session Only); Joan Durnell Powell (Patient Representative;
+May 20 Afternoon Session Only);
+
+FDA Participants (Non-Voting): Richard Pazdur, MD (May 20 Morning Session Only and May
+21 Sessions); Nicole Gormley, MD (May 20 Sessions Only); R. Angelo de Claro, MD (May 20
+Sessions Only); Nicholas Richardson, DO, MPH (May 20 Sessions Only); Margret Merino, MD
+(May 20 Morning Session Only); Nicole Sunseri, MD, PhD (May 20 Morning Session Only);
+Bindu Kanapuru, MD (May 20 Afternoon Session Only); Payal Aggarwal, DO, MS (May 20
+Afternoon Session Only); Laleh Amiri-Kordestani, MD (May 21 Sessions Only); Daniel Suzman,
+MD (May 21 Sessions Only); Sundeep Agrawal, MD (May 21 Morning Session Only); Brian
+Heiss, MD (May 21 Morning Session Only); Jaleh Fallah, MD (May 21 Afternoon Session Only);
+William Maguire, MD, PhD (May 21 Afternoon Session Only);
+
+Acting Designated Federal Officer (Non-Voting): Jessica Seo, PharmD, MPH
+
+Open Public Hearing Speakers Present:
+
+Day 1 (morning session): Amanda Berhaupt, PhD (National Center for Health Research);
+Daneen Sekoni (Cancer Support Community);
+
+Day 1 (afternoon session): Bradley J. Hanson; Louise Miller Lavin; Jeffrey S. Rubin, MD;
+Kathleen Vallefuoco; Irene Ghobrial, MD; Anne Quinn Young (Multiple Myeloma Research
+
+
+                                         Page 3 of 14
+May 20-21, 2025
+Oncologic Drugs Advisory Committee
+
+Foundation); Ken Anderson, MD; Bhavana Bhatnagar, DO; Solly Silwan Chedid, MD; Jonathan
+Ticku, MD;
+
+Day 2 (morning session): Yazmin Lago; Lisa Malzone; Sandip Prasad, MD; Mark Perlin; Tom
+Hyland; Meri-Margaret Deoudes; Katherine Lacey Parker;
+
+Day 2 (afternoon session): Amanda Berhaupt, PhD (National Center for Health Research);
+Thomas Bognanno; Tom Remenick; Courtney Bugler (ZERO Prostate Cancer); Harry Ames;
+
+The agenda was as follows:
+
+May 20, 2025, Morning Session
+
+8:00 a.m.     Call to Order and Introduction of               Neil Vasan, MD, PhD
+              Committee                                       Acting Chairperson, ODAC
+
+8:05 a.m.     Conflict of Interest Statement                  Jessica Seo, PharmD
+                                                              Acting Designated Federal Officer, ODAC
+
+8:10 a.m.     FDA Opening Remarks
+
+              Glofitamab-gxbm                                 Nicole Gormley, MD
+                                                              Director
+                                                              Division of Hematologic Malignancies II (DHM II)
+                                                              Office of Oncologic Diseases (OOD)
+                                                              Office of New Drugs (OND), CDER, FDA
+
+              Glofitamab-gxbm (COLUMVI)                       Margret Merino, MD
+              BLA 761309                                      Clinical Team Leader
+                                                              DHM II, OOD, OND, CDER, FDA
+
+8:30 a.m.     APPLICANT PRESENTATIONS                         Genentech, Inc.
+
+              Introduction                                    Charles Fuchs, MD, MPH
+                                                              Genentech, Inc.
+
+              DLBCL Background & Unmet Need                   Jeremy Abramson, MD
+                                                              Massachusetts General Hospital Cancer Center
+
+              STARGLO Efficacy & Safety                       Michelle Boyer, PhD
+                                                              Genentech, Inc.
+
+              STARGLO Subgroup Analyses                       Venkat Sethuraman, PhD
+                                                              Genentech, Inc.
+
+              Clinical Perspective                            Krish Patel, MD
+                                                              Sarah Cannon Research Institute
+
+
+                                               Page 4 of 14
+May 20-21, 2025
+Oncologic Drugs Advisory Committee
+
+
+              APPLICANT PRESENTATIONS (CONT.)
+
+              Closing Remarks                                 Charles Fuchs, MD, MPH
+
+              FDA WELCOME                                     Martin A. Makary, MD, MPH
+                                                              Commissioner
+                                                              FDA
+
+                                                              Vinayak Kashyap Prasad MD, MPH
+                                                              Director
+                                                              Center for Biologics Evaluation and Research
+                                                              (CBER), FDA
+
+9:15 a.m.     FDA PRESENTATIONS
+
+              Glofitamab-gxbm (COLUMVI)                       Nicole Sunseri, MD, PhD
+              BLA 761309                                      Clinical Reviewer
+                                                              DHM II, OOD, OND, CDER, FDA
+
+9:55 a.m.     Clarifying Questions
+
+10:20 a.m.    BREAK
+
+10:30 a.m.    OPEN PUBLIC HEARING
+
+11:00 a.m.    Questions to the Committee/Committee
+              Discussion
+
+12:00 p.m.    LUNCH
+
+May 20, 2025, Afternoon Session
+
+1:00 p.m.     Call to Order and Introduction of               Neil Vasan, MD, PhD
+              Committee                                       Acting Chairperson, ODAC
+
+1:05 p.m.     Conflict of Interest Statement                  Jessica Seo, PharmD
+                                                              Acting Designated Federal Officer, ODAC
+
+1:10 p.m.     FDA Opening Remarks
+
+              BLA 761145 Daratumumab and                      Bindu Kanapuru, MD
+              hyaluronidase-fihj (Dara SC)                    Supervisory Associate Director for
+              (DARZALEX FASPRO)                               Therapeutic Review
+                                                              DHM II, OOD, OND, CDER, FDA
+
+
+
+
+                                               Page 5 of 14
+May 20-21, 2025
+Oncologic Drugs Advisory Committee
+
+1:30 p.m.     APPLICANT PRESENTATIONS                   Janssen Research & Development, LLC
+
+              Introduction                              Sen Zhuang, MD, PhD
+                                                        Vice President, Oncology Research & Development
+                                                        Johnson & Johnson
+
+              Unmet Need                                Sagar Lonial, MD, FACP
+                                                        Chair and Professor
+                                                        Department of Hematology and Medical Oncology
+                                                        Anne and Bernard Gray Family Chair in Cancer
+                                                        Chief Medical Officer
+                                                        Winship Cancer Institute
+                                                        Emory University School of Medicine
+
+              Efficacy                                  Robin Carson, MD
+                                                        Vice President, Clinical Leader Oncology
+                                                        Johnson & Johnson
+
+              Safety                                    Robyn Dennis, MD
+                                                        Senior Medical Director, Oncology
+                                                        Johnson & Johnson
+
+              Clinical Perspective                      S. Vincent Rajkumar, MD, FRCPC
+                                                        Edward W. and Betty Knight Scripps Professor of
+                                                        Medicine
+                                                        Mayo Clinic
+
+2:15 p.m.     FDA PRESENTATIONS
+
+              BLA 761145                                Payal Aggarwal, DO, MS
+              Daratumumab and hyaluronidase-fihj        Clinical Reviewer
+              (DARZALEX FASPRO)                         DHM II, OOD, OND, CDER, FDA
+
+2:55 p.m.     Clarifying Questions
+
+3:20 p.m.     BREAK
+
+3:30 p.m.     OPEN PUBLIC HEARING
+
+4:00 p.m.     Questions to the Committee/Committee
+              Discussion
+
+5:00 p.m.     ADJOURNMENT
+
+
+
+
+                                         Page 6 of 14
+May 20-21, 2025
+Oncologic Drugs Advisory Committee
+
+
+
+May 21, 2025, Morning Session
+8:00 a.m.     Call to Order and Introduction of               Daniel Spratt, MD
+              Committee                                       Acting Chairperson, ODAC
+
+8:05 a.m.     Conflict of Interest Statement                  Jessica Seo, PharmD
+                                                              Acting Designated Federal Officer, ODAC
+8:10 a.m.     FDA Opening Remarks
+
+              UGN-102 (Mitomycin)                             Sundeep Agrawal, MD
+                                                              Clinical Team Leader
+                                                              Genitourinary Malignancies
+                                                              Division of Oncology 1 (DO1)
+                                                              OOD, OND, CDER, FDA
+
+8:35 a.m.     APPLICANT PRESENTATIONS                         UroGen Pharma, Inc.
+
+              Introduction                                    Mark Schoenberg, MD
+                                                              Chief Medical Officer
+                                                              UroGen Pharma, Inc.
+
+              Unmet Need                                      Sam S. Chang, MD
+                                                              Chief, Division of Urologic Oncology
+                                                              Chief Surgical Officer
+                                                              Vanderbilt Ingram Cancer Center
+
+              Efficacy                                        Michael J. Louie, MD, MPH, MSc
+                                                              EVP, Clinical Development and Medical Affairs
+                                                              UroGen Pharma, Inc.
+
+              Safety                                          Sunil Raju, MBBS, BSc
+                                                              Vice President, Clinical Development
+                                                              UroGen Pharma, Inc.
+
+              Clinical Perspective                            Max Kates, MD
+                                                              Division Director, Urologic Oncology
+                                                              Brady Urological Institute
+                                                              Johns Hopkins Greenberg Bladder Cancer Institute
+
+              Conclusion                                      Mark Schoenberg, MD
+
+9:20 a.m.     FDA PRESENTATIONS
+
+              NDA 215793: UGN-102                             Brian Heiss, MD
+              (mitomycin intravesical solution)               Clinical Reviewer
+                                                              Genitourinary Malignancies
+                                                              DO1, OOD, OND, CDER, FDA
+
+
+                                               Page 7 of 14
+May 20-21, 2025
+Oncologic Drugs Advisory Committee
+
+9:50 a.m.     Clarifying Questions
+
+10:20 a.m.    BREAK
+
+10:30 a.m.    OPEN PUBLIC HEARING
+
+11:00 a.m.    Questions to the Committee/Committee
+              Discussion
+12:00 p.m.    LUNCH
+
+May 21, 2025, Afternoon Session
+
+1:00 p.m.     Call to Order and Introduction of               Daniel Spratt, MD
+              Committee                                       Chairperson, ODAC
+
+1:05 p.m.     Conflict of Interest Statement                  Jessica Seo, PharmD
+                                                              Acting Designated Federal Officer, ODAC
+
+1:10 p.m.     FDA OPENING REMARKS
+
+              Talazoparib with Enzalutamide                   Jaleh Fallah, MD
+              for Metastatic Castration-Resistant             Clinical Team Leader (Acting)
+              Prostate Cancer (mCRPC)                         Genitourinary Malignancies
+                                                              DO1, OOD, OND, CDER, FDA
+
+1:30 p.m.     APPLICANT PRESENTATIONS                         Pfizer, Inc.
+
+              Introduction                                    Johanna Bendell, MD
+                                                              Chief Development Officer
+                                                              Oncology Research and Development
+                                                              Pfizer, Inc.
+
+              Treatment Landscape                             Pedro Barata, MD, MSc, FACP
+                                                              Associate Professor of Medicine
+                                                              Case Western Reserve University School of
+                                                              Medicine
+                                                              Case Comprehensive Cancer Center
+                                                              Cleveland, Ohio
+
+              Efficacy and Safety                             Dana Kennedy, PharmD, BCOP
+                                                              Vice President
+                                                              Genitourinary Therapeutic Area Head
+                                                              Oncology Research and Development
+                                                              Pfizer, Inc.
+
+
+
+
+                                               Page 8 of 14
+May 20-21, 2025
+Oncologic Drugs Advisory Committee
+
+              APPLICANT PRESENTATIONS (CONT.)
+
+              Clinical Perspective                         Neeraj Agarwal, MD, FASCO
+                                                           Professor of Medicine & Presidential
+                                                           Endowed Chair of Cancer Research
+                                                           Huntsman Cancer Institute
+                                                           University of Utah
+
+              Closing Remarks                              Johanna Bendell, MD
+
+2:15 p.m.     FDA PRESENTATIONS
+
+              Talazoparib with Enzalutamide                William Maguire, MD, PhD
+              for Metastatic Castration-Resistant          Clinical Reviewer
+              Prostate Cancer (mCRPC)                      Genitourinary Malignancies
+                                                           DO1, OOD, OND, CDER, FDA
+
+2:55 p.m.     Clarifying Questions
+
+3:20 p.m.     BREAK
+
+3:30 p.m.     OPEN PUBLIC HEARING
+
+4:00 p.m.     Questions to the Committee/Committee
+              Discussion
+
+5:00 p.m.     ADJOURNMENT
+
+Questions to the Committee:
+
+
+May 20, 2025 - Morning Session
+
+1. DISCUSSION: Discuss how the differential results observed in the Asian and Non-Asian
+   regions impact the overall interpretation of the STARGLO trial results and the
+   generalizability to a U.S. patient population.
+
+   Committee Discussion: In discussing their interpretation of the STARGLO trial results,
+   panel members expressed general agreement that while the trial met its primary endpoint
+   with a 40% reduction in the risk of death overall, the significant differences observed in the
+   Asian and Non-Asian regions created substantial uncertainty about the generalizability of
+   the results to the U.S. population. Committee members cited the small U.S. sample size of
+   only 25 patients, the lack of regional stratification in the study design, and potential
+   imbalances in patient characteristics as sources of skepticism for applying these findings to
+   U.S. patients. Possible explanations for the differential results were discussed, including
+   differences in subsequent treatments between regions and the impact of COVID-19 on
+   enrollment, but were not considered fully explanatory. Concerns were also raised about the
+
+
+                                            Page 9 of 14
+May 20-21, 2025
+Oncologic Drugs Advisory Committee
+
+   applicability and safety of glofitamab treatment and the need for more certainty of the its
+   safety and effectiveness for use in the community oncology setting. A couple of panel
+   members highlighted the overall positive effect of the treatment and its potential benefit for
+   U.S. patients, especially given the lack of standard treatments for this population.
+
+   Please see the transcript for details of the Committee’s discussion.
+
+
+2. VOTE: Are the STARGLO population and trial results applicable to the proposed U.S.
+   patient population?
+
+   Vote Result:        Yes: 1        No: 8           Abstain: 0
+
+   Committee Discussion: The Committee members were in near unanimous agreement that the
+   STARGLO population and trial results are not applicable to the proposed U.S. patient
+   population. Panel members who voted "no," cited several concerns. These included the
+   limited number of U.S. patients enrolled in the trial, inconsistencies in results between Asian
+   and non-Asian populations, and the lack of adherence to ICH E17 guidelines for multi-
+   regional clinical trials. Some panel members noted that while the primary endpoint was met,
+   the subgroup analyses showed inferior results in non-Asian populations across multiple
+   endpoints (OS, PFS, ORR, and CR). Doubts were also expressed about whether the trial met
+   the FDA's standard of enrolling a sufficient number of participants to support a robust
+   assessment of safety and effectiveness in US patients. The panel member who voted "yes"
+   prioritized the patient perspective and emphasized that the trial met its primary endpoint.
+   The panel concluded that overall, more data from U.S. patients would be necessary to prove
+   the therapy's efficacy and safety in the U.S. population.
+
+   Please see the transcript for details of the Committee’s discussion.
+
+
+May 20, 2025 - Afternoon Session
+
+1. DISCUSSION: Discuss the clinical meaningfulness of the efficacy endpoints assessed in the
+   AQUILA trial.
+
+   Committee Discussion: In discussing the clinical meaningfulness of the efficacy endpoints in
+   the AQUILA trial, panel members commented on several nuances and complexities. Panel
+   members acknowledged that while there were signals of benefit from treatment with
+   daratumumab and hyaluronidase, particularly in PFS and a trend towards improved OS,
+   concerns were raised about the maturity of the data and the appropriateness of these
+   endpoints for an asymptomatic condition. Some panel members noted that the PFS endpoint
+   might be clinically meaningful as it delayed the need for more intensive combination
+   therapies, while others questioned whether treating all patients upfront was justified when
+   only about half would progress to requiring treatment in the control arm. The discussion
+   touched on the difficulty of balancing the potential benefits against the risks of overtreatment
+   and side effects in patients who might never progress to active multiple myeloma. In addition,
+
+
+                                           Page 10 of 14
+May 20-21, 2025
+Oncologic Drugs Advisory Committee
+
+   panel members discussed whether SMM should be considered cancerous or precancerous,
+   which impacted their interpretation of the endpoints' clinical meaningfulness. Comparisons
+   were also drawn to solid tumor oncology, where similar endpoints are sometimes accepted
+   for drug approval. Overall, while the panel members acknowledged signals of efficacy from
+   the AQUILA trial, there was no clear consensus on clinical meaningfulness of these signals.
+
+   Please see the transcript for details of the Committee’s discussion.
+
+
+2. DISCUSSION: Discuss the benefit-risk of daratumumab hyaluronidase (Dara SC) for the
+   intended high-risk smoldering multiple myeloma (SMM) population.
+
+   Committee Discussion: Panel members touched on several facets and complexities in their
+   discussion on the benefit-risk of Dara SC for the high-risk SMM population. Some panel
+   members questioned whether SMM should be considered a precursor condition or an early
+   stage of malignancy, noting different implications for the treatment approach. Several panel
+   members also compared SMM to other cancer types, discussing the challenges of using PFS
+   as an endpoint in this setting. In addition, panel members questioned whether the treatment
+   was preventing or merely delaying disease progression, and whether the benefits outweighed
+   the risks of lifelong therapy started earlier. There were concerns raised about potential
+   overtreatment, especially as more aggressive combination therapies might be developed in
+   the future. However, there was acknowledgement that the study met its primary endpoint,
+   showing significant overall response rate and potential overall survival benefit. Panel
+   members emphasized the need for better identification of high-risk patients who are more
+   likely to progress.
+
+   Please see the transcript for details of the Committee’s discussion.
+
+
+3. VOTE: Do the results from the AQUILA trial provide sufficient evidence to support a
+   favorable benefit-risk profile for Dara SC for patients with high-risk SMM?
+
+   Vote Result:        Yes: 6        No: 2           Abstain: 0
+
+   Committee Discussion: The majority of Committee members agreed that the results from the
+   AQUILA trial provided sufficient evidence to support a favorable benefit-risk profile for
+   Dara SC for patients with high-risk SMM. Those who voted ”Yes” generally agreed that the
+   benefits outweighed the risks, citing trends in overall survival, the need for treatment options,
+   and the importance of patient choice. There was acknowledgement that the trial was well-
+   designed and provided evidence that the progression to multiple myeloma could be delayed.
+   However, panel members also emphasized the need for better definition of "high-risk"
+   patients and for continued follow-up for overall survival data.
+
+   Those who voted “No” expressed concerns about potential overtreatment of patients who
+   may not need it, citing that only 40.5% of enrolled patients were classified as high-risk when
+   applying contemporary criteria. They also pointed out the similar rates of severe
+
+
+                                           Page 11 of 14
+May 20-21, 2025
+Oncologic Drugs Advisory Committee
+
+   complications between treatment and control groups, and the lack of clear signals in
+   progression-free survival or overall survival to justify the toxicities experienced by treated
+   patients.
+
+   There was overall agreement from the panel members on the complexity of their decision and
+   the need for further refinement in patient selection and risk stratification. The importance of
+   clear labeling and guidance for use, if approved, was also emphasized, as well the need for
+   continued research to better identify patients who would benefit most from early treatment
+   with Dara SC.
+
+   Please see the transcript for details of the Committee’s discussion.
+
+May 21, 2025 - Morning Session
+
+1. DISCUSSION: Given uncertainty regarding interpretation of duration of response in low-
+   grade intermediate-risk non-muscle invasive bladder cancer (LG-IR-NMIBC), discuss
+   whether randomized trials should be required in the future to assess the effectiveness
+   of therapies in this disease setting.
+
+   Committee Discussion: In discussing whether randomized trials should be required for
+   assessing therapies in LG-IR-NMIBC, there was a general consensus that randomized trials
+   are the gold standard and provide the highest level of evidence. However, panel members
+   varied on whether they believe randomized trials should be strictly required. Some panel
+   members argued that randomized trials are feasible and necessary in this disease setting,
+   given its prevalence and the need for robust data on efficacy, duration of response, and
+   safety. Others cautioned against using the word "required," suggesting that each case should
+   be evaluated individually, considering factors such as patient recruitment, heterogeneity of
+   the disease, and potential obstacles to conducting randomized trials, although none,
+   including the urologists on the panel, considered randomization (e.g. against a TURBT-
+   based control) to be infeasible in this disease setting.
+
+   Please see the transcript for details of the Committee’s discussion.
+
+
+
+2. VOTE: Is the overall benefit-risk of the investigational therapy UGN-102 favorable in
+   patients with recurrent LG-IR-NMIBC?
+
+   Vote Result:        Yes: 4         No: 5          Abstain: 0
+
+   Committee Discussion: In the determining the favorability of the overall benefit-risk of
+   UGN-102 treatment in patients with recurrent LG-IR-NMIBC, the panel members were split,
+   with a slight majority of panel members that voted “No.” These panel members cited
+   uncertainties in the data and study design, and expressed concerns about the lack of a
+   randomized controlled trial, which they felt was necessary to accurately assess the true
+   benefits and risks. Comments also included the short-term nature of the primary endpoint (3-
+
+
+                                           Page 12 of 14
+May 20-21, 2025
+Oncologic Drugs Advisory Committee
+
+   month complete response), limited long-term follow-up data, and uncertainties about the
+   impact on subsequent salvage therapies and quality of life. In addition, it was noted the
+   treatment did not significantly reduce the need for TURBT procedures beyond three months
+   or impact more serious outcomes like cystectomy or disease progression. However, panel
+   members who voted “Yes” emphasized the importance of having a non-surgical option for
+   patients, particularly those with comorbidities, and felt the demonstrated efficacy was
+   encouraging with an acceptable toxicity profile. They also highlighted the potential to delay
+   or avoid TURBT procedures.
+
+   Please see the transcript for details of the Committee’s discussion.
+
+May 21, 2025 - Afternoon Session
+
+
+1. DISCUSSION: Discuss whether efficacy should be formally evaluated in a biomarker-
+   negative population when the biomarker is predictive of response and the prevalence of the
+   biomarker-negative group is high.
+
+   Committee Discussion: In discussing whether efficacy should be formally evaluated in a
+   biomarker-negative population when the biomarker is predictive of response and the
+   prevalence of the biomarker-negative group is high, panel members expressed an overall
+   consensus that formal evaluation is necessary and important. Historical examples were cited
+   such as trastuzumab in breast cancer, where retrospective analyses suggested efficacy in
+   biomarker-negative patients, but prospective trials proved otherwise. The panel members
+   emphasized the importance of proper prospective biomarker testing and the advancements in
+   companion diagnostics that now allow for more comprehensive and efficient testing.
+   Concerns were raised about toxicity, both medical and financial, especially in the context of
+   prostate cancer treatments. Panel members stressed the need for clear evidence of benefit in
+   the appropriate patient population before expanding treatment to biomarker-negative groups
+   and highlighted the importance of considering various efficacy endpoints beyond overall
+   survival, such as quality of life and time to symptomatic progression. The panel members
+   noted that TALAPRO-2 was not powered to specifically assess the biomarker-negative
+   subgroup and formal evaluation of efficacy in biomarker-negative populations would be
+   needed for ensuring appropriate patient care.
+
+   Please see the transcript for details of the Committee’s discussion.
+
+
+2. VOTE: Are the results from TALAPRO-2 sufficient to conclude a favorable benefit-risk
+   profile for adding talazoparib to enzalutamide in patients with non-homologous
+   recombination repair mutated (non-HRRm) metastatic castration-resistant prostate cancer
+   (mCRPC)?
+
+   Vote Result:        Yes: 0        No: 8           Abstain: 0
+
+
+
+
+                                           Page 13 of 14
+May 20-21, 2025
+Oncologic Drugs Advisory Committee
+
+   Committee Discussion: The Committee members were in unanimous agreement that the
+   results from the TALAPRO-2 trial are not sufficient to conclude a favorable benefit-risk
+   profile for adding talazoparib to enzalutamide in patients with non-HRRm mCRPC. The
+   panel members cited several reasons for their decision, including concerns about the study
+   design, lack of pre-specification for the non-mutant population, insufficient statistical power
+   to test efficacy in non-HRRm patients, and the high level of toxicity observed. Panel members
+   also noted that while the combination therapy showed promise in HRRm patients, the data
+   for non-HRRm patients was not robust enough to support approval. The importance of
+   balancing the potential benefits with the significant toxicities was emphasized, particularly in
+   an older patient population. Concerns were also raised about the impact on quality of life,
+   the lack of clear survival benefit, and the potential for overtreatment in the context of
+   evolving diagnostic techniques. While acknowledging the need for more treatment options in
+   mCRPC, the panel concluded that the current data did not support a favorable benefit-risk
+   profile for this specific patient population.
+
+   Please see the transcript for details of the Committee’s discussion.
+
+
+The meeting was adjourned at approximately 4:56 p.m. ET on Day 1 and approximately 4:40
+p.m. ET on Day 2.
+
+
+
+
+                                           Page 14 of 14
+

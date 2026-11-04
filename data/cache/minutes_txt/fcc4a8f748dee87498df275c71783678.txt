@@ -1,0 +1,292 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+          Final Summary Minutes of the Endocrinologic and Metabolic Drugs
+                          Advisory Committee Meeting
+                                  November 13, 2019
+
+
+Location : The FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.
+1503), 10903 New Hampshire Avenue, Silver Spring, Maryland.
+
+Topic: The committee discussed supplemental new drug application (sNDA) 204629/S-020 for
+empagliflozin oral tablet, sponsored by Boehringer Ingelheim Pharmaceuticals, Inc., for the
+following proposed indication: as an adjunct to insulin therapy to improve glycemic control in
+adults with type 1 diabetes mellitus.
+
+These summary minutes for the November 13, 2019 meeting of the Endocrinologic and
+Metabolic Drugs Advisory Committee (EMDAC) meeting of the Food and Drug Administration
+were approved on _December 19, 2019__.
+
+I certify that I attended the November 13, 2019 meeting of the Endocrinologic and Metabolic
+Drugs Advisory Committee of the Food and Drug Administration and that these minutes
+accurately reflect what transpired.
+
+
+
+________/s/__ _________________                  ____________/s/_________________
+LaToya Bonner, PharmD                            Kenneth D. Burman, MD
+Designated Federal Officer, EMDAC                Chairperson, EMDAC
+
+
+
+
+                                           Page 1 of 6
+            Final Summary Minutes of the Endocrinologic and Metabolic Drugs
+                            Advisory Committee Meeting
+                                  November 13, 2019
+
+The Endocrinologic and Metabolic Drugs Advisory Committee (EMDAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research, met on November 13, 2019, at the
+FDA White Oak Campus, Building 31 Conference Center, The Great Room (Rm. 1503), 10903
+New Hampshire Avenue, Silver Spring, Maryland. Prior to the meeting, the members and
+temporary voting members were provided the briefing materials from the FDA and Boehringer
+Ingelheim Pharmaceuticals, Inc. The meeting was called to order by Kenneth D. Burman, MD
+(Chairperson). The conflict of interest statement was read into the record by LaToya Bonner,
+PharmD (Designated Federal Officer). There were approximately 150 people in attendance.
+There were eight Open Public Hearing speaker presentations.
+
+A verbatim transcription will be available, in most cases, approximately ten to twelve weeks,
+following the meeting date.
+
+Agenda: The committee discussed supplemental new drug application (sNDA) 204629/S-020 for
+empagliflozin oral tablet, sponsored by Boehringer Ingelheim Pharmaceuticals, Inc., for the
+following proposed indication: as an adjunct to insulin therapy to improve glycemic control in
+adults with type 1 diabetes mellitus.
+
+Attendance:
+EMDAC Members Present (Voting): Michael Blaha, MD, MPH; Kenneth D. Burman, MD
+(Chairperson); Elizabeth Chrischilles, PhD, MS; James de Lemos, MD; Cecilia C. Low Wang,
+MD; Anna McCollister-Slipp (Consumer Representative); Connie Newman, MD; Thomas J.
+Weber, MD; Jack A, Yanovski, MD, PhD
+
+EMDAC Members Not Present (Voting): Susan S. Ellenberg, PhD and Marvin A. Konstam,
+MD
+
+EMDAC Member Present (Non-Voting): Gary Meininger, MD (Industry Representative)
+
+Temporary Members (Voting): Erica Brittain, PhD; Brendan M. Everett, MD, MPH, FACC,
+FAHA; Rita R. Kalyani, MD, MHS; Carling Lellock (Patient Representative); Kashif Munir,
+MD; Martha Nason, PhD; Manjunath P. Pai, PharmD
+
+FDA Participants (Non-Voting): Shanti Gomatam, PhD; Mahtab Nayyatti, MD; Justin
+Penzenstadler, PharmD, MSc; Mitra Rauschecker, MD; Lisa Yanoff, MD
+
+Designated Federal Officer (Non-Voting): LaToya Bonner, PharmD
+
+
+
+
+                                            Page 2 of 6
+November 13, 2019
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+Open Public Hearing Speakers: Charles Alexander, MD (statement read by Martin Kurian);
+Kelly Close (dQ&A; DiaTribe); Sanjoy Dutta, PhD (JDRF); Helena Rodbard, MD, FACP,
+MACE; Rhea Teng and Martin Kurian (Close Concerns); Simeon Taylor, MD, PhD; Sidney M.
+Wolfe, MD (Public Citizen’s Health Research Group); Nina Zeldes, MS (National Center for
+Health Research)
+____________________________________________________________________________
+
+The agenda was as follows:
+
+Call to Order and Introduction of                Kenneth D. Burman, MD
+Committee                                        Chairperson, EMDAC
+
+Conflict of Interest Statement                   LaToya Bonner, PharmD
+                                                 Designated Federal Officer, EMDAC
+
+FDA Introductory Comments                        Lisa B. Yanoff, MD
+                                                 Director (Acting)
+                                                 Division of Metabolism and Endocrinology
+                                                 Products (DMEP)
+                                                 Office of Drug Evaluation II (ODE-II)
+                                                 Office of New Drugs (OND), CDER, FDA
+
+APPLICANT PRESENTATIONS                          Boehringer Ingelheim Pharmaceuticals, Inc.
+Introduction                                     Jyothis George, MBBS. PhD, FRCP
+                                                 Head of Medicine – Empagliflozin
+                                                 Boehringer Ingelheim Pharmaceuticals, Inc.
+
+Unmet Need                                       Jennifer Green, MD
+                                                 Professor of Medicine
+                                                 Duke University Medical Center
+                                                 Division of Endocrinology, Metabolism and Nutrition
+                                                 Faculty, Duke Clinical Research Institute
+                                                 Durham, North Carolina
+
+Efficacy                                         Jan Marquard, MD
+                                                 Clinical Development Lead – Empagliflozin
+                                                 Boehringer Ingelheim Pharmaceuticals, Inc.
+
+Safety                                           Ona Kinduryte Schorling, MD, MSc
+                                                 Head of Drug Safety – Metabolism
+                                                 Boehringer Ingelheim Pharmaceuticals, Inc.
+
+Clinical Implications                            Bruce Perkins, MD
+                                                 Professor of Medicine and Clinician-Scientist University
+                                                 of Toronto, The Sam and Judy Pencer Family Chair in
+                                                 Diabetes and Director of the Diabetes Clinical Research
+                                                 Unit Leadership
+                                                 Sinai Centre for Diabetes, Sinai Health System
+                                                 Toronto, Canada
+
+
+
+                                               Page 3 of 6
+November 13, 2019
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+Clarifying Questions to the Applicant
+
+FDA PRESENTATIONS
+
+Overview of Development Program for              Mahtab Niyyati, MD
+Empagliflozin in Type 1 Diabetes Mellitus        Clinical Reviewer
+                                                 DMEP, ODE-II, OND, CDER, FDA
+
+Clinical Pharmacology Highlights                 Justin Penzenstadler, PharmD, MSc
+                                                 Clinical Pharmacology Reviewer
+                                                 Division of Clinical Pharmacology II (DCP-II)
+                                                 Office of Clinical Pharmacology (OCP)
+                                                 Office of Translational Sciences (OTS), CDER, FDA
+
+Statistical Assessment of Empagliflozin          Roberto Crackel, PhD
+Efficacy                                         Statistical Reviewer
+                                                 Division of Biometrics II (DB-II)
+                                                 Office of Biostatistics (OB), OTS, CDER, FDA
+
+Diabetic Ketoacidosis in the Empagliflozin       Mahtab Niyyati, MD
+Type 1 Diabetes Development Program
+
+Statistical Assessment of DKA Risk               Shanti Gomatam, PhD
+                                                 Mathematical Statistician
+                                                 Division of Biometrics VII (DB-VII)
+                                                 OB, OTS, CDER, FDA
+
+Summary of Safety and Efficacy                   Mahtab Niyyati, MD
+
+Clarifying Questions
+
+LUNCH
+
+OPEN PUBLIC HEARING
+
+Questions to the Committee/Committee Discussion
+
+BREAK
+
+Questions to the Committee/Committee Discussion
+
+ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss whether empagliflozin 2.5 mg as an adjunct to insulin provides
+   benefit for adult patients with type 1 diabetes. Discuss your views of the clinical
+   meaningfulness of the small HbA1c reduction as well as other endpoints studied to evaluate
+   benefits of empagliflozin 2.5 mg including body weight and blood pressure.
+
+
+
+                                               Page 4 of 6
+November 13, 2019
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    Committee Discussion: There were differing views among the committee members with
+    regard to the clinical meaningfulness of the reduction in HbA1c. Some of the members
+    agreed that the Applicant was successful in demonstrating clinical meaningfulness of the
+    decrease in hemoglobin A1C (HbA1C) by approximately 0.3%. It was noted that there is a
+    significant unmet need for the T1DM population so even a 0.3% reduction in HbA1c likely
+    provides some incremental benefit on microvascular risk reduction, and is in line with
+    another adjunctive therapy (pramlintide). Some members expressed uncertainties toward the
+    meaningfulness of HbA1c reduction as it was not associated with a reduction in
+    hypoglycemia, and noted the lack of longer term data that would confirm the durability of
+    HbA1c lowering beyond 26 weeks. The single available efficacy trial with the 2.5 mg dose
+    was a concern for the majority of the committee. With regard to other endpoints, many of the
+    committee members noted that empagliflozin’s effects on the other secondary endpoints were
+    marginal and clinically insignificant, such as the small reduction in blood pressure and
+    weight loss. Please see the transcript for details of the committee's discussion.
+
+2. DISCUSSION: Discuss your level of concern about the risk of diabetic ketoacidosis (DKA)
+   with the use of empagliflozin 2.5 mg in type 1 diabetes patients. Discuss your level of
+   confidence in the ability of the available safety database to accurately characterize the DKA
+   risk given the small number of events observed in a single trial that is only 26 weeks in
+   duration. Discuss your level of confidence in the reliability of the adjudication process to
+   assess DKA risk, including the clinical meaningfulness of the adjudication categories, and
+   the applicability of extrapolating risk management in a clinical trial setting to real world use.
+    Committee Discussion: The majority of the committee expressed low confidence in the safety
+    database due to the limitations of the trial design (i.e., small sample size and short duration
+    of exposure). The committee discussed the need for a larger trial consisting of broader
+    endpoints and longer duration of exposure to better characterize the risk of diabetic
+    ketoacidosis (DKA) in a type 1 diabetic population. The committee emphasized that the
+    efforts used to educate patients and to isolate DKA complications early during the trial
+    would be extremely difficult to implement in real-world settings. The committee
+    acknowledged the risk of DKA in the type 1 diabetic population (even with the use of insulin
+    pumps); however, the committee noted that the addition of empagliflozin to a type 1 diabetic
+    regimen can exacerbate the onset of DKA. Some committee members commented that the
+    adjudication process failed to capture all signals of ketosis or DKA that may have presented
+    itself in the trial. Please see the transcript for details of the committee's discussion.
+
+3. DISCUSSION: Discuss the overall benefit/risk profile of empagliflozin 2.5 mg as an adjunct
+   to insulin therapy for the treatment of adult patients with type 1 diabetes. Discuss the
+   sufficiency of the demonstrated benefit(s) in light of the uncertainties around the DKA risk
+   and other risks of the drug.
+
+    Committee Discussion: Most of the committee members expressed uncertainties with the
+    overall benefit to risk profile of empagliflozin 2.5 mg as an adjunct to insulin therapy for the
+    treatment of adult patients with type 1 diabetes. The committee expressed the need for an
+    additional trial of a longer duration and a more sensitive DKA adjudication process to
+    sufficiently capture the efficacy and safety of the product discussed. Although the product
+    demonstrated clinical benefits in the reduction of HbA1C over 6 months, the committee
+
+
+                                               Page 5 of 6
+November 13, 2019
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    argued that the potential risk of DKA overshadows that benefit. The committee agreed that
+    the patient monitoring practices during the trials were the best case scenario, thus the DKA
+    rates shown in the studies will be more pronounced in real-world settings. Please see the
+    transcript for details of the committee's discussion.
+
+4. VOTE: Do the available data suggest that the benefits outweigh the risks and support
+   approval of empagliflozin 2.5 mg, administered orally once daily, as an adjunct to insulin to
+   improve glycemic control in adults with type 1 diabetes mellitus?
+    a. If yes, please explain your rationale and comment on whether any additional studies
+       should be required after approval.
+
+    b. If no, please describe what further data you believe the applicant should provide to
+       establish a favorable benefit risk profile to support approval.
+
+    Vote Result:        Yes: 2          No:     14      Abstain: 0
+
+    Committee Discussion: The majority of the committee voted “No”, indicating that the
+    available data does not suggest that the benefits outweigh the risks and does not support
+    approval of empagliflozin 2.5 mg, administered orally once daily, as an adjunct to insulin to
+    improve glycemic control in adults with type 1 diabetes mellitus. The committee members
+    who voted “No”indicated that the data shown did not suggest that the benefits of
+    empagliflozin 2.5 mg outweighed its risks. The members acknowledged the clinical
+    significance of empagliflozin use in lowering HbA1C by approximately 0.3% and the
+    possible corresponding benefits of that effect if it were maintained and confirmed in a second
+    trial. The committee questioned the durability of this reduction as the Applicant did not
+    provide data supporting glycemic control after 26 weeks. The committee members repeatedly
+    noted concerns with the study design, such as the selectivity of the sample population, the
+    insufficient numbers of participants, missed DKA capturing events and ketosis due to
+    insensitive adjudication, and the short duration of exposure. The committee members
+    recommended an additional longer trial with a larger population, and an adjudication
+    charter with increased sensitivity for capturing clinically significant ketosis and DKA events
+    in order to better characterize the DKA risk and the durability of the HbA1c benefit. The two
+    committee members who voted “Yes” articulated that the data shown was expected and the
+    clinical outcomes were anticipated. These committee members noted that the product can be
+    beneficial to the patient and instrumental to the practitioner with appropriate therapeutic
+    monitoring. Please see the transcript for details of the committee's discussion.
+
+
+The meeting was adjourned at approximately 4:45 p.m.
+
+
+
+
+                                               Page 6 of 6
+

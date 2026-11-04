@@ -1,0 +1,214 @@
+                                Food and Drug Administration
+                           Center for Drug Evaluation and Research
+
+     Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                    March 9, 2023
+
+
+Location: Please note that due to the impact of the COVID-19 pandemic, all meeting participants
+joined this advisory committee meeting via an online teleconferencing platform.
+
+Topic: The committee discussed supplemental biologics license application (BLA) 761121/S-
+008, for POLIVY (polatuzumab vedotin-piiq) for injection, submitted by Genentech, Inc. The
+proposed indication (use) for this product is in combination with a rituximab product,
+cyclophosphamide, doxorubicin, and prednisone for the treatment of adult patients with
+previously untreated diffuse large B-cell lymphoma (DLBCL). This product was approved under
+21 CFR 601.41 (subpart E, accelerated approval regulations) for use in combination with
+bendamustine and a rituximab product for the treatment of adult patients with relapsed or
+refractory DLBCL, not otherwise specified, after at least two prior therapies. Confirmatory
+studies are post-marketing studies to verify and describe the clinical benefit of a product after it
+receives accelerated approval. The new proposed indication is based on the confirmatory study,
+POLARIX (Study GO39942), conducted to fulfill post-marketing requirement 3630-1 detailed in
+the June 10, 2019, approval letter, available at
+https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/761121Orig1s000ltr.pdf. Based
+on the results of the POLARIX study, the committee will discuss the benefit-risk profile of
+POLIVY in patients with previously untreated DLBCL.
+
+These summary minutes for the March 9, 2023 meeting of the ODAC of the Food and Drug
+Administration were approved on May 2 , 2023.
+
+I certify that I attended the March 9, 2023 meeting of the ODAC of the Food and Drug
+Administration and that these minutes accurately reflect what transpired.
+
+
+
+
+___________/s/________________                     ___________/s/______________
+She-Chia Chen, PharmD                              Jorge A. Garcia, MD, FACP
+Designated Federal Officer, ODAC                   Chairperson, ODAC
+
+
+
+
+                                             Page 1 of 5
+March 9, 2023
+Oncologic Drugs Advisory Committee Meeting
+
+        Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                     March 9, 2023
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research met on March 9, 2023. The meeting presentations were
+heard, viewed, captioned, and recorded through an online teleconferencing platform. Prior to the
+meeting, the members and temporary voting members were provided the combined briefing
+materials from the FDA, and Genentech, Inc. The meeting was called to order by Jorge A.
+Garcia, MD, FACP (Chairperson). The conflict of interest statement was read into the record by
+She-Chia Jankowski, PharmD (Designated Federal Officer). There were approximately 1,076
+people online. There was one Open Public Hearing (OPH) speaker presentation.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committee discussed supplemental biologics license application (BLA) 761121/S-
+008, for POLIVY (polatuzumab vedotin-piiq) for injection, submitted by Genentech, Inc. The
+proposed indication (use) for this product is in combination with a rituximab product,
+cyclophosphamide, doxorubicin, and prednisone for the treatment of adult patients with
+previously untreated diffuse large B-cell lymphoma (DLBCL). This product was approved under
+21 CFR 601.41 (subpart E, accelerated approval regulations) for use in combination with
+bendamustine and a rituximab product for the treatment of adult patients with relapsed or
+refractory DLBCL, not otherwise specified, after at least two prior therapies. Confirmatory
+studies are post-marketing studies to verify and describe the clinical benefit of a product after it
+receives accelerated approval. The new proposed indication is based on the confirmatory study,
+POLARIX (Study GO39942), conducted to fulfill post-marketing requirement 3630-1 detailed in
+the June 10, 2019, approval letter, available at
+https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2019/761121Orig1s000ltr.pdf. Based
+on the results of the POLARIX study, the committee will discuss the benefit-risk profile of
+POLIVY in patients with previously untreated DLBCL.
+
+Attendance:
+ODAC Members Present (Voting): Mark Conaway, PhD; Jorge A. Garcia, MD, FACP
+(Chairperson); Ravi A. Madan, MD; Anthony D. Sung, MD; Neil Vasan, MD, PhD
+
+ODAC Members Not Present (Voting): Ranjana H. Advani, MD; Jaffer A. Ajani, MD; Pamela
+L. Kunz, MD; Christopher H. Lieu, MD; David E. Mitchell (Consumer Representative); Jorge J.
+Nieva, MD; Alberto S. Pappo, MD; Ashley Rosko, MD
+
+ODAC Member Present (Non-Voting): Jonathan D. Cheng, MD (Industry Representative)
+
+Temporary Members (Voting): Christopher S. Coffey, PhD, MS; Louis F. Diehl, MD; Kieron
+M. Dunleavy, MD; Sandra Finestone, PsyD (Acting Consumer Representative); Paul V.
+Majkowski, Esq. (Patient Representative); Grzegorz (Greg) S. Nowakowski, MD; Manjunath
+(Amit) Pai, PharmD, FCP; Mikkael A. Sekeres, MD, MS
+
+
+
+                                             Page 2 of 5
+March 9, 2023
+Oncologic Drugs Advisory Committee Meeting
+
+FDA Participants (Non-Voting): Richard Pazdur, MD; Marc R. Theoret, MD; Nicole Gormley,
+MD; Yvette Kasamon, MD; Maryam Yazdy, MD
+
+Designated Federal Officer (Non-Voting): She-Chia Jankowski, PharmD
+
+Open Public Hearing Speaker: Richard Bae
+
+The agenda was as follows:
+
+
+  Call to Order                              Jorge A. Garcia, MD, FACP
+                                             Chairperson, ODAC
+
+  Introduction of Committee and              She-Chia Jankowski, PharmD
+  Conflict of Interest Statement             Designated Federal Officer, ODAC
+
+  FDA Introductory Comments                  Yvette Kasamon, MD
+                                             Clinical Team Leader
+                                             Division of Hematologic Malignancies II (DHM II)
+                                             Office of Oncologic Diseases (OOD)
+                                             Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                    Genentech, Inc.
+
+  Introduction                               Charles Fuchs, MD
+                                             Genentech, Inc.
+
+  DLBCL Background & Unmet Need              Christopher Flowers, MD, MS, FASCO
+                                             M.D. Anderson Cancer Center, Houston
+
+  POLARIX Efficacy & Safety                  Jamie Hirata, PharmD
+                                             Genentech, Inc.
+
+  Clinical Perspective                       Jonathan Friedberg, MD, MMSc
+                                             Wilmot Cancer Institute, University of Rochester
+
+  Closing Remarks                            Charles Fuchs, MD
+                                             Genentech, Inc.
+
+  FDA PRESENTATION
+
+  Polatuzumab Vedotin-piiq                   Maryam Yazdy, MD
+  BLA 761121/Supplement 008                  Clinical Reviewer
+                                             DHM II, OOD, OND, CDER, FDA
+
+  Clarifying Questions to Presenters
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+                                             Page 3 of 5
+March 9, 2023
+Oncologic Drugs Advisory Committee Meeting
+
+
+  Questions to the Committee/Committee Discussion
+
+  ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the benefit-risk profile of polatuzumab vedotin-piiq in combination
+   with a rituximab product, cyclophosphamide, doxorubicin, and prednisone (R-CHP) for the
+   proposed patient population with large B-cell lymphoma (LBCL), including patients with
+   diffused large B-cell lymphoma (DLBCL) not otherwise specified (NOS), considering the
+   results of the POLARIX trial.
+
+    Committee Discussion: The majority of the Committee members agreed that progression-
+    free survival (PFS) was an appropriate primary endpoint in this setting and patient
+    population and that the difference was clinically meaningful. Furthermore, some Committee
+    members noted that the likelihood of minimizing subsequent lines of therapy was a benefit for
+    this patient population. Some Committee members questioned the meaningfulness of the PFS
+    difference and noted the lack of adequate patient-reported outcomes. Some Committee
+    members shared concerns related to the lack of central pathology review and the
+    heterogeneity of the patients treated in this trial. Please see the transcript for details of the
+    Committee’s discussion.
+
+2. DISCUSSION: Based on the results of the POLARIX trial, specifically the overall survival
+   results, discuss whether additional follow-up data from POLARIX should be required to
+   inform the benefit-risk of polatuzumab vedotin-piiq in patients with LBCL in the frontline
+   setting.
+
+    Committee Discussion: Committee members agreed that it would be beneficial to have
+    additional overall survival data. The majority of the Committee members acknowledged that
+    it might not be feasible or practical to obtain survival data in this patient population and
+    setting. Please see the transcript for details of the Committee’s discussion.
+
+3. VOTE: Given the results of the POLARIX trial, does polatuzumab vedotin-piiq have a
+   favorable benefit-risk profile in patients with previously untreated LBCL, including DLBCL
+   NOS?
+
+    Vote Result:        Yes: 11               No: 2           Abstain: 0
+
+    Committee Discussion: The majority of the Committee members voted “Yes”, indicating that
+    polatuzumab vedotin-piiq has a favorable benefit-risk profile in patients with previously
+    untreated LBCL, including DLBCL NOS given the results of the POLARIX trial. These
+    Committee members generally agreed that the difference in the primary endpoint, PFS, was
+    considered clinically meaningful. Some Committee members voted “No”, sharing concerns
+
+
+                                             Page 4 of 5
+March 9, 2023
+Oncologic Drugs Advisory Committee Meeting
+
+    related to the lack of central pathology review and the heterogeneity of the patients treated in
+    this trial. Please see the transcript for details of the Committee’s discussion.
+
+
+The meeting was adjourned at approximately 5:30 p.m. Eastern Time.
+
+
+
+
+                                             Page 5 of 5
+

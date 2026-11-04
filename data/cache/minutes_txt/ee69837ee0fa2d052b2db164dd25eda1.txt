@@ -1,0 +1,217 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+     Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                February 26, 2019
+
+Location: FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.
+1503), 10903 New Hampshire Avenue, Silver Spring, Maryland
+
+Topic: The committee discussed new drug application (NDA) 212306 for selinexor tablets,
+application submitted by Karyopharm Therapeutics Inc. The proposed indication (use) for this
+product is in combination with dexamethasone, for the treatment of patients with relapsed
+refractory multiple myeloma who have received at least three prior therapies and whose disease
+is refractory to at least one proteasome inhibitor, at least one immunomodulatory agent, and an
+anti-CD38 monoclonal antibody.
+
+These summary minutes for the February 26, 2019 Oncologic Drugs Advisory Committee
+(ODAC) meeting of the Food and Drug Administration were approved on March 5, 2019.
+
+I certify that I attended the February 26, 2019 Oncologic Drugs Advisory Committee meeting of
+the Food and Drug Administration and that these minutes accurately reflect what transpired.
+
+
+
+______     /s/_____ ________                     ___________/s/________________
+Lauren D. Tesh, PharmD, BCPS                     Brian I. Rini, MD, FACP
+Designated Federal Officer                       Chairperson
+ODAC                                             ODAC
+
+
+
+
+                                           Page 1 of 5
+  Final Summary Minutes of the Oncologic Drugs Advisory Committee (ODAC) Meeting
+                                 February 26, 2019
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research, met on February 26, 2019, at the FDA White Oak
+Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New Hampshire
+Avenue, Silver Spring, Maryland. Prior to the meeting, the members and temporary voting
+members were provided the briefing materials from the FDA and Karyopharm Therapeutics Inc.
+The meeting was called to order by Brian I. Rini, MD, FACP (Chairperson). The conflict of
+interest statement was read into the record by Lauren D. Tesh, PharmD, BCPS (Designated
+Federal Officer). There were approximately 175 people in attendance. There were seventeen
+(17) Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committee discussed new drug application (NDA) 212306 for selinexor tablets,
+application submitted by Karyopharm Therapeutics Inc. The proposed indication (use) for this
+product is in combination with dexamethasone, for the treatment of patients with relapsed
+refractory multiple myeloma who have received at least three prior therapies and whose disease
+is refractory to at least one proteasome inhibitor, at least one immunomodulatory agent, and an
+anti-CD38 monoclonal antibody.
+
+Attendance:
+
+Oncologic Drugs Advisory Committee Members Present (Voting): Massimo Cristofanilli,
+MD, FACP; Susan Halabi, PhD; Christian S. Hinrichs, MD; Heidi D. Klepin, MD, MS;
+Vassilliki A. Papadimitrakopoulou, MD; Alice T. Shaw, MD, PhD; Brian I. Rini, MD, FACP
+(Chairperson); Thomas S. Uldrick, MD, MS
+
+Oncologic Drugs Advisory Committee Member Present (Non-Voting): Phuong Khanh
+(P.K.) Morrow, MD, FACP (Industry Representative)
+
+Oncologic Drugs Advisory Committee Members Not Present (Voting): Philip C. Hoffman,
+MD; Grzegorz S. Nowakowski, MD; Alberto S. Pappo, MD; Courtney J. Preusse, MA; Gregory
+J. Riely, MD, PhD
+
+Temporary Members (Voting): David Harrington, PhD, MA; Randy W. Hawkins, MD
+(Acting Consumer Representative); Clifton C. Mo, MD; Natalie Compagni Portis, PsyD, MFT
+(Patient Representative); Gita Thanarajasingam, MD
+
+FDA Participants (Non-Voting): Richard Pazdur, MD; Ann Farrell, MD; Nicole Gormley,
+MD; Andrea C. Baines, MD, PhD
+
+Designated Federal Officer (Non-Voting): Lauren D. Tesh, PharmD, BCPS
+
+
+
+
+                                            Page 2 of 5
+February 26, 2019
+Oncologic Drugs Advisory Committee (ODAC) Meeting
+
+Open Public Hearing Speakers: Dan Vogl, MD, MSCE; Cynthia Chmielewski; Robin Tuohy
+on behalf of Aldo Del Col; Jenny Ahlstrom (Myeloma Crowd); Diane Moran (International
+Myeloma Foundation); Deborah Graff; Michael Tuohy; Anne Quinn Young, MPH (Multiple
+Myeloma Research Foundation); Ajay K. Nooka, MD MPH FACP; Sharon Studzienko; Ignacy
+Studzienko; Nashat Y. Gabrail, MD (Gabrail Cancer Center); Michael Walsh; Stephanie Fox-
+Rawlings, PhD (National Center for Health Research); Paul Ahlstrom; Anne Stovell; Robin
+Tuohy
+
+The agenda was as follows:
+
+ Call to Order and Introduction of          Brian I. Rini, MD, FACP
+ Committee                                  Chairperson, ODAC
+
+ Conflict of Interest Statement             Lauren D. Tesh, PharmD, BCPS
+                                            Designated Federal Officer, ODAC
+
+ Introductory Comments                      Nicole Gormley, MD
+                                            Clinical Team Leader
+                                            Division of Hematology Products (DHP)
+                                            Office of Hematology and Oncology Products
+                                            (OHOP)
+                                            Office of New Drugs (OND), CDER, FDA
+
+ APPLICANT PRESENTATIONS                    Karyopharm Therapeutics Inc.
+
+ Introduction                               Tanya Lewis
+                                            Senior Vice President, Global Regulatory Affairs
+                                            Karyopharm Therapeutics
+
+ Unmet Need in                              Paul Richardson, MD
+ Triple-Class-Refractory MM                 Clinical Program Leader and Director of Clinical
+                                            Research
+                                            Jerome Lipper Multiple Myeloma Center
+                                            Dana Farber Cancer Institute
+                                            Boston, Massachusetts
+                                            RJ Corman Professor of Medicine
+                                            Harvard Medical School
+
+ Efficacy                                   Jatin Shah, MD
+                                            Senior Vice President, Clinical Development
+                                            Karyopharm Therapeutics
+
+ Safety                                     Michael Kauffman, MD, PhD
+                                            CEO and Chief Medical Officer
+                                            Karyopharm Therapeutics
+
+
+
+
+                                             Page 3 of 5
+February 26, 2019
+Oncologic Drugs Advisory Committee (ODAC) Meeting
+
+ APPLICANT PRESENTATIONS (CONT.)
+
+ Clinical Perspective                       Sundar Jagannath, MD
+                                            Director of the Multiple Myeloma Program and
+                                            Professor of Medicine The Tisch Cancer Institute
+                                            Mount Sinai, New York
+
+ Conclusion                                 Sharon Shacham, PhD
+                                            President and Chief Scientific Officer
+                                            Karyopharm Therapeutics
+
+ FDA PRESENTATION
+
+ NDA 212306: Selinexor                      Andrea C. Baines, MD, PhD
+                                            Clinical Reviewer
+                                            DHP, OHOP, OND, CDER, FDA
+
+ Clarifying Questions
+
+ BREAK
+
+ OPEN PUBLIC HEARING
+
+ Questions to the Committee/Committee Discussion
+
+ ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss whether the KCP-330-012 (STORM) data are conclusive to allow
+   for an adequate assessment of the safety and efficacy in the proposed patient population, and
+   whether selinexor provides a benefit that outweighs the risks.
+
+   Committee Discussion: A lot of the committee members noted that the data are inconclusive
+   to allow for an adequate assessment of the safety and efficacy in the proposed patient
+   population, and therefore, it was undeterminable whether selinexor provides a benefit that
+   outweighs the risks. One committee member noted that there was a lot of missing data from
+   patients in the STORM study, and that selinexor was not tolerated by many patients as shown
+   by the high frequency of dose modifications and discontinuations. It was also noted that
+   randomized trials are needed when there is significant toxicity associated with a product and
+   tolerability is a concern. There was a thought that dexamethasone may have contributed to
+   some of the benefits seen in the STORM trial. Furthermore, there was discussion that
+   selinexor’s contribution to the treatment effect in the STORM trial could not be determined
+   because of the single arm trial design. However, one committee member noted that patients
+   in the STORM trial are likely steroid refractory and the dose of dexamethasone in the
+   STORM study is lower than what was used historically, and therefore, it is extremely unlikely
+
+
+                                             Page 4 of 5
+February 26, 2019
+Oncologic Drugs Advisory Committee (ODAC) Meeting
+
+   that the 25% response rate was due to dexamethasone alone. It was also noted that an active
+   drug would be expected to result in an improvement in quality of life, which was not clearly
+   demonstrated in the STORM trial, with the caveat that the data collected regarding quality of
+   life/patient-reported outcomes was very limited. Please see the transcript for details of the
+   Committee discussion.
+
+2. VOTE: Should the approval of selinexor be delayed until results of the randomized phase 3
+   trial, BOSTON, are available?
+
+   Vote Result:        Yes: 8         No: 5            Abstain: 0
+
+   Committee Discussion: Eight committee members voted “Yes”, indicating that the approval
+   of selinexor should be delayed until results of the randomized phase 3 trial, BOSTON, are
+   available. These members noted that data from the STORM trial does not meet the FDA
+   regulatory standards needed to prove the safety and effectiveness of selinexor. The five
+   committee members who voted “No” noted that patients need options for this indication and
+   selinexor should be granted accelerated approval now. Please see the transcript for details
+   of the Committee discussion.
+
+   The meeting was adjourned at approximately 5:00 p.m.
+
+
+
+
+                                              Page 5 of 5
+

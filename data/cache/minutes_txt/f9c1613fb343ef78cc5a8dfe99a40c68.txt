@@ -1,0 +1,301 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+
+Final Summary Minutes of the Endocrinologic and Metabolic Drugs Advisory Committee
+                                     Meeting
+
+                                         June 28, 2023
+
+Location: All meeting participants will be joining this advisory committee meeting via an online
+teleconferencing platform.
+
+Topic: The Committee discussed new drug application (NDA) 215559, for palovarotene
+capsules, submitted by Ipsen Biopharmaceuticals, Inc. The proposed indication is the prevention
+of heterotopic ossification in adults and children (females aged 8 years and above and males 10
+years and above) with fibrodysplasia ossificans progressiva.
+
+
+These summary minutes for June 28, 2023 of the Endocrinologic and Metabolic Drugs Advisory
+Committee meeting of the Food and Drug Administration were approved on
+______August 10, 2023______________________.
+
+
+
+
+I certify that I attended the June 28, 2023 meeting of the Endocrinologic and Metabolic Drugs
+Advisory Committee (EMDAC) of the Food and Drug Administration and that these minutes
+accurately reflect what transpired.
+
+
+
+_________/s/_____________________                   __________/s/____________________
+LaToya Bonner, PharmD                               Cecilia C. Low Wang, MD
+Designated Federal Officer, EMDAC                   Chairperson, EMDAC
+
+
+
+
+                                           Page 1 of 6
+June 28, 2023
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+ Final Summary Minutes of the Endocrinologic and Metabolic Drugs Advisory Committee
+                                      Meeting
+                                   June 28, 2023
+
+The Endocrinologic and Metabolic Drugs Advisory Committee (EMDAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research, met on June 28, 2023. The meeting
+presentations were heard, viewed, captioned, and recorded through an online teleconferencing
+platform. Prior to the meeting, the members and temporary voting members were provided the
+briefing materials from the FDA and Ipsen Biopharmaceuticals, Inc. The meeting was called to
+order by Cecilia Low Wang, MD (Chairperson). The conflict of interest statement was read into
+the record by LaToya Bonner, PharmD (Designated Federal Officer). There were approximately
+2891 people online. There was a total of 17 Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda:
+
+The committee will discuss new drug application (NDA) 215559, for palovarotene capsules,
+submitted by Ipsen Biopharmaceuticals, Inc. The proposed indication is the prevention of
+heterotopic ossification in adults and children (females aged 8 years and above and males 10
+years and above) with fibrodysplasia ossificans progressiva.
+
+Attendance:
+
+EMDAC Members Present (Voting): Cecilia C. Low Wang, MD (Chairperson); Elizabeth
+Chrischilles, PhD, MS; Robert Alan Greevy, Jr., PhD; Thomas Wang, MD; and Jack A.
+Yanovski, MD, PhD
+
+EMDAC Members Not Present (Voting): Matthew T. Drake MD, PhD; Rita Kalyani, MD,
+MHS; and Connie Newman, MD
+
+EMDAC Member Present (Non-Voting): Gary Meininger, MD (Industry Representative)
+
+Temporary Members (Voting): Kimberly E. Applegate, MD, MS; Marat Chaikhoutdinov, MD
+(Patient Representative); Christopher S. Coffey, PhD; Tobias Gerhard, BS Pharm, PhD;
+Elizabeth Jones, MD, MPH, MBA; Martha Nason, PhD; Suzanne B. Robotti
+(Acting Consumer Representative); and Thomas J. Weber, MD
+
+FDA Participants (Non-Voting): Lisa Yanoff, MD; Theresa Kehoe, MD; Noreen Cabellon,
+MS; Alexander Cambon, MD; David Carlson, PhD; Po-Yin Chang, PhD; Lydia Haile, PhD; Wei
+Hua, PhD; Feng Li, PhD; Li Li, PhD; Yandong Qiang, MD, PhD; Mark Rothmann MD; Shannon
+Sullivan, MD, PhD; Stephen Voss, MD; and Xiaomeng Xu, PhD.
+
+Designated Federal Officer (Non-Voting): LaToya Bonner, PharmD
+
+
+
+                                               Page 2 of 6
+June 28, 2023
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+Open Public Hearing Speakers Present: Megan Olsen; Miriam Rocke; Hope Newport on
+behalf of Ashley Martucci; Margo Black, RN; Clive Friedman, MD; Erin Danzer; Joseph
+Suchanek; Karen Kirchhoff, MSPT; Alexis Gonzales; Steve Eichner; Suzanne Hollywood;
+Charles Levy, MD; Michelle Davis; Rebecca Wallace on behalf of Candace Hixson; Hope
+Newport on behalf of Suzanne McCloskey; Hope Newport on behalf of Ellen R Elias, MD;
+and Diana Zuckerman (National Center for Health Research).
+
+The agenda was as follows:
+
+  Call to Order                                       Cecilia Low Wang, MD
+                                                      Chairperson, EMDAC
+
+  Introduction of Committee and Conflict of           LaToya Bonner, PharmD
+  Interest Statement                                  Designated Federal Officer, EMDAC
+
+  FDA Opening Remarks                                 Theresa Kehoe, MD
+                                                      Director
+                                                      Division of General Endocrinology (DGE)
+                                                      Office of Cardiology, Hematology, Endocrinology and
+                                                      Nephrology (OCHEN)
+                                                      Office of New Drugs (OND), CDER, FDA
+
+  SPONSOR PRESENTATIONS                               Ipsen Biopharmaceuticals, Inc.
+
+  Introduction                                        Howard Mayer, MD
+                                                      Executive Vice President, Head of Research and
+                                                      Development
+                                                      Ipsen Biopharmaceuticals, Inc.
+
+  Unmet Need in Fibrodysplasia Ossificans             Matthew Brown, MBBS, MD, FRACP, FAA
+  Progressiva (FOP)                                   Professor of Medicine, King’s College London
+                                                      Chief Scientific Officer, Genomics England
+
+  Efficacy                                            Rose Marino, MD
+                                                      Vice President, Clinical Development Rare Disease
+                                                      Ipsen Biopharmaceuticals, Inc.
+
+  Safety and Risk Management Activities               Jennifer Schranz, MD
+                                                      Senior Vice President, Global Head Rare Disease
+                                                      Ipsen Biopharmaceuticals, Inc.
+
+
+  Clinical Perspective                                Edward Hsiao, MD, PhD
+                                                      Professor of Medicine
+                                                      Division of Endocrinology and Metabolism
+                                                      University of California, San Francisco
+
+
+                                               Page 3 of 6
+June 28, 2023
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+
+
+  Clarifying Questions for Sponsor
+  BREAK
+
+  FDA PRESENTATIONS
+
+  Overview of Clinical Studies                        Stephen Voss, MD
+                                                      Clinical Reviewer
+                                                      DGE, OCHEN, OND, CDER, FDA
+
+  Statistical Review                                  Alexander Cambon, PhD
+                                                      Statistical Reviewer
+                                                      Division of Biometrics II, Office of Biostatistics
+                                                      Office of Translational Sciences, CDER, FDA
+
+  Overview of Safety                                  Stephen Voss, MD
+
+  Clarifying Questions for FDA
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee
+  Discussion
+
+  BREAK
+
+  Questions to the Committee/Committee
+  Discussion (cont.)
+
+  ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the evidence of effectiveness for palovarotene in study 301. In your
+   discussion, consider the following:
+
+        a. The use of post hoc analyses to support a demonstration of efficacy
+
+        b. The interpretability of the results using the external control (Natural History Study)
+
+    Committee Discussion: The Committee provided a wide range of input regarding the
+    evidence of effectiveness of palovarotene in study 301. Overall, the members agreed that the
+    pre-specified analyses were flawed and acknowledged the limitations of post-hoc analyses,
+    especially given that they were conducted after unblinding of data. Some of the members
+
+
+                                               Page 4 of 6
+June 28, 2023
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    added that the probability of type I error (false positives) was unknown despite the post-hoc
+    analyses results being statistically significant. Regarding the use of the Natural History
+    Study (NHS) as a control, the members expressed concerns about the differences between the
+    treatment group in Study 301 and the external control, especially those related to age and
+    levels of heterotopic ossification (HO). One member added that the primary reason that post
+    hoc analyses were needed was because the external NHS control and treatment group did not
+    follow the same timing schedule. Another member also expressed their concern with bias
+    being introduced when patients dropped out of the external NHS control to join the Study
+    301 treatment group. A member added that placebo control trials are possible even for rare
+    diseases such as FOP and should have been conducted as recommended by the FDA. Other
+    members stated that, despite these limitations, the use of post-hoc analyses and external NHS
+    control may have been appropriate given the rarity and the challenges of the disease. These
+    members were reassured by the consistently positive results across the Sponsor’s different
+    post hoc analyses as well as the FDA’s independent analyses that demonstrated similar
+    findings. On the other hand, other members expressed concerns with the wide confidence
+    intervals and use of whole-body CT scans and HO volume as a surrogate endpoint for
+    functional status. These members argued that the total treatment effect size (e.g. new HO
+    volume mm/year) is less clinically significant than the location of the HO progression, which
+    impacts quality of life (QOL). Please see the transcript for details of the Committee’s
+    discussion.
+
+2. DISCUSSION: Discuss your view of the flare-up events in subjects treated with the proposed
+   palovarotene dosing regimen and the relevance to benefit-risk considerations. Also comment on
+   whether you have concerns about other safety issues included in the meeting materials and slide
+   presentations or discussed today.
+
+    Committee Discussion: In their discussion of the flare-up events in subjects treated with the
+    proposed dosing regimen and benefit-risk, the Committee highlighted the lack of correlation
+    between flare-ups and HO development. One member hypothesized that the higher number of
+    flare-up events could have stemmed from undercounting in the external NHS control which
+    were monitored every 12 months vs. Study 301 treatment group, which were monitored every
+    6 months. Another member hypothesized that these flareup events could be a side effect of the
+    palovarotene, which is a retinoid agonist. Overall, the majority of the members agreed that
+    the flareup events were less concerning than other observed safety issues such as premature
+    epiphyseal closure (PCC) in patients under 14 years of age as well as reduced vertebral
+    bone mineral density and subsequent vertebral fractures. Some of the members expressed
+    their concern with aggressive therapy, especially in pediatric population, given the
+    additional safety issues. Members were also concerned with potential rebound HO
+    development during palovarotene treatment interruption. One member highlighted that the
+    mean annualized rate of new HO volume per year was observed to be slightly higher in the
+    Study 301 treatment group during treatment interruption in comparison to the untreated NHS
+    control group. Please see the transcript for details of the Committee’s discussion.
+
+3. VOTE: Does the evidence from Study 301 of palovarotene’s treatment effect show the drug is
+   effective in patients with fibrodysplasia ossificans progressiva (FOP)?
+
+        a. Provide the rationale for your vote.
+
+                                               Page 5 of 6
+June 28, 2023
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    Vote Result:        Yes: 10         No: 4            Abstain: 0
+
+    Committee Discussion: The majority of the Committee (10 members) voted “Yes” that the
+    evidence from Study 301 shows palovarotene is effective in patients with FOP. These
+    members stated that, although palovarotene failed to meet its primary endpoint, the post hoc
+    analyses and external control study were consistent and supported evidence of disease
+    management in the treated population. The four members who voted “No” cited insufficient
+    evidence, no symptomatic improvement, statistical design flaws, and inappropriate post-hoc
+    analyses. These members recommended that additional studies be conducted to measure
+    endpoints related to patient function and quality of life. Please see the transcript for details
+    of the Committee’s discussion.
+
+4. VOTE: Do the benefits of palovarotene outweigh its risks for the treatment of patients with
+   FOP?
+
+        a. If you voted yes, provide the rationale for your vote.
+
+        b. If you voted no, provide the rationale for your vote, and provide recommendations for
+           additional data that may support a conclusion that the benefits outweigh the risks.
+
+    Vote Result:        Yes: 11         No: 3            Abstain: 0
+
+    Committee Discussion: The majority of the Committee (11 members) voted “Yes” that the
+    benefits of palovarotene outweigh its risks for the treatment of patients diagnosed with FOP.
+    These members highlighted the rarity and severe nature of FOP as well as the lack of current
+    treatment alternatives. They added that the risk of delaying treatment, with the drug, in favor
+    of gathering more conclusive evidence is outweighed by the need for palovarotene. The
+    members who voted “Yes”, acknowledged that the effectiveness shown by palovarotene was
+    small, but emphasized that these benefits can positively impact the QOL of those affected by
+    this debilitating disorder. They recommended that patient selection criteria be carefully
+    specified to mitigate palovarotene’s safety risks, and clear and comprehensive
+    patient/family-provider discussion occur to ensure risks are communicated. They also
+    recommended monitoring bone mineral density in patients, screening for premature
+    epiphyseal closure in pediatric patients, and creation of a patient registry to better
+    understand the patient population and HO volumes. One member suggested additional
+    consideration of alternative imaging modalities to assess disease status and progression. The
+    three members who voted “No” stated that study 301 did not provide enough evidence of
+    effectiveness in patients with FOP. They recommended that the Applicant conduct additional
+    studies to better characterize what specific patient population (e.g., severity of disease and
+    age) might benefit most from palovarotene. One member suggested a study design with a
+    placebo-controlled withdrawal phase. Please see the transcript for details of the Committee’s
+    discussion.
+
+
+The meeting was adjourned at approximately 5:24 p.m. ET.
+
+
+
+                                                Page 6 of 6
+

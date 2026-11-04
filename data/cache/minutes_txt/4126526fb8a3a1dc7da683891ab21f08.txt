@@ -1,0 +1,328 @@
+                            Food and Drug Administration
+                       Center for Drug Evaluation and Research
+             Summary Minutes of the Oncologic Drugs Advisory Committee
+                                   May 24, 2017
+
+Location: FDA White Oak Campus, 10903 New Hampshire Avenue, Building 31 Conference
+Center, the Great Room (Rm. 1503), , Silver Spring, Maryland.
+
+Topic: During the morning session, the committee discussed the new drug application (NDA)
+208051 for neratinib maleate, an application submitted by Puma Biotechnology, Inc. The
+proposed indication (use) for this product is as a single agent for the extended adjuvant treatment
+of adult patients with early-stage HER2-overexpressed/amplified breast cancer who have
+received prior adjuvant trastuzumab-based therapy. During the afternoon session, the committee
+discussed the new drug application (NDA) 208587 for L-glutamine powder (oral solution),
+submitted by Emmaus Medical, Inc. The proposed indication (use) for this product is for the
+treatment of sickle cell disease.
+
+These summary minutes for the May 24, 2017, meeting of the Oncologic Drugs Advisory
+Committee of the Food and Drug Administration were approved on June 28, 2017.
+
+I certify that I attended the May 24, 2017, meeting of the Oncologic Drugs Advisory Committee
+of the Food and Drug Administration and that these minutes accurately reflect what transpired.
+
+
+
+        ____/S/________________                               ______ _______/S/____________
+  Lauren D. Tesh, PharmD, BCPS                                      Brian I. Rini, MD, FACP
+  Designated Federal Officer, ODAC                                 Acting Chairperson, ODAC
+
+
+
+
+                                            Page 1 of 7
+May 24, 2017
+Oncologic Drugs Advisory Committee Meeting
+
+                                       Summary Minutes
+                          Oncologic Drugs Advisory Committee Meeting
+                                        May 24, 2017
+
+The following is the final report of the Oncologic Drugs Advisory Committee (ODAC) meeting
+held on May 24, 2017. A verbatim transcript will be available in approximately six weeks, sent
+to the Office of Hematology and Oncology Products and posted on the FDA website at:
+https://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/OncologicDrugs
+AdvisoryCommittee/ucm547155.htm
+
+All external requests for the meeting transcript should be submitted to the CDER Freedom of
+Information Office.
+______________________________________________________________________________
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research met on May 24, 2017 at the FDA White Oak Campus,
+10903 New Hampshire Avenue, Building 31 Conference Center, the Great Room (Rm. 1503), ,
+Silver Spring, Maryland. Prior to the meeting, members and temporary voting members were
+provided copies of the briefing materials from the FDA, Puma Biotechnology, Inc (morning
+session) and Emmaus Medical, Inc. (afternoon session). The meeting was called to order by
+Brain I. Rini, MD, FACP (Acting Chairperson); the conflict of interest statement was read into
+the record by Lauren D. Tesh, PharmD, BCPS (Designated Federal Officer). There were
+approximately 175 people in attendance. There were 12 Open Public Hearing speakers for the
+morning session and 7 speakers for the afternoon session.
+
+Issue: During the morning session, the committee discussed the new drug application (NDA)
+208051 for neratinib maleate, an application submitted by Puma Biotechnology, Inc. The
+proposed indication (use) for this product is as a single agent for the extended adjuvant treatment
+of adult patients with early-stage HER2-overexpressed/amplified breast cancer who have
+received prior adjuvant trastuzumab-based therapy. During the afternoon session, the committee
+discussed the new drug application (NDA) 208587 for L-glutamine powder (oral solution),
+submitted by Emmaus Medical, Inc. The proposed indication (use) for this product is for the
+treatment of sickle cell disease.
+
+Attendance:
+ODAC Members Present (Voting): Harold J. Burstein, MD, PhD; Bernard F. Cole, PhD; Heidi
+D. Klepin, MD, MS; Grzegorz S. Nowakowski, MD; Vassilliki A. Papadimitrakopoulou, MD;
+Courtney J. Preusse, MA (Consumer Representative); Gregory J. Riely, MD, PhD; Brian I. Rini,
+MD, FACP (Acting Chairperson); Thomas S. Uldrick, MD, MS
+
+ODAC Members Present (Non-Voting): Phuong Khanh (P.K.) Morrow, MD, FACP (Industry
+Representative)
+
+ODAC Members Not Present (Voting): Alberto S. Pappo, MD; Alice T. Shaw, MD, PhD;
+Bruce J. Roth, MD
+
+
+
+                                             Page 2 of 7
+May 24, 2017
+Oncologic Drugs Advisory Committee Meeting
+
+
+
+Temporary Members (Voting): Ralph B. D’Agostino, Sr., PhD; Courtney Fitzhugh, MD
+(afternoon session only); Stanley Lipkowitz, MD, PhD (morning session only); Michael E.
+Menefee, MD (afternoon session only); Shirley H. Miller, MA (Patient Representative;
+afternoon session only); Lori M. Minasian, MD, FACP (morning session only); Stacy
+Nerenstone, MD (morning session only); Andrew D. Seidman, MD (morning session only);
+Patricia A. Spears, BS (Patient Representative; morning session only); Melanie E. Royce, MD,
+PhD (morning session only)
+
+FDA Participants (Non-Voting): Richard Pazdur, MD; Julia Beaver, MD (morning session
+only); Laleh Amiri-Kordestani, MD (morning session only); Harpreet Singh, MD (morning
+session only); Amanda Walker, MD (morning session only); Joyce Cheng, PhD (morning
+session only); Ann Farrell, MD (afternoon session only); Kathy Robie-Suh, MD, PhD (afternoon
+session only); Rosanna Setse, MD, MPH, PhD; Che Smith, PhD (afternoon session only)
+
+Designated Federal Officer (Non-Voting): Lauren D. Tesh, PharmD, BCPS
+
+Open Public Hearing Speakers for the Morning Session: Stephanie Fox-Rawlings, PhD (National
+Center for Health Research); Kimberly Jewett (Kimberly Jewett Consulting, Inc.); Fern Gerard;
+Michelle D. Barry, Au.D.; Debbie Davis; Leslie Lurie; Andrew Gerard; Kandi Franklin; Allison
+Landherr; Linda D. Bosserman, MD, FASCO, FACP; Kara Kuhns; Jonathan Kuhns
+
+Open Public Hearing Speakers for the Afternoon Session Afternoon Session: Stephanie Fox-
+Rawlings, PhD (National Center for Health Research); Rita Bellevue, MD; Juanita Gougis; Ashley
+Valentine, MRes; Ashley Valentine on behalf of her brother, Marqus Valentine; Mary E. Brown (Sickle
+Cell Disease Foundation of California); Miren Blackwood
+
+The agenda proceeded as follows:
+
+ Morning Session:
+ Call to Order and Introduction of Committee     Brian I. Rini, MD, FACP
+                                                 Acting Chairperson, ODAC
+
+ Conflict of Interest Statement                  Lauren Tesh, PharmD, BCPS
+                                                 Designated Federal Officer, ODAC
+
+ Opening Remarks                                 Laleh Amiri-Kordestani, MD
+                                                 Medical Team Leader, Breast Cancer Group
+                                                 Division of Oncology Products 1 (DOP1)
+                                                 Office of Hematology and Oncology Products
+                                                 (OHOP), Office of New Drugs (OND), CDER, FDA
+
+ APPLICANT PRESENTATIONS                         Puma Biotechnology, Inc.
+
+ Introduction                                    Alan H. Auerbach, MS
+                                                 Chief Executive Officer
+                                                 Puma Biotechnology, Inc.
+
+
+
+                                               Page 3 of 7
+May 24, 2017
+Oncologic Drugs Advisory Committee Meeting
+
+
+ Unmet Clinical Need                           Jose Baselga, MD, PhD
+                                               Physician-in-Chief
+                                               Memorial Sloan Kettering Cancer Center
+
+ Efficacy                                      Alvin Wong, PharmD
+                                               Vice President, Clinical Science and Clinical
+                                               Pharmacology
+                                               Puma Biotechnology, Inc.
+
+ Safety                                        Susan Moran, MD, MSCE
+                                               Vice President, Clinical Development
+                                               Puma Biotechnology, Inc.
+
+ Safety Perspective                            Hope Rugo, MD
+                                               Professor of Breast Oncology
+                                               University of California, San Francisco Medical
+                                               Center
+
+ Clinical Perspective                          Joyce O’Shaughnessy, MD
+                                               Medical Director
+                                               Texas Oncology-Baylor Charles A. Sammons
+                                               Cancer Center
+ FDA PRESENTATIONS
+
+ NDA 208051 – Neratinib                        Harpreet Singh, MD
+                                               Medical Officer
+                                               DOP1, OHOP, OND, CDER, FDA
+
+ FDA Statistical Analysis                      Joyce Cheng, PhD
+                                               Statistical Reviewer
+                                               Division of Biometrics V (DBV)
+                                               Office of Biostatistics (OB)
+                                               Office of Translational Sciences (OTS)
+                                               CDER, FDA
+
+ Safety Results                                Amanda Walker, MD
+                                               Medical Officer
+                                               DOP1, OHOP, OND, CDER, FDA
+
+ Clarifying Questions to the Presenters
+
+ BREAK
+
+ Open Public Hearing
+
+ Questions to the Committee/Committee Discussion
+
+ ADJOURNMENT
+
+
+
+                                             Page 4 of 7
+May 24, 2017
+Oncologic Drugs Advisory Committee Meeting
+
+
+ Afternoon Session:
+
+ Call to Order and Introduction of Committee     Brian I. Rini, MD, FACP
+                                                 Acting Chairperson, ODAC
+
+ Conflict of Interest Statement                  Lauren Tesh, PharmD, BCPS
+                                                 Designated Federal Officer, ODAC
+
+ Opening Remarks                                 Kathy Robie-Suh, MD, PhD
+                                                 Medical Team Leader
+                                                 Division of Hematology Products (DHP)
+                                                 OHOP, OND, CDER, FDA
+
+ APPLICANT PRESENTATIONS                         Emmaus Medical, Inc.
+
+ Introduction                                    Lan T. Tran, MPH
+                                                 Emmaus Medical, Inc.
+
+ The Medical Need to Reduce Sickle Cell          Victor R. Gordeuk, MD
+ Crises                                          Professor of Medicine
+                                                 Division of Hematology and Oncology
+                                                 Director, Comprehensive Sickle Cell Center
+                                                 University of Illinois at Chicago
+
+ Efficacy and Safety                             Yutaka Niihara, MD, MPH
+                                                 Emmaus Medical, Inc.
+
+ Clinical Perspective/Benefit Risk               Wally R. Smith, MD
+                                                 Florence Neal Cooper Smith
+                                                 Professor of Sickle Cell Disease
+                                                 Vice Chair for Research, Division of General
+                                                 Internal Medicine
+                                                 Virginia Commonwealth University
+
+ FDA PRESENTATIONS
+
+ NDA 208587: L-glutamine                         Rosanna Setse, MD, MPH, PhD
+                                                 Medical Officer
+                                                 DHP, OHOP, OND, CDER, FDA
+
+ Statistical Review Considerations               Che Smith, PhD
+                                                 Statistical Reviewer
+                                                 DBV, OB, OTS, CDER, FDA
+
+ Safety                                          Rosanna Setse, MD, MPH, PhD
+
+ Clarifying Questions to the Presenters
+
+ BREAK
+
+
+                                               Page 5 of 7
+May 24, 2017
+Oncologic Drugs Advisory Committee Meeting
+
+ Open Public Hearing
+
+ Questions to the Committee/Committee Discussion
+
+ ADJOURNMENT
+
+
+Questions to the Committee:
+
+MORNING SESSION: neratinib maleate tablets
+APPLICANT: Puma Biotechnology, Inc.
+PROPOSED INDICATION: As a single agent for the extended adjuvant treatment of adult
+                     patients with early-stage HER2-overexpressed/amplified breast
+                     cancer who have received prior adjuvant trastuzumab-based
+                     therapy.
+
+
+1. VOTE: Given the totality of evidence, is the risk-benefit profile of neratinib sufficient to
+   support treatment in the proposed population?
+
+               YES: 14                 NO: 4          ABSTAIN: 0
+
+   Committee Discussion: The committee voted in favor of the risk-benefit profile for the new
+   drug application (NDA) 208051 of neratinib maleate for the proposed indication as a single
+   agent for the extended adjuvant treatment of adult patients with early-stage HER2-
+   overexpressed/amplified breast cancer who have received prior adjuvant trastuzumab-based
+   therapy. Committee members commented that the proposed indication was too broad, with
+   different subsets of patients more responsive to neratinib therapy than others. One committee
+   member noted the need for specific biomarkers or indications that identify who should
+   receive neratinib. Committee members also commented that the data presented by the
+   sponsor and FDA were consistent and demonstrated efficacy. There was concern about the
+   adverse event of diarrhea, but committee members noted that this adverse event was short-
+   lived and manageable. Please see the transcript for details of the committee discussion.
+
+
+
+
+                                             Page 6 of 7
+May 24, 2017
+Oncologic Drugs Advisory Committee Meeting
+
+
+
+AFTERNOON SESSION: L-glutamine powder
+APPLICANT: Emmaus Medical, Inc.
+PROPOSED INDICATION: For the treatment of sickle cell disease (SCD).
+
+
+
+2. VOTE: Based on the available data presented and discussed, is the overall benefit-risk profile of
+   L-glutamine for the treatment of sickle cell disease favorable?
+
+               YES: 10                 NO: 3          ABSTAIN: 0
+
+
+   Committee Discussion: The committee voted in favor of the benefit-risk profile for the new
+   drug application (NDA) 208587 for L-glutamine for the proposed indication of treatment of
+   sickle cell disease. Committee members discussed the clinical need for treatment of this
+   disease. Committee members expressed concern about the sponsor’s effect and study results
+   differential study drop-out rates between treatment groups in the pivotal study supporting the
+   application. There was also discussion about differences in the statistical analytic methods
+   used by the Applicant and FDA. However, the committee noted that the FDA’s and
+   Applicant’s analyses favored the efficacy of the agent, with a modest but consistent benefit.
+   The committee concluded that this benefit had a clinical impact, while presenting low risks
+   for toxicity. Please see the transcript for details of the committee discussion.
+
+   The meeting was adjourned at approximately 4:20 p.m.
+
+
+
+
+                                             Page 7 of 7
+

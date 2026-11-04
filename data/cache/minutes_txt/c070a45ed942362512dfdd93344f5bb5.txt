@@ -1,0 +1,317 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+          Final Summary Minutes of the Anesthetic and Analgesic Drug Products
+                            Advisory Committee Meeting
+                                   October 12, 2018
+
+
+Location: FDA White Oak Campus, Building 31 Conference Center, The Great Room (Rm.
+1503), 10903 New Hampshire Ave, Silver Spring, Maryland.
+
+Topic: The committee discussed new drug application (NDA) 209128, sufentanil sublingual
+tablets, submitted by AcelRx Pharmaceuticals, Inc., for the management of moderate-to-severe
+acute pain severe enough to require an opioid analgesic and for which alternative treatments are
+inadequate, in adult patients in a medically supervised setting. The committee discussed risk-
+benefit considerations and whether this product should be approved.
+
+These summary minutes for the October 12, 2018 meeting of the Anesthetic and Analgesic Drug
+Products Advisory Committee (AADPAC) of the Food and Drug Administration were approved
+on December 7, 2018.
+
+I certify that I attended the October 12, 2018 meeting of the Anesthetic and Analgesic Drug
+Products Advisory Committee of the Food and Drug Administration and that these minutes
+accurately reflect what transpired.
+
+
+
+__________ ___/s/________________                 __________________/s/     _____________
+Moon Hee V. Choi, PharmD                          Kevin Zacharoff, MD, FACIP, FACPE, FAAP
+Designated Federal Officer, AADPAC                Acting Chairperson, AADPAC
+
+
+
+
+                                            Page 1 of 7
+October 12, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Meeting
+
+           Final Summary Minutes of the Anesthetic and Analgesic Drug Products
+                             Advisory Committee Meeting
+                                    October 12, 2018
+
+The Anesthetic and Analgesic Drug Products Advisory Committee (AADPAC) of the Food and
+Drug Administration, Center for Drug Evaluation and Research met on October 12, 2018, at the
+FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903
+New Hampshire Avenue, Silver Spring, Maryland. Prior to the meeting, the members and
+temporary voting members were provided the briefing materials from the FDA and AcelRx
+Pharmaceuticals, Inc. The meeting was called to order by Kevin Zacharoff, MD, FACIP,
+FACPE, FAAP (Acting Chairperson). The conflict of interest statement was read into the record
+by Moon Hee Choi, PharmD (Designated Federal Officer). There were approximately 95 people
+in attendance. There were nine Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committee discussed new drug application (NDA) 209128, sufentanil sublingual
+tablets, submitted by AcelRx Pharmaceuticals, Inc., for the management of moderate-to-severe
+acute pain severe enough to require an opioid analgesic and for which alternative treatments are
+inadequate, in adult patients in a medically supervised setting. The committee discussed risk-
+benefit considerations and whether this product should be approved.
+
+Attendance:
+Anesthetic and Analgesic Drug Products Advisory Committee Members Present (Voting):
+Ronald S. Litman, DO, ML; Abigail B. Shoben, PhD; Kevin L. Zacharoff, MD, FACIP, FACPE,
+FAAP (Acting Chairperson); Lonnie Zeltzer, MD
+
+Anesthetic and Analgesic Drug Products Advisory Committee Member Present (Non-
+Voting): W. Joseph Herring, MD, PhD (Industry Representative)
+
+Anesthetic and Analgesic Drug Products Advisory Committee Members Not Present
+(Voting): Brian T. Bateman, MD, MSc; Raeford E. Brown, Jr., MD, FAAP (Chairperson);
+Basavana G. Goudra, MD, FRCA, FCARSCI; Mary Ellen McCann, MD, MPH
+
+Temporary Members (Voting): Michael Fischer, MD, MS; Jennifer Higgins, PhD (Acting
+Consumer Representative); Alan Kaye, MD, PhD; Steven B. Meisel, PharmD, CPPS; Joseph P.
+O'Brien, MBA (Patient Representative); Marjorie Shaw Phillips, MS, RPh, FASHP, CIP;
+Gregory Terman, MD, PhD; Terri L. Warholak, PhD, RPh, CPHQ, FAPhA; Jacqueline A.M.
+Willacy, RN
+
+FDA Participants (Non-Voting): Sharon Hertz, MD; Janet Maynard, MD, MHS; Ning Hu,
+MD, MS; Cynthia LaCivita, PharmD; Irene Chan, PharmD, BCPS
+
+Designated Federal Officer (Non-Voting): Moon Hee V. Choi, PharmD
+
+
+
+
+                                                Page 2 of 7
+October 12, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Meeting
+
+Open Public Hearing Speakers: Timothy Ekola, BSPharm, PharmD; Mike Ritter,MD,
+FACEP; Fredrick H. Bender, PharmD; Maria Foy, PharmD; Harold S. Minkowitz, MD; Meena
+M. Aladdin, MS, PhD (Public Citizen Foundation); Jacob Hutchins, MD; Lynn Webster, MD;
+Varuna Srinivasan, MBBS, MPH (National Center for Health Research)
+
+The agenda was as follows:
+
+ Call to Order and Introduction of             Kevin Zacharoff, MD, FACIP, FACPE, FAAP
+ Committee                                     Acting Chairperson, AADPAC
+
+ Conflict of Interest Statement                Moon Hee V. Choi, PharmD
+                                               Designated Federal Officer, AADPAC
+
+ FDA Opening Remarks                           Sharon Hertz, MD
+                                               Director, Division of Anesthesia, Analgesia, and
+                                               Addiction Products (DAAAP)
+                                               Office of Drug Evaluation II (ODE-II)
+                                               Office of New Drugs (OND), CDER, FDA
+
+ APPLICANT PRESENTATIONS                       AcelRx Pharmaceuticals, Inc.
+
+ Introduction/Overview of DSUVIA               Pamela Palmer, MD, PhD
+                                               Chief Medical Officer
+                                               AcelRx Pharmaceuticals, Inc.
+
+ Unmet Need                                    James Miner, MD
+                                               Chief of Emergency Medicine
+                                               Hennepin County Medical Center
+
+ Clinical Pharmacology of Sublingual           Dennis Fisher, MD
+ Sufentanil                                    Founder
+                                               P Less Than Pharmacometric Consulting
+                                               Professor (Emeritus), Department of Anesthesia
+                                               University of California, San Francisco
+
+ Efficacy                                      Pamela Palmer, MD, PhD
+
+ Safety                                        Neil Singla, MD
+                                               Chief Scientific Officer
+                                               Lotus Clinical Research, LLC
+
+ Benefit/Risk Conclusion                       Pamela Palmer, MD, PhD
+
+ Clarifying Questions
+
+ BREAK
+
+
+
+                                                Page 3 of 7
+October 12, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Meeting
+
+ FDA PRESENTATIONS
+
+ Introduction and Review of Clinical           Ning Hu, MD, MS
+ Safety and Efficacy                           Clinical Reviewer
+                                               DAAAP, ODE-II, OND, CDER, FDA
+
+ Human Factors Evaluation                      Otto L. Townsend, PharmD
+                                               Team Leader
+                                               Division of Medication Error Prevention and
+                                               Analysis
+                                               Office of Medication Error Prevention and Risk
+                                               Management (OMEPRM)
+                                               Office of Surveillance and Epidemiology (OSE)
+                                               CDER, FDA
+
+ Risk Evaluation and Mitigation                LaShaun Washington-Batts, PharmD
+ Strategies (REMS) Considerations              Reviewer
+                                               Division of Risk Management
+                                               OMEPRM, OSE, CDER, FDA
+
+ Benefit/Risk Considerations                   Ning Hu, MD, MS
+
+ Clarifying Questions
+
+ LUNCH
+
+ OPEN PUBLIC HEARING
+
+ Charge to the Committee                       Sharon Hertz, MD
+
+ Questions to the Committee/Committee Discussion
+
+ BREAK
+
+ Questions to the Committee/Committee Discussion
+
+ ADJOURNMENT
+
+Questions to the Committee:
+
+    1. DISCUSSION: Discuss whether the data are adequate to support a finding of efficacy
+       for sufentanil sublingual tablets 30 mcg for the proposed indication: the management of
+       moderate-to-severe acute pain severe enough to require an opioid analgesic and for which
+       alternative treatments are inadequate, in adult patients in a medically supervised setting.
+
+
+
+
+                                                Page 4 of 7
+October 12, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Meeting
+
+        Committee Discussion: The majority of the committee members stated that the data
+        supported the finding that sufentanil sublingual tablets 30 mcg are effective in the
+        treatment of pain when compared to placebo. Several committee members added that
+        this medication would be beneficial in treating acute pain for patients without
+        intravenous access or those patients who are unable to swallow. However, several other
+        committee members raised concerns regarding the lack of active comparator efficacy
+        studies with existing opioid and non-opioid standards of care. Some committee members
+        added that the median peak onset of action of one hour is relatively slow for the
+        treatment of acute breakthrough pain and may not represent a significant advantage over
+        existing treatments. One committee member expressed concerns with the lack of ability to
+        titrate due to the fixed dosing scheme and the inability to make dose adjustments based
+        on a patient’s weight. Please see the transcript for details of the committee discussion.
+
+    2. DISCUSSION: Based on the available safety data, discuss any concerns you may have
+       about the safety profile of sufentanil sublingual tablets 30 mcg.
+
+        Committee Discussion: Several committee members expressed concern with the lack of
+        safety data in elderly patients as the patients in the study were mostly younger patients.
+        One committee member added that elderly patients generally have decreased weight and
+        drug clearance so use of sufentanil should be limited to patients under 65 years of age if
+        approved. Other committee members expressed concern that the proposed fixed dosing
+        scheme does not recommend dosing adjustments based on weight or age. One committee
+        member disagreed by stating that sufentanil was not any more dangerous than other
+        stronger medications that is given intravenously. Some committee members raised concern
+        with the one-hour dosing interval for this medication, with one committee member noting
+        how labor intensive it would be for nursing staff to administer, document administration,
+        and monitor the patient hourly. Some committee members noted the issue of not being able
+        to give intravenous naloxone to reverse any potential overdose. Please see the transcript
+        for details of the committee discussion.
+
+    3. DISCUSSION: Discuss whether data from the human factors studies and the clinical
+       trials support the safe and effective use of the proposed product administered by
+       healthcare professionals in certified settings such as hospitals, emergency departments,
+       and surgical centers. In your discussion, consider whether the REMS proposed by FDA
+       can be expected to mitigate the risks associated with dropped sufentanil tablets and
+       including the risk of accidental exposure.
+
+        Committee Discussion: Overall, the committee members agreed that the proposed
+        product and dispensing system is safe and effective for use by healthcare professionals in
+        certified settings such as hospitals, emergency departments, and surgical centers. The
+        committee members agreed that dropped tablets are unlikely with the proposed delivery
+        system and if dropped tablets did occur, it would not likely pose a threat to children or
+        animals in the proposed usage settings. Overall, the committee members agreed with
+        and supported the FDA’s proposed REMS program for sufentanil sublingual tablets 30
+        mcg. However, one committee member expressed concern with the REMS requirement
+        that every hospital must proactively educate nurses who will be administering this
+
+
+
+                                                Page 5 of 7
+October 12, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Meeting
+
+        medication as the logistics of conducting this type of training within a large healthcare
+        system would be challenging. Please see the transcript for details of the committee
+        discussion.
+
+    4. DISCUSSION: Discuss any concerns you may have regarding the abuse or misuse of
+       sufentanil sublingual tablets and whether, based on the available data, the benefits to
+       patients are expected to outweigh public health risks related to abuse, misuse, and
+       accidental exposure.
+
+        Committee Discussion: Overall, the committee members agreed that the benefits
+        associated with sufentanil sublingual tablets outweighs the risks. Some committee
+        members found it difficult to compare public health risk and its benefit as the study was
+        performed only in hospital settings. Several committee members agreed that the abuse
+        potential for this medication was evaluated to be similar to other Schedule II opioid
+        medications. Other committee members stated that having a REMS program associated
+        with this medication and its limited use in healthcare settings will further decrease the
+        incidence and potential for abuse. One committee member stated that the abuse potential
+        for this medication is likely lower than that of other controlled substances due to its unit-
+        dose packaging and delivery system. However, several committee members expressed
+        concern that if approved, sufentanil may eventually find use outside of healthcare settings
+        and could potentially lead to inadvertent overdosing by patients due to improper timing
+        of doses and dose-stacking. Please see the transcript for details of the committee
+        discussion.
+
+    5. VOTE: Overall, do the benefits of sufentanil sublingual tablets 30 mcg with the REMS
+       proposed by FDA outweigh the risks for the management of moderate-to-severe acute
+       pain severe enough to require an opioid analgesic and for which alternative treatments are
+       inadequate, in adult patients in a medically supervised setting, supporting approval of
+       sufentanil sublingual tablets 30 mcg?
+
+        Vote Result:            Yes:     10              No:        3   Abstain:     0
+
+        Committee Discussion: The majority of the committee members agreed that the benefits
+        of sufentanil sublingual tablets 30 mcg with the REMS proposed by FDA outweigh the
+        risks for the management of moderate-to-severe acute pain severe enough to require an
+        opioid analgesic and for which alternative treatments are inadequate, in adult patients in
+        a medically supervised setting. The committee members who voted “Yes” agreed that
+        the presented data clearly showed efficacy in the treatment of acute moderate to severe
+        pain. Some committee members added that the novel sublingual dosage form of this
+        medication would fill an unmet medical need in terms of pain relief for patients without
+        intravenous access, unable to swallow, or in certain military settings. One committee
+        member stated that introducing this opioid medication to the market would pose minimal
+        risk for abuse and diversion due to the proposed REMS program and limitation to use in
+        healthcare settings only. Another committee member added that the lack of intravenous
+        access for naloxone administration is a negligible concern since we administer many
+        other oral opioids without intravenous access for naloxone administration. The
+
+
+
+                                                Page 6 of 7
+October 12, 2018
+Anesthetic and Analgesic Drug Products Advisory Committee Meeting
+
+        committee members who voted “No” stated that there is lack of proven efficacy and
+        necessity within the inpatient setting. These committee members agreed that the
+        proposed patient population must be narrowed and more specifically defined. One
+        committee member added that sufentanil would be the first opioid medication that does
+        not have a direct conversion to morphine equivalents. Another committee member stated
+        that the onset for this medication is too slow for the proposed indication of moderate-to-
+        severe acute pain. Please see the transcript for details of the committee discussion.
+
+The meeting was adjourned at approximately 3:02 p.m.
+
+
+
+
+                                                Page 7 of 7
+

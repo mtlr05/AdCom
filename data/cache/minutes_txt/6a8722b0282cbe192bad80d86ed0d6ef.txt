@@ -1,0 +1,329 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+          Final Summary Minutes of the Endocrinologic and Metabolic Drugs
+                          Advisory Committee Meeting
+                                January 17, 2019
+
+
+
+Location: The FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.
+1503), 10903 New Hampshire Avenue, Silver Spring, Maryland.
+
+Topic: The Committee will discuss new drug application 210934 for sotagliflozin oral tablet,
+sponsored by Sanofi-Aventis U.S., LLC, for the proposed indication: Adjunct to insulin therapy
+to improve glycemic control in adults with type 1 diabetes mellitus.
+
+These summary minutes for the January 17, 2019 meeting of the Endocrinologic and Metabolic
+Drugs Advisory Committee of the Food and Drug Administration were approved on
+ February 21, 2019.
+
+I certify that I attended the January 17, 2019 meeting of the Endocrinologic and Metabolic Drugs
+Advisory Committee of the Food and Drug Administration and that these minutes accurately
+reflect what transpired.
+
+
+
+                                                               /s/
+__________/s/
+            _________________                    __________ ________________
+LaToya Bonner, PharmD                            Peter Wilson, MD
+Designated Federal Officer, EMDAC                Chairperson, EMDAC
+
+
+
+
+                                           Page 1 of 7
+            Final Summary Minutes of the Endocrinologic and Metabolic Drugs
+                            Advisory Committee Meeting
+                                   January 17, 2019
+
+The Endocrinologic and Metabolic Drugs Advisory Committee (EMDAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research met on January 17, 2019, at the FDA
+White Oak Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New
+Hampshire Avenue, Silver Spring, Maryland. Prior to the meeting, the members and temporary
+voting members were provided the briefing materials from the FDA and sanofi-aventis, U.S.,
+LLC. The meeting was called to order by Peter Wilson, MD (Chairperson). The conflict of
+interest statement was read into the record by LaToya Bonner, PharmD (Designated Federal
+Officer). There were approximately 300 people in attendance. There were 19 Open Public
+Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The Committee discussed new drug application 210934 for sotagliflozin oral tablet,
+sponsored by sanofi-aventis U.S., LLC, for the proposed indication: adjunct to insulin therapy to
+improve glycemic control in adults with type 1 diabetes mellitus.
+
+Attendance:
+EMDAC Members Present (Voting): Michael Blaha, MD, MPH; Daniel Budnitz, MD, MPH;
+Kenneth D. Burman, MD; James de Lemos, MD; Susan S. Ellenberg, PhD; Cecilia C. Low
+Wang, MD; Anna McCollister-Slipp (Consumer Representative); Peter W.F. Wilson, MD
+(Chairperson); Marvin A. Konstam, MD
+
+EMDAC Member Present (Non-Voting): Reshma Kewalramani, MD, FACC (Industry
+Representative)
+
+EMDAC Members Not Present (Voting): Thomas J. Weber, MD; Susan Z. Yanovski, MD
+
+Temporary Members (Voting): Rebecca Brown, MD; Susan Lellock (Patient Representative);
+Kashif M. Munir, MD; Martha Nason, PhD; Connie Newman, MD, FACP, FAHA, FAMWA;
+Abigail B. Shoben, PhD; Jack A. Yanovski, MD, PhD
+
+FDA Participants (Non-Voting): Kiya Hamilton, PhD; Mitra Rauschecker, MD; Mary Thanh
+Hai, MD; Lisa Yanoff, MD
+
+Designated Federal Officer (Non-Voting): LaToya Bonner, PharmD
+
+Open Public Hearing Speakers: Sidney M. Wolfe, MD (Public Citizen)); Anne Peters, MD;
+Stephanie Fox-Rawlings, PhD (National Center for Health Research); Sanjoy Dutta, PhD (JDRF
+International); William Keller; Claire Pegg; Kristine Whitney; Satish Garg, MD; William T.
+Cefalu, MD (American Diabetes Association); Margot Carr; Christina Roth (College Diabetes
+Network); Helena Rodbard, MD; Charles Alexander, MD; Anna Carracher and Brian Levine
+
+
+
+                                            Page 2 of 7
+January 17, 2019
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+(Close Concerns); Kelly Close (diaTribe); Erik Shoger (on behalf of Keaton Stoner) (dQ&A);
+Todd Hunt; Emily Fitts; Anna Norton
+____________________________________________________________________________
+
+The agenda was as follows:
+
+Call to Order and Introduction of                Peter Wilson, MD
+Committee                                        Chairperson, EMDAC
+
+Conflict of Interest Statement                   LaToya Bonner, PharmD
+                                                 Designated Federal Officer, EMDAC
+
+FDA Introductory Remarks                         Lisa Yanoff, MD
+                                                 Director (Acting)
+                                                 Division of Metabolism and Endocrinology Products
+                                                 (DMEP), Office of Drug Evaluation II (ODE-II)
+                                                 Office of New Drugs (OND), CDER, FDA
+
+APPLICANT PRESENTATIONS                          sanofi-aventis, U.S., LLC
+
+Introduction                                     Rene Belder, MD
+                                                 Vice President
+                                                 Diabetes and Cardiovascular Clinical Development
+                                                 Sanofi
+
+Unmet Medical Needs in                           Steven Edelman, MD
+Adults with Type 1 Diabetes                      Clinical Professor of Medicine
+                                                 University of California San Diego School of Medicine
+
+Clinical Efficacy Results                        Pablo Lapuerta, MD
+                                                 Executive Vice President and Chief Medical Officer
+                                                 Lexicon Pharmaceuticals
+
+Clinical Safety Results                          Klaus Jensen, MD
+                                                 Head of Diabetes, Cardiovascular and Metabolism
+                                                 Development
+                                                 Sanofi
+
+Clinical Perspective                             Juan Pablo Frias, MD
+                                                 Medical Director and Principal Investigator
+                                                 National Research Institute
+
+Benefit / Risk                                   Rene Belder, MD
+
+Clarifying Questions to Applicant
+
+
+
+
+                                               Page 3 of 7
+January 17, 2019
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+FDA PRESENTATIONS
+
+Overview of the Clinical Pharmacology and        Mitra Rauschecker, MD
+Development Program for Sotagliflozin            Acting Team Leader
+                                                 DMEP, ODE-II, OND, CDER, FDA
+
+Statistical Assessment of Sotagliflozin          Kiya Hamilton, PhD
+Efficacy                                         Statistical Reviewer
+                                                 Division of Biometrics II, Office of Biostatistics (OB)
+                                                 Office of Translational Sciences (OTS), CDER, FDA
+
+Diabetic Ketoacidosis in the Sotagliflozin       Mitra Rauschecker, MD
+Clinical Development Program
+
+Diabetic Ketoacidosis in Type 1 Diabetes         Christine Chamberlain, PharmD, CDE
+Mellitus Patients Using a Sodium-glucose Co-     Safety Evaluator
+transporter 2 Inhibitor: Postmarketing           Division of Pharmacovigilance I
+Experience                                       Office of Pharmacovigilance and Epidemiology (OPE)
+                                                 Office of Surveillance and Epidemiology (OSE)
+                                                 CDER, FDA
+
+Sentinel Analysis of SGLT2 Inhibitor Use in      Christian Hampp, PhD, FISPE
+Patients with Type 1 Diabetes Mellitus and       Master Reviewer Epidemiologist
+Rates of Diabetic Ketoacidosis                   Division of Epidemiology I
+                                                 OPE, OSE, CDER, FDA
+
+Summary of FDA Findings for Sotagliflozin        Mitra Rauschecker, MD
+
+Clarifying Questions to FDA
+
+LUNCH
+
+OPEN PUBLIC HEARING
+
+Questions to the Committee/Committee Discussion
+
+BREAK
+
+Questions to the Committee/Committee Discussion
+
+ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the benefits claimed by the applicant, e.g. glycemic control, effects
+   on body weight and risk for hypoglycemia, for patients with type 1 diabetes. Comment on the
+   strength of the statistical evidence and clinical meaningfulness of each of these claimed
+   benefits.
+
+
+
+                                               Page 4 of 7
+January 17, 2019
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    Committee Discussion: The committee members questioned the clinical relevance of the
+    modest reduction of hemoglobin A1c (HbA1c) shown with the use of sotagliflozin, but
+    acknowledged that the insulin dose optimization period may have limited that reduction. One
+    committee member noted that since it is unknown what the absolute risk reduction associated
+    with HbA1c reductions is, we don’t know how to interpret the benefit with regard to
+    prevention of diabetic related comorbidities, specifically microvascular diseases, e.g.
+    retinopathy, nephropathy. It was also noted that the moderate effects on HbA1c may not fully
+    capture the benefits of sotagliflozin but the “time in range” might be a better assessment to
+    support benefit, even though there are no current validated outcomes on “time in range” and
+    glycemic variability. The committee noted that diabetes drug development programs could be
+    enhanced by additional validated clinical outcome measures or biomarkers. The committee
+    also discussed that the sotagliflozin development program lacked adequate quality of life
+    (QOL) measurements that would have provided data on how the patients felt during the trial.
+    One committee member also noted that the degree of weight loss (5%) was small and would
+    not be considered clinically relevant for an obesity drug. Please see the transcript for details
+    of the Committee discussion.
+
+2. DISCUSSION: Discuss your level of concern about the observed risk of diabetic ketoacidosis
+   (DKA) in adult patients in the sotagliflozin clinical studies and DKA risk associated with
+   sotagliflozin use in a real-world setting.
+
+    Committee Discussion: Overall, the committee members expressed great concern about the
+    observed risk of diabetic ketoacidosis (DKA) in the phase 3 studies. Some members stated
+    that DKA could be manageable with proper education and strategic monitoring. However,
+    other members were concerned, citing the number of observed DKA events relative to
+    placebo in the phase 3 studies and the probability that the risk could be even higher in the
+    real-world setting outside the confines of a clinical trial. The committee members noted that
+    there was no evidence the risk mitigation strategy proposed by the applicant works. One
+    committee member stressed that it was imperative for the applicant to propose a successful
+    risk mitigation strategy that involves education to patients and their providers prior to the
+    approval of sotagliflozin. Please see the transcript for details of the Committee discussion.
+
+3. DISCUSSION: Comment on any relevant differences in efficacy and/or safety observed
+   between the two proposed doses of sotagliflozin (200 mg and 400 mg). In your discussion
+   please consider the clinical pharmacology data as well as clinical trial data, i.e. improvement
+   in glycemic control and risk for DKA.
+
+    Committee Discussion: Several committee members commented that there was no
+    meaningful difference in glycemic control in the data shown for the two proposed doses, and
+    that the 400 mg dose did not show clinical superiority to the 200 mg dose. In addition, those
+    members in favor of the 200 mg dose expressed reluctance to recommend approval of the
+    400 mg dose due to its association with increased incidences of DKA, genital mycotic
+    infections, and osmotic diarrhea. In contrast, other members acknowledged the increased
+    rate of DKA amongst the patients administered 400 mg, but also noted clinical improvements
+    in these patients, such as increase number of subjects who achieve “time in range”, weight
+    loss, and blood pressure reduction when administered sotagliflozin 400 mg as an adjunct to
+    insulin therapy when compared to insulin alone. Overall, the committee agreed that further
+
+
+                                               Page 5 of 7
+January 17, 2019
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    studies are needed, like an evaluation of a titration approach to the dosing regimen. Please
+    see the transcript for details of the Committee discussion.
+
+4. DISCUSSION: Discuss the overall benefit risk profile of sotagliflozin for patients with type
+   1 diabetes. What specific benefits and risks did you consider; what was your approach and
+   rationale for how they were weighed against each other? Specifically comment on the
+   composite endpoint used by the applicant (HbA1c<7% with no episodes of severe
+   hypoglycemia or diabetic ketoacidosis) to represent net benefit. If you would recommend an
+   alternative strategy, please explain your rationale.
+
+    Committee Discussion: The committee acknowledged the anecdotal evidence of improved
+    outcomes with use of sotagliflozin as an adjunct to insulin therapy from the patient
+    testimonies during the Open Public Hearing portion of the meeting. Although convincing, the
+    committee members voiced their disappointment on the lack of quantitative measures
+    supporting the testimonials given. The committee expressed concerns regarding the approval
+    of sotagliflozin due to the DKA risk, and lack of clarity with regard to favorable benefits to
+    balance against this substantial risk. In addition, the committee agreed that the primary
+    composite endpoint data used by the applicant was not informative to weigh the increased
+    risk of a life-threatening event against the benefit. One member commented that there was
+    only a net harm without a convincing risk mitigation strategy proposed by the applicant, and
+    the applicant should propose an acceptable risk mitigation strategy tested within the context
+    of a clinical trial. Another member suggested that this may be a regimen suited for a select
+    group of patients in which the patient and prescriber would discuss the trade-offs for the use
+    of this drug, e.g. quality of life (QOL) versus the risk of DKA. Please see the transcript for
+    details of the Committee discussion.
+
+5. VOTE: Do the available data suggest that the benefits outweigh the risks and support
+   approval of sotagliflozin, administered orally once daily, as an adjunct to insulin to improve
+   glycemic control in adults with type 1 diabetes mellitus?
+
+    Vote Result:        Yes: 8          No: 8            Abstain: 0
+
+    a. If yes, comment on whether you recommend any labeling restrictions, whether any
+       additional studies should be required after approval, and comment on whether your vote
+       indicates support for both proposed doses of sotagliflozin (200 mg and 400 mg).
+
+    b. If no, please describe your rationale and what further studies you believe the applicant
+       should conduct to establish a favorable benefit risk profile to support approval.
+
+    Committee Discussion: The committee vote was split on whether the available data suggest
+    that the benefits outweigh the risks and support approval of sotagliflozin, administered orally
+    once daily, as an adjunct to insulin to improve glycemic control in adults with type 1 diabetes
+    mellitus. The committee members who voted “yes” suggested that this drug product may be
+    patient-to-provider specific. They agreed that prior to prescribing the medication, the patient
+    should be well informed of the risk and strict monitoring methods should be implemented to
+    support drug safety and efficacy. Those who voted “yes” also agreed that a post-marketing
+
+
+
+                                                Page 6 of 7
+January 17, 2019
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    trial to assess the benefits versus risk on a larger and diverse population should be
+    implemented. Also, these committee members encouraged the FDA to utilize the applicant’s
+    risk management plan as a starting point for discussions with the applicant on risk
+    mitigation strategies. One committee member indicated that sotagliflozin could be viewed
+    similarly to insulin pumps, which were approved with a known risk of DKA. Some of the
+    committee members who voted “yes” noted that only the 200 mg dose should be approved
+    due to data showing the 400 mg dose associated with an increase of DKA in patients with
+    type 1 diabetes mellitus, while others abstained or commented that both doses should be
+    approved since they were both studied in the clinical trials.
+
+    Those who voted “no” noted that although innovative therapies for patients with type 1
+    diabetes are needed, there is a concerning risk of DKA, and the applicant did not
+    demonstrate sufficient data to support benefit beyond modest reductions in HbA1c, and has
+    not shown data supporting ketone monitoring or other risk mitigation strategies to be
+    effective in mitigating DKA risk. These committee members were also concerned that the risk
+    of DKA would be higher in the real world. Please see the transcript for details of the
+    Committee discussion.
+
+
+    The meeting was adjourned at approximately 4:54 p.m.
+
+
+
+
+                                               Page 7 of 7
+

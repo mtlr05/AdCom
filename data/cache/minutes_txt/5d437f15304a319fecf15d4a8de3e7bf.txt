@@ -1,0 +1,168 @@
+                                                                                                1
+
+
+                          Food and Drug Administration
+                   Center for Biologics Evaluation and Research
+                              SUMMARY MINUTES
+       181st VACCINES AND RELATED BIOLOGICAL PRODUCTS ADVISORY
+                                  COMMITTEE
+                                   May 18, 2023
+
+
+ Committee Members                                      Temporary Voting Members
+ Hana El Sahly, M.D., Chair                             Kevin Ault, M.D.
+ Adam Berger, Ph.D.                                     Daniel Feikin, M.D., M.S.P.H.
+ Henry Bernstein, D.O., MHCM, FAAP                      CAPT Meredith McMorrow, M.D., M.P.H., FAAP
+ Archana Chatterjee, M.D., Ph.D.+                       Saad Omer, M.B.B.S., M.P.H., Ph.D., FIDSA
+ CAPT Amanda Cohn, M.D.
+ Hayley Gans, M.D.+                                     Speakers and Guest Speakers
+ Holly Janes, Ph.D.                                     Helen Chu, M.D., M.P.H. (University of
+ CAPT David Kim, M.D.                                   Washington)
+ Arnold Monto, M.D.                                     Katherine Fleming-Dutra, M.D. (CDC)
+ Paul Offit, M.D.                                       Natalie Thornburg, Ph.D. (CDC)
+ Steven Pergam, M.D., M.P.H., FIDSA
+ Stanley Perlman, M.D., Ph.D.+                          FDA Participants
+ Jay Portnoy, M.D.* (Consumer Representative)           Peter Marks, M.D., Ph.D. (CBER/Director)
+ Eric Rubin, M.D. Ph.D.+                                David C. Kaslow, M.D. (Speaker) (OVRR/Director)
+ Andrea Shane, M.D., M.P.H., M.Sc.+                     Joseph Toerner, M.D., M.P.H. (OVRR)
+                                                        Sudhakar Agnihothram, B. Pharm., Ph.D.
+ Industry Representative                                Goutam Sen, Ph.D. (Speaker)
+ Paula Annunziato, M.D. ***+                            Yugenia Hong-Nguyen, M.D. (Speaker)
+ Gregg Sylvester, M.D., M.PH. (Alt.)
+
+ Designated Federal Officers (DFO)
+ Prabhakara Atreya, Ph.D.
+ Valerie Vashio, B.Pharm.
+
+ Committee Management Staff
+ Joanne Lipkind, M.S.
+ Lisa Johnson
+                                                        +Not Attending
+                                                        *Consumer Representative
+                                                        ***Industry Representative
+
+These summary minutes for the May 18, 2023, meeting of the Vaccines and Related Biological
+Products Advisory Committee were approved on June 13, 2023.
+
+I certify that I participated in the May 18, 2023, meeting of the Vaccines and Related Biological
+Products Advisory Committee and that these minutes accurately reflect what transpired.
+                                                                                                2
+
+
+
+----------S----------                               ----------S---------
+___________________                                 ____________________
+
+Prabhakara Atreya, Ph.D.                            Hana El Sahly, M.D.
+Designated Federal Officer                          Chair
+
+
+
+Topic below was discussed during the May 18, 2023, VRBPAC meeting.
+
+On May 18, 2023, at 8:30 a.m. Eastern Time (ET), the 181st meeting of the Vaccines and
+Related Biological Products Advisory Committee (VRBPAC) convened in open session to
+discuss and make recommendations on the safety and effectiveness of ABRYSVO (Respiratory
+Syncytial Virus Vaccine), manufactured by Pfizer Inc., with a requested indication, in Biologics
+License Application # 125768 (STN 125768/0), for the prevention of lower respiratory tract
+disease and severe lower respiratory tract disease caused by respiratory syncytial virus (RSV) in
+infants from birth through 6 months of age by active immunization of pregnant individuals.
+
+Dr. Hana El Sahly, VRBPAC Chair called the meeting to order and made introductory remarks.
+The DFO, Dr. Prabhakara Atreya made administrative remarks, conducted a roll call, and invited
+the committee members to introduce themselves. The Alternate DFO, Ms. Valerie Vashio read
+the Conflicts of Interest (COI) statement for the public record.
+
+The meeting kicked off at 8:55 a.m. with a 5-minute introduction by Dr. David C. Kaslow,
+Director of the Office of Vaccines Research and Review (OVRR) in the Center for Biologics
+Evaluation and Research (CBER). Dr. Goutam Sen, the BLA review committee Chair from
+OVRR gave a 15-minute presentation titled “Biologics License Application for Respiratory
+Syncytial Virus Vaccine (ABRYSVO) Immunization During Pregnancy to Prevent RSV Lower
+Respiratory Tract Disease [LRTD] and Severe RSV LRTD in Infants,” which was followed by 5
+minutes of Q&A. Starting at 9:20 a.m. Dr. Natalie Thornburg from the Centers for Disease
+Control and Prevention (CDC) gave a 15-minute presentation titled “RSV Virology, Strain
+Variation, and Surveillance Measures,” which was followed by another 15-minute presentation
+also from CDC by Dr. Katherine Fleming-Dutra titled “RSV Epidemiology and Disease Burden
+in Infants from birth through 6 months of age,” and a 10-minute Q&A. Next was a 15-minute
+presentation by Dr. Helen Chu, titled “Durability of Naturally Acquired Immunity and
+Susceptibility to Repeated RSV Infections.” A 5-minute Q&A followed to answer several
+questions before the Committee took a 10-minute break.
+
+The Committee reconvened at approximately 10:30 a.m. ET for a 50-minute presentation given
+by Dr. William Gruber, Dr. Iona Munjal, and Dr. Jamie Wilkins from Pfizer; and Dr. Eric
+Simoes from University of Colorado School of Medicine, titled “Bivalent RSV Prefusion F
+Vaccine for Maternal Immunization to Protect Infants” which was followed by a 10-minute
+Q&A. Next, Dr. Yugenia Hong-Nguyen from CBER, OVRR, gave a 50-minute presentation
+titled “Review of Efficacy and Safety of Respiratory Syncytial Virus Vaccine (ABRYSVO)
+Immunization During the Second or Third Trimester of Pregnancy (24-36 weeks gestational age)
+to Prevent RSV Lower Respiratory Tract Disease [LRTD] and Severe RSV LRTD in Infants,
+                                                                                                   3
+
+
+From Birth Through 6 Months of Age.” A 10-minute Q&A followed before the Committee was
+released for a 45-minute lunch break.
+
+The Committee reconvened for the Open Public Hearing (OPH) Session at 1:15 p.m. ET. The
+Chair, Dr. El Sahly read the Chair’s Conflicts of Interest statement before turning the meeting
+over to Ms. Vashio who provided further OPH instructions. Five participants made 4-minute
+remarks each. After the OPH session concluded, at approximately 1:38 p.m., Ms. Vashio
+returned the meeting back to Dr. El Sahly for the next 60-minute session of additional Q&A in
+which Committee members asked clarifying questions regarding presentations from FDA, CDC,
+and Pfizer speakers.
+
+Following this extended Q&A session, the committee was released for about a 10-minute break.
+At 3:37 p.m. Dr. El Sahly opened the committee discussion.
+
+The committee discussed the balance between the convincing vaccine efficacy, including against
+severe lower respiratory tract disease, and adverse events, particularly premature delivery/birth.
+The committee also discussed duration of vaccine protection, gestational age at time of
+vaccination, concomitant administration of other vaccines during pregnancy, and considerations
+for postmarketing studies.
+
+At the conclusion of Committee Discussion, Dr. Atreya conducted the voting process.
+
+The following Voting Question #1 was presented to the Committee of 14 voting members:
+
+Voting Question #1:
+
+Are the available data adequate to support the effectiveness of immunization with ABRYSVO
+during the second or third trimester of pregnancy (24-36 weeks gestational age) to prevent RSV
+lower respiratory tract disease [LRTD] and severe RSV LRTD in infants, from birth through 6
+months of age?
+
+The voting results were as follows: 14 Yes, 0 No, 0 Abstain
+
+Dr. Atreya read the voting results for the public record and then handed over the meeting to Dr.
+El Sahly to ask the Committee for their Vote explanation. Dr. El Sahly called upon each
+Committee Member to explain their votes.
+
+After Committee Vote explanations for Question #1, Dr. El Sahly then allowed the Committee to
+discuss Voting Question #2 after which she requested Dr. Atreya to conduct the voting.
+
+The following Voting Question #2 was presented to the Committee of 14 voting members:
+
+Voting Question #2:
+                                                                                                  4
+
+
+Are the available data adequate to support the safety of immunization with ABRYSVO during
+the second or third trimester of pregnancy (24-36 weeks gestational age) to prevent RSV LRTD
+and severe RSV LRTD in infants, from birth through 6 months of age?
+
+The voting results were as follows: 10 Yes, 4 No, 0 Abstain
+Dr. Atreya read the voting results for the public record and then turned over the meeting to Dr. El
+Sahly to ask the Committee for their Vote explanation. Dr. El Sahly called upon each Committee
+Member to explain their votes.
+
+At the conclusion of the voting and vote explanations by individual committee members, Dr. El
+Sahly handed the meeting over to the DFO, Dr. Atreya, who in turn asked Dr. Marks for his
+concluding remarks. Both Dr. Marks and Dr. Kaslow thanked the Members of the Committee,
+the speakers, Advisory Committee staff, and the AV team for all their efforts. Dr. Atreya then
+officially adjourned the meeting on May 18, 2023, at 5:10 p.m. ET.
+
+Additional information and details may be obtained from the transcript and the recording of the
+webcast of the meeting that may be viewed at:
+
+FDA Vaccines and Related Biological Products Advisory Committee May 18, 2023 Meeting
+Announcement
+

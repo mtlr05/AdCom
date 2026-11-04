@@ -1,0 +1,209 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+                        Final Summary Minutes of the Oncologic Drugs
+                                Advisory Committee Meeting
+
+                                      February 10, 2022
+
+Location: Please note that due to the impact of this COVID-19 pandemic, all meeting
+participants will be joining this advisory committee meeting via an online teleconferencing
+platform.
+Topic: The committee discussed biologics license application (BLA) 761222, for sintilimab
+injection, submitted by Innovent Biologics (Suzhou) Co., Ltd. The proposed indication (use) for
+this product is in combination with pemetrexed and platinum-based chemotherapy for the first-
+line treatment of patients with Stage IIIB, IIIC, or Stage IV non-squamous non-small cell lung
+cancer with no epidermal growth factor receptor or anaplastic lymphoma kinase genomic tumor
+aberrations.
+These summary minutes for the February 10, 2022 meeting of the Oncologic Drugs Advisory
+Committee (ODAC) meeting of the Food and Drug Administration were approved on
+March 17, 2022 .
+
+I certify that I attended the February 10, 2022 meeting of the Oncologic Drugs Advisory
+Committee (ODAC) of the Food and Drug Administration and that these minutes accurately
+reflect what transpired.
+
+
+         /s/                                                         /s/
+LaToya Bonner, PharmD                                      Pamela L. Kunz, MD
+Acting Designated Federal Officer, ODAC                    Acting Chairperson, ODAC
+
+
+
+
+                                            Page 1 of 5
+       Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                  February 10, 2022
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research, met on February 10, 2022. The meeting presentations
+were heard, viewed, captioned, and recorded through an online teleconferencing platform. The
+meeting was called to order by Pamela L. Kunz, MD (Chairperson). The conflict-of-interest
+statement was read into the record by LaToya Bonner, PharmD (Acting Designated Federal
+Officer). There were approximately 2,123 people online. There was one Open Public Hearing
+(OPH) presentation.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve
+weeks following the meeting date.
+
+Agenda: The committee discussed biologics license application (BLA) 761222, for sintilimab
+injection, submitted by Innovent Biologics (Suzhou) Co., Ltd. The proposed indication (use) for
+this product is in combination with pemetrexed and platinum-based chemotherapy for the first-
+line treatment of patients with Stage IIIB, IIIC, or Stage IV non-squamous non-small cell lung
+cancer with no epidermal growth factor receptor or anaplastic lymphoma kinase genomic tumor
+aberrations.
+
+Attendance:
+Oncologic Drugs Advisory Committee Members Present (Voting): Ranjana H. Advani, MD;
+Mark R. Conaway, PhD; Massimo Cristofanilli, MD, FACP; Jorge A. Garcia, MD, FACP;
+Pamela L. Kunz, MD (Acting Chairperson); Christopher H. Lieu, MD; Ravi A. Madan, MD;
+David E. Mitchell (Consumer Representative); Jorge J. Nieva, MD; Ashley Rosko, MD;
+Anthony D. Sung, MD
+
+Oncologic Drugs Advisory Committee Members Not Present (Voting): Jaffer A. Ajani, MD;
+Alberto S. Pappo, MD
+
+Oncologic Drugs Advisory Committee Member Present (Non-Voting): Jonathan D. Cheng,
+MD (Industry Representative)
+
+Temporary Members (Voting): Karen E. Arscott, DO, MSc (Patient Representative); Ibiayi
+Dagogo-Jack, MD; John Deeken, MD; Antoinette J. Wozniak, MD
+
+FDA Participants (Non-Voting): Julia Beaver, MD; Nicole Drezner, MD; Richard Pazdur, MD;
+Harpreet Singh, MD; Paz J. Vellanki, MD, PhD
+
+Acting Designated Federal Officer (Non-Voting): LaToya Bonner, PharmD
+
+Open Public Hearing Speaker: Diana Zuckerman (National Center for Health Research)
+
+
+
+
+                                            Page 2 of 5
+February 10, 2022
+Oncologic Drugs Advisory Committee Meeting
+
+The agenda was as follows:
+
+  Call to Order                              Pamela L. Kunz, MD
+                                             Acting Chairperson, ODAC
+
+  Introduction of Committee and              LaToya Bonner, PharmD
+  Conflict of Interest Statement             Acting Designated Federal Officer, ODAC
+
+  FDA Introductory Remarks                   Harpreet Singh, MD
+                                             Division Director
+                                             Division of Oncology 2 (DO2)
+                                             Office of Oncologic Diseases (OOD)
+                                             Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                    Innovent Biologics (Suzhou) Co., Ltd.
+
+  Introduction                               Lana Shiu, MD
+                                             Senior Vice President, Global Regulatory Affairs
+                                             Innovent Biologics USA, Inc
+
+  Treatment Landscape in Non-small           Mark A. Socinski, MD
+  Cell Lung Cancer (NSCLC)                   Executive Medical Director
+                                             Advent Health Cancer Institute
+                                             Member, Thoracic Oncology Program
+                                             Orlando, Florida
+
+  ORIENT-11 Efficacy and Conduct             Eduard Gasal, MD
+                                             President
+                                             Innovent Biologics USA, Inc.
+
+  Safety                                     Maria Fernandes, MD
+                                             Senior Medical Advisor, Global Patient Safety
+                                             Eli Lilly and Company
+
+  Applicability to U.S. Population           David Ferry, MD, PhD
+                                             Vice President, Oncology Medical Strategy
+                                             Eli Lilly and Company
+
+  FDA PRESENTATION
+
+  Sintilimab for Locally Advanced or         Paz J. Vellanki, MD, PhD
+  Metastatic Nonsquamous NSCLC               Clinical Reviewer
+                                             Thoracic and Head and Neck Cancer
+                                             DO2, OOD, OND, CDER, FDA
+
+  Clarifying Questions Presenters
+
+  LUNCH
+
+
+
+                                             Page 3 of 5
+February 10, 2022
+Oncologic Drugs Advisory Committee Meeting
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee Discussion
+
+  ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the generalizability of ORIENT-11 to a U.S. population and U.S.
+   medical practice.
+
+    Committee Discussion: Most of the Committee agreed that ORIENT-11 is not generalizable
+    to the U.S. population or U.S. medical practice due to its current single region design.
+    Although the Committee were convinced in the efficacy and safety profile presented, they
+    noted that the applicability of the results to a U.S population was not proven. Collectively,
+    the Committee encouraged a multi-regional clinical trial (MRCT) approach as it could
+    enable generalizability of the safety and efficacy profile, increase new investigators and
+    improve access to the product. The committee members commented that consideration of a
+    single region clinical trial, like ORIENT-11, would undermine the current rigorous process
+    and regulatory framework already established in U.S. clinical trials. Please see the
+    transcript for details of the Committee's discussion.
+
+2. DISCUSSION: Discuss potential clinical trials (if any) which may address issues of
+   applicability of ORIENT-11 to a U.S. population.
+
+    Committee Discussion: The Committee collectively prefer a randomized multi-regional trial
+    with a diverse population to address issues of applicability of ORIENT-11 to a U.S.
+    population, but lack the consensus as to the type of study design needed to examine the safety
+    and efficacy of the product in a U.S. population. Some committee members suggested a
+    noninferiority trial while others recommended a standard trial that would examine the
+    efficacy of one arm over another. Altogether, the Committee recognized that there is a
+    potential class effect with this drug product if given an opportunity for a progression-free
+    survival study in a U.S. population with similar parameters as in ORIENT-11. Please see the
+    transcript for details of the Committee's discussion.
+
+3. VOTE: Should additional clinical trial(s) demonstrating applicability to U.S. patients and
+   U.S. medical care be required prior to a final regulatory decision?
+
+    Vote Results:       Yes: 14         No: 1            Abstain: 0
+    Committee Discussion: The majority of the committee members voted “Yes”, agreeing that
+    additional clinical trials demonstrating applicability to U.S. patients and U.S. medical care
+    should be required prior to a final regulatory decision. The committee members who voted
+    “Yes” noted the lack of diversity in the study population and stated that MRCTs are needed
+    in single country trials to promote inclusion and clinical integrity. The same members cited
+    their concerns with the Applicant not getting input from the FDA early in the trial but also
+    noted that the original intent for the trial was to get regulatory approval in China only. Also,
+
+
+                                                Page 4 of 5
+February 10, 2022
+Oncologic Drugs Advisory Committee Meeting
+
+    the Committee was concerned that the participant informed consent form was not updated
+    when the standard of care changed during the study. The member who voted “No” agreed
+    that MRCTs are ideal but noted that it should not be a fixed criterion for regulatory
+    approval. This member recognized that the Applicant failed to include diversity in their
+    clinical trial but did demonstrate product safety and efficacy. Overall, the committee
+    members agreed with their colleague, noting that the product’s mechanism of action and the
+    data shown would not be extraordinarily different in a U.S. population, but the same data
+    (safety and efficacy profile) was not proven to be applicable to a multidimensional
+    population similar to that in the U.S. Please see the transcript for details of the Committee's
+    discussion.
+
+The meeting was adjourned at approximately 3:00 p.m. Eastern Time.
+
+
+
+
+                                             Page 5 of 5
+

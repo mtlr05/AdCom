@@ -1,0 +1,301 @@
+                           Food and Drug Administration
+                     Center for Drug Evaluation and Research
+   Final Summary Minutes of the Medical Imaging Drugs Advisory Committee Meeting
+
+
+Location: All meeting participants were heard, viewed, captioned, and recorded for this advisory
+committee meeting via an online teleconferencing and/or video conferencing platform.
+
+Topic: The Committee discussed efficacy and safety data submitted in support of a new drug
+application (NDA) 214511 for pegulicianine for injection, the optical imaging drug constituent
+of a drug/device combination product, submitted by Lumicell, Inc. The proposed indication for
+pegulicianine is for use in adults with breast cancer as an adjunct for the intraoperative detection
+of cancerous tissue within the resection cavity following removal of the primary specimen during
+lumpectomy surgery.
+
+These summary minutes for the March 5, 2024 meeting of the Medical Imaging Drugs Advisory
+Committee of the Food and Drug Administration were approved on ____4/1/2024________.
+
+I certify that I attended the March 5, 2024 meeting of the Medical Imaging Drugs Advisory
+Committee (MIDAC) of the Food and Drug Administration and that these minutes accurately
+reflect what transpired.
+
+
+
+__________ _/s/__________________                     __________ _/s/_________________
+Jessica Seo, PharmD, MPH                              Henry D. Royal, MD
+Acting Designated Federal Officer, MIDAC              Chairperson, MIDAC
+                   Final Summary Minutes of the Medical Imaging Drugs
+                             Advisory Committee Meeting
+                                    March 5, 2024
+
+The Medical Imaging Drugs Advisory Committee (MIDAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research, met on March 5, 2024. The meeting
+presentations were heard, viewed, captioned, and recorded through an online videoconferencing
+platform. Prior to the meeting, the members and temporary voting members were provided the
+briefing materials from the FDA and Lumicell, Inc. The meeting was called to order by Henry D.
+Royal, MD (Chairperson). The conflict of interest statement was read into the record by Jessica
+Seo, PharmD, MPH (Acting Designated Federal Officer). There were approximately 232 people
+online. There was a total of 10 Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda:
+
+The Committee discussed efficacy and safety data submitted in support of a new drug application
+(NDA) 214511 for pegulicianine for injection, the optical imaging drug constituent of a
+drug/device combination product, submitted by Lumicell, Inc. The proposed indication for
+pegulicianine is for use in adults with breast cancer as an adjunct for the intraoperative detection
+of cancerous tissue within the resection cavity following removal of the primary specimen during
+lumpectomy surgery.
+
+Attendance:
+
+Medical Imaging Drugs Advisory Committee Members Present (Voting): Kimberly E.
+Applegate, MD, MS, FACR; Wesley E. Bolch, PhD, FAAPM, FAIMBE; David B. Hackney,
+MD; Paula M. Jacobs, PhD; M. Elizabeth Oates, MD, FAAWR, FACR; Eben L. Rosenthal, MD;
+Henry D. Royal, MD (Chairperson); Chengjie Xiong, PhD;
+
+Medical Imaging Drugs Advisory Committee Members Not Present (Voting): Peter
+Herscovitch, MD, FACP, FRCPC, FSNMMI; Steven M. Larson, MD; Rupa M. Sanghani, MD,
+FACC, FASNC;
+
+ Acting Industry Representative to the Committee (Non-Voting): P. LaMont Bryant, PhD
+(Acting Industry Representative)
+
+Temporary Members (Voting): Harold J. Burstein, MD, PhD; Michael C. Dejos, PharmD,
+MBA; Mark Dykewicz, MD; Melissa Fisher (Patient Representative); Paul A. Greenberger, MD;
+Marie R. Griffin, MD, MPH; A. Marilyn Leitch, MD, FACS; Cynthia (Cindy) Pearson (Acting
+Consumer Representative); Andrea Richardson, MD, PhD; Steven J. Skates, PhD; Neil Vasan,
+MD, PhD
+
+
+
+
+                                             Page 2 of 7
+March 5, 2024
+Medical Imaging Drugs Advisory Committee Meeting
+
+
+
+FDA Participants (Non-Voting): Charles Ganley, MD; Alex Gorovets, MD; Libero Marzella,
+MD, PhD; A. Alex Hofling, MD, PhD; Anil Rajpal, MD, MPH; Shane Masters, MD, PhD; Sue-
+Jane Wang, PhD; Miya Paterniti, MD; Rachel Bean, MD; Steven Bird, PhD, PharmD; Kate
+Gelperin, MD, MPH; Mallika Mundkur, MD MPH; Cynthia LaCivita, PharmD; Jessica Carr,
+PhD; Dorian M. Korz, MD; Colin Kejing Chen, PhD; Steven Nagel, MD FACS
+
+Acting Designated Federal Officer (Non-Voting): Jessica Seo, PharmD, MPH
+
+Open Public Hearing Speakers Present: Jay K. Harness, MD, FACS; Diane Bloom; Karen
+Maness (statement read by Jennifer Montes, MD); Donna-Lynn Dyess, MD, FACS; Donna Huie;
+Shawna C. Willey, MD, FACS; Patricia Clark, MD, FACS, FSSO; Roberto Diaz, MD, PhD;
+Jennifer Montes, MD; Irene L. Wapnir, MD (Evolve Pink)
+
+The agenda was as follows:
+
+  Call to Order                                         Henry Royal, MD
+                                                        Chairperson, MIDAC
+
+  Introduction of Committee and Conflict of             Jessica Seo, PharmD, MPH
+  Interest Statement                                    Acting Designated Federal Officer, MIDAC
+
+  FDA Introductory Remarks                              A. Alex Hofling, MD, PhD
+                                                        Deputy Division Director
+                                                        Division of Imaging and Radiation Medicine (DIRM)
+                                                        Office of Specialty Medicine (OSM)
+                                                        Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                               Lumicell, Inc.
+
+  Introduction                                          Jorge Ferrer, PhD
+                                                        Chief Scientific Officer
+                                                        Lumicell, Inc.
+
+  Unmet Need                                            Kelly Hunt, MD, FACS, FSSO
+                                                        Professor and Chair
+                                                        Department of Breast Surgical Oncology Division of
+                                                        Surgery
+                                                        MD Anderson Cancer Center
+                                                        President, Society of Surgical Oncologists
+
+  Pivotal Study CL0007 Efficacy Results                 E. Shelley Hwang, MD, MPH
+                                                        Mary and Deryl Hart Distinguished Professor of Surgery
+                                                        Vice Chair of Research
+                                                        Department of Surgery
+                                                        Leader, Breast Cancer Disease Group
+                                                        Duke University and Duke Cancer Institute
+
+
+                                              Page 3 of 7
+March 5, 2024
+Medical Imaging Drugs Advisory Committee Meeting
+
+  APPLICANT PRESENTATIONS (CONT.)
+
+  Safety                                                 Peter Blumencranz, MD, FACS
+                                                         Medical Director
+                                                         BayCare Oncology Service Line Health System
+                                                         Medical Director
+                                                         The Comprehensive Breast Care Center of Tampa Bay
+
+  Allergic Reactions and Hypersensitivity                Tanya Laidlaw, MD, FAAAAI
+                                                         Director of Translational Research, Division of Allergy
+                                                         and Clinical Immunology
+                                                         Chief, Section of Clinical and Translational Sciences
+                                                         Division of Allergy and Clinical Immunology
+                                                         Brigham and Women’s Hospital
+                                                         Associate Professor
+                                                         Harvard Medical School
+
+  Risk Mitigation Strategies                             Jorge Ferrer, PhD
+
+  Clinical Perspective                                   Barbara Smith, MD, PhD
+                                                         Director, Breast Program
+                                                         Massachusetts General Hospital
+                                                         Massachusetts General Hospital Trustees Chair in Breast
+                                                         Surgery
+                                                         Professor of Surgery
+                                                         Harvard Medical School
+
+  Clarifying Questions to the Applicant
+
+  BREAK
+
+  FDA PRESENTATIONS
+
+  Clinical Overview                                      Shane Masters, MD, PhD
+                                                         Clinical Team Leader
+                                                         DIRM, OSM, OND, CDER, FDA
+
+  Statistical Designs and Review of Efficacy             Sue-Jane Wang, PhD
+  Results                                                Deputy Division Director
+                                                         Division of Biometrics 1
+                                                         Office of Biostatistics
+                                                         Office of Translational Sciences
+                                                         CDER, FDA
+
+  Risk Management Considerations                         Anil Rajpal, MD, MPH
+                                                         Deputy Division Director for Safety
+                                                         DIRM, OSM, OND, CDER, FDA
+
+
+
+                                               Page 4 of 7
+March 5, 2024
+Medical Imaging Drugs Advisory Committee Meeting
+
+  FDA PRESENTATIONS (CONT.)
+
+  Clarifying Questions to FDA
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+
+  Charge to the Committee                               A. Alex Hofling, MD, PhD
+
+  Questions to the Committee/Committee
+  Discussion
+
+  BREAK
+
+  Questions to the Committee/Committee
+  Discussion (cont.)
+
+  ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss whether the observed performance of pegulicianine for patient-level
+   detection of residual cancer, tissue-level sensitivity, and tissue-level specificity provide
+   sufficient evidence of effectiveness.
+
+   Committee Discussion: The Committee members were in general agreement that there was a
+   modest overall benefit observed with use of pegulicianine, as it met its prespecified endpoints
+   for patient-level detection of residual cancer and tissue-level specificity, but did not meet its
+   tissue-level sensitivity goal. Some members pointed out that even small improvements can be
+   valuable to patients with cancer, and acknowledged that while pegulicianine shows promise,
+   it was not considered a “home run” or a “magical” solution, but rather an incremental
+   benefit that is an important step forward in breast cancer diagnostics. Other members agreed
+   there is a potential to observe better performance of pegulicianine with increased use and
+   improved proficiency and technique among surgeons. One member stressed the need to
+   consider the impact on individual patients and their families when evaluating the
+   effectiveness of medical interventions. Another member expressed concern with setting a
+   precedent for use of tissue-level metrics to support effectiveness. Other members raised
+   concerns regarding the significance of the observed benefits, with emphasis on the relatively
+   small number of patients who avoided a second surgery. Please see the transcript for details
+   of the Committee’s discussion.
+
+
+
+
+                                              Page 5 of 7
+March 5, 2024
+Medical Imaging Drugs Advisory Committee Meeting
+
+
+
+2. DISCUSSION: Discuss the risk of serious hypersensitivity reactions associated with
+   pegulicianine and the adequacy of risk mitigation and assessment strategies under
+   consideration.
+
+   In discussing the risk of serious hypersensitivity reactions associated with pegulicianine and
+   the adequacy of risk mitigation and assessment strategies under consideration, Committee
+   members were in overall agreement that adverse reactions are a concern. However, the
+   majority of participants voiced that given the pre-surgical setting in which the patients would
+   be administered the drug, the risk of hypersensitivity reactions is manageable and does not
+   outweigh incremental benefits associated with pegulicianine. One member raised concerns
+   about the number of serious adverse reactions observed in the trial relative to the number of
+   patients benefiting from the treatment, and there was general agreement that additional
+   safety data collection through a post-marketing study would be valuable to better understand
+   the incidence of adverse reactions. Most committee members did not support the
+   implementation of a Risk Evaluation and Mitigation Strategy (REMS), considering it
+   unnecessary for this particular drug. Suggestions for risk mitigation included labeling
+   recommendations for monitoring of patients during and after infusion and immediate access
+   to medical care in case of adverse reactions. The possibility of pretreatment with
+   antihistamines was discussed, with one member suggesting it could be considered based on
+   individual patient factors and clinical judgment. Please see the transcript for details of the
+   Committee’s discussion.
+
+3. VOTE: Do the benefits of pegulicianine outweigh its risks?
+     • If yes, describe the clinically meaningful benefit and the risk mitigation measures that
+       are recommended.
+     • If no, provide recommendations for additional data and/or analyses that may support
+       a positive benefit/risk assessment of pegulicianine.
+
+
+   Vote Result:        Yes: 16                 No: 2          Abstain: 1
+
+   Committee Discussion:
+
+   The majority of Committee members voted "Yes" on whether the benefits of pegulicianine
+   outweigh its risks. Many members cited the incremental benefits of pegulicianine in detection
+   of residual cancer, as well as the manageable nature of the associated risks, such as
+   hypersensitivity reactions. Suggestions for risk mitigation and assessment included labeling
+   recommendations for monitoring, a post-marketing safety study, and enhanced
+   pharmacovigilance. Some participants expressed concerns about the small absolute benefit
+   and recommended clear patient-level information to set realistic expectations for patients
+   who choose to undergo lumpectomy using pegulicianine.
+
+   Two Committee members voted “No,” with one member acknowledging that while
+   pegulicianine appears to detect residual cancer, the clinical utility of pegulicianine is still
+
+                                              Page 6 of 7
+March 5, 2024
+Medical Imaging Drugs Advisory Committee Meeting
+
+   questionable without clear evidence of improved patient outcomes. Both Committee
+   members, in addition to the one abstention, advocated for randomized trials to assess the
+   effectiveness of pegulicianine in reducing reoperations.
+
+   Please see the transcript for details of the Committee’s discussion.
+
+
+The meeting was adjourned at approximately 5:05pm ET.
+
+
+
+
+                                              Page 7 of 7
+

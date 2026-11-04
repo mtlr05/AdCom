@@ -1,0 +1,284 @@
+                                Food and Drug Administration
+                           Center for Drug Evaluation and Research
+
+Final Summary Minutes of the Cardiovascular and Renal Drugs Advisory Committee Meeting
+                                     December 8, 2021
+
+
+  Location: Please note that due to the impact of the COVID-19 pandemic, all meeting participants
+  joined this advisory committee meeting via an online teleconferencing platform.
+
+  Topic: The committee discussed new drug application 215484, for the Nrf2 activator,
+  bardoxolone methyl capsules, submitted by Reata Pharmaceuticals, Inc. The proposed indication
+  is to slow the progression of chronic kidney disease caused by Alport syndrome in patients 12
+  years of age and older.
+
+  These summary minutes for the December 8, 2021 meeting of the Cardiovascular and Renal
+  Drugs Advisory Committee (CRDAC) of the Food and Drug Administration were approved on
+  January 5, 2022.
+
+  I certify that I attended the December 8, 2021 CRDAC meeting of the Food and Drug
+  Administration and that these minutes accurately reflect what transpired.
+
+
+
+  ________________/s/__________________            _________________/s/___________________
+  Moon Hee V. Choi, PharmD                         Julia Lewis, MD
+  Acting Designated Federal Officer, CRDAC         Chairperson, CRDAC
+
+
+
+
+                                             Page 1 of 6
+              Final Summary Minutes of the Cardiovascular and Renal Drugs
+                            Advisory Committee Meeting
+                                  December 8, 2021
+
+The Cardiovascular and Renal Drugs Advisory Committee (CRDAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research, met on December 8, 2021. The
+meeting presentations were heard, viewed, captioned, and recorded through an online
+teleconferencing platform. Prior to the meeting, the members and temporary voting members
+were provided the briefing materials from the FDA and Reata Pharmaceuticals, Inc. The
+meeting was called to order by Julia B. Lewis, MD (Chairperson). The conflict-of-interest
+statement was read into the record by Moon Hee V. Choi, PharmD (Acting Designated Federal
+Officer). There were approximately 664 people online. There were a total of 23 Open Public
+Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committee discussed new drug application (NDA) 215484, for the Nrf2 activator,
+bardoxolone methyl capsules, submitted by Reata Pharmaceuticals, Inc. The proposed indication
+is to slow the progression of chronic kidney disease caused by Alport syndrome in patients 12
+years of age and older.
+
+Attendance:
+
+Cardiovascular and Renal Drug Advisory Committee Members Present (Voting):
+Jacqueline D. Alikhaani, BA (Consumer Representative); C. Noel Bairey Merz, MD, FACC,
+FAHA, FESC; Javed Butler, MD, MPH, MBA; Thomas D. Cook, PhD, MS, MA; Edward K.
+Kasper, MD, FACC, FAHA; Julia B. Lewis, MD (Chairperson); David J. Moliterno, MD;
+Christopher M. O’Connor, MD, MACC, FESC, FHFA, FHFSA
+
+Cardiovascular and Renal Drugs Advisory Committee Members Not Present (Voting):
+Peter E. Carson, MD; Csaba P. Kovesdy, MD, FASN; Ravi I. Thadhani, MD, MPH
+
+Cardiovascular and Renal Drugs Advisory Committee Member Present (Non-Voting):
+Jerome Rossert, MD, PhD (Industry Representative)
+
+Temporary Members (Voting): Paul T. Conway (Patient Representative); Gregory H.
+Gorman, MD, MHS; Susan R. Mendley, MD; Patrick H. Nachman, MD, FASN; Paul M.
+Palevsky, MD
+
+FDA Participants (Non-Voting): Hylton Joffe, MD; Norman Stockbridge, MD, PhD; Aliza
+Thompson, MD, MS; Lars Johannesen, PhD; Dali Zhou, PhD
+
+Acting Designated Federal Officer (Non-Voting): Moon Hee V. Choi, PharmD
+December 8, 2021
+Cardiovascular and Renal Drugs Advisory Committee Meeting
+
+Open Public Hearing Speakers Present: Afton DeLucca; Lisa Bonebrake; Charri Lara; Philip
+Seymour; Cassandra Smith; Ryan Landwehr; Sharon Lagas; Janine Reed; Maddison Martin;
+Clifford E. Kashtan, MD, FASN; John Dunlap; Christopher Pak; Stuart M. Sprague, DO, FACP,
+FASN, FNKF; Kerry Willis, PhD; James F. Simon, MD, MBA; December West; Pablo E.
+Pergola, MD, PhD; Meg Seymour, PhD; Linda Klind; Arnold L. Silva, MD, PhD; Michael A.
+Carome, MD; Anthony Albert; Clint Kingsbery
+
+The agenda was as follows:
+
+  Call to Order                                       Julia B. Lewis, MD
+                                                      Chairperson, CRDAC
+
+  Introduction of Committee and Conflict of           Moon Hee V. Choi, PharmD
+  Interest Statement                                  Acting Designated Federal Officer, CRDAC
+
+  FDA Opening Remarks                                 Aliza Thompson, MD, MS
+                                                      Deputy Director
+                                                      Division of Cardiology and Nephrology (DCN)
+                                                      Office of Cardiology, Hematology,
+                                                      Endocrinology and Nephrology (OCHEN)
+                                                      Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                             Reata Pharmaceuticals, Inc.
+
+  Bardoxolone Methyl Capsules for Treatment           Melanie Chin, PhD
+  of Alport Syndrome                                  Vice President, Product Strategy
+                                                      Reata Pharmaceuticals
+
+  Alport Syndrome and Need for Therapies              Bradley Warady, MD
+                                                      Director, Division of Nephrology, Director of
+                                                      Dialysis and Transplantation
+                                                      Children’s Mercy Kansas City
+                                                      Professor of Pediatrics
+                                                      University of Missouri Kansas City School of
+                                                      Medicine
+
+  Alport Syndrome Phase 3 Study Design                Colin Meyer, MD
+                                                      Chief Research and Development Officer
+                                                      Reata Pharmaceuticals
+
+                                                      Nathan Teuscher, PhD
+                                                      Vice President
+                                                      Integrated Drug Development Consulting
+                                                      Certara
+
+
+
+
+                                               Page 3 of 6
+December 8, 2021
+Cardiovascular and Renal Drugs Advisory Committee Meeting
+
+  APPLICANT PRESENTATIONS (CONT.)
+
+  Clinical Efficacy of Bardoxolone Methyl             Colin Meyer, MD
+
+  Clinical Safety of Bardoxolone Methyl               Colin Meyer, MD
+
+  Benefit/Risk Assessment                             Glenn Chertow, MD, MPH
+                                                      Professor of Medicine (Nephrology) and
+                                                      (by courtesy) Professor of Epidemiology and
+                                                      Population Health
+                                                      Stanford University School of Medicine
+
+  Conclusion                                          Colin Meyer, MD
+
+  Clarifying Questions
+
+  BREAK
+
+  FDA PRESENTATIONS
+
+  Bardoxolone Efficacy and Safety                     Lars Johannesen, PhD
+                                                      Clinical Analyst
+                                                      DCN, OCHEN, OND, CDER, FDA
+
+                                                      Dali Zhou, PhD
+                                                      Biometrics Reviewer
+                                                      Division of Biometrics II, Office of Biostatistics
+                                                      Office of Translational Sciences, CDER, FDA
+
+  Clarifying Questions
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+
+  Charge to the Committee                             Aliza Thompson, MD, MS
+
+  Questions to the Committee/Committee Discussion
+
+  ADJOURNMENT
+
+
+Questions to the Committee:
+
+The Applicant is seeking approval of bardoxolone methyl to slow the progression of chronic
+kidney disease caused by Alport syndrome in patients 12 years of age and older.
+
+
+
+                                               Page 4 of 6
+December 8, 2021
+Cardiovascular and Renal Drugs Advisory Committee Meeting
+
+1. DISCUSSION: Discuss whether CARDINAL Phase 3 was adequately designed to assess for
+   an effect on the progression of chronic kidney disease in patients with Alport syndrome.
+
+    Committee Discussion: Overall, the Committee members did not agree that CARDINAL
+    Phase 3 was adequately designed to assess for an effect on the progression of chronic kidney
+    disease in patients with Alport syndrome. Several Committee members observed that the
+    study may have been more informative if another marker had also been used to measure
+    GFR, such as cystatin C, since such a marker would allow one to distinguish drug effects on
+    serum creatinine from effects on GFR. One Committee member expressed that the study may
+    have been able to demonstrate an effect on more relevant patient outcomes if it had enrolled
+    more adolescent patients as these patients demonstrated greater eGFR loss in the trial as
+    compared to adult patients. Other Committee members had concerns with the following
+    aspects of study design: 1) outcome measures (e.g., choice of on-treatment as primary, lack
+    of additional serum creatinine measurements during the off-treatment periods); 2) duration
+    of washout periods, particularly after the 104-week visit; and 3) lack of information on
+    findings in key genetic subgroups (i.e., male patients with X-linked Alport syndrome) and
+    whether the design could have been optimized in this regard (e.g., by prespecifying such
+    analyses or possibly by stratifying randomization). Please see the transcript for details of
+    the Committee’s discussion.
+
+2. DISCUSSION: Discuss whether the available data indicate that bardoxolone methyl slows
+   the progression of chronic kidney disease and whether it is reasonable to conclude, based on
+   the available data, that bardoxolone methyl will reduce the risk of progression to kidney
+   failure when used chronically in patients with Alport syndrome.
+
+    Committee Discussion: The Committee agreed that the available data did not indicate that
+    bardoxolone methyl slows the progression of chronic kidney disease. The Committee also did
+    not think that it was reasonable to conclude, based on the available data, that bardoxolone
+    methyl will reduce the risk of progression to kidney failure when used chronically in patients
+    with Alport syndrome. One Committee member highlighted the importance of the sensitivity
+    analyses and explained that such analyses assess whether there's an alternative explanation
+    for the proposed positive effect (i.e., an explanation other than an effect on disease
+    progression), and that the data suggest that what was observed was not a change in the
+    progression of the disease but simply an artifact of the pharmacodynamic effect on GFR.
+    Another Committee member noted that the study used a surrogate endpoint to assess whether
+    the long-term outcome would be improved with treatment; however, the difference in GFR
+    between the control and the treatment group narrowed over time. Several Committee
+    members agreed that it would be beneficial to incorporate patient reported outcomes in
+    future studies. Please see the transcript for details of the Committee’s discussion.
+
+3. DISCUSSION: Discuss bardoxolone methyl’s safety profile.
+
+    a. Do bardoxolone methyl’s effects on albuminuria, blood pressure or other parameters raise
+       concerns about its long-term efficacy and/or safety in patients with Alport syndrome?
+
+
+
+
+                                               Page 5 of 6
+December 8, 2021
+Cardiovascular and Renal Drugs Advisory Committee Meeting
+
+    b. What are the implications of bardoxolone methyl’s effect on body weight for pediatric
+       patients?
+
+        Committee Discussion: Overall, the Committee members agreed that bardoxolone
+        methyl’s safety profile raised concerns. One Committee member noted that albuminuria
+        and proteinuria are markers of bad outcomes for both the kidney and heart. Several
+        Committee members expressed concern that despite the trial population having a
+        relatively high GFR, brain natriuretic peptide values increased. Another Committee
+        member added that given the modest size of the CARDINAL trial, it was important to
+        consider the data from the BEACON trial, in which there were safety signals for heart
+        failure and cardiovascular events. In terms of bardoxolone methyl’s effect on body
+        weight and its implications for pediatric patients, one Committee member observed that
+        there appeared to be a safety signal in adolescent patients, with a flattening of age
+        expected weight gain and that this could translate into an effect on growth over time.
+        This Committee member also noted that because treatment could be used starting at
+        12 years of age and into the final stages of growth and development, children should be
+        studied further to assuage the concern of the impact on growth. Please see the transcript
+        for details of the Committee’s discussion.
+
+4. VOTE: Does the provided evidence demonstrate that bardoxolone methyl is effective in
+   slowing the progression of chronic kidney disease in Alport syndrome and that its benefits
+   outweigh its risks?
+
+    a. If you voted yes, provide your rationale.
+
+    b. If you voted no, provide your rationale and provide recommendations for additional data
+       and/or analyses that are needed to support approval.
+
+        Vote Result: Yes: 0             No: 13          Abstain: 0
+
+        Committee Discussion: The Committee unanimously agreed that the provided evidence
+        did not demonstrate that bardoxolone methyl is effective in slowing the progression of
+        chronic kidney disease in Alport syndrome and that its benefits outweigh its risks. The
+        Committee members provided the following rationale for their vote: 1) low enrollment of
+        patients from the adolescent population where more convincing outcomes may be
+        possible; 2) questionable efficacy (excluded data, differential discontinuation, duration of
+        off-treatment period, etc.); and 3) concerns with the safety profile (e.g., albuminuria,
+        increases in blood pressure, increase in cardiovascular events and brain natriuretic
+        peptide levels) in the CARDINAL and/or BEACON trials. Please see the transcript for
+        details of the Committee’s discussion.
+
+The meeting was adjourned at approximately 5:12 p.m. ET.
+
+
+
+
+                                               Page 6 of 6
+

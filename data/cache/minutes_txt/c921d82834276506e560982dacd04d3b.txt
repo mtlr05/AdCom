@@ -1,0 +1,249 @@
+                                Food and Drug Administration
+                           Center for Drug Evaluation and Research
+
+
+            Final Summary Minutes of the Cardiovascular and Renal Drugs
+                           Advisory Committee Meeting
+                                  December 10, 2019
+
+Location: FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.
+1503), 10903 New Hampshire Avenue, Silver Spring, Maryland
+Topic: The Committee discussed new drug application (NDA) 022034, for vernakalant HCl
+solution, for intravenous injection, submitted by Correvio International Sàrl, for the proposed
+indication of rapid conversion of recent onset atrial fibrillation to sinus rhythm for non-surgery
+patients: Atrial fibrillation ≤ 7 days duration, and for post-cardiac surgery patients: Atrial
+fibrillation ≤ 3 days duration.
+These summary minutes for the December 10, 2019 meeting of the Cardiovascular and Renal
+Drugs Advisory Committee (CRDAC) of the Food and Drug Administration were approved on
+January 28, 2020.
+
+
+I certify that I attended the December 10, 2019 CRDAC meeting of the Food and Drug
+Administration and that these minutes accurately reflect what transpired.
+
+
+
+
+_____________/s/___________________                ________/s/_____________________
+Yinghua S. Wang, PharmD, MPH, RAC                  Julia Lewis, MD
+Acting Designated Federal Officer, CRDAC           Chairperson, CRDAC
+
+
+
+
+                                             Page 1 of 5
+                  Summary Minutes of the Cardiovascular and Renal Drugs
+                             Advisory Committee Meeting
+                                  December 10, 2019
+
+The Cardiovascular and Renal Drugs Advisory Committee (CRDAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research, met on December 10, 2019, at the
+FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903
+New Hampshire Avenue, Silver Spring, Maryland. Prior to the meeting, the members and
+temporary voting members were provided the briefing materials from the FDA and Correvio
+International Sàrl. The meeting was called to order by Julia B. Lewis, MD (Chairperson). The
+conflict of interest statement was read into the record by Yinghua S. Wang, PharmD, MPH, RAC
+(Acting Designated Federal Officer). There were approximately 70 people in attendance. There
+were two Open Public Hearing (OPH) presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The Committee discussed new drug application (NDA) 022034, for vernakalant HCl
+solution, for intravenous injection, submitted by Correvio International Sàrl, for the proposed
+indication of rapid conversion of recent onset atrial fibrillation to sinus rhythm for non-surgery
+patients: Atrial fibrillation ≤ 7 days duration, and for post-cardiac surgery patients: Atrial
+fibrillation ≤ 3 days duration.
+
+Attendance:
+
+Cardiovascular and Renal Drugs Advisory Committee Members Present (Voting):
+John H. Alexander, MD, MHSc; Jacqueline D. Alikhaani, BA (Consumer Representative); Barry
+R. Davis, MD, PhD; C. Michael Gibson, MD, MS; Julia B. Lewis, MD (Chairperson); John M.
+Mandrola, MD, FACC; David J. Moliterno, MD; Milton Packer, MD; Paul M. Ridker, MD,
+MPH, FACC, FAHA
+
+Cardiovascular and Renal Drugs Advisory Committee Member Present (Non-voting):
+David G. Soergel, MD (Industry Representative)
+
+Cardiovascular and Renal Drugs Advisory Committee Members Not Present (Voting):
+Peter E. Carson, MD; Patrick H. Nachman, MD
+
+Temporary Members (Voting): James Floyd, MD, MS; Nedra Hazlett, MSN, CRNP (Patient
+Representative); Jenna M. Merandi, PharmD, MS, CPPS; Matthew Needleman, MD, FACC,
+FHRS
+
+FDA Participants (Non-voting): Ellis F. Unger, MD; Norman Stockbridge, MD, PhD
+
+Acting Designated Federal Officer (Non-voting): Yinghua S. Wang, PharmD, MPH, RAC
+
+
+
+
+                                             Page 2 of 5
+December 10, 2019
+Cardiovascular and Renal Drugs Advisory Committee (CRDAC) Meeting
+
+Open Public Hearing Speakers: Nina Zeldes, MS (National Center for Health Research);
+Susan L. Miller
+
+The agenda was as follows:
+
+   Call to Order and Introduction of             Julia B. Lewis, MD
+   Committee                                     Chairperson, CRDAC
+
+   Conflict of Interest Statement                Yinghua S. Wang, PharmD, MPH, RAC
+                                                 Acting Designated Federal Officer, CRDAC
+
+   FDA Opening Remarks                           Norman Stockbridge, MD, PhD
+                                                 Director
+                                                 Division of Cardiovascular and Renal Products
+                                                 (DCaRP), Office of Drug Evaluation I (ODE I)
+                                                 Office of New Drugs (OND), CDER, FDA
+
+   APPLICANT PRESENTATIONS                       Correvio International Sàrl
+
+   Introduction                                  Mark Corrigan, MD
+                                                 Chief Executive Officer
+                                                 Correvio International Sàrl
+
+   Recent Onset AF: High Unmet Need for an       Peter R. Kowey, MD
+   Additional Pharmaceutical Treatment           Professor
+                                                 Lankenau Institute for Medical Research
+                                                 Lankenau Heart Institute
+                                                 Jefferson Medical College of Thomas Jefferson
+                                                 University
+
+   Nonclinical Pharmacology                      Peter K.S. Siegl, PhD
+                                                 Nonclinical Pharmacologist
+                                                 Correvio International Sàrl
+
+   Clinical Efficacy                             Andrew Tershakovec, MD, MPH
+                                                 Clinical Lead
+                                                 Correvio International Sàrl
+
+   Safety                                        W. Douglas Weaver, MD
+                                                 Cardiologist
+                                                 Correvio International Sàrl
+
+   A Clinical Assessment of Benefit/Risk         Peter R. Kowey, MD
+
+   Conclusion                                    Mark Corrigan, MD
+
+
+   Clarifying Questions
+
+   BREAK
+
+
+
+                                              Page 3 of 5
+December 10, 2019
+Cardiovascular and Renal Drugs Advisory Committee (CRDAC) Meeting
+
+
+
+   FDA PRESENTATIONS
+
+   FDA Overview of Cardiovascular Safety         Preston M. Dunnmon, MD, MBA, FACP,
+                                                 FACC
+                                                 Medical Officer
+                                                 DCaRP, ODE I, OND, CDER, FDA
+
+   Safety of Ibutilide and Electrical            Daniel Woronow, MD, FACC
+   Cardioversion in Patients with Atrial         Medical Officer
+   Fibrillation or Flutter                       Division of Pharmacovigilance I
+                                                 Office of Pharmacovigilance and Epidemiology
+                                                 Office of Surveillance and Epidemiology
+                                                 CDER, FDA
+
+   FDA Conclusion                                Preston M. Dunnmon, MD, MBA, FACP,
+                                                 FACC
+   Clarifying Questions
+
+   LUNCH
+
+   OPEN PUBLIC HEARING
+
+   Charge to the Committee                       Norman Stockbridge, MD, PhD
+
+   Questions to the Committee/Committee
+   Discussion
+
+   BREAK
+
+   Questions to the Committee/Committee
+   Discussion
+
+   ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Please discuss whether the safety profile of vernakalant for rapid conversion
+   of recent onset atrial fibrillation has been adequately characterized. If so, please comment on
+   the sources upon which you relied—randomized studies, SPECTRUM, others.
+
+   Committee Discussion: Some Committee members noted that the safety profile of
+   vernakalant was not adequately characterized. The SPECTRUM study had selection bias and
+   combined prospective and retrospective data; the proposed checklist may not identify the at-
+   risk patients; and the clinical study population did not represent the U.S. patient population.
+   Some Committee members commented that the SPECTRUM data are reassuring for use in
+   patients without structural heart disease. Please see the transcript for details of the
+   Committee’s discussion.
+
+
+
+                                              Page 4 of 5
+December 10, 2019
+Cardiovascular and Renal Drugs Advisory Committee (CRDAC) Meeting
+
+2. DISCUSSION: Please discuss whether the efficacy and safety profiles of alternative
+   approaches to cardioversion are relevant to assessment of vernakalant’s benefit-risk
+   assessment. If so, given the indirect comparisons, how do vernakalant and alternatives
+   compare…
+       a. for effectiveness?
+       b. for safety?
+
+   Committee Discussion: The Committee members had mixed views on assessing vernakalant
+   in comparison to alternative treatment options. Some members commented that current
+   cardioversion options are straightforward with well-understood risks. Some members noted
+   that having an additional option for pharmacological cardioversion is valuable and
+   converting patients in the emergency room may avoid prolonged hospital stays and general
+   anesthesia. The Committee members opined on the use of an echocardiogram in identifying
+   high-risk patients. Please see the transcript for details of the Committee’s discussion.
+
+3. VOTE: Do you recommend approval of vernakalant for the rapid conversion of recent onset
+   atrial fibrillation?
+
+   Vote Result:           Yes: 2       No: 11          Abstain: 0
+
+   Committee Discussion: The majority of Committee members voted “No”, that they did not
+   recommend approval of vernakalant for the rapid conversion of recent onset atrial
+   fibrillation. These members noted that the benefit of vernakalant does not outweigh the
+   serious risk associated with it, considering the alternatives. Several members who voted
+   “No” called for a clear understanding of which patients constitute the high-risk group. The
+   Committee members who voted “Yes” argued that the study data showed that vernakalant
+   can benefit patients at low risk for serious adverse events; thus, patient selection is the key.
+   However, it was noted that more work is needed to clarify who are the “low risk” patients.
+   Please see the transcript for details of the Committee’s discussion.
+
+4. DISCUSSION: If vernakalant was approved, what restrictions would you place on patients
+   or on the conditions of use?
+
+   Committee Discussion: The Committee members noted that vernakalant, if approved, should
+   not be used in elderly patients, hypotensive patients, high risk patients who are constantly
+   being cardioverted, and those with structural heart disease. The Committee members
+   recommended that vernakalant be restricted to low risk patients, prescribed by
+   electrophysiologists or cardiologists only, and that physicians and the multidisciplinary team
+   caring for patients on vernakalant be required to undergo additional training or Risk
+   Evaluation and Mitigation Strategies (REMS) certification. Several members suggested
+   further clinical trials in low risk patients to confirm vernakalant’s safety in this patient
+   population. Please see the transcript for details of the Committee’s discussion.
+
+The meeting was adjourned at approximately 2:52 p.m.
+
+
+
+
+                                              Page 5 of 5
+

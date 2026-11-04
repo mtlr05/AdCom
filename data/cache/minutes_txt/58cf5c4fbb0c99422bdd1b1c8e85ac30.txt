@@ -1,0 +1,252 @@
+                            Food and Drug Administration
+                     Center for Biologics Evaluation and Research
+                                  Summary Minutes
+         75 Cellular, Tissue, and Gene Therapies Advisory Committee Meeting
+           th
+
+                                  September 27, 2023
+
+
+Committee Members                                      Guest Speaker
+Tabassum (Taby) Ahsan, Ph.D. (Acting Chair)            Evan Y. Snyder, M.D., Ph.D., F.A.A.P.
+Marshall E. Bloom, M.D. +
+Christopher K. Breuer, M.D. +                          FDA Participants
+Eric Crombez, M.D. ** +                                Peter W. Marks, M.D., Ph.D.
+Donald B. Kohn, M.D.                                   Celia Witten, Ph.D., M.D. (Speaker)
+Wendy B. London, Ph.D.                                 Nicole Verdun, M.D.
+Sean J. Morrison, Ph.D. +                              Leila P. Hann
+Melanie Ott, M.D., Ph.D. +                             Rosa Sherafat-Kazemzadeh, M.D.
+Nirali N. Shah M.D., M.H.Sc.                           (Speaker)
+Gil I. Wolfe, M.D.                                     Tom Finn, Ph.D. (Speaker)
+Joseph Wu, M.D., Ph.D.                                 Xue (Mary) Lin, Ph.D. (Speaker)
+                                                       Gumei Liu, M.D., Ph.D. (Speaker)
+Temporary Voting Members                               Xiaofei Wang, Ph.D. (Speaker)
+G. Caleb Alexander, M.D., M.S.
+Andrew Buckley, M.B.A., J.D. >                         Designated Federal Officers (DFO)
+Kenneth Fischbeck, M.D.                                Marie DeGregorio
+Nicholas E. Johnson, M.D., M.S.C.I., F.A.A.N.          LCDR Cicely Reese, Pharm.D.
+Richard Kryscio, Ph.D.                                 (Alternate)
+Lisa Lee, Ph.D.
+Jun Li, M.D., Ph.D., F.A.N.A., F.A.A.N.                Committee Management Officers
+Ronald Liem, Ph.D.                                     (CMO)
+Jan Nolta, Ph.D.                                       LaShawn Marks
+Rajiv R. Ratan, M.D., Ph.D.                            Joanne Lipkind, M.S. (Alternate)
+Lynn Raymond, M.D., Ph.D.
+Mark Tuszynski, M.D., Ph.D.                            Committee Management Specialist
+                                                       (CMS)
+Industry Representative                                Tonica Burke, B.S.
+Michael Gold, M.S., M.D. (Acting) **
+                                                       DSAC Director
+Consumer Representative                                Prabhakara Atreya, Ph.D.
+Kathleen O’Sullivan-Fortin, Esq. *
+
++Not Attending
+* Consumer Representative
+** Industry Representative
+>Patient Representative
+
+
+
+
+                                                Page 1 of 5
+                              Food and Drug Administration
+                       Center for Biologics Evaluation and Research
+                                    Summary Minutes
+           75 Cellular, Tissue, and Gene Therapies Advisory Committee Meeting
+             th
+
+                                    September 27, 2023
+
+
+These summary minutes for the September 27, 2023, meeting of the Cellular, Tissue, and Gene
+Therapies Advisory Committee (CTGTAC) were approved on March 25, 2023.
+
+I certify that I participated in the September 27, 2023, meeting of the CTGTAC meeting and that
+these minutes accurately reflect what transpired.
+
+
+ /s/                                                   /s/
+ ____________________                                  ____________________
+ Marie DeGregorio                                      Tabassum (Taby) Ahsan, Ph.D.
+ Designated Federal Officer                            Acting Chair
+
+On September 27, 2023, the 75th meeting of the Cellular, Tissue, and Gene Therapies Advisory
+Committee (CTGTAC) took place in open session to discuss the biologics license application
+(BLA) 125782 from BrainStorm Cell Therapeutics, Inc. for debamestrocel (autologous bone
+marrow-derived mesenchymal stromal cells induced to secrete neurotrophic factors [MSC-NTF],
+NurOwn). The applicant has requested an indication for the treatment of mild to moderate
+amyotrophic lateral sclerosis (ALS). Given the topic of this meeting, it was determined to be a
+Particular Matter Involving Specific Parties (PMISP).
+
+On September 27, 2023 at 10:00 a.m. Eastern Daylight Time (EDT), Dr. Taby Ahsan, the Acting
+Chair, called the meeting to order. The DFO, Ms. Marie DeGregorio, made administrative remarks,
+conducted roll call, invited the CTGTAC members and consultants to introduce themselves, and
+then read the Conflict of Interest (COI) statement into the public record. There was one conflict-of-
+interest waiver issued for the participation of Dr. Jun Li, a temporary voting member under 18 U.S.
+Code Section 208 in connection with this meeting. During the open session, the CTGTAC
+members, consultants, applicant, guest speakers, FDA speakers and staff, and public speakers all
+participated via Zoom web conference.
+
+Dr. Celia Witten, Deputy Director of CBER, provided FDA Opening Remarks followed by brief
+Questions & Answers (Q&A).
+
+Following the Q&A, Dr. Rosa Sherafat-Kazemzadeh, Clinical Team Leader in CBER’s Office of
+Therapeutic Products (OTP), gave the FDA overview titled, “FDA Overview of BLA 125782,
+debamestrocel (MSC-NTF) for Treatment of Amyotrophic Lateral Sclerosis (ALS).”
+
+Following the FDA overview, time was allowed for clarifying Q&A between the committee and Dr.
+Sherafat-Kazemzadeh.
+
+Following the Q&A on FDA presentation, Dr. Evan Snyder, Director of the Center for Stem Cells
+and Regenerative Medicine at Sanford Children's Health Research Center, served as guest speaker
+and gave the presentation titled, “Some Guiding Principles When Contemplating Stem Cell-Based
+Approaches to Neurological Disease.”
+                                                  Page 2 of 5
+                             Food and Drug Administration
+                      Center for Biologics Evaluation and Research
+                                   Summary Minutes
+          75 Cellular, Tissue, and Gene Therapies Advisory Committee Meeting
+            th
+
+                                   September 27, 2023
+
+
+
+After his presentation, time was allowed for clarifying questions and answers between the
+committee and Dr. Snyder. This was followed by a committee break.
+
+Once the committee returned from the break, the applicant team of speakers gave a presentation
+titled, “NurOwn for Treatment of ALS.” The applicant presentations and speakers were as follows:
+
+   Introduction
+   • Stacy Lindborg, Ph.D.
+   • ALS Landscape and Unmet Need – Anthony J. Windebank, M.D.
+   Efficacy
+   • Phase 3 Results – Stacy Lindborg, Ph.D.
+   • Totality of Evidence in Prespecified ALSFRS-R in ≥ 35 Subgroup – Lee-Jen Wei, Ph.D.
+   • Supportive Clinical Evidence – Nathan Staff, M.D., Ph.D.
+   • Supportive Biomarker Evidence – Robert Bowser, Ph.D.
+   • Safety – Kirk Taylor, M.D.
+   • Benefit/Risk–Clinical Perspective – Anthony J. Windebank, M.D.
+
+Following the applicant presentations, time was allowed for clarifying questions and answers
+between the committee and the applicant team of speakers listed above.
+
+The committee was released for a 30-minute lunch. Once the committee returned from lunch, a
+60--minute Open Public Hearing (OPH) session was held from 1:40 p.m. to 2:40 p.m. EDT in
+which 17 pre-registered public speakers made oral remarks; some of the pre-registered public
+speakers also gave PowerPoint presentations. The names of OPH speakers and their remarks may
+be obtained from the transcript posted on the CTGTAC website.
+
+Following the OPH session, there was a brief committee break. Once the committee returned from
+the break, FDA staff gave a presentation titled, “BLA 125782, Application for debamestrocel
+(MSC-NTF) for Treatment of Amyotrophic Lateral Sclerosis (ALS).”
+
+The FDA team of speakers was as follows:
+
+   •   Dr. Tom Finn, BLA Chair and Chemistry, Manufacturing, and Controls Reviewer in OTP
+   •   Dr. Gumei Liu, Clinical Reviewer in OTP
+   •   Dr. Xue (Mary) Lin, Statistical Reviewer in the Office of Biostatistics and
+       Pharmacovigilance
+   •   Dr. Xiaofei Wang, Clinical Pharmacology Reviewer in OTP
+
+Following the FDA speaker presentations, time was allowed for the committee to ask the FDA
+speakers some clarifying questions and receive answers, followed by a brief committee break.
+
+
+                                                 Page 3 of 5
+                                Food and Drug Administration
+                         Center for Biologics Evaluation and Research
+                                      Summary Minutes
+             75 Cellular, Tissue, and Gene Therapies Advisory Committee Meeting
+               th
+
+                                      September 27, 2023
+
+
+Once the committee returned from the break, the Acting Chair began the committee discussion,
+voting, and vote explanation portion of the meeting. The committee started their discussion,
+addressing the first question that was displayed, followed by the DFO conducting the voting
+process on a single voting question. This was followed by a vote explanation by each voting
+member. Committee members then addressed the third question.
+
+The following applicant proposed indication and three questions from FDA were presented to the
+committee:
+
+Please note that the indication within the questions is different from the indication within the FDA
+Briefing Document. The applicant modified their proposed indication on September 22, 2023,
+from “treatment of amyotrophic lateral sclerosis (ALS)” to “treatment of mild to moderate
+amyotrophic lateral sclerosis (ALS).”
+
+Questions for the Committee:
+
+1. Please discuss the data presented in support of effectiveness for treatment of mild to moderate
+amyotrophic lateral sclerosis (ALS), including consideration of the mechanisms of action proposed
+by the sponsor, biomarker data including neurofilament data, and the clinical data.
+
+Summary of Discussion: The committee members commented that if relying on data from a single
+clinical trial, the efficacy data should be compelling, and it was not in this case, for either proposed
+indication. While the Applicant proposed a floor effect concept, it appeared that the placebo floor
+effect was indistinguishable. The biomarker data was confounding for the single trial. There was
+also concern expressed regarding the safety data with more deaths reported in the treatment arm.
+The committee concurred that the mechanism of action for this product was not clear.
+
+2. Voting question: Do the data presented demonstrate substantial evidence of effectiveness for
+treatment of mild to moderate ALS?
+
+a) Yes
+b) No
+c) Abstain
+
+The committee voting results were as follows: 1 Yes; 17 No; 1 Abstain.
+
+At the completion of the voting, while the voting results were displayed, the DFO read the voting
+results for the public record.
+
+Following the vote, the Acting Chair asked that all voting members explain their individual voting
+decisions, which they provided.
+
+After the Committee discussion, voting, and vote explanation, committee members were asked to
+
+                                                    Page 4 of 5
+                              Food and Drug Administration
+                       Center for Biologics Evaluation and Research
+                                    Summary Minutes
+           75 Cellular, Tissue, and Gene Therapies Advisory Committee Meeting
+             th
+
+                                    September 27, 2023
+
+
+address the third question.
+
+
+3. If the answer to Question 2 is no, please discuss potential designs for a trial to demonstrate
+substantial evidence of effectiveness for MSC-NTF for the treatment of mild to moderate ALS.
+
+Summary of Discussion: The members who voted no agreed that the product should be well
+characterized and uniformly manufactured to ensure quality control issues discussed at this meeting
+will be addressed. Data to support a better understanding of the proposed mechanism of actions of
+anti-inflammatory or neurotrophic factor secretion would also improve trial design. The committee
+suggested a targeted population, measuring fewer biomarkers, perhaps limited to the validated ones,
+and identifying a quality-of-life instrument that could serve as a key secondary endpoint.
+
+Following the committee discussion, Dr. Celia Witten thanked the committee and provided closing
+remarks.
+
+The Acting Chair then handed the meeting over to the DFO who adjourned the meeting on
+September 27, 2023, at 6:37 p.m. EDT.
+
+Additional meeting information and details may be obtained from the transcript, which may be
+viewed at:
+Cellular, Tissue, and Gene Therapies Advisory Committee September 27, 2023 Meeting
+Announcement - 09/27/2023 | FDA.
+
+The recording of the webcast of the meeting may be viewed at:
+https://youtube.com/live/c-2-33ipSbk.
+
+
+
+
+                                                  Page 5 of 5
+

@@ -1,0 +1,300 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+Final Summary Minutes of the Psychopharmacologic Drugs Advisory Committee Meeting
+                                     June 4, 2024
+
+
+Location: FDA White Oak Campus, Building 31 Conference Center, the Great Room.
+
+Topic: The Committee discussed new drug application 215455, for midomafetamine (MDMA)
+capsules, submitted by Lykos Therapeutics, for the proposed indication of treatment of post-
+traumatic stress disorder. The Committee was asked to discuss the overall benefit-risk profile of
+the product, including the potential public health impact.
+
+These summary minutes for the June 4, 2024 meeting of the Psychopharmacologic Drugs
+Advisory Committee of the Food and Drug Administration were approved on July 26, 2024.
+
+I certify that I attended the June 4, 2024 meeting of the Psychopharmacologic Drugs Advisory
+Committee of the Food and Drug Administration and that these minutes accurately reflect what
+transpired.
+
+
+
+__________ _/s/_________________                  _________/s/______________________
+Joyce Frimpong, PharmD                            Rajesh Narendran, MD
+Designated Federal Officer, PDAC                  Chairperson, PDAC
+
+
+
+
+                                            Page 1 of 6
+June 4, 2024
+Psychopharmacologic Drugs Advisory Committee Meeting
+
+   Summary Minutes of the Psychopharmacologic Drugs Advisory Committee Meeting
+                                   June 4, 2024
+
+The Psychopharmacologic Drugs Advisory Committee (PDAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research met on June 4, 2024. FDA and invited
+participants attended the meeting at FDA White Oak Campus, Building 31 Conference Center,
+the Great Room (Rm. 1503), 10903 New Hampshire Avenue, Silver Spring, Maryland. The
+public participated via an online teleconferencing and/or video conferencing platform, and the
+meeting presentations were heard, viewed, captioned, and recorded through an online video
+conferencing platform. Prior to the meeting, the members and temporary voting members were
+provided the briefing materials from the FDA and Lykos Therapuetics. The meeting was called
+to order by Rajesh Narendran, MD (Chairperson). The conflict of interest statement was read
+into the record by Joyce Frimpong, PharmD (Designated Federal Officer). There were
+approximately 1,570 people in attendance. There were 32 Open Public Hearing (OPH) speaker
+presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The Committee discussed new drug application 215455, for midomafetamine (MDMA)
+capsules, submitted by Lykos Therapeutics, for the proposed indication of treatment of post-
+traumatic stress disorder. The Committee was asked to discuss the overall benefit-risk profile of
+the product, including the potential public health impact.
+
+Attendance:
+Psychopharmacologic Drugs Advisory Committee Members Present (Voting): Walter S.
+Dunn, MD, PhD; Jess G. Fiedorowicz, MD, PhD; Satish Iyengar, PhD; Rajesh Narendran, MD
+(Chairperson); Kim O. Witczak (Consumer Representative)
+
+Psychopharmacologic Drugs Advisory Committee Members Not Present (Voting): Jessica
+K. Jeffrey, MD, MPH, MBA; Sonia L. Krishna, MD, FAPA, DFAACAP; Patrick S. Thomas, Jr.,
+MD, PhD
+
+Psychopharmacologic Drugs Advisory Committee Member Present (Non-Voting): Carla M.
+Canuso, MD (Industry Representative)
+
+Temporary Members (Voting): Maryann Amirshahi, PharmD, MD, MPH, PhD; Melissa
+Decker Barone, PsyD (via video conferencing platform); John B. Hertig, PharmD, MS, CPPS,
+FASHP, FFIP; Paul E. Holtzheimer, MD (via video conferencing platform); Elizabeth Joniak-
+Grant, PhD (Patient Representative); Mary E. Rebo, PharmD, MBA, CPPS
+
+FDA Participants (Non-Voting): Peter Stein, MD; Teresa Buracchio, MD; Tiffany R.
+Farchione, MD; Jean Kim, MD; Peiling Yang, PhD; Cynthia LaCivita, PharmD
+
+Designated Federal Officer (Non-Voting): Joyce Frimpong, PharmD
+
+
+
+
+                                              Page 2 of 6
+June 4, 2024
+Psychopharmacologic Drugs Advisory Committee Meeting
+
+Open Public Hearing Speakers: Brian Dempsey (Wounded Warrior Project); Robert M. Grant;
+Russell Hausfeld; Casey Tylek; Nese Devenot; Michael Abrams (Public Citizen); Jonathan
+Alpert (American Psychiatric Association); Ifetayo Harvey (People of Color Psychedelic
+Collective); Kayla Greenstein; Brett Waters (Reason for Hope); Brian Pace; Joe Welker; Beau
+Witka; Derandoria (Deran) Young (Black Therapist Rock and Veterans Mental Heal Leadership
+Coalition); Naomi Mathis (Disabled American Veterans); Jonathan Lubecky; Sehrish Sayani;
+Pedram Daraeizadeh; Manish Agrawal (Sunstone Therapies); Sasha Sisko; Adriane Fugh-
+Berman and Quaid Guarino, MS (PharmedOut); Matthew J. Baggott; Nick Browne; Loree
+Sutton; Meaghan Buisson (statement read by Sarah Grosh); Scott Chesney; Cristina Pearse; Ari
+Polivy; Ron Blake; Katherine Cassell (Veterans of the Foreign Wars of the United States); Lori
+Tipton; Debbie Plotnick (Mental Health America)
+_____________________________________________________________________________
+The agenda was as follows:
+
+  Call to Order and Introduction of Committee     Rajesh Narendran, MD
+                                                  Chairperson, PDAC
+
+  Conflict of Interest Statement                  Joyce Frimpong, PharmD
+                                                  Designated Federal Officer, PDAC
+
+  FDA Opening Remarks                             Tiffany R. Farchione, MD
+                                                  Director
+                                                  Division of Psychiatry (DP)
+                                                  Office of Neuroscience (ON)
+                                                  Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                         Lykos Therapeutics
+
+  Introduction                                    Amy Laverdiere, MBA
+                                                  Program Lead
+                                                  Lykos Therapeutics
+
+  Unmet Need                                      Jerry Rosenbaum, MD
+                                                  Director
+                                                  Center for the Neuroscience of Psychedelics
+                                                  Massachusetts General Hospital Research Institute
+                                                  Stanley Cobb Professor Psychiatry
+                                                  Harvard Medical School
+
+  Efficacy                                        Berra Yazar-Klosinski, PhD
+                                                  Chief Scientific Officer
+                                                  Lykos Therapeutics
+
+  Safety                                          Alia Lilienstein, MD, MPH
+                                                  Senior Medical Director
+                                                  Lykos Therapeutics
+
+
+
+
+                                                Page 3 of 6
+June 4, 2024
+Psychopharmacologic Drugs Advisory Committee Meeting
+
+  APPLICANT PRESENTATIONS (CONT.)
+
+  Clinician Perspective                         Kelley O’Donnell, MD, PhD
+                                                Director of Clinical Training
+                                                NYU Langone Center for Psychedelic Medicine
+                                                Research Assistant Professor of Psychiatry
+                                                NYU School of Medicine
+
+  Benefit-Risk                                  Berra Yazar-Klosinski, PhD
+
+  Clarifying Questions to Applicant
+
+  BREAK
+
+  FDA PRESENTATIONS
+
+  Introduction: Product and Disease             David Millis, MD
+  Background                                    Clinical Reviewer
+                                                DP, ON, OND, CDER, FDA
+
+  Regulatory History and Key Issues             David Millis, MD
+
+  Efficacy Analysis                             Olivia Morgan, PhD
+                                                Statistical Reviewer
+                                                Division of Biometrics I (DBI)
+                                                Office of Biostatistics (OB)
+                                                Office of Translational Sciences (OTS)
+                                                CDER, FDA
+
+  Safety Analysis                               David Millis, MD
+
+  Risk Management for Midomafetamine            Victoria Sammarco, PharmD, MBA
+                                                Risk Management Analyst
+                                                Division of Risk Management (DRM)
+                                                Office of Medication Error Prevention and Risk
+                                                Management (OMEPRM)
+                                                Office of Surveillance and Epidemiology (OSE)
+                                                CDER, FDA
+
+  Clarifying Questions to FDA
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+
+  BREAK
+
+  Questions to the Committee/Committee
+  Discussion
+
+  ADJOURMENT
+
+
+                                              Page 4 of 6
+June 4, 2024
+Psychopharmacologic Drugs Advisory Committee Meeting
+
+______________________________________________________________________________
+Questions to the Committee:
+
+   1. DISCUSSION: Discuss the evidence of effectiveness for midomafetamine for the
+      treatment of post-traumatic stress disorder (PTSD). Consider the following:
+          • The potential impact of functional unblinding on interpretability of efficacy
+             results
+          • The durability of effect
+          • The role of psychological intervention in the treatment paradigm
+
+       Committee Discussion: Committee members commented that functional unblinding and
+       expectation bias may have played a role in the efficacy results. Some suggested that a
+       larger sample size would have been better to understand the issues. Some members also
+       stated that the expectation bias and functional bias in itself could account for what was
+       seen in the clinical trial in the short term. Regarding durability, many committee
+       members stated that there were too many confounders involved to tease the small data set
+       apart. Regarding psychological intervention, committee members suggested the study
+       should have been structured as a two-by-two factor design and some expressed concerns
+       that the therapist unblinding and the therapist power of suggestibility could have
+       influenced the results. Please see the transcript for details of the Committee’s discussion.
+
+   2. DISCUSSION: Discuss whether the available data are adequate to characterize the safety
+      of midomafetamine for the treatment of PTSD.
+          • Consider the limited data collected on events deemed positive, favorable, or
+             neutral that would inform abuse potential for this program and the lack of data
+             from some clinical laboratory tests.
+          • Comment on whether you have concerns about other safety issues and what
+             additional data would be useful to characterize the safety of midomafetamine.
+
+       Committee Discussion: Committee members suggested additional data to include, but
+       not limited to, comorbid populations. Committee members also mentioned the risks of
+       boundary violations, hyponatremia, and cited the lack of lab data, and the lack of
+       QTc/cardiac data. Others stated that the abuse liability was felt to be inadequate and
+       concerns about diversion were raised, but some committee members stated that this could
+       be addressed in phase 4 studies. Please see the transcript for details of the Committee’s
+       discussion.
+
+   3. DISCUSSION: Discuss the potential for patient impairment to occur with
+      midomafetamine and the potential for serious harm that may result due to the impairment.
+
+       Committee Discussion: Committee members stated that there was risk of patient
+       impairment that could last longer than what was studied and that a REMS would be
+       needed to mitigate this risk. Others expressed concerns regarding the down titration of
+       other psychotropic drugs, as it could add to a patient’s impairment risk. Some suggested
+       an overnight stay would be better. Committee members wanted greater clarity on
+
+
+
+                                              Page 5 of 6
+June 4, 2024
+Psychopharmacologic Drugs Advisory Committee Meeting
+
+       monitoring and discharge criteria for patients (e.g., heartrate, blood pressure, and other
+       safety precautions). Please see the transcript for details of the Committee’s discussion.
+
+   4. DISCUSSION: Discuss whether the proposed risk mitigation is sufficient to mitigate
+      serious harm resulting from patient impairment. Include any additional safety monitoring
+      conditions needed for the safe administration and monitoring of midomafetamine if
+      approved for PTSD.
+
+       Committee Discussion: Many Committee members agreed that the risk was not fully
+       characterized. To minimize this risk, Committee members suggested the following: two
+       licensed therapists, training by an independent outside group rather than the sponsor,
+       adequate medical training for the therapist so they are aware of the cardiovascular and
+       medical risks that may occur, the presence of a medical staff onsite, safety reporting
+       mechanisms outside of the treatment centers, and the addition of more comprehensive
+       ECG, laboratory, and vital sign data. Duration of impairment should also be more fully
+       characterized. Please see the transcript for details of the Committee’s discussion.
+
+   5. VOTE: Do the available data show that the drug is effective in patients with
+      posttraumatic stress disorder?
+
+       Vote Result: Yes: 2             No: 9            Abstain: 0
+
+       Committee Discussion: A majority of the panel voted “No”, that the data did not show
+       that midomafetamine was effective in patients with PTSD. Many stated that the functional
+       unblinding, the lack of management of expectation bias and selection bias limited the
+       interpretability of the efficacy analyses. Those who voted “Yes”, did note that there were
+       concerns for the functional unblinding and expectation bias which could have reduced
+       the effect size that were reported; however, they could not overlook the fact the effect
+       sizes were large. Please see the transcript for details of the Committee’s discussion.
+
+   6. VOTE: Do the benefits of midomafetamine with FDA’s proposed risk evaluation and
+      mitigation strategy (REMS) outweigh its risks for the treatment of patients with PTSD?
+
+       Vote Result: Yes: 1             No: 10           Abstain: 0
+
+       Committee Discussion: A majority of the Committee agreed that the benefits of
+       midomafetamine with FDA’s REMS do not outweigh its risks for the treatment of patients
+       with PTSD. Many Committee members commented that there needed to be more efficacy
+       and safety data. The one Committee member who voted "Yes”, stated that the REMS,
+       while not perfect, is on the right track to address the safety concerns. In addition, this
+       member commented on the need for new PTSD treatment options for this population.
+       Please see the transcript for details of the Committee’s discussion.
+
+
+ The meeting was adjourned at approximately 5:45 PM
+
+
+
+                                               Page 6 of 6
+

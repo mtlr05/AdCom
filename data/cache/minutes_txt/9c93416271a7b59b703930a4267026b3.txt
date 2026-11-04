@@ -1,0 +1,317 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+          Final Summary Minutes of the Endocrinologic and Metabolic Drugs
+                          Advisory Committee Meeting
+                                  November 14, 2019
+
+Location: The FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.
+1503), 10903 New Hampshire Avenue, Silver Spring, Maryland.
+
+Topic: The committee discussed supplemental new drug application 202057/S-035, for
+VASCEPA (icosapent ethyl) capsules for oral administration, sponsored by Amarin Pharma Inc.,
+for the following proposed indication: to reduce the risk of cardiovascular events, as an adjunct
+to statin therapy in adult patients with elevated triglycerides levels (135 mg/dL or greater) and
+other risk factors for cardiovascular disease, based on the results of a clinical study entitled “A
+Study of AMR101 to Evaluate Its Ability to Reduce Cardiovascular Events in High Risk Patients
+With Hypertriglyceridemia and on Statin. The Primary Objective is to Evaluate the Effect of 4
+g/Day AMR101 for Preventing the Occurrence of a First Major Cardiovascular Event.
+(REDUCE-IT)” (available at: https://clinicaltrials.gov/ct2/show/NCT01492361).
+
+These summary minutes for the November 14, 2019 meeting of the Endocrinologic and
+Metabolic Drugs Advisory Committee of the Food and Drug Administration were approved on
+December 20, 2019.
+
+I certify that I attended the November 14, 2019 meeting of the Endocrinologic and Metabolic
+Drugs Advisory Committee of the Food and Drug Administration and that these minutes
+accurately reflect what transpired.
+
+
+
+____________ _/s/_______________                  _____________/s/_______________
+Jay R. Fajiculay, PharmD                          Kenneth D. Burman, MD
+Acting Designated Federal Officer, EMDAC          Chairperson, EMDAC
+
+
+
+
+                                            Page 1 of 7
+             Final Summary Minutes of the Endocrinologic and Metabolic Drugs
+                             Advisory Committee Meeting
+                                  November 14, 2019
+
+The Endocrinologic and Metabolic Drugs Advisory Committee (EMDAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research met on November 14, 2019, at the
+FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903
+New Hampshire Avenue, Silver Spring, Maryland. Prior to the meeting, the members and
+temporary voting members were provided the briefing materials from the FDA and Amarin
+Pharma, Inc. The meeting was called to order by Kenneth D. Burman, MD (Chairperson). The
+conflict of interest statement was read into the record by Jay R. Fajiculay, PharmD (Acting
+Designated Federal Officer). There were approximately 275 people in attendance. There were
+23 Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committee discussed supplemental new drug application 202057/S-035, for
+VASCEPA (icosapent ethyl) capsules for oral administration, sponsored by Amarin Pharma Inc.,
+for the following proposed indication: to reduce the risk of cardiovascular events, as an adjunct
+to statin therapy in adult patients with elevated triglycerides levels (135 mg/dL or greater) and
+other risk factors for cardiovascular disease, based on the results of a clinical study entitled “A
+Study of AMR101 to Evaluate Its Ability to Reduce Cardiovascular Events in High Risk Patients
+With Hypertriglyceridemia and on Statin. The Primary Objective is to Evaluate the Effect of 4
+g/Day AMR101 for Preventing the Occurrence of a First Major Cardiovascular Event.
+(REDUCE-IT)” (available at: https://clinicaltrials.gov/ct2/show/NCT01492361).
+
+Attendance:
+Endocrinologic and Metabolic Drugs Advisory Committee Members Present (Voting):
+Kenneth D. Burman, MD (Chairperson); Elizabeth Chrischilles, PhD, MS; James de Lemos,
+MD; Susan S. Ellenberg, PhD; Marvin A. Konstam, MD; Cecilia C. Low Wang, MD; Anna
+McCollister-Slipp (Consumer Representative); Connie Newman, MD; Thomas J. Weber, MD;
+Jack A. Yanovski, MD, PhD
+
+Endocrinologic and Metabolic Drugs Advisory Committee Members Not Present (Voting):
+Michael Blaha, MD, MPH
+
+Endocrinologic and Metabolic Drugs Advisory Committee Member Present (Non-Voting):
+Gary Meininger, MD (Industry Representative)
+
+Temporary Members (Voting): Erica Brittain, PhD; Walter K. Kraft, MD; Martha Nason, PhD;
+Thomas L. Ortel, MD, PhD; Philip Posner, PhD (Patient Representative; via phone); Peter W. F.
+Wilson, MD
+
+FDA Participants (Non-Voting): Lisa Yanoff, MD; John Sharretts, MD; Iffat Nasrin
+Chowdhury, MD; Roberto Crackel, PhD; Yunzhao Ren, MD, PhD
+
+
+
+                                            Page 2 of 7
+November 14, 2019
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+Acting Designated Federal Officer (Non-Voting): Jay R. Fajiculay, PharmD
+
+Open Public Hearing Speakers: Seth Baum, MD (statement read by Eliot Brinton, MD);
+Alberico Catapano (University of Milano; statement read by Eliot Brinton, MD); Stephanie Fox-
+Rawlings, PhD (National Center for Health Research); David B. Shirley (Affordable Veterinary
+Care); Sudhir Bansal, MD; Ronald D’Agostino, DO; Antonio Gotto Jr., MD (statement read by
+Eliot Brinton, MD); Eliot Brinton, MD; R. Preston Mason, PhD, MBA; Kari Uusinarkaus, MD;
+Mark Pollner; Henry Kinsun Lui, MD; Joyce L. Ross, MSN, CRNP; Taylor Kelly (Aimed
+Alliance); Edward Goodman; Anna Norton, MS (DiabetesSisters); William S. Weintraub, MD
+(MedStar Washington Hospital Center; MedStar Health); William Schatzman; John M. Clymer
+(National Forum for Heart Disease & Stroke Prevention); Matthew Budoff, MD; Steven
+Edelman, MD (Taking Control Of Your Diabetes; statement read by Robyn Sembera); Andrea
+Baer (Mended Hearts, INC); Neil Sheth, MD
+_____________________________________________________________________________
+
+The agenda was as follows:
+
+  Call to Order and Introduction of          Kenneth D. Burman, MD
+  Committee                                  Chairperson, EMDAC
+
+  Conflict of Interest Statement             Jay Fajiculay, PharmD
+                                             Designated Federal Officer (Acting), EMDAC
+
+  FDA Introductory Remarks                   John Sharretts, MD
+                                             Deputy Director (Acting)
+                                             Division of Metabolism and Endocrinology
+                                             Products (DMEP)
+                                             Office of Drug Evaluation II (ODE-II)
+                                             Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                    Amarin Pharma Inc.
+
+  Introduction                               Rebecca Juliano, PhD
+                                             Senior Vice President
+                                             Clinical Research and Development
+                                             Amarin Pharma Inc.
+
+  Medical Need                               Michael Miller, MD
+                                             Professor of Cardiovascular Medicine, Epidemiology &
+                                             Public Health
+                                             Director, Center for Preventative Cardiology
+                                             University of Maryland School of Medicine
+
+  REDUCE-IT Clinical Efficacy and            Deepak L. Bhatt, MD, MPH
+  Safety Data                                Executive Director of Interventional Cardiovascular
+                                             Programs, Professor
+                                             Brigham and Women’s Hospital
+                                             Harvard Medical School
+
+
+
+
+                                               Page 3 of 7
+November 14, 2019
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+  APPLICANT PRESENTATIONS (CONT.)
+
+  Clinical Perspectives                      Ann Marie Navar, MD, PhD
+                                             Assistant Professor of Cardiology
+                                             Duke University School of Medicine
+                                             Duke Clinical Research Institute
+
+  Closing Remarks                            Rebecca Juliano, PhD
+
+  Clarifying Questions to Applicant
+
+  BREAK
+
+  FDA PRESENTATIONS
+
+  Introduction and Clinical Review           Iffat Nasrin Chowdhury, MD
+                                             Medical Officer
+                                             DMEP, ODE-II, OND, CDER, FDA
+
+  Statistical Review of Efficacy             Roberto Crackel, PhD
+                                             Statistical Reviewer
+                                             Division of Biometrics II
+                                             Office of Biostatistics
+                                             Office of Translational Sciences (OTS), CDER FDA
+
+  Clinical Pharmacology Review               Yunzhao Ren, MD, PhD
+                                             Clinical Pharmacology Reviewer
+                                             Division of Clinical Pharmacology II
+                                             Office of Clinical Pharmacology, OTS, CDER, FDA
+
+  Additional Statistical Analysis and        Roberto Crackel, PhD
+  Conclusions
+
+  Clinical Review of Safety                  Iffat Nasrin Chowdhury, MD
+
+  Clarifying Questions to FDA
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee Discussion
+
+  BREAK
+
+  Questions to the Committee/Committee Discussion
+
+  ADJOURNMENT
+______________________________________________________________________________
+
+
+
+                                               Page 4 of 7
+November 14, 2019
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+Questions to the Committee:
+
+1. DISCUSSION: Please discuss your interpretation of the efficacy results from the
+   REDUCE-IT Trial, including the following:
+
+        a. Overall strengths and limitations of the data, including the use of a single trial to
+           support a first-in-class cardiovascular outcomes indication and the robustness of the
+           results
+        b. Confidence in the trial outcomes when considering the mineral oil placebo
+        c. Magnitude/clinical relevance of the observed treatment effect
+        d. Components of the primary composite endpoint or secondary endpoints, including the
+           robustness of the data to support an indication for CV death
+
+    Committee Discussion: The committee discussed that the use of a single trial offered limited
+    data to support icosapent ethyl for an indication for primary prevention of cardiovascular
+    outcomes, but was generally sufficient to support an indication for secondary prevention of
+    cardiovascular outcomes. Regarding mineral oil, the committee had differing opinions
+    regarding its use as a placebo. Some committee members suggested that FDA presented an
+    acceptable analysis of the effects of mineral oil on statin absorption, while others were more
+    conservative in their assessment of mineral oil as a non-inert placebo in the REDUCE-IT
+    trial. Although one committee member suggested that additional studies assess for
+    accumulation of mineral oil in adipose tissue in REDUCE-IT placebo patients might be
+    informative, no committee member concluded that mineral oil invalidated the trial result.
+    There was a general consensus that the clinical trial results identified a clinical benefit of
+    icosapent ethyl in patients with established cardiovascular disease, which was less robust in
+    magnitude in lower risk patients. Please see the transcript for details of the committee’s
+    discussion.
+
+2. DISCUSSION: Please discuss your level of concern about the new safety findings
+   (increased risk of atrial fibrillation/atrial flutter and bleedings events) from the REDUCE-IT
+   trial and whether labeling can reasonably manage these risks.
+
+    Committee Discussion: The committee discussed that there was an observed risk of atrial
+    fibrillation and atrial flutter in patients from the REDUCE-IT trial; however, it was
+    recognized that these risks can be monitored and treated. Furthermore, the committee noted
+    that rate of atrial fibrillation and atrial flutter was higher in patients who had experienced
+    these events in the past. The committee also discussed concerns regarding increased
+    bleeding events seen in icosapent ethyl compared to the placebo. One member stated that it
+    would be interesting to see if those who experienced major bleeding had also experienced
+    minor bleeding events. It was also noted that drugs that increase the risk of bleeding are
+    generally discontinued prior to surgery, and information regarding the time before surgery
+    and duration of discontinuation after surgery should be identified. The committee generally
+    agreed that labeling can be a component to managing these risks, but that additional options
+    such as post-marketing surveillance and the use of real-world data should also be
+    considered. Please see the transcript for details of the committee’s discussion.
+
+
+
+                                               Page 5 of 7
+November 14, 2019
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+3. DISCUSSION: The applicant has proposed an indication for cardiovascular risk reduction
+   in adult patients with triglyceride levels greater than or equal to 135 mg/dL and additional
+   risk factors for cardiovascular disease (CVD), without regard for age, diabetes status, or
+   adequacy of low-density lipoprotein (LDL-C) control. Please discuss the population –
+   beyond the subset of patients with established CVD – for whom you believe the data from
+   REDUCE-IT provide evidence of cardiovascular risk benefit, addressing the following
+   factors:
+       • Age
+       • Diagnosis of diabetes
+       • Additional risk factors for CVD
+       • Plasma LDL-C concentration
+       • Plasma triglyceride concentration
+       • Intensity of statin therapy
+       • Any other factor you believe is important
+
+    Committee Discussion: The committee held various views regarding the patient population
+    that the REDUCE-IT trial provided evidence of cardiovascular risk benefit for. The majority
+    of members stated that the indication should include a patient population defined by either
+    the inclusion criteria or the characteristics of enrolled patients in the REDUCE-IT study,
+    while others stated that there is not enough information presently available to include the
+    primary prevention group. Regarding the factors listed above, the committee did not have a
+    consensus on age requirements; however, the committee generally recommended that
+    patients have a diagnosis of diabetes, have a LDL-C of less than 100 mg/dL, have a
+    triglyceride concentration greater than 150-200 mg/dL, and be on maximally tolerated statin
+    therapy. Please see the transcript for details of the committee’s discussion.
+
+4. VOTE: Has the applicant provided sufficient evidence of efficacy and safety to support the
+   approval of Vascepa for an indication to reduce the risk of cardiovascular events?
+
+        a. If yes, provide your recommendations regarding the indicated population and
+           components of the primary endpoint to include in labeling.
+
+        b. If no, provide your rationale and comment on what additional data would be needed to
+           support approval.
+
+    Vote Result:        Yes: 16                 No: 0           Abstain: 0
+
+    Committee Discussion: The committee unanimously voted “Yes”, that the applicant provided
+    sufficient evidence of efficacy and safety to support the approval of Vascepa for an indication
+    to reduce the risk of cardiovascular events. The committee stated that the REDUCE-IT trial
+    showed a benefit of cardiovascular risk reduction for patients with established
+    cardiovascular disease. The majority of members stated that the clinical trial supports
+    icosapent ethyl approval for a wider population for secondary prevention; however, they
+    noted that the product should be limited to the criteria outlined in the REDUCE-IT study for
+    primary prevention. The committee restated their concerns for increased risk of bleeding,
+    and some members stated that post-marketing studies should be conducted to identify patient
+
+
+                                               Page 6 of 7
+November 14, 2019
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    populations at an increased risk for bleeding. Please see the transcript for details of the
+    committee’s discussion.
+
+The meeting was adjourned at approximately 4:30 p.m.
+
+
+
+
+                                               Page 7 of 7
+

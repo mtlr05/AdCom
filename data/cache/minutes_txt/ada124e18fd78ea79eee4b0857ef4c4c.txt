@@ -1,0 +1,388 @@
+                                Food and Drug Administration
+                           Center for Drug Evaluation and Research
+
+         Final Summary Minutes of the Joint Meeting of the Nonprescription Drugs
+   Advisory Committee and the Obstetrics, Reproductive and Urologic Advisory Committee
+                                     May 9-10, 2023
+
+Location: Please note that due to the impact of this COVID-19 pandemic, all meeting participants
+will be joining this advisory committee meeting via an online teleconferencing platform
+
+Topic: The committees discussed supplemental new drug application 017031/S-041, for OPILL
+(norgestrel) Tablet, 0.075 mg, submitted by Laboratoire HRA Pharma. OPILL is proposed for
+nonprescription use as a once daily oral contraceptive to prevent pregnancy.
+
+These summary minutes for the May 9-10, 2023 joint meeting of the Nonprescription Drugs
+Advisory Committee (NDAC) and the Obstetrics, Reproductive and Urologic Advisory Committee
+(ORUDAC) of the Food and Drug Administration were approved on July 13, 2023.
+
+I certify that I attended the May 9-10, 2023 joint meeting of the NDAC and the ORUDAC of the
+Food and Drug Administration and that these minutes accurately reflect what transpired.
+
+
+
+__________ ___/s/__________________               ________________/s/ ____________________
+Moon Hee V. Choi, PharmD                          Maria C. Coyle, PharmD, FCCP, BCPS,
+                                                  BCACP, CLS
+Designated Federal Officer, NDAC                  Chairperson, NDAC
+
+
+
+
+                                            Page 1 of 8
+         Final Summary Minutes of the Joint Meeting of the Nonprescription Drugs
+        Advisory Committee and the Obstetrics, Reproductive and Urologic Committee
+                                     May 9-10, 2023
+
+The Nonprescription Drugs Advisory Committee (NDAC) and the Obstetrics, Reproductive and
+Urologic Advisory Committee (ORUDAC) of the Food and Drug Administration, Center for Drug
+Evaluation and Research, met jointly on May 9-10, 2023. The meeting presentations were heard,
+viewed, captioned, and recorded through an online teleconferencing platform. Prior to the meeting,
+the members and temporary voting members were provided the briefing materials from the FDA and
+Laboratoire HRA Pharma. The meeting was called to order by Maria C. Coyle PharmD, FCCP,
+BCPS, BCACP, CLS (Chairperson). The conflict of interest statement was read into the record by
+Moon Hee V. Choi, PharmD (Designated Federal Officer). There were approximately 441 people
+online on May 9, 2023 and 426 people online on May 10, 2023. There was a total of 37 Open Public
+Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda:
+The committees discussed supplemental new drug application (sNDA) 017031/S-041, for OPILL
+(norgestrel) Tablet, 0.075 mg, submitted by Laboratoire HRA Pharma. OPILL is proposed for
+nonprescription use as a once daily oral contraceptive to prevent pregnancy.
+
+Attendance:
+
+Nonprescription Drugs Advisory Committee Members Present (Voting): Elma D. Baron, MD;
+Maria C. Coyle, PharmD, FCCP, BCPS, BCACP, CLS (Chairperson); Paul Pisarik, MD, MPH,
+FAAFP; Katalin E. Roth, JD, MD; Leslie Walker-Harding, MD, FAAP, FSAHM
+
+Nonprescription Drugs Advisory Committee Members Not Present (Voting): Stephen C.
+Clement, MD; Diane B. Ginsburg, PhD, MS, RPh, FASHP; Tonya S. King, PhD; Ruth M. Parker,
+MD, MACP
+
+Nonprescription Drugs Advisory Committee Member (Non-Voting): Mark E. Dato, MD, PhD
+(Industry Representative)
+
+Obstetrics, Reproductive and Urologic Advisory Committee Members Present (Voting):
+Margery Gass, MD; Pamela A. Shaw, PhD
+
+Obstetrics, Reproductive and Urologic Advisory Committee Member Not Present (Voting):
+Joseph P. Alukal, MD; Jennifer T. Anger, MD, MPH; Julia S. Barthold, MD; Esther Eisenberg, MD,
+MPH; Tianjing Li, MD, MHS, PhD; Michael K. Lindsay, MD, MPH; Mary B. Munn, MD; Gloria
+Richard-Davis, MD, MBA, NCMP, FACOG; Kristine E. Shields, MSN, DrPH (Consumer
+Representative)
+
+Obstetrics, Reproductive and Urologic Advisory Committee Member Present (Non-Voting):
+Michelle C. Fox, MD, MPH, FACOG (Industry Representative)
+
+
+                                              Page 2 of 8
+Temporary Members (Voting): Deborah K. Armstrong, MD; Cynthia Baur, PhD; Abbey
+Berenson, MD, PhD; Elise D. Berlan, MD, MPH, FAAP; Jesse Catlin, PhD; Kathryn Curtis, PhD;
+Eve Espey, MD, MPH; Sabrina Everhart (Patient Representative); Jolie Haun, PhD, EdS; Suzanne B.
+Robotti (Acting Consumer Representative)
+
+FDA Participants (Non-Voting): Peter Stein, MD; Karen Minerve Murry, MD; Pamela Horn, MD;
+Christine P. Nguyen, MD; Audrey Gassman, MD; Barbara Cohen, MPA; Jeena Jacob, MD, PharmD;
+Anandi Kotak, MD, MPH
+
+Designated Federal Officer (Non-Voting): Moon Hee V. Choi, PharmD
+
+Open Public Hearing Speakers Present: Kristyn Brandi, MD, MPH, FACOG (American College
+of Obstetricians and Gynecologists); Sophia Phillips (National Center for Health Research); Don
+Downing, RPh; David C. Spangler (Consumer Healthcare Products Association); Shelby Davies
+(North American Society for Pediatric and Adolescent Gynecology); Lisa B. Haddad, MD, MPH;
+Miriam Yeung; Rebecca "Bex" Heimbrock; Jamie L. Manson, M.Div. (Catholics for Choice);
+Caroline Renko (PharmedOut); Kelly Blanchard (Ibis Reproductive Health); Angela Maske
+(Advocates for Youth); Daniel Grossman, MD; Brianna Nelson; Sriha P. Srinivasan;
+Krishna Upadhya, MD, MPH (Planned Parenthood Federation of America); Robin Watkins, CNM,
+WHNP-BC (Health Care at Power to Decide); Susan Muskett (Pro-Family Women); Lin-Fan Wang,
+MD, MPH; Jacquiline Blanco, BSN, RNC; Jamila Perritt, MD, MPH, FACOG (Physicians for
+Reproductive Health); Miyana Evans (Black Women for Wellness); Nicole Martin (Indigenous
+Women Rising); Monifa Bandele, MHS (MomsRising); Megan L. Kavanaugh, DrPH (Guttmacher
+Institute); Komkwuan Paruchabutr, DNP, FNP-BC, WHNP-BC, CNM, FACNM (The National
+Association of Nurse Practitioners in Women’s Health); Dyvia Huitron; Charlene Bencomo (Bold
+Futures NM); Clare Coleman (National Family Planning & Reproductive Health Association); Leng
+Leng Chancey (9to5, National Association of Working Women); Atsuko Koyama, MD, MPH
+(Doctors for America); Candace Gibson (National Latina Institute for Reproductive Justice); Cherie
+Priya Dhar, MD (Society for Adolescent Health and Medicine); Victoria Nichols (Free the Pill
+Coalition); Sally Rafie, PharmD, BCPS, APh, NCMP, FCCP, FCPhA (Birth Control Pharmacist);
+Lauren Schenk; Pratima Gupta, MD, MPH
+
+The agenda was as follows:
+
+Day 1: May 9, 2023
+
+  Call to Order and Introduction of            Maria C. Coyle, PharmD, FCCP, BCPS,
+  Committee                                    BCACP, CLS
+                                               Chairperson, NDAC
+
+  Conflict of Interest Statement               Moon Hee V. Choi, PharmD
+                                               Designated Federal Officer, NDAC
+
+  FDA Opening Remarks                          Pamela Horn, MD
+                                               Director
+                                               Division of Nonprescription Drugs II (DNPD II)
+                                               Office of Nonprescription Drugs (ONPD)
+                                               Office of New Drugs (OND), CDER, FDA
+
+                                            Page 3 of 8
+APPLICANT PRESENTATIONS                          Laboratoire HRA Pharma
+
+Introduction                                     Helene Guillard, PharmD
+                                                 Global Rx-To-OTC Switch Director
+                                                 Women’s Health
+                                                 HRA Pharma / Perrigo
+
+Need for Nonprescription Oral                    Carolyn Westhoff, MD, MSc
+Contraception                                    Sarah Billinghurst Solomon Professor of
+                                                 Reproductive Health
+                                                 Department of Obstetrics and Gynecology
+
+                                                 Professor of Population and Family Health and
+                                                 Epidemiology
+                                                 Mailman School of Public Health
+                                                 Columbia University
+
+Consumer Behavior Studies and ACCESS             Russell Bradford, MD, MSPH
+Study Design                                     Senior Vice President, Medical Affairs
+                                                 PEGUS Research
+Self-Selection Results
+
+Clinical Interpretation of Potential Risk of     Pamela Goodwin, MD, MSc, FRCPC, FASCO
+POP Use in Breast Cancer Survivors               Senior Scientist
+                                                 Lunenfeld-Tanenbaum Research Institute
+                                                 Sinai Health System
+
+                                                 Professor of Medicine
+                                                 University of Toronto
+
+ACCESS Actual Use Adherence Results              Irene Laurora, PharmD
+                                                 Senior Director, Scientific Affairs
+                                                 Women’s Health, HRA Pharma / Perrigo
+
+Expert Interpretation of ACCESS                  Arthur Stone, PhD
+Adherence Results                                Professor of Psychology, Economics, and Public
+                                                 Policy Director
+                                                 Dornsife Center for Self-Report Science
+
+                                                 University of Southern California
+                                                 Emeritus Distinguished Professor of Psychiatry &
+                                                 Behavioral Science
+                                                 Stony Brook University School of Medicine
+
+ACCESS Actual Use Adherence                      Irene Laurora, PharmD
+Conclusions
+
+
+
+
+                                               Page 4 of 8
+APPLICANT PRESENTATIONS (CONT.)
+
+Clinical Interpretation of ACCESS Results      Stephanie Sober, MD, MSHP
+and Considerations Around Effectiveness        Global Lead Medical Affairs
+                                               Women’s Health, HRA Pharma / Perrigo
+
+Clinical Perspective                           Anna Glasier, MD, Dsc, OBE
+                                               Professor at Edinburgh and London Universities
+
+Clarifying Questions
+
+LUNCH
+
+FDA PRESENTATIONS
+
+Introduction                                   Pamela Horn, MD
+
+Efficacy and Safety of Prescription            Anandi Kotak, MD, MPH
+Norgestrel Tablet and Implications for the     Medical Officer
+Nonprescription Setting                        Division of Urology, Obstetrics, and Gynecology
+                                               Office of Rare Diseases, Pediatrics, Urologic and
+                                               Reproductive Medicine, OND, CDER, FDA
+
+Consumer Behavior Studies (Label               Barbara Cohen, MPA
+Comprehension, Targeted Breast Cancer          Social Science Analyst
+Self-Selection and Self-Selection in           DNPD II, ONPD, OND, CDER, FDA
+ACCESS)
+
+ACCESS Study Use Phase: Design and             Jeena Jacob, MD, PharmD
+Conduct                                        Medical Officer
+                                               DNPD II, ONPD, OND, CDER, FDA
+
+
+ACCESS Study Use Phase: Use and                Rongmei Zhang, PhD
+Adherence Endpoints                            Mathematical Statistician
+                                               Division of Biometrics VII
+                                               Office of Biostatistics
+                                               Office of Translational Sciences, CDER, FDA
+
+ACCESS Study Use Phase: Secondary              Jeena Jacob, MD, PharmD
+Endpoints and Safety Findings from
+Uncontrolled and Postmarketing Data
+
+Summary                                        Pamela Horn, MD
+
+Clarifying Questions
+
+BREAK
+
+
+                                             Page 5 of 8
+  OPEN PUBLIC HEARING
+
+  ADJOURNMENT
+
+Day 2: May 10, 2023
+
+  Call to Order and Introduction of             Maria C. Coyle, PharmD, FCCP, BCPS,
+  Committee                                     BCACP, CLS
+
+  Conflict of Interest Statement                Moon Hee V. Choi, PharmD
+
+  Charge to the Committee                       Pamela Horn, MD
+
+  Questions to the Committee/Committee
+  Discussion
+
+  LUNCH
+
+  Questions to the Committee/Committee
+  Discussion (cont.)
+
+  ADJOURNMENT
+
+Questions to the Committees:
+
+1. DISCUSSION: Discuss whether consumers are likely to use norgestrel tablet in a safe and
+   effective manner, considering the possibility of unintended pregnancy with incorrect use.
+
+   Specifically, discuss whether consumers are likely to adhere to taking the tablet daily at the same
+   time of day, based solely upon the nonprescription labeling without any assistance from a
+   healthcare professional.
+
+       Please discuss for the following consumer populations:
+
+       a.   General population of females of reproductive potential
+       b.   Adolescents
+       c.   Those with limited literacy
+       d.   Those using concomitant products (e.g., anticonvulsant drugs) that may interact with and
+            reduce efficacy of norgestrel tablet
+
+   Committee Discussion: The committee members agreed that the general population of females
+   of reproductive potential are likely to use norgestrel tablet in a safe and effective manner in the
+   over-the-counter (OTC) setting, primarily based on broad clinical experience as well as the data
+   presented. In regard to the challenges with adherence and the possibility of unintended
+   pregnancies with incorrect use, these committee members expressed that consumers are likely to
+   use norgestrel in a safe and effective manner without assistance from a healthcare provider.
+   Many committee members agreed adolescents are likely to use norgestrel tablet in a safe and
+   effective manner and noted the following: 1) adolescents are healthier compared to other women
+
+
+                                             Page 6 of 8
+   of reproductive ability 2) adolescents are at the highest risk of unintended pregnancy 3) absolute
+   risk of harm from inappropriate use is low in the population and 4) lack of access is the greatest
+   barrier. One committee member stated that they were concerned that adolescents and older
+   consumers would not understand the instructions for use and that this could result in less
+   effective use. The general discussion between the committee members involving consumers with
+   limited literacy agreed that this group is at the highest risk for unintended pregnancy and thus,
+   would make these consumers a priority group to benefit from availability in a nonprescription
+   setting, adding that for this group, the main barrier is also lack of access. The committee
+   members did not comment on the limitations of the data in the application to inform likelihood of
+   safe and effective use in consumers, including those with limited literacy. Lastly, the committee
+   members did not express concern with norgestrel use in a safe and effective manner in
+   consumers that are using concomitant products that may interact with and reduce efficacy of
+   norgestrel tablet. These committee members stated that: 1) consumers using concomitant
+   products would more than likely be in the care of a provider 2) generally, very few medications
+   have been shown to lower the effectiveness of contraceptives and 3) there is no major concern for
+   those individuals using multiple hormonal contraceptives simultaneously as it is not uncommon
+   to prescribe two hormonal contraceptives at one time. Please see the transcript for details of the
+   Committees’ discussion.
+
+2. DISCUSSION: The ACCESS Study- Use Phase had improbable dosing in approximately 1/3 of
+   participants. If FDA were to recommend the Applicant conduct another Actual Use Study
+   (AUS), what changes to the AUS design would the committee recommend? Consider the
+   following:
+
+       a. e-diary design
+       b. e-diary recall period
+       c. Participant compensation structure
+       d. Methods ensuring e-diary data entry instructions are adequately comprehended
+       e. Incorporating a pathway allowing participants to ask a healthcare provider (HCP) before
+          deciding study drug purchase
+       f. Study questions to determine timing of when participants spoke to an HCP during the
+          study
+
+   Committee Discussion: The committee members stressed the importance of not delaying the
+   availability of norgestrel tablets in the nonprescription setting. However, if FDA were to
+   recommend the Applicant conduct another AUS, the following changes to the study design were
+   recommended: 1) resources available for participants to seek support with the e-diary platform
+   or product itself 2) a study to include daily reminders requiring data entry at the time of dose and
+   thus alleviating the issues around missing data or over-reporting 3) qualitative inquiry from
+   study staff/nurse interviewers 4) reevaluating how best to compensate participants in a manner
+   that is not based on the number of direct entries and 5) an opportunity for “teach back”
+   mechanism to confirm participants understood the e-diary data instructions. Some members
+   recommended piloting the e-diary to ensure usability before the study conduct. Please see the
+   transcript for details of the Committees’ discussion.
+
+3. DISCUSSION: Discuss whether there is sufficient information to conclude consumers in the
+   following scenarios will appropriately deselect from norgestrel use:
+
+       a. Consumers with a history of or current diagnosis of breast cancer
+
+                                             Page 7 of 8
+       b. Consumers with abnormal vaginal bleeding of undiagnosed etiology
+       c. Consumers who are using other hormonal contraceptives
+
+   Committee Discussion: The committee members agreed that there is sufficient information to
+   conclude consumers with a history of or current diagnosis of breast cancer would not select to
+   use norgestrel. One committee member noted that anyone with a history of breast cancer would
+   almost always be under the care of an oncologist and would be cognizant to avoid hormonal
+   drugs and that even in women with hormone-receptor-negative breast cancer, this product would
+   be something that an oncologist would stress to avoid.
+
+   In regard to the potential for norgestrel use in consumers with abnormal vaginal bleeding, one
+   committee member stated that one of the most frequent reasons for seeing a women’s healthcare
+   provider is abnormal bleeding, and thus, this committee member did not have concerns that
+   serious causes of abnormal vaginal bleeding would be missed. Another committee member
+   agreed by noting that 72% of participants from the study did report to a healthcare professional
+   for unexplained vaginal bleeding and the committee found that reassuring.
+
+   The committee members did not have concerns that consumers who are using other hormonal
+   contraceptives would appropriately select not to use norgestrel. Please see the transcript for
+   details of the Committees’ discussion.
+
+4. VOTE: Is there adequate information to conclude that consumers will be likely to use norgestrel
+   tablet properly, such that the benefits of making this available for nonprescription use (access
+   without needing to interact with a healthcare professional), exceed the risks (such as inadequate
+   adherence leading to contraceptive failure with unintended pregnancy, use of the medication by
+   consumers with a contraindication to its use, failure to see a health care professional when
+   appropriate)?
+
+       a. If you voted ‘No’, explain why you believe the risks outweigh the benefits for
+          nonprescription use, and what additional data would be necessary to support approval.
+
+       b. If you voted ‘Yes’, explain why you believe the benefits outweigh the risks for
+          nonprescription use.
+
+   Vote Result:         Yes: 17         No: 0         Abstain: 0
+
+   Committee Discussion: The committee members unanimously agreed that there was adequate
+   information to conclude that the majority of consumers will be likely to use norgestrel tablet
+   properly, such that the benefits of making this available for nonprescription use exceed the risks.
+   Committee members agreed that there were some concerns on the data in adolescents and
+   limited literacy populations, but that the rare and unlikely harms are outweighed by the overall
+   benefits of improved access without the current barriers and restrictions, and opined that
+   nonprescription availability will have a tremendous positive impact to women and public health.
+   Please see the transcript for details of the Committees’ discussion.
+
+The meeting was adjourned at approximately 1:47 p.m. ET.
+
+
+
+
+                                             Page 8 of 8
+

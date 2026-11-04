@@ -1,0 +1,397 @@
+                              Food and Drug Administration
+                         Center for Drug Evaluation and Research
+
+ Summary Minutes of the Anesthetic and Analgesic Drug Products Advisory Committee
+    and the Drug Safety and Risk Management Advisory Committee Joint Meeting
+                                   July 26, 2017
+
+Location: FDA White Oak Campus, Building 31 Conference Center, The Great Room (Rm.
+1503), 10903 New Hampshire Ave, Silver Spring, Maryland.
+
+Topic: On July 26, 2017, the committees new drug application (NDA) 209653, for oxycodone
+hydrochloride extended-release oral tablets, submitted by Intellipharmaceutics Corp., with the
+proposed indication of management of moderate-to-severe pain when a continuous around-the-
+clock analgesic is needed for an extended period of time. The product has been formulated with
+properties intended to deter abuse, and the applicant has submitted data to support these abuse-
+deterrent properties for this product. The committees will be asked to discuss the overall risk-
+benefit profile of the product, and whether the applicant has demonstrated abuse-deterrent
+properties for their product that would support labeling.
+
+These summary minutes for the July 26, 2017, joint meeting of the Anesthetic and Analgesic
+Drug Products Advisory Committee and the Drug Safety and Risk Management Advisory
+Committee of the Food and Drug Administration were approved on August 12, 2017.
+
+I certify that I attended the July 26, 2017, joint meeting of the Anesthetic and Analgesic Drug
+Products Advisory Committee and the Drug Safety and Risk Management Advisory Committee
+of the Food and Drug Administration and that these minutes accurately reflect what transpired.
+
+
+
+______________/s/_____________________                    _______________/s/_____________
+Moon Hee V. Choi, PharmD                                  Raeford E. Brown, Jr., MD, FAAP
+Acting Designated Federal Officer, AADPAC                 Chairperson, AADPAC
+
+
+
+
+                                          Page 1 of 8
+July 26, 2017
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+  Summary Minutes of the Anesthetic and Analgesic Drug Products Advisory Committee
+     and the Drug Safety and Risk Management Advisory Committee Joint Meeting
+                                    July 26, 2017
+
+The following is an internal report (which has not been reviewed) of the joint meeting of the
+Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee, held on July 26, 2017. A verbatim transcript will be
+available in approximately six weeks, sent to the Division of Anesthesia, Analgesia, and
+Addiction Products, the Office of Surveillance and Epidemiology, and posted on the FDA
+website at:
+https://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/AnestheticAndA
+nalgesicDrugProductsAdvisoryCommittee/ucm536646.htm and
+https://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/DrugSafetyandR
+iskManagementAdvisoryCommittee/ucm536632.htm.
+
+All external requests for the meeting transcript should be submitted to the CDER Freedom of
+Information Office.
+
+
+The Anesthetic and Analgesic Drug Products Advisory Committee (AADPAC) and the Drug
+Safety and Risk Management Advisory Committee (DSaRM) of the Food and Drug
+Administration, Center for Drug Evaluation and Research, met on July 26, 2017, at the FDA
+White Oak Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New
+Hampshire Avenue, Silver Spring, Maryland. Prior to the meeting, the members and temporary
+voting members were provided the briefing materials from the FDA and Intellipharmaceutics
+Corp. The meeting was called to order by Raeford E. Brown, Jr., MD, FAAP (Chairperson). The
+conflict of interest statement was read into the record by Moon Hee Choi, PharmD (Acting
+Designated Federal Officer). There were approximately 75 people in attendance. There were
+eight Open Public Hearing (OPH) speaker presentations.
+
+Issue: The committees discussed new drug application (NDA) 209653, for oxycodone
+hydrochloride extended-release oral tablets, submitted by Intellipharmaceutics Corp., with the
+proposed indication of management of moderate-to-severe pain when a continuous around the
+clock analgesic is needed for an extended period of time. The product has been formulated with
+properties intended to deter abuse, and the applicant has submitted data to support these abuse-
+deterrent properties for this product. The committees were asked to discuss the overall risk-
+benefit profile of the product, and whether the applicant has demonstrated abuse-deterrent
+properties for their product that would support labeling.
+
+Attendance:
+
+Anesthetic and Analgesic Drug Products Advisory Committee Members Present (Voting):
+Raeford E. Brown, Jr., MD, FAAP (Chairperson); David S. Craig, PharmD; Jeffrey L. Galinkin,
+MD, FAAP; Jennifer G. Higgins, PhD (Consumer Representative); Ronald S. Litman, DO; Mary
+Ellen McCann, MD, MPH; Abigail B. Shoben, PhD; Kevin L. Zacharoff, MD, FACIP, FACPE,
+FAAP; Lonnie Zeltzer, MD
+
+
+                                                 Page 2 of 8
+July 26, 2017
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+
+Anesthetic and Analgesic Drug Products Advisory Committee Members Present (Non-
+Voting): W. Joseph Herring, MD, PhD (Industry Representative)
+
+Anesthetic and Analgesic Drug Products Advisory Committee Members Not Present
+(Voting): Brian T. Bateman, MD, MSc; Anita Gupta, DO, PharmD
+
+Drug Safety and Risk Management Advisory Committee Members Present (Voting):
+Laurel A. Habel, MPH, PhD; Steven B. Meisel, PharmD; Suzanne B. Robotti (Consumer
+Representative); Christopher H. Schmid, PhD; Soko Setoguchi, MD, DrPh; Terri L. Warholak,
+PhD, RPh, FAPhA
+
+Drug Safety and Risk Management Advisory Committee Members Not Present (Voting):
+Kelly Besco, PharmD, FISMP, CPPS; Denise M. Boudreau, PhD, RPh; Niteesh K. Choudhry,
+MD, PhD; Anne-Michelle Ruha, MD, FACMT; Almut Winterstein, RPh, PhD, FISPE
+(Chairperson)
+
+Drug Safety and Risk Management Advisory Committee Member Not Present (Non-
+Voting): Linda Scarazzini, MD, RPh (Industry Representative)
+
+Temporary Members (Voting): Cynthia Arfken, PhD; Melinda Campopiano, MD; Tobias
+Gerhard, BSPharm, PhD, FISPE; Elizabeth A. Joniak-Grant, PhD (Patient Representative);
+Richard Kline, PhD; John Mendelson, MD; Lewis S. Nelson, MD; Scott Novak, PhD, MSc
+
+FDA Participants (Non-Voting): Sharon Hertz, MD; Ellen Fields, MD, MPH; Judy Staffa,
+PhD, RPh; James Tolliver, PhD
+
+Acting Designated Federal Officer (Non-Voting): Moon Hee V. Choi, PharmD
+
+Open Public Hearing Speakers: Megan Polanin, PhD (National Center for Health Research
+Cancer Prevention and Treatment Fund); Dan Cohen (Abuse Deterrent Coalition); Charlie
+Cichon (National Association of Drug Diversion Investigators); Fred Wells Brason II (Project
+Lazarus); Bob Twillman, PhD, FAPM (Academy of Integrative Pain Management, formerly
+American Academy of Pain Management); Michael Johnson, MD; Sidney Wolfe (Public
+Citizen); Edwin Thompson (Pharmaceutical Manufacturing Research Service, Inc.)
+
+The agenda was as follows:
+
+Call to Order and Introduction of          Raeford E. Brown, Jr., MD, FAAP
+Committee                                  Chairperson, AADPAC
+
+Conflict of Interest Statement             Moon Hee V. Choi, PharmD
+                                           Acting Designated Federal Officer, AADPAC
+
+
+
+
+                                                 Page 3 of 8
+July 26, 2017
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+
+FDA Introductory Remarks                   Sharon Hertz, MD
+                                           Director
+                                           Division of Anesthesia, Analgesia, and
+                                           Addiction Products (DAAAP)
+                                           Office of Drug Evaluation II (ODE-II)
+                                           Office of New Drugs (OND), CDER, FDA
+
+APPLICANT PRESENTATIONS                    Intellipharmaceutics Corporation
+
+Introduction                               Isa Odidi, PhD
+                                           Chairman, CEO, co-CSO, and co-Founder
+                                           Intellipharmaceutics Corp.
+
+Need for Abuse-Deterrent Opioid            Richard Dart, MD, PhD
+Analgesics                                 Director, Rocky Mountain Poison and Drug Center
+                                           Professor, University of Colorado
+                                           Executive Director of the RADARS® System
+
+Clinical Pharmacology                      Beatrice Setnik, PhD
+                                           Vice President for Scientific & Medical Affairs
+                                           INC Research, LLC.
+                                           Adjunct Professor
+                                           Department of Pharmacology and Toxicology
+                                           University of Toronto
+
+Category 1 Abuse-Deterrent                 Edward Cone, PhD
+Studies                                    Principal Scientist
+                                           PinneyAssociates
+                                           Bethesda, MD
+                                           Adjunct Professor of Psychiatry and Behavioral Sciences
+                                           (PT)
+                                           Johns Hopkins Medicine
+                                           Baltimore, MD
+
+Public Health Perspective                  Edward Sellers, MD, PhD, FRCPC, FACP
+                                           President and Principal, DL Global Partners Inc.
+                                           Professor Emeritus, Pharmacology, Medicine &
+                                           Psychiatry
+                                           University of Toronto
+
+Clarifying Questions
+
+Break
+
+
+
+
+                                                 Page 4 of 8
+July 26, 2017
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+
+FDA PRESENTATIONS
+
+Need for Human Abuse Potential             James Tolliver, PhD
+Studies for Evaluation of NDA              Pharmacologist
+209-653                                    Controlled Substance Staff
+                                           Office of the Center Director, CDER, FDA
+
+FDA PRESENTATIONS (CONT.)
+
+Utilization Trends of Oxycodone            Jennie Wong, PharmD
+ER and Other Extended-                     Drug Utilization Analyst
+Release/Long-Acting Opioid                 Division of Epidemiology II
+Analgesics, 2012-2016                      Office of Pharmacovigilance and Epidemiology
+                                           Office of Surveillance and Epidemiology
+                                           CDER, FDA
+
+Excipients in Oral Opioid                  Ellen Fields, MD, MPH
+Analgesics and IV Abuse – A                Deputy Director
+Regulatory Perspective                     DAAAP, ODE II, OND, CDER, FDA
+
+Clarifying Questions
+
+GUEST SPEAKER PRESENTATION
+
+Excipient Harms and Tampering of Nabarun Dasgupta, MPH, PhD
+Opioid Analgesics                Epidemiologist
+                                 Injury Prevention Research Center
+                                 Department of Epidemiology
+                                 Eshelman School of Pharmacy
+                                 University of North Carolina
+                                 Chapel Hill, NC
+
+Clarifying Questions
+
+Lunch
+
+Open Public Hearing
+
+Charge to the Committee                    Sharon Hertz, MD
+
+Questions to the Committee/
+Committee Discussion
+
+BREAK
+
+
+
+                                                 Page 5 of 8
+July 26, 2017
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+Questions to the Committee/
+Committee Discussion
+
+ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: The Applicant submitted only Category 1 (in vitro) studies to support
+   labeling of Oxycodone HCl ER tablets for abuse deterrence, and is seeking labeling for
+   abuse-deterrent properties only for the IV route of abuse. The product contains excipients
+   that are intended to deter abuse by other routes. Discuss whether it is appropriate to consider
+   labeling this product for abuse-deterrent properties for a single route without a complete
+   assessment of all relevant routes of abuse.
+
+    Committee Discussion: The majority of the committee agreed that it was not appropriate to
+    consider labeling this product with abuse-deterrent properties for a single route without a
+    complete assessment of all relevant routes of abuse. The majority of the committee also
+    agreed Category 2 and Category 3 studies are necessary to complete the assessment of
+    abuse-deterrent properties. The committee agreed with the need for the sponsor to conduct
+    further studies in accordance with the Guidance for Industry on Abuse Deterrent Opioids, as
+    the sponsors of the other approved products with labeling for abuse deterrent properties
+    have done. Some committee members agreed that without such a complete assessment,there
+    would likely be confusion among health care providers and patients who might think that the
+    product could deter abuse through other routes of administration. In addition,this could
+    create difficulty for prescribers to determine if there was a risk that the product would be
+    abused only intravenously, and not by other routes. Please see the transcript for details of
+    the committee discussion.
+
+2. DISCUSSION: As presented earlier today, excipients in a drug product must have a
+   purpose, and many oral formulations have excipients that pose health risks if injected. As
+   discussed at previous advisory committee meetings, there have been concerns raised that the
+   presence of excipients in abuse-deterrent formulations of products intended for oral use have
+   resulted in additional toxicity to those who abuse these products by non-oral routes. This
+   product contains a nasal irritant, SLS, and a blue dye, that, according to the Applicant, are
+   intended to deter abuse by the nasal and oral routes, however, no data have been provided to
+   support these claims.
+
+        a. Discuss any concerns you may have regarding this product and the presence of
+           excipients that have been included to deter abuse.
+
+        b. Discuss whether it is acceptable to include excipients in this product that increase the
+           potential risk to those who may abuse the drug via certain non-IV routes of abuse, and
+           that have not been shown or are not intended to contribute to the proposed IV abuse-
+           deterrent claim being sought by the Applicant.
+
+
+
+
+                                                 Page 6 of 8
+July 26, 2017
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+        c. Discuss whether it is possible to determine an acceptable level of risk for excipients
+           that may be toxic by unintended routes of administration for this product?
+
+    Committee Discussion: The majority of the committee members agreed that there were
+    concerns regarding the safety and the potential toxicity that may be caused by the excipients
+    that have been included to deter abuse. Some committee members commented that some of
+    the excipients in this product act as active pharmacological agents and dose-response data
+    should be required like with other active pharmacologic ingredients. Additionally, most
+    committee members had major concerns regarding the effects the blue dye would have when
+    ingested and used in large amounts, and stated the need for long term data on various body
+    sizes as well as how it will affect the GI system. Some committee members expressed
+    concerns about the lack of data on whether the blue dye excipient would actually deter
+    abuse, and pointed out that it may attract abusers. One committee member suggested the
+    need for data examining tolerability to the increased viscosity of this product among patients
+    who use it orally as directed. One committee member expressed concerns that it was
+    inappropriate to use blue dye to stain and shame abusers, noting that addiction is a mental
+    illness. Overall, the committee noted that there has been no assessment for benefit or harm
+    of the blue dye when taken orally or when abused nasally or intravenously, and that there is
+    no evidence of proven deterrent effect of the blue dye. Please see the transcript for details of
+    the committee discussion.
+
+3. DISCUSSION: Although the Applicant is not currently seeking a nasal or oral abuse-
+   deterrent claim, discuss the type of data that would be necessary to support a claim that blue
+   dye has deterrent effects for the intravenous, nasal, or oral routes of abuse for this product.
+   Discuss if it is acceptable to predict intranasal or oral abuse-deterrent effects from Category 1
+   studies alone for this product.
+
+    Committee Discussion: The majority of the committee stated that it was not acceptable to
+    predict intranasal or oral abuse-deterrent effects from Category 1 studies alone for this
+    product and agreed on the need for Category 2 and 3 studies. These committee members
+    also agreed that the best way to evaluate abuse-deterrent properties would be to use the
+    guidance provided by the FDA. Some committee members suggested the use of dose-
+    response curves and drug liking studies., It was recommended that the Sponsor conduct
+    Category 1-like studies examining the use of household chemicals other than water for the
+    removal of the blue dye from the skin., It was also suggested that opioid users be interviewed
+    and focus groups be used to document attitudes and opinions regrading whether or not the
+    blue dye might have deterrent effects for the intravenous, nasal, or oral routes of abuse for
+    this product. Other committee members suggested studying how this product actually
+    deterred abuse in potential users and current opioid abusers. Please see the transcript for
+    details of the committee discussion.
+
+4. VOTE: Has the Applicant demonstrated that oxycodone extended-release tablets have
+   properties that can be expected to deter abuse by the IV route of administration?
+
+    Vote Result:         Yes:     4       No: 19           Abstain: 0
+
+
+
+                                                 Page 7 of 8
+July 26, 2017
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+    Committee Discussion: The majority of the committee agreed that the Applicant did not
+    demonstrate that oxycodone extended-release tablets have properties that can be expected to
+    deter abuse by the IV route of administration. Some committee members who voted “Yes”
+    noted that they voted based on the strict interpretation of the question and not in the full
+    context of drug product. Some committee members who voted “Yes” also noted that it can
+    be expected to deter abuse because of the difficulty in syringabillity of the drug product since
+    it becomes highly viscous. Please see the transcript for details of the committee discussion.
+
+5. VOTE: Are there sufficient data for this product to support inclusion of language regarding
+   abuse-deterrent properties in the product label for the IV route of administration?
+
+    Vote Result:         Yes:     0       No: 23           Abstain: 0
+
+    Committee Discussion: The committee unanimously agreed that there are not sufficient data
+    for this product to support inclusion of language regarding abuse-deterrent properties in the
+    product label for the IV route of administration. The majority of committee members agreed
+    that Category 2 and 3 studies as well as human safety data are needed to make a
+    determination on labeling this drug product as abuse deterrent. Please see the transcript for
+    details of the committee discussion.
+
+6. VOTE: Should this drug product, Oxycodone HCl ER tablets, be approved?
+
+    Vote Result:         Yes:     1       No: 22           Abstain: 0
+
+    Committee Discussion: The majority of the committee agreed that the product, Oxycodone
+    HCL ER tablets, should not be approved. The majority of the committee agreed that safety
+    and efficacy data for patient oral use, as well as in reference to all routes of abuse are
+    needed to approve Oxycodone HCl ER tablets. The committee member who voted “Yes”
+    stated that despite concerns with the blue dye, he did not believe that this drug is any less
+    safe than what is currently on the market. Please see the transcript for details of the
+    committee discussion.
+
+The meeting was adjourned at approximately 4:43 p.m.
+
+
+
+
+                                                 Page 8 of 8
+

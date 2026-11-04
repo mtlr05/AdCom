@@ -1,0 +1,358 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+
+            Final Summary Minutes of the Endocrinologic and Metabolic Drugs
+                            Advisory Committee Meeting
+
+                                      September 21, 2023
+
+Location: All meeting participants will be joining this advisory committee meeting via an online
+teleconferencing platform.
+
+Topic: The Committee discussed the safety and efficacy of ITCA 650 (exenatide in DUROS
+device), a drug-device combination product that is the subject of a new drug application (NDA)
+submitted by Intarcia Therapeutics, Inc. (Intarcia) (NDA 209053), for the proposed indication, as
+an adjunct to diet and exercise, to improve glycemic control in adults with type 2 diabetes
+mellitus. CDER is holding this meeting pursuant to a March 24, 2023, letter from the Chief
+Scientist of FDA, Dr. Namandjé N. Bumpus, wherein she granted Intarcia’s request under 21
+CFR 12.32(b)(3)(ii) for a public hearing before an advisory committee in lieu of a formal
+evidentiary hearing. Intarcia requested a public hearing before an advisory committee on
+CDER’s proposal to refuse approval of Intarcia’s NDA for ITCA 650 (see Docket No. FDA-
+2021-N-0874).
+
+
+These summary minutes for September 21, 2023 of the Endocrinologic and Metabolic Drugs
+Advisory Committee meeting of the Food and Drug Administration were approved on December
+13, 2023.
+
+
+
+I certify that I attended the September 21, 2023 meeting of the Endocrinologic and Metabolic
+Drugs Advisory Committee (EMDAC) of the Food and Drug Administration and that these
+minutes accurately reflect what transpired.
+
+
+
+
+__________/s/____________________                   ________/s/___________________
+LaToya Bonner, PharmD                               Cecilia C. Low Wang, MD
+Designated Federal Officer, EMDAC                   Chairperson, EMDAC
+
+
+
+
+                                           Page 1 of 7
+September 21, 2023
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+             Final Summary Minutes of the Endocrinologic and Metabolic Drugs
+                             Advisory Committee Meeting
+
+                                         September 21, 2023
+
+The Endocrinologic and Metabolic Drugs Advisory Committee (EMDAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research, met on September 21, 2023. The
+meeting presentations were heard, viewed, captioned, and recorded through an online video
+conferencing platform. Prior to the meeting, the members and temporary voting members were
+provided the briefing materials from the FDA and Intarcia Therapeutics (an i2o Business Unit)
+(Intarcia). The meeting was called to order by Cecilia C. Low Wang, MD (Chairperson). The
+conflict of interest statement was read into the record by LaToya Bonner, PharmD (Designated
+Federal Officer). There were approximately 2091 people online. There was a total of 17 Open
+Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda:
+
+The Committee discussed the safety and efficacy of ITCA 650 (exenatide in DUROS device), a
+drug-device combination product that is the subject of a new drug application (NDA) submitted
+by Intarcia (NDA 209053), for the proposed indication as an adjunct to diet and exercise to
+improve glycemic control in adults with type 2 diabetes mellitus. CDER held this meeting
+pursuant to a March 24, 2023, letter from the Chief Scientist of FDA, Dr. Namandjé N. Bumpus,
+wherein she granted Intarcia’s request under 21 CFR 12.32(b)(3)(ii) for a public hearing before
+an advisory committee in lieu of a formal evidentiary hearing. Intarcia requested a public hearing
+before an advisory committee on CDER’s proposal to refuse approval of Intarcia’s NDA for
+ITCA 650 (see Docket No. FDA-2021-N-0874).
+
+Attendance:
+
+EMDAC Members Present (Voting): Robert Alan Greevy, Jr., PhD; Rita R. Kalyani, MD,
+MHS; Cecilia C. Low Wang, MD (Chairperson); Thomas Wang, MD
+
+EMDAC Members Not Present (Voting): Michael Blaha, MD, MPH; Matthew T. Drake MD,
+PhD
+
+EMDAC Member Present (Non-Voting): Gary Meininger, MD (Industry Representative)
+
+Temporary Members (Voting): Barbara Berney (Patient Representative); Erica Brittain, PhD;
+Kenneth D. Burman, MD; David W. Cooke, MD; Jill P. Crandall, MD; Yadin B. David, EdD,
+PE, CCE (GP); Brendan M. Everett, MD, MPH; Leonid Kagan, PhD; Marvin A. Konstam, MD;
+Kashif M. Munir, MD; Patrick H. Nachman, MD, FASN; Martha Nason, PhD; Connie Newman,
+MD; Thomas J. Weber, MD; and Peter W.F. Wilson, MD
+
+
+
+                                               Page 2 of 7
+September 21, 2023
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+
+
+FDA Participants (Non-Voting): Peter Stein, MD; Hylton Joffe, MD; Lisa Yanoff, MD; John
+Sharretts, MD; Patrick Archdeacon, MD; Michelle Carey, MD; Justin Penzenstadler, PharmD;
+David Wolloscheck, PhD; Edwin Chow, PhD; Wenda Tu, PhD
+
+Designated Federal Officer (Non-Voting): LaToya Bonner, PharmD
+
+Open Public Hearing Speakers Present: William Dirkes, MD; Robert Busch, MD, FACE; Lisa
+Connery, MD; Thomas Blevins, MD; Kelly Kunik; Samir Aurora, MD; Rebecca Delong; Steve
+Edelman; Esther Tarango; Douglas K. Logan; Douglas Scott Denham (Flourish Research);
+Brendan Jones; Ramon Beltran; Marie Romo; Kelly Close (Close Concerns); Michael Abrams,
+PhD (Public Citizen); Richard Wood and Alison Zeng (dQ&A)
+
+The agenda was as follows:
+
+  Call to Order                                              Cecilia Low Wang, MD
+                                                             Chairperson, EMDAC
+
+  Introduction of Committee and Conflict of                  LaToya Bonner, PharmD
+  Interest Statement                                         Designated Federal Officer, EMDAC
+
+  FDA Opening Remarks                                        Patrick Archdeacon, MD
+                                                             Deputy Director
+                                                             Division of Diabetes, Lipid Disorders, and Obesity
+                                                             (DDLO)
+                                                             Office of Cardiology, Hematology, Endocrinology,
+                                                             and Nephrology (OCHEN)
+                                                             Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                                    Intarcia Therapeutics (an i2o Business Unit)
+
+  Introduction                                               Kurt Graves
+                                                             Chairman, President, CEO
+                                                             Intarcia Therapeutics (an i2o Business Unit)
+
+  Clinical Efficacy                                          Daniel Drucker, MD, FRS, FRCPC, OC
+                                                             Senior Scientist
+                                                             Lunenfeld-Tanenbaum Research Institute
+  Clinical Safety                                            Mount Sinai Hospital
+                                                             Professor of Medicine
+                                                             University of Toronto
+
+  1. Acute Kidney Injury (AKI)                               Daniel Drucker, MD, FRS, FRCPC, OC
+
+
+
+
+                                               Page 3 of 7
+September 21, 2023
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+  2. Major Adverse Cardiovascular Events                     Philip Sager, MD, FACC, FAHA, FHRS
+     (MACE)                                                  Adjunct Professor
+                                                             Stanford University School of Medicine
+                                                             Member, Executive Committee
+                                                             Cardiac Safety Research Consortium
+
+  3. Clinical Validation of Device In Vitro Release Kurt Graves
+     (IVR)
+
+  Benefit/Risk & Conclusions                                 Kurt Graves
+
+  BREAK
+
+  FDA PRESENTATIONS
+
+  ITCA 650 (exenatide in DUROS) Device Review                David Wolloscheck, PhD
+  Conclusions                                                Assistant Director
+                                                             Division of Drug Delivery, General Hospital Devices,
+                                                             and Human Factors
+                                                             Office of Gastrorenal, Ob/Gyn, General Hospital and
+                                                             Urology Devices (OHT3)
+                                                             Office of Product Evaluation and Quality (OPEQ)
+                                                             Center for Devices and Radiological Health (CDRH)
+                                                             FDA
+
+  Clinical Pharmacology Assessment of ITCA 650               Edwin Chiu Yuen Chow, PhD
+                                                             Clinical Pharmacology Team Leader
+                                                             Division of Cardiometabolic and Endocrine
+                                                             Pharmacology (DCEP)
+                                                             Office of Clinical Pharmacology (OCP)
+                                                             Office of Translational Sciences (OTS), CDER, FDA
+
+  Overview of Sources of Clinical Data for Efficacy Patrick Archdeacon, MD
+  and Safety                                        Deputy Director
+                                                    DDLO, OCHEN, OND, CDER, FDA
+
+  Efficacy Review of Studies CLP-103 and CLP-                Wenda Tu, PhD
+  105                                                        Statistical Reviewer
+                                                             Division of Biometrics II (DBII)
+                                                             Office of Biostatistics (OB)
+
+  Clinical Safety Presentation and Summary of                Michelle Carey, MD, MPH
+  CDER’s Overall Conclusions                                 Associate Director for Therapeutic Review
+                                                             DDLO, OCHEN, OND
+
+  Clarifying Questions
+
+
+                                               Page 4 of 7
+September 21, 2023
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee
+  Discussion
+
+  BREAK
+
+  Questions to the Committee/Committee
+  Discussion
+
+  ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss your assessment of the safety profile of ITCA 650 and whether the
+   safety profile of the ITCA 650 drug-device combination product has been adequately
+   characterized based on available data:
+      a. with respect to acute kidney injury
+      b. with respect to cardiovascular safety
+      c. with respect to overall safety
+
+    Committee Discussion:
+
+    With respect to acute kidney injury (AKI), Committee members expressed concerns about the
+    imbalance in AKI. Although multiple Committee members noted the low incidence of AKI,
+    there were concerns expressed about this risk being increased while on metformin, or ACE
+    inhibitors, or ARBs, which are all therapies that patients with type 2 diabetes are likely to be
+    taking. One Committee member noted the concerning safety signal for acute kidney injury
+    especially given the fact that the proportion of patients in the trials with renal insufficiency
+    was lower than in trials for other GLP1 receptor agonists. One Committee member noted
+    that the characterization of AKI is limited by the number of events that occurred in the
+    population that was studied: she noted that there appears to be an imbalance that does not
+    favor the drug-device combination product, but that the absolute risk was relatively low. One
+    Committee member stated he had serious concerns about the acute kidney injury signal
+    because the signal was detected in clinical trials with a low proportion of participants with
+    significant chronic kidney disease, leading to a concern that rates of acute kidney injury
+    would be higher in a real-world clinical treatment setting. One Committee member stated
+    that the AKI risk needs to be resolved and indicated this should be done by developing a
+    strategy to mitigate the risk and testing it out.
+
+    Regarding cardiovascular safety, the Committee members expressed concerns about the
+    MACE point estimate being above 1 and overall felt that the cardiovascular safety signal
+    needs to be further investigated before consideration for approval. One Committee member
+    noted that he thinks the sponsor and FDA are in reasonable agreement on the fact that
+    another trial is needed to characterize cardiovascular safety and the only question is whether
+
+                                               Page 5 of 7
+September 21, 2023
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    the trial should be pre-approval or post-approval, a position that was endorsed by another
+    Committee member. One Committee member stated she was “torn” about the cardiovascular
+    signal because the upper bound of the 95% confidence interval of 1.8 is prespecified but
+    noted that “there were quite a few trials that were similar length of follow-up that really did
+    have much better results.” One Committee member noted his participation in previous
+    EMDAC discussion of cardiovascular risk assessment, stating “having been there – it was
+    not the intent to say below 1.8 is a go-home-free card. It’s necessary but not sufficient.”
+    Another Committee member noted that the estimate is substantially in the wrong direction
+    and there is a responsibility to rule out that potential signal of harm.
+
+    In terms of overall safety, the Committee expressed concerns related to AKI and
+    cardiovascular risk, and all-cause mortality was also mentioned. One Committee member
+    stated that her main concern was with marked intra-subject variability in measured levels of
+    exenatide even at timepoints chosen to be “steady-state”, with subsequent impact on risk for
+    GI adverse effects and resulting decreased renal function. A few Committee members
+    expressed concerns about the lack of information about glycemic excursions and rate of
+    hyper- and hypoglycemia with concerns about variability in the release of the drug. One
+    Committee member stated her larger concern is overall safety in that we don’t really have a
+    sense of variability in glucose excursions that may reflect variability in drug delivery.
+    Another Committee member stated that ITCA 650 is different from previous GLP-1 receptor
+    agonists that have demonstrated consistent delivery, so gathering more data would be helpful
+    to address these concerns.
+
+    Please see the transcript for details of the Committee’s discussion.
+
+2. DISCUSSION: Discuss your assessment of the benefit risk balance of ITCA 650 for the
+   indication to improve glycemic control in patients with type 2 diabetes mellitus (T2DM).
+
+    Committee Discussion:
+
+    Regarding the Committee’s assessment of the benefit-risk balance of ITCA 650 for the
+    indication to improve glycemic control in patients with type 2 diabetes, in general, the
+    Committee members felt that the benefits of ITCA 650 did not outweigh the risks. The
+    Committee members expressed general agreement that the product had demonstrated benefit
+    in terms of improved A1C control and weight loss. The Committee members also
+    acknowledged the potential adherence benefit of ITCA 650, which delivers exenatide via an
+    implantable device, but also noted that adherence is a complex problem and there is a lack of
+    evidence for improved adherence with this device. Committee members also commented on
+    the moving testimonies during the open public hearing but noted the availability of other
+    options for type 2 diabetes treatment, including several that reduce cardiovascular risk and
+    risk for kidney outcomes. The Committee members also discussed concerns regarding
+    unresolved safety signals, concerns about the potential for dosing variabilities (e.g.,
+    inconsistent and inaccurate dosing by the device), and concerns about the lack of
+    mechanisms in place to alert the patient or provider about device performance. One
+    Committee member commented that the variable drug delivery was akin to variable
+    adherence with the drug. One Committee member commented that there is a place for ITCA
+    650 or something similar, but the problems with variable delivery would need to be
+
+                                               Page 6 of 7
+September 21, 2023
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    addressed, and it would need to be with more complete information about risk. Please see the
+    transcript for details of the Committee’s discussion.
+
+3. VOTE: Based on the available data has the Applicant demonstrated that the benefits of the ITCA
+   650 drug-device combination product outweigh its risks for the treatment of T2DM?
+          a. If yes, explain your rationale.
+          b. If no, explain your rationale and comment on additional data that could be provided
+              to demonstrate the benefits outweigh the risks.
+
+    Vote Result:        Yes: 0          No: 19          Abstain: 0
+
+    Committee Discussion: The Committee unanimously voted “No”, concluding that, based on
+    available data, the Applicant did not demonstrate that the benefits of the ITCA 650 drug-
+    device combination product outweigh its risks for the treatment of T2DM. The Committee
+    members mentioned uncertainty about AKI and cardiovascular safety, as well as the
+    variability in drug delivery as being the greatest concerns. Additional studies suggested
+    included a cardiovascular and renal outcomes trial with rigorous adjudication of key
+    endpoints using an active comparator (i.e., another GLP-1 receptor agonist) and enrolling
+    more patients with advanced chronic kidney disease (one Committee member proposed
+    studying a patient population with a GFR range of 45 to 75). One Committee member
+    recommended clarifying the question surrounding AKI with an active comparator trial with
+    another GLP-1 agonist, indicating that this could support addressing cardiovascular safety
+    in a post marketing study. Another Committee member similarly recommended a safety study
+    that could be “fairly short” to figure out the best mitigation strategy to reduce adverse
+    kidney effects before undertaking a CVOT. A third Committee member recommended more
+    clinical data to better characterize the potential glycemic variation by means of CGM or
+    other methods and perhaps a short-term trial to assess renal effects and mitigation
+    strategies. A fourth Committee member stated that “While I see the benefits of shorter-term
+    trials focused on specific renal and pharmacokinetic questions, ultimately, I come to the
+    unavoidable conclusion that a larger and more definitive cardiovascular outcomes study is
+    necessary to address both renal and cardiovascular safety, and it would be best to do that in
+    a preapproval setting.” A fifth Committee member recommended a cardiovascular outcomes
+    trial that is specifically focused with prespecified renal outcomes as well, with rigorous
+    adjudication by an independent endpoints committee of kidney specialists. Other suggestions
+    were to include older adults with diabetes, including a run-in period with an injected GLP1
+    receptor agonist to select patient who tolerate the therapy prior to implanting the drug-
+    device combination, more collection of GLP-1 receptor agonist levels to demonstrate release
+    rates, more complete case reporting of adverse events of interest, an assessment of
+    adherence, and use of continuous glucose monitoring. Multiple Committee members
+    endorsed the value of continuous glucose monitoring to provide important data about
+    hypoglycemia and glycemic variability as a means of addressing concerns that the device
+    may be delivering exenatide inconsistently. Please see the transcript for details of the
+    Committee’s discussion.
+
+
+The meeting was adjourned at approximately 5:32 p.m. ET.
+
+
+                                               Page 7 of 7
+

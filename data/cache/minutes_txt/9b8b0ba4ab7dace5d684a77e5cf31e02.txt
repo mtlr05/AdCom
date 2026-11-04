@@ -1,0 +1,314 @@
+                           Food and Drug Administration
+                    Center for Drug Evaluation and Research
+ Final Summary Minutes of the Peripheral and Central Nervous System Drugs Advisory
+                                Committee Meeting
+
+
+Location: FDA and invited participants attended the meeting at FDA White Oak Campus,
+Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New Hampshire Avenue,
+Silver Spring, Maryland. The public participated via an online teleconferencing and/or video
+conferencing platform, and the meeting presentations were heard, viewed, captioned, and
+recorded through an online video conferencing platform.
+
+Topic: The Committee discussed biologics license application 761248, for donanemab solution
+for intravenous infusion, submitted by Eli Lilly and Co., for the treatment of early symptomatic
+Alzheimer’s disease.
+
+These summary minutes for the June 10, 2024 meeting of the Peripheral and Central Nervous
+System Drugs Advisory Committee of the Food and Drug Administration were approved on
+_________________.
+    July 15, 2024
+
+
+I certify that I attended the June 10, 2024 meeting of the Peripheral and Central Nervous System
+Drugs Advisory Committee (PCNS) of the Food and Drug Administration and that these minutes
+accurately reflect what transpired.
+
+
+
+__________ _/s/_________________                     __________ __/s/_______________
+Jessica Seo, PharmD, MPH                             Thomas J. Montine, MD, PhD
+Designated Federal Officer, PCNS                     Chairperson, PCNS
+
+
+
+
+                                            Page 1 of 7
+          Summary Minutes of the Peripheral and Central Nervous System Drugs
+                            Advisory Committee Meeting
+                                    June 10, 2024
+
+The Peripheral and Central Nervous System Drugs Advisory Committee (PCNS) of the Food and
+Drug Administration, Center for Drug Evaluation and Research, met on June 10, 2024. FDA and
+invited participants attended the meeting at FDA White Oak Campus, Building 31 Conference
+Center, the Great Room (Rm. 1503), 10903 New Hampshire Avenue, Silver Spring, Maryland.
+The public participated via an online teleconferencing and/or video conferencing platform, and
+the meeting presentations were heard, viewed, captioned, and recorded through an online video
+conferencing platform. Prior to the meeting, the members and temporary voting members were
+provided the briefing materials from the FDA and Eli Lilly and Company. The meeting was
+called to order by Thomas J. Montine, MD, PhD (Chairperson). The conflict-of-interest
+statement was read into the record by Jessica Seo, PharmD, MPH (Designated Federal Officer).
+There were approximately 2872people in attendance. There was a total of 21 Open Public
+Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda:
+
+The Committee discussed biologics license application 761248, for donanemab solution for
+intravenous infusion, submitted by Eli Lilly and Co., for the treatment of early symptomatic
+Alzheimer’s disease.
+
+Attendance:
+
+Peripheral and Central Nervous System Drugs Advisory Committee Members Present
+(Voting): Merit E. Cudkowicz, MD; Thomas J. Montine, MD, PhD (Chairperson); Tanya
+Simuni, MD, FAAN
+
+Peripheral and Central Nervous System Drugs Advisory Committee Members Not Present
+(Voting): Robert C. Alexander, MD; Liana G. Apostolova, MD, MSc, FAAN; Richard J.
+Kryscio, PhD; David Weisman, MD
+
+Peripheral and Central Nervous System Drugs Advisory Committee Member Present
+(Non-Voting): Paul M. Kirsch (Industry Representative)
+
+Temporary Members (Voting): Cynthia Carlsson, MD, MS; Sarah Dolan (Acting Consumer
+Representative); Nilüfer Ertekin-Taner, MD, PhD; Dean Follmann, PhD; Costantino Iadecola,
+MD; Colette C. Johnston (Patient Representative); Kathleen L. Poston, MD, MS; Daniel Press,
+MD
+
+FDA Participants (Non-Voting): Peter Stein, MD; Teresa Buracchio, MD; Paul Lee, MD; Sally
+Yasuda, MS, PharmD; Kevin Krudys, PhD
+
+
+                                            Page 2 of 7
+June 10, 2024
+Peripheral and Central Nervous System Drugs Advisory Committee Meeting
+
+Designated Federal Officer (Non-Voting): Jessica Seo, PharmD, MPH
+
+Open Public Hearing Speakers Present: Dan Clinton; Rafik and Patricia Bishara; Sue and Jim
+Sirois; Joanne Pike, DrPH (Alzheimer’s Association); Nina Zeldes, PhD (Public Citizen’s Health
+Research Group); John F. O'Connor; George Vradenburg (UsAgainstAlzheimer’s); Judy Butler,
+MS and Adriane Fugh-Berman, MD (PharmedOut); Michelle Papka, PhD; Ian N. Kremer, JD
+(LEAD Coalition); Sandra Carlino; James Taylor (Voices of Alzheimer's); James Schmidt;
+Kathryn Rigby; Curtis P. Schreiber, MD (Missouri Memory Center); Marwan Sabbagh, MD,
+FAAN, FANA; Susan Peschin, MHS (Alliance for Aging Research); John Dwyer (Global
+Alzheimer's Platform Foundation); Myra Solano Garcia; Tom Phillips; Maria D. Gates
+
+The agenda was as follows:
+
+  9:00 a.m.        Call to Order and Introduction of             Thomas Montine, MD, PhD
+                   Committee                                     Chairperson, PCNS
+
+  9:10 a.m.        Conflict of Interest Statement                Jessica Seo, PharmD, MPH
+                                                                 Designated Federal Officer, PCNS
+
+  9:15 a.m.        FDA Introductory Comments                     Teresa Buracchio, MD
+                                                                 Director
+                                                                 Office of Neuroscience (ON)
+                                                                 Office of New Drugs (OND), CDER, FDA
+
+  9:30 a.m.        APPLICANT PRESENTATIONS                       Eli Lilly and Company
+
+                   Introduction                                  David Hyman, MD
+                                                                 Group Vice President
+                                                                 Chief Medical Officer
+                                                                 Eli Lilly and Company
+
+                   Donanemab Clinical Program                    Mark Mintun, MD
+                                                                 Group Vice President, Neuroscience R&D
+                                                                 Eli Lilly and Company
+
+                   Efficacy Results                              John Sims, MD
+                                                                 Head of Medical-Donanemab
+                                                                 Eli Lilly and Company
+
+                   Safety Results                                Melissa Veenhuizen, DVM, MS
+                                                                 Vice President, Global Patient Safety
+                                                                 Eli Lilly and Company
+
+                   Treating Early Alzheimer’s Disease            Reisa Sperling, MD
+                                                                 Brigham and Women’s Hospital
+                                                                 Massachusetts General Hospital
+                                                                 Harvard Medical School
+
+
+                                                Page 3 of 7
+June 10, 2024
+Peripheral and Central Nervous System Drugs Advisory Committee Meeting
+
+  10:30 a.m.       Clarifying Questions to the Applicant
+
+  11:00 a.m.       BREAK
+
+  11:15 a.m.       FDA PRESENTATIONS
+
+                   Clinical Overview of Efficacy                 Kevin Krudys, PhD
+                                                                 Clinical Efficacy Reviewer
+                                                                 Associate Director
+                                                                 ON, OND, CDER, FDA
+
+                   Clinical Overview of Safety                   Natalie Branagan, MD
+                                                                 Clinical Safety Reviewer
+                                                                 Division of Neurology 1 (DN1)
+                                                                 ON, OND, CDER, FDA
+
+  12:15 p.m.       Clarifying Questions to FDA
+
+  12:45 p.m.       LUNCH
+
+  1:30 p.m.        OPEN PUBLIC HEARING
+
+  2:30 p.m.        BREAK
+
+  2:45 p.m.        Questions to the Committee/Committee
+                   Discussion
+
+  5:00 p.m.        ADJOURNMENT
+
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss whether the available data provide evidence of effectiveness of
+   donanemab for the treatment of Alzheimer’s disease (AD). Additionally, discuss the support
+   for effectiveness across tau positron emission tomography (PET) subgroups, including the
+   no/very low tau population that was excluded from the placebo-controlled trials.
+
+    Committee Discussion: In evaluating the data presented, the Committee members were in
+    overall agreement that the available evidence supports donanemab’s effectiveness for the
+    treatment of Alzheimer’s disease in the population studied. Committee members pointed to
+    the phase 3 trial which met its pre-specified primary and key secondary endpoints, showing
+    significant cognitive benefits and delay in disease progression.
+
+    In examining the evidence for effectiveness across different tau subgroups, there was some
+    concern by Committee members about the reduced effectiveness in patients with high tau
+    PET levels. One member noted the data indicated less clear benefits in this group, posing
+    challenges for clinical decision-making regarding the continuation of therapy in advanced
+
+
+                                                Page 4 of 7
+June 10, 2024
+Peripheral and Central Nervous System Drugs Advisory Committee Meeting
+
+    stages of the disease. For the no/very low tau population, although these patients were
+    excluded from the placebo-controlled trials, some members noted indirect evidence from
+    peripheral biomarkers suggested potential benefits of donanemab in this group as well.
+    However, other members expressed concern around extrapolating the trial results to this
+    population. Despite the lack of direct clinical outcomes for the no/very low tau population,
+    the majority of Committee members were in agreement that imposing a requirement for tau
+    PET imaging would not be necessary, noting such a requirement would raise serious
+    practical concerns and could limit access to treatment.
+
+    Please see the transcript for details of the Committee’s discussion.
+
+2. VOTE: Do the available data show that donanemab is effective for the treatment of
+   Alzheimer’s disease in the population enrolled in the clinical trials with mild cognitive
+   impairment and mild dementia?
+      • In determining your vote, if you believe there is efficacy across the entire population,
+          or efficacy only in subset of patients (e.g., those with low/med and high Tau), please
+          indicate that with a YES vote.
+      • If your assessment is that efficacy has not been established in any subset of patients,
+          then please indicate that with a NO vote. Explain the rationale for your vote. If you
+          voted NO, please indicate in the discussion of your vote what additional data would
+          be needed to support the effectiveness of donanemab for the treatment of Alzheimer’s
+          disease.
+
+    Vote Result:        Yes: 11                  No: 0           Abstain: 0
+
+    Committee Discussion: The Committee members were unanimously in agreement that the
+    available data show there is evidence for donanemab’s effectiveness in the treatment of
+    Alzheimer’s disease in the population studied. In support of their vote, many members cited
+    the reasons they stated previously in addressing Question 1, summarizing the cognitive
+    benefits and delay in disease progression demonstrated in the phase 3 trial, and also
+    highlighting the supportive biomarker data. A few Committee members also noted a need for
+    more data to be collected on underrepresented groups and specific populations (e.g. patients
+    with Downs Syndrome). In addition, many panel members emphasized their concerns with
+    imposing requirements for tau PET imaging that could pose a potential barrier to treatment
+    access.
+
+    Please see the transcript for details of the Committee’s discussion.
+
+3. DISCUSSION: Discuss the dosing regimen used in the clinical trials that completed
+   treatment based on reduction of amyloid plaques on PET imaging, and if there are scientific
+   and/or clinical considerations that may factor into a decision to stop or continue dosing with
+   donanemab if approved.
+
+    Committee Discussion: The Committee members were in agreement that the dosing regimen
+    guided by reduction of amyloid plaques on PET imaging was an innovative component of the
+    clinical trial design that could provide potential benefits if adapted to clinical practice. One
+
+
+                                                Page 5 of 7
+June 10, 2024
+Peripheral and Central Nervous System Drugs Advisory Committee Meeting
+
+    member pointed to the ability to discontinue treatment potentially enhancing patient
+    compliance and motivation. Another member noted potential benefits in reducing health care
+    system burden and helping increase access, pointing to infusion capacity at hospitals as a
+    rate-limiting step for being able to administer therapies such as donanemab. However,
+    members were in agreement that more long-term data is needed to address questions on
+    duration of amyloid clearance, how frequently patients would need to be monitored after
+    stopping donanemab, when treatment should be re-initiated, and potential adverse effects of
+    stopping and restarting therapy.
+
+    Please see the transcript for details of the Committee’s discussion.
+
+4. DISCUSSION: Discuss the overall benefit-risk assessment of donanemab for the treatment
+   of Alzheimer’s disease. If the available evidence supports a benefit, discuss if the risks
+   appear to be acceptable given the observed treatment benefit and if there are subgroups of
+   patients for whom the benefit-risk would be more or less favorable.
+
+    Committee Discussion: The Committee members were in general agreement that the overall
+    benefit-risk assessment for donanemab in the treatment of Alzheimer’s disease is positive,
+    with several members highlighting the value of slowing disease progression to patients and
+    their caregivers. Members also acknowledged risks such as amyloid related imaging
+    abnormalities (ARIA) that need careful management. Committee members discussed the
+    difference between ApoE4 heterozygotes and non-carriers where donanemab has
+    demonstrated a significant clinical benefit and lower incidence of severe side effects
+    compared to ApoE4 homozygotes who face a higher risk of ARIA but saw clinical benefits
+    that were less clear. Members also discussed the uncertainty in the benefit-risk profile for the
+    low/no tau subgroup where donanemab’s efficacy is also less clear due to lacking data. It
+    was also noted there was insufficient data on underrepresented groups and therefore further
+    research was recommended for these populations. Several members emphasized the
+    importance of individualized treatment decisions between patients and their providers based
+    on genetic profiles, patient preferences, and specific risk factors.
+
+    Please see the transcript for details of the Committee’s discussion.
+
+5. VOTE: Do the benefits outweigh the risks of donanemab in the treatment of AD in the
+   population enrolled in the clinical trials with mild cognitive impairment and mild dementia?
+   • Explain the rationale for your vote.
+   • If you voted NO, provide recommendations for additional data or analyses that may
+      support a conclusion that the benefits outweigh the risks.
+
+    Vote Result:        Yes: 11                  No: 0           Abstain: 0
+
+    Committee Discussion: The Committee members were unanimously in agreement that the
+    benefits of donanemab outweigh its risks in the treatment of Alzheimer’s disease for the
+    population enrolled in the clinical trials. In support of their vote, many members cited the
+    reasons they stated previously in addressing Question 4, noting that while donanemab
+    presents risks, particularly with ARIA, these can be managed with appropriate safety
+
+
+                                                Page 6 of 7
+June 10, 2024
+Peripheral and Central Nervous System Drugs Advisory Committee Meeting
+
+    measures and the potential benefit in slowing disease progression supports donanemab use
+    in the trial population. Some members encouraged continued surveillance and additional
+    data and analysis on underrepresented groups and special populations. Other members also
+    emphasized appropriate education and training in healthcare systems as well as risk
+    mitigation measures for those populations.
+
+    Please see the transcript for details of the Committee’s discussion.
+
+
+The meeting was adjourned at approximately 3:55pm ET.
+
+
+
+
+                                                Page 7 of 7
+

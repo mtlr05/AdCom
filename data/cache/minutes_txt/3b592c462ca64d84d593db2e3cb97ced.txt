@@ -1,0 +1,312 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+                      Final Summary Minutes of the Joint Meeting of the
+               Psychopharmacologic Drugs Advisory Committee (PDAC) and the
+               Drug Safety and Risk Management Advisory Committee (DSaRM)
+                                      October 8, 2020
+
+
+Location: Please note that due to the impact of the COVID-19 pandemic, all meeting participants
+joined this advisory committee meeting via an online teleconferencing platform.
+
+Topic: The committees discussed new drug application (NDA) 211179, for amphetamine sulfate
+immediate-release oral capsules, submitted by Arbor Pharmaceuticals, LLC, for the proposed
+indication of Attention Deficit Hyperactivity Disorder. This product has been formulated with
+properties intended to deter non-oral abuse, and the applicant has submitted data to support these
+abuse-deterrent properties for this product. The committees were asked to discuss the overall
+risk-benefit profile of the product, including the potential public health impact, and whether the
+Applicant has demonstrated abuse-deterrent properties for their product that would support
+labeling.
+
+These summary minutes for the October 8, 2020 joint meeting of the Psychopharmacologic
+Drugs Advisory Committee (PDAC) and the Drug Safety and Risk Management Advisory
+Committee (DSaRM) of the Food and Drug Administration were approved on November 24,
+2020.
+
+I certify that I attended the October 8, 2020 joint meeting of the PDAC and DSaRM of the Food
+and Drug Administration and these minutes accurately reflect what transpired.
+
+
+
+
+__________ /s/                                                     /s/
+LaToya Bonner, PharmD                                       Rajesh Narendran, MD
+Acting Designated Federal Officer, PDAC                     Chairperson, PDAC
+
+
+
+
+                                            Page 1 of 7
+October 8, 2020
+Joint Meeting of the Psychopharmacologic Drugs Advisory Committee (PDAC) and the Drug Safety and Risk
+Management Advisory Committee (DSaRM)
+
+                       Final Summary Minutes of the Joint Meeting of the
+                Psychopharmacologic Drugs Advisory Committee (PDAC) and the
+                Drug Safety and Risk Management Advisory Committee (DSaRM)
+                                       October 8, 2020
+
+The Psychopharmacologic Drugs Advisory Committee (PDAC) and the Drug Safety and Risk
+Management Advisory Committee (DSaRM) of the Food and Drug Administration, Center for
+Drug Evaluation and Research met on October 8, 2020. The meeting presentations were heard,
+viewed, captioned, and recorded through an online teleconferencing platform. Prior to the
+meeting, the members and temporary voting members were provided the briefing materials and
+pre-recorded presentations from the FDA and Arbor Pharmaceuticals, LLC. The meeting was
+called to order by Rajesh Narendran, MD (Chairperson). The conflict of interest statement was
+read into the record by LaToya Bonner, PharmD (Acting Designated Federal Officer). There
+were approximately 300 people online. There were a total of eleven Open Public Hearing (OPH)
+speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve
+weeks following the meeting date.
+
+Agenda: The committees discussed new drug application (NDA) 211179, for amphetamine
+sulfate immediate-release oral capsules, submitted by Arbor Pharmaceuticals, LLC, for the
+proposed indication of treatment of Attention Deficit Hyperactivity Disorder. This product has
+been formulated with properties intended to deter non-oral abuse, and the applicant has
+submitted data to support these abuse-deterrent properties for this product. The committees were
+asked to discuss the overall risk-benefit profile of the product, including the potential public
+health impact, and whether the Applicant has demonstrated abuse-deterrent properties for their
+product that would support labeling.
+
+Attendance:
+PDAC Members Present (Voting): Walter S. Dunn, MD, PhD; Jess G. Fiedorowicz, MD, PhD;
+Satish Iyengar, PhD; Felipe A. Jain, MD; Jessica J. Jeffrey, MD, MPH, MBA; Sonia L. Krishna,
+MD, FAPA, DFAACAP; Rajesh Narendran, MD (Chairperson); Patrick S. Thomas, Jr., MD,
+PhD; Kim O. Witczak (Consumer Representative)
+
+PDAC Members Not Present (Voting): None
+
+PDAC Member Present (Non-Voting): Robert W. Baker, MD (Industry Representative)
+
+DSaRM Members Present (Voting): Denise M. Boudreau, PhD, RPh; Karim Anton Calis,
+PharmD, MPH, FASHP, FCCP; Marie R. Griffin, MD, MPH; Laurel A. Habel, MPH, PhD;
+Sonia Hernandez-Diaz, MD, MPH, DrPH; Martin Kulldorff, PhD; Steven B. Meisel, PharmD,
+CPPS; Lewis S. Nelson, MD
+
+DSaRM Members Not Present (Voting): Collin A. Hovinga, PharmD, MS, FCCP; Soko
+Setoguchi, MD, DrPH
+
+
+
+                                                Page 2 of 7
+October 8, 2020
+Joint Meeting of the Psychopharmacologic Drugs Advisory Committee (PDAC) and the Drug Safety and Risk
+Management Advisory Committee (DSaRM)
+
+DSaRM Member (Non-Voting): Reema J. Mehta, PharmD, MPH (Industry Representative)
+
+Temporary Members (Voting): Traci C. Green, PhD, MSc; Brandon D.L. Marshall, PhD;
+Christopher R. McCurdy, BSPh, PhD, FAAPS; James J. McGough, MD, MS; Philip Posner,
+PhD (Patient Representative); Jon E. Zibbell, PhD
+
+FDA Participants (Non-Voting): Billy Dunn, MD; Eric Bastings, MD; Tiffany R.
+Farchione, MD; Bernard Fischer, MD; Judy Staffa, PhD, RPh; Tamra Meyer, PhD, MPH;
+Dominic Chiapperino, PhD
+
+Acting Designated Federal Officer (Non-voting): LaToya Bonner, PharmD
+
+Open Public Hearing Speakers: Robert Cattoi (Children and Adults with Attention
+Deficit/Hyperactivity Disorder); Kristin Seymour; Linda B. Cottler; Lucas
+Borgschulte; Ann Childress, MD; Julie Buckner; Doris M. Greenburg; Sidney Wolfe, MD
+(Public Citizen’s Health Research Group); Kevin Martin Antshel, MD; Andrew Ewald; Meg
+Seymour, MD (National Center for Health Research)
+____________________________________________________________________________
+
+The agenda was as follows:
+
+  Call to Order                                     Rajesh Narendran, MD
+                                                    Chairperson, PDAC
+
+  Introduction of Committee and Conflict of         LaToya Bonner, PharmD
+  Interest Statement                                Acting Designated Federal Officer, PDAC
+
+  FDA Opening Remarks                               Tiffany R. Farchione, MD
+                                                    Director (Acting)
+                                                    Division of Psychiatry (DP)
+                                                    Office of Neuroscience (ON)
+                                                    Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATION                            Arbor Pharmaceuticals
+
+  Summary Presentation –                            Evan Scullin, MD
+  AR19 (amphetamine sulfate)                        Vice President, Medical Affairs
+  Manipulation-Resistant, Immediate-                Arbor Pharmaceuticals
+  Release Capsules for the Treatment of
+  ADHD                                              Stephen Faraone, PhD
+                                                    Vice Chair for Research, Department of Psychiatry
+                                                    Distinguished Professor of Psychiatry
+                                                    Distinguished Professor of Neuroscience & Physiology
+                                                    SUNY Upstate Medical University
+
+
+
+
+                                                Page 3 of 7
+October 8, 2020
+Joint Meeting of the Psychopharmacologic Drugs Advisory Committee (PDAC) and the Drug Safety and Risk
+Management Advisory Committee (DSaRM)
+
+  APPLICANT PRESENTATION (CONT.)
+
+                                                    Beatrice Setnik, PhD
+                                                    Chief Scientific Officer
+                                                    Altasciences
+
+                                                    Eric Kinzler, PhD
+                                                    President and Founder
+                                                    Pellucid Advantage, LLC
+                                                    Study Director
+                                                    DRUGSCAN
+
+                                                    John Dillberger, DVM, PhD
+                                                    President
+                                                    J. Dillberger, LLC
+                                                    Fellow, International Academy of Toxicologic Pathology
+
+                                                    Anthony Rostain, MD, MA
+                                                    Chair of Psychiatry and Behavioral Health
+                                                    Cooper University Healthcare
+
+  Clarifying Questions to Applicant
+
+  Clarifying Questions to FDA
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee Discussion
+
+  BREAK
+
+  Questions to the Committee/Committee Discussion (cont.)
+
+  ADJOURNMENT
+
+
+
+
+                                                Page 4 of 7
+October 8, 2020
+Joint Meeting of the Psychopharmacologic Drugs Advisory Committee (PDAC) and the Drug Safety and Risk
+Management Advisory Committee (DSaRM)
+
+Questions to the Committee:
+
+1. DISCUSSION: Considering the patterns of prescription stimulant nonmedical use in the
+   United States, please discuss the potential public health impact of prescription stimulants
+   formulated to be abuse-deterrent.
+
+    Committee Discussion: Collectively, the Committee shared the awareness that nonmedical
+    use of prescription stimulants is a public health problem. However, the Committee generally
+    agreed that prescription stimulants formulated to be abuse-deterrent will have little public
+    health impact since many other formulations without abuse deterrent properties remain on
+    the market. Some Committee members expressed safety concerns regarding the oral products
+    being manipulated into an intravenous or intranasal substance, despite the abuse deterrent
+    properties. Another concern noted is that the added excipients to deter abuse could lead to
+    adverse effects if people are able to defeat the abuse deterrent properties, which could result
+    in additional harms from these excipients if snorted or injected. For these reasons, the
+    Committee generally agreed that this formulation likely provides limited benefit from a
+    public health perspective and may possibly result in more harm than good. Please see the
+    transcript for details of the Committees’ discussion.
+
+2. VOTE: Based on the information provided, including the intranasal study comparing this
+   product to amphetamine sulfate, has the Applicant provided adequate evidence that the
+   immediate-release oral formulation of amphetamine sulfate (AR19) would deter intranasal
+   use?
+
+    Vote Result:        Yes: 4           No:     19      Abstain: 0
+
+    Committee Discussion: Majority of the committee members agreed that the Applicant did not
+    provide adequate evidence that the immediate-release oral formulation of amphetamine
+    sulfate (AR19) would deter intranasal use. Those that voted, “No”, expressed their concerns
+    that manipulation could be done in multiple ways with little effort. Some members noted that
+    the study failed to meet the endpoint set by the Applicant. For those who voted “Yes”, they
+    were convinced that the Applicant provided adequate evidence that the formulation would
+    deter intranasal use and that the Applicant achieved its goal by providing a formulation that
+    would be more difficult to manipulate and less rewarding than its marketed stimulant
+    counterparts. Please see the transcript for details of the Committees’ discussion.
+
+3. VOTE: Based on the information provided, including the syringeability study, has the
+   Applicant provided adequate evidence that AR19 would deter intravenous use?
+
+
+    Vote Result:        Yes: 8           No:     15      Abstain: 0
+
+    Committee Discussion: Majority of the committee members agreed that the Applicant failed
+    to provide adequate evidence that AR19 would deter intravenous use. However, some
+    members who voted, “No”, agreed that the Applicant presented data that would make the
+
+
+
+                                                Page 5 of 7
+October 8, 2020
+Joint Meeting of the Psychopharmacologic Drugs Advisory Committee (PDAC) and the Drug Safety and Risk
+Management Advisory Committee (DSaRM)
+
+    product at least more difficult to prepare for syringeability, but not sufficient to deter its
+    abuse.
+
+    Some panel members voted, “Yes”, stating that the AR19’s formulation is substantially
+    harder manipulate to extract and inject than its marketed counterparts and would be a
+    deterrent, especially to casual or first-time users. Please see the transcript for details of the
+    Committees’ discussion.
+
+4. VOTE: Based on the information provided, has the Applicant adequately characterized the
+   safety of AR19?
+
+    Vote Result:        Yes: 2            No:    19      Abstain: 2
+
+    Committee Discussion: Majority of the committee members agreed that the Applicant did not
+    adequately characterize the safety of AR19. Those that voted, “No”, conveyed that the
+    Applicant failed to show safety parameters when the product is manipulated into unintended
+    routes of administration (i.e., intravenous and intranasal). In addition, a few members
+    raised further concerns of intravenous use, suggesting that the gel-like formulation is not a
+    deterrent, but a health hazard, putting the population at risk of infection (larger syringe) and
+    other unintended toxicities caused by inert substances (i.e., talc and polyethene oxide (PEO))
+    in the formulation. The committee members who voted, “Yes”, agreed that, as an oral
+    medication, the Applicant presented adequate information supporting the safety profile of
+    AR19 when used as directed. Please see the transcript for details of the Committees’
+    discussion.
+
+5. VOTE: Do the benefits of AR19 outweigh the risks for the proposed indication?
+
+            Vote Result:         Yes: 0          No:     23      Abstain: 0
+
+    Committee Discussion: The committee members unanimously voted, “No”, stating that the
+    benefits of AR19 do not outweigh the risks for the proposed indication. The committee
+    members agreed that there are too many significant toxicities. Some members went into more
+    detail and expressed concerns about the risks of the excipients (talc and PEO) in the
+    formulation, which to them, outweighed the questionable potential benefit of the product.
+    Please see the transcript for details of the Committees’ discussion.
+
+6. DISCUSSION: What, if any, additional data are needed to address outstanding issues of
+   AR19?
+
+    Committee Discussion: The committee members made several comments to address the
+    outstanding issues of AR19. Some members expressed the need for the Agency to provide
+    clear definitions and thresholds for defining and evaluating abuse deterrent properties. Some
+    panel members recommended to see more evaluations based on computerized models and
+    more advanced scientific evaluations, for example, measuring dopamine release in the brain
+    as opposed to just self-reported “drug-wanting or liking”. One panel member noted that the
+    age range was large and recommended narrowing to an age group where prevalence of
+
+
+                                                Page 6 of 7
+October 8, 2020
+Joint Meeting of the Psychopharmacologic Drugs Advisory Committee (PDAC) and the Drug Safety and Risk
+Management Advisory Committee (DSaRM)
+
+    nonmedical use is much higher. In addition, it was recommended that, if approved, post-
+    marketing surveillance should be done to ensure any unintended consequences are detected.
+    Please see the transcript for details of the Committees’ discussion.
+
+The meeting was adjourned at approximately 4:38 p.m.
+
+
+
+
+                                                Page 7 of 7
+

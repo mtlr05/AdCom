@@ -1,0 +1,476 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+     Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                September 22-23, 2022
+
+
+Location: Please note that due to the impact of the COVID-19 pandemic, all meeting
+participants joined this advisory committee meeting via an online teleconferencing platform.
+
+Topic: During the first session of September 22, 2022, the committee discussed new drug
+application (NDA) 215643, for poziotinib tablets, submitted by Spectrum Pharmaceuticals, Inc.
+The proposed indication (use) for this product is for the treatment of patients with previously
+treated, locally advanced or metastatic non-small cell lung cancer (NSCLC) harboring HER2
+exon 20 insertion mutations. Select patients with NSCLC for treatment with poziotinib based on
+the presence of HER2 exon 20 insertion mutations using an FDA-approved test.
+
+During the second session of September 22, 2022, the committee heard an update on new drug
+application (NDA) 214383, for PEPAXTO (melphalan flufenamide) for injection, submitted by
+Oncopeptides A.B. This product was approved under 21 CFR 314.500 (subpart H, accelerated
+approval regulations) for use in combination with dexamethasone for the treatment of adult
+patients with relapsed or refractory multiple myeloma who have received at least four prior lines
+of therapy and whose disease is refractory to at least one proteasome inhibitor, one
+immunomodulatory agent, and one CD38-directed monoclonal antibody. The confirmatory trial
+demonstrated a worse overall survival and failed to verify clinical benefit. Confirmatory studies
+are postmarketing studies to verify and describe the clinical benefit of a drug after it receives
+accelerated approval. Based on the updates provided, the committee had a general discussion
+focused on next steps for the product.
+
+On September 23, 2022, the committee heard an update on new drug application (NDA) 211155,
+for COPIKTRA (duvelisib) capsule, submitted by Secura Bio, Inc. This product was approved
+under section 505(b) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) for use in the
+treatment of adult patients with relapsed or refractory chronic lymphocytic leukemia (CLL) or
+small lymphocytic lymphoma (SLL) after at least two prior therapies. The update includes the
+final overall survival data from the DUO trial (IPI–145–07) submitted in response to post-
+marketing requirement 3494–3 detailed in the September 24, 2018 approval letter, available at
+https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/211155Orig2s000ltr.pdf. Based
+on the updated overall survival information along with the safety data with duvelisib, the
+committee discussed a current assessment of benefit-risk.
+
+These summary minutes for the September 22-23, 2022 meeting of the ODAC of the Food and
+Drug Administration were approved on December 11, 2022.
+
+I certify that I attended the September 22-23, 2022 meeting of the ODAC of the Food and Drug
+Administration and that these minutes accurately reflect what transpired.
+
+
+
+                                           Page 1 of 10
+September 22-23, 2022
+Oncologic Drugs Advisory Committee Meeting
+
+
+
+
+__________/s/_________________                      ___________/s/_________________
+She-Chia Chen, PharmD                               Jorge A. Garcia, MD, FACP
+Designated Federal Officer, ODAC                    Chairperson, ODAC
+
+
+
+
+                                             Page 2 of 10
+September 22-23, 2022
+Oncologic Drugs Advisory Committee Meeting
+
+        Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                 September 22-23, 2022
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research met on September 22-23, 2022. The meeting
+presentations were heard, viewed, captioned, and recorded through an online teleconferencing
+platform. Prior to the meeting, the members and temporary voting members were provided the
+briefing materials from the FDA, Spectrum Pharmaceuticals, Inc., Oncopeptides A.B., and
+Secura Bio, Inc. The meeting was called to order by Jorge A. Garcia, MD, FACP (Chairperson).
+The conflict of interest statement was read into the record by She-Chia Chen, PharmD
+(Designated Federal Officer). There were approximately 1,025 people online on September 22nd
+and approximately 667 people online on September 23rd. On September 22nd, there were 8 Open
+Public Hearing (OPH) speaker presentations for the first session and 7 OPH speakers
+presentations for the second session. On September 23rd, there were 3 OPH speaker
+presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: During the first session of September 22, 2022, the committee discussed new drug
+application (NDA) 215643, for poziotinib tablets, submitted by Spectrum Pharmaceuticals, Inc.
+The proposed indication (use) for this product is for the treatment of patients with previously
+treated, locally advanced or metastatic non-small cell lung cancer (NSCLC) harboring HER2
+exon 20 insertion mutations. Select patients with NSCLC for treatment with poziotinib based on
+the presence of HER2 exon 20 insertion mutations using an FDA-approved test.
+
+During the second session of September 22, 2022, the committee heard an update on new drug
+application (NDA) 214383, for PEPAXTO (melphalan flufenamide) for injection, submitted by
+Oncopeptides A.B. This product was approved under 21 CFR 314.500 (subpart H, accelerated
+approval regulations) for use in combination with dexamethasone for the treatment of adult
+patients with relapsed or refractory multiple myeloma who have received at least four prior lines
+of therapy and whose disease is refractory to at least one proteasome inhibitor, one
+immunomodulatory agent, and one CD38-directed monoclonal antibody. The confirmatory trial
+demonstrated a worse overall survival and failed to verify clinical benefit. Confirmatory studies
+are postmarketing studies to verify and describe the clinical benefit of a drug after it receives
+accelerated approval. Based on the updates provided, the committee had a general discussion
+focused on next steps for the product.
+
+On September 23, 2022, the committee heard an update on new drug application (NDA) 211155,
+for COPIKTRA (duvelisib) capsule, submitted by Secura Bio, Inc. This product was approved
+under section 505(b) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) for use in the
+treatment of adult patients with relapsed or refractory chronic lymphocytic leukemia (CLL) or
+small lymphocytic lymphoma (SLL) after at least two prior therapies. The update includes the
+final overall survival data from the DUO trial (IPI–145–07) submitted in response to post-
+marketing requirement 3494–3 detailed in the September 24, 2018 approval letter, available at
+https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2018/211155Orig2s000ltr.pdf. Based
+
+
+                                             Page 3 of 10
+September 22-23, 2022
+Oncologic Drugs Advisory Committee Meeting
+
+on the updated overall survival information along with the safety data with duvelisib, the
+committee discussed a current assessment of benefit-risk.
+
+Attendance:
+ODAC Members Present (Voting): Ranjana H. Advani, MD (September 23 only); Jorge A.
+Garcia, MD, FACP (Chairperson); Pamela L. Kunz, MD (September 22 only); Christopher H.
+Lieu, MD; Ravi A. Madan, MD; David E. Mitchell (Consumer Representative); Jorge J. Nieva,
+MD (September 22 PM session and September 23 only); Ashley Rosko, MD (September 22 AM
+session only); Anthony D. Sung, MD (September 22 only)
+
+ODAC Members Not Present (Voting): Jaffer A. Ajani, MD; Mark Conaway, PhD; Alberto S.
+Pappo, MD; Neil Vasan, MD, PhD
+
+ODAC Member Not Present (Non-Voting): Jonathan D. Cheng, MD (Industry Representative)
+
+Acting Industry Representative to the Committee (Non-Voting): Albert Kraus, PhD
+
+Temporary Members (Voting): Andy I. Chen, MD, PhD (September 22 PM session and
+September 23 only); Stephanie Y. Crawford, PhD, MPH (September 22 PM session and
+September 23 only); John DeFlice, MD (Patient Representative for September 22 PM session
+only); Boris Freidlin, PhD, MS (September 22 PM session and September 23 only); Balazs
+Halmos, MD (September 22 AM session only); David Harrington, MA, PhD; Mary Kwok, MD
+(September 22 PM session only); Michele Nadeem-Baker, MS (Patient Representative for
+September 23 only); Grzegorz (Greg) S. Nowakowski, MD (September 22 PM session only);
+James (Jim) G. Pantelas (Patient Representative for September 22 AM session only); Mikkael A.
+Sekeres, MD, MS (September 22 PM session and September 23 only); Katherine Scilla, MD,
+FACP (September 22 AM session only); Anish Thomas, MD (September 22 AM session only);
+Scott A. Waldman, MD, PhD, FCP, FAHA, FNAI, FASPET (September 22 only)
+
+FDA Participants (Non-Voting): Richard Pazdur, MD; Marc R. Theoret, MD (September 22
+PM session and September 23 only); Julia Beaver, MD (September 22 AM session only);
+Harpreet Singh, MD (September 22 AM session only); Nicole Gormley, MD (September 22 PM
+session and September 23 only); Nicole Drezner, MD (September 22 AM session only); Bindu
+Kanapuru, MD (September 22 PM session only); Nicholas Richardson, DO, MPH (September 23
+only); Justin Malinou, MD (September 22 AM session only); Jeanne Fourie Zirkelbach, PhD
+(September 22 AM session only); Alexandria Schwarsin, MD (September 22 PM session only);
+Deepti Telaraja, MD (September 23 only)
+
+Designated Federal Officer (Non-Voting): She-Chia Chen, PharmD
+
+Open Public Hearing Speakers:
+  • September 22 AM session: Susan Johnson; James M. Filipiak; Maria L. Urbano; Bill
+      Brand; Michael Bocker; Kristen Leniz; Mary Modica; Joshua K. Sabari, MD
+  • September 22 PM session: Diana Zuckerman, PhD (National Center for Health
+      Research); Jenny Ahlstrom; Jacob Laubach, MD, MPP; Scott Taylor Johnson; Ronald J.
+      Ellars; Tara Patel, MD; Sibel Blau, MD
+
+
+                                             Page 4 of 10
+September 22-23, 2022
+Oncologic Drugs Advisory Committee Meeting
+
+September 23: Diana Zuckerman, PhD (National Center for Health Research); Larry Saltzman,
+MD; Brian Koffman, MDCM (retired), MS, Ed (CLL Society, Inc.)
+
+The agenda was as follows:
+
+September 22, 2022 AM session
+
+  Call to Order                               Jorge A. Garcia, MD, FACP
+                                              Chairperson, ODAC
+
+  Introduction of Committee and               She-Chia Chen, PharmD
+  Conflict of Interest Statement              Designated Federal Officer, ODAC
+
+  FDA Introductory Comments                   Nicole Drezner, MD
+                                              Clinical Team Leader
+                                              Division of Oncology 2 (DO2)
+                                              Office of Oncologic Diseases (OOD)
+                                              Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                     Spectrum Pharmaceuticals, Inc.
+
+  Poziotinib for NSCLC Harboring HER2         Francois Lebel, MD, FRCPC
+  Exon 20 Insertion Mutations – Poziotinib    Executive Vice President R&D
+  Introduction                                Chief Medical Officer
+                                              Spectrum Pharmaceuticals, Inc.
+
+  Unmet Need and Mechanism of Action          John Heymach, MD, PhD
+                                              Professor of Medicine and Chair
+                                              Thoracic/Head and Neck Medical Oncology
+                                              The University of Texas MD Anderson Cancer Center
+
+  Efficacy                                    Gajanan Bhat, PhD
+                                              Senior Vice President, Clinical and Data Science
+                                              Spectrum Pharmaceuticals, Inc.
+
+  Safety                                      Francois Lebel, MD, FRCPC
+
+  Clinical Perspective                        Mark Socinski, MD
+                                              Executive Medical Director
+                                              AdventHealth Cancer Institute
+
+  FDA PRESENTATION
+
+  Poziotinib for HER2 exon 20 insertion       Justin Malinou, MD
+  mutation-positive non-small cell lung       Clinical Reviewer
+  cancer (NSCLC)                              DO2, OOD, OND, CDER, FDA
+
+
+
+
+                                             Page 5 of 10
+September 22-23, 2022
+Oncologic Drugs Advisory Committee Meeting
+
+                                              Jeanne Fourie-Zirkelbach, PhD
+                                              Team Lead, Clinical Pharmacology
+                                              Division of Cancer Pharmacology 2
+                                              Office of Clinical Pharmacology
+                                              Office of Translational Sciences, CDER, FDA
+
+  Clarifying Questions to Presenters
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee Discussion
+
+  LUNCH
+
+September 22, 2022 PM session
+
+  Call to Order                               Jorge A. Garcia, MD, FACP
+                                              Chairperson, ODAC
+
+  Introduction of Committee and               She-Chia Chen, PharmD
+  Conflict of Interest Statement              Designated Federal Officer, ODAC
+
+  FDA Introductory Comments                   Nicole Gormley, MD
+                                              Director
+                                              Division of Hematologic Malignancies II (DHM II)
+                                              Office of Oncologic Diseases (OOD)
+                                              Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                     Oncopeptides AB
+
+  Introduction                                Jakob Lindberg
+                                              Chief Executive Officer
+                                              Chief Scientific Officer
+                                              Oncopeptides AB
+
+  Treatment Patterns and Unmet Need with      Paul Richardson, MD
+  Triple-Class Refractory Multiple            R.J. Corman Professor of Medicine
+  Myeloma                                     Harvard Medical School
+                                              Dana-Farber Cancer Institute
+
+  OCEAN Study Clinical Results                Klaas Bakker, MD, PhD
+                                              Executive VP and Chief Medical Officer
+                                              Oncopeptides AB
+
+  Clinical Perspective                        Yvonne Efebera, MD, MPH
+                                              Professor, Medical Director of Blood and Marrow
+                                              Transplant and Cellular Therapy
+                                              Ohio Health
+
+
+                                             Page 6 of 10
+September 22-23, 2022
+Oncologic Drugs Advisory Committee Meeting
+
+  FDA PRESENTATION
+
+  Melphalan flufenamide (PEPAXTO)             Alexandria Schwarsin, MD
+  NDA 214383                                  Clinical Reviewer
+                                              DHM II, OOD, OND, CDER, FDA
+
+  Clarifying Questions to Presenters
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee Discussion
+
+  ADJOURNMENT
+
+September 23, 2022
+
+  Call to Order                               Jorge A. Garcia, MD, FACP
+                                              Chairperson, ODAC
+
+  Introduction of Committee and               She-Chia Chen, PharmD
+  Conflict of Interest Statement              Designated Federal Officer, ODAC
+
+  FDA Introductory Comments                   Nicholas Richardson, DO, MPH
+                                              Clinical Team Leader
+                                              Division of Hematologic Malignancies II (DHM II)
+                                              Office of Oncologic Diseases (OOD)
+                                              Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                     Secura Bio, Inc.
+
+  Introduction                                David Sidransky, MD
+                                              Clinical Advisor, Secura Bio
+                                              Professor of Oncology, John Hopkins University
+
+  Disease Background & Unmet Need in          Susan O’Brien, MD
+  CLL/SLL                                     Professor of Medicine
+                                              Division of Hematology/Oncology
+                                              University of California at Irvine
+
+  Efficacy & Safety                           Matthew Davids, MD, MMsc
+                                              Director, Clinical Research
+                                              Division of Lymphoma
+                                              Dana Farber Cancer Institute
+
+  Overall Survival and Benefit/Risk           David Sidransky, MD
+
+  Clinical Perspective                        Matthew Davids, MD, MMsc
+
+
+
+                                             Page 7 of 10
+September 22-23, 2022
+Oncologic Drugs Advisory Committee Meeting
+
+  FDA PRESENTATION
+
+  Duvelisib – NDA 211155                         Deepti Telaraja, MD
+                                                 Clinical Reviewer
+                                                 DHM II, OOD, OND, CDER, FDA
+
+  Clarifying Questions to Presenters
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee Discussion
+
+  ADJOURNMENT
+
+Questions to the Committee:
+
+September 22, 2022 AM session
+
+1. DISCUSSION: Discuss the overall risk:benefit of poziotinib 16 mg once daily given its
+   limited response rate with poor durability, high rate of toxicity, inadequate dosage
+   optimization, and delayed confirmatory trial.
+
+    Committee Discussion: A majority of the Committee members shared multiple concerns
+    when discussing the overall risk:benefit of poziotinib 16 mg once daily. These concerns
+    include low overall response rate, poorly tolerated safety profile at the currently proposed
+    dosage, and inadequate dose optimization. In addition, the delayed confirmatory trial and its
+    related enrollment issues, such as diversity and whether it’s reflective of the US patient
+    population were discussed. Some Committee members questioned the implication of a
+    different dosage in the confirmatory trial versus the dosage studied in the pivotal trial. Other
+    Committee members acknowledged the importance of dosage optimization, but also the noted
+    that it is very difficult to execute. Please see the transcript for details of the Committee’s
+    discussion.
+
+2. VOTE: Do the current benefits of poziotinib outweigh its risks for the treatment of patients
+   with NSCLC with HER2 exon 20 insertion mutations?
+
+    Vote Result:        Yes: 4          No: 9             Abstain: 0
+
+    Committee Discussion: The majority of the Committee members voted “No”, indicating that
+    the current benefits of poziotinib do not outweigh its risks for the treatment of patients with
+    NSCLC with HER2 exon 20 insertion mutations. These Committee members noted concerns
+    in the lack of dosage optimization and uncertainty related to the completion of the
+    confirmatory trial. The Committee members who voted “Yes”, stated that poziotinib shows
+    sufficient efficacy, that the toxicities are manageable, and the drug could provide another
+    option for patients. Please see the transcript for details of the Committee’s discussion.
+
+                                                Page 8 of 10
+September 22-23, 2022
+Oncologic Drugs Advisory Committee Meeting
+
+
+
+September 22, 2022 PM session
+
+1. DISCUSSION: Discuss the benefit-risk profile of melphalan flufenamide for the currently
+   indicated patient population considering the results of the confirmatory OCEAN trial.
+
+    Committee Discussion: A majority of the Committee members shared a common concern
+    when discussing the benefit-risk profile of melphalan flufenamide for the currently indicated
+    patient population. Specifically, there were concerns regarding the marginal PFS benefit and
+    the potential detriment in overall survival. These Committee members agreed that the result
+    of the confirmatory OCEAN trial did not confirm clinical benefit in the indicated patient
+    population. Some Committee members noted that it would be challenging to explain the mild
+    progression-free survival and negative result in overall survival to their patients if
+    melphalan flufenamide was one of the treatment options. The Committee members further
+    noted that the post-hoc analyses presented regarding the transplant subgroups should be
+    used for hypothesis generation as opposed to labeling or as an indication for use. The
+    Committee members acknowledged that there is a huge need in this heavily treated patient
+    population, however, we should not use drugs that cause harm. Please see the transcript for
+    details of the Committee’s discussion.
+
+2. VOTE: Given the potential detriment in overall survival, failure to demonstrate a
+   progression-free survival benefit, and lack of an appropriate dose, is the benefit-risk profile
+   of melphalan flufenamide favorable for the currently indicated patient population?
+
+    Vote Result:        Yes: 2          No: 14         Abstain: 0
+
+    Committee Discussion: The majority of the Committee members voted “No”, indicating that
+    the benefit-risk profile of melphalan flufenamide is not favorable for the currently indicated
+    patient population given the potential detriment in overall survival, failure to demonstrate a
+    progression-free survival benefit, and lack of an appropriate dose. A majority of the
+    Committee members who voted no reiterated that post-hoc analyses should be considered
+    merely hypothesis-generating and need to be tested in a prospectively designed trial. The
+    Committee members who voted “Yes”, noted that melphalan flufenamide may be beneficial
+    to some of the patient population, however, the member also acknowedged the posthoc
+    nature of the analysis and that the results need to be confirmed in a prospective clinical trial.
+    Please see the transcript for details of the Committee’s discussion.
+
+September 23, 2022
+
+1. DISCUSSION: Discuss the benefit-risk profile of duvelisib for the currently indicated
+   population considering the updated results of the DUO trial.
+
+    Committee Discussion: The Committee members noted the challenges with the design of the
+    DUO trial that included the allowance of crossover, the differences in how the treatments
+    were administered, and the collection of safety data. Some Committee members commented
+
+
+                                             Page 9 of 10
+September 22-23, 2022
+Oncologic Drugs Advisory Committee Meeting
+
+    that the overall survival data from the DUO trial was confounded by patient crossover
+    between study groups. Thus, some Committee members questioned how to apply the overall
+    survival data to a current assessment of benefit-risk. The Committee members also
+    commented that for an indolent disease, progression-free survival is an important efficacy
+    outcome for patients along with overall survival. Other Committee members expressed that it
+    is important to adequately evaluate the risk of toxicity due to treatment in the indicated
+    patient population as the underlying disease is associated with risks as well. Please see the
+    transcript for details of the Committee’s discussion.
+
+2. VOTE: Given the potential detriment in overall survival, duvelisib-associated toxicity,
+   concerns with the selected dose, and the safety issues with the PI3K inhibitor class, is the
+   benefit-risk profile of duvelisib favorable in patients with relapsed or refractory CLL or SLL
+   after at least two prior therapies?
+
+    Vote Result:        Yes: 4          No: 8          Abstain: 0
+
+    Committee Discussion: The majority of the Committee members voted “No”, indicating that
+    the benefit-risk profile of duvelisib is not favorable in patients with relapsed or refractory
+    CLL or SLL after at least two prior therapies given the potential detriment in overall
+    survival, duvelisib-associated toxicity, concerns with the selected dose, and the safety issues
+    with the PI3K inhibitor class. These Committee members expressed concerns over the
+    toxicity profile of duvelisib. The Committee members further noted that the design of DUO
+    trial made it difficult to interpret the survival information. The Committee members who
+    voted “Yes”, noted that duvelisib shows efficacy in some CLL patients and expressed the
+    unmet need in this population. Please see the transcript for details of the Committee’s
+    discussion.
+
+
+The meeting was adjourned at approximately 6:10 p.m. on September 22, 2022, and at
+approximately 1:30 p.m. on September 23, 2022.
+
+
+
+
+                                             Page 10 of 10
+

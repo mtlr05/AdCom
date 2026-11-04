@@ -1,0 +1,233 @@
+                              Food and Drug Administration
+                         Center for Drug Evaluation and Research
+
+       Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                     July 14, 2020
+
+
+Location: Please note that due to the impact of the COVID-19 pandemic, all meeting participants
+joined this advisory committee meeting via an online teleconferencing platform.
+
+Topic: The committee discussed biologic license application (BLA) 761158, for belantamab
+mafodotin, submitted by GlaxoSmithKline Intellectual Property Development Ltd. England. The
+proposed indication (use) for this product is for the treatment of adults with relapsed or
+refractory multiple myeloma who have received at least four prior therapies including an anti-
+CD38 monoclonal antibody, a proteasome inhibitor, and an immunomodulatory agent.
+
+
+These summary minutes for the July 14, 2020 meeting of Oncologic Drugs Advisory Committee
+(ODAC) of the Food and Drug Administration were approved on November 13, 2020.
+
+I certify that I attended the July 14, 2020 meeting of the ODAC meeting of the Food and Drug
+Administration and that these minutes accurately reflect what transpired.
+
+
+
+
+________/s/_ ____________________                _________/s/___________________
+Yvette Waples, PharmD                            Philip C. Hoffman, MD
+Acting Designated Federal Officer, ODAC          Chairperson, ODAC
+
+
+
+
+                                           Page 1 of 5
+July 14, 2020
+Oncologic Drugs Advisory Committee Meeting
+
+       Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                     July 14, 2020
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research met on July 14, 2020. The meeting presentations were
+heard, viewed, captioned, and recorded through an online teleconferencing platform. Prior to the
+meeting, the members and temporary voting members were provided the briefing materials from
+the FDA and GlaxoSmithKline Intellectual Property Development Ltd. England. The meeting
+was called to order by Philip Hoffman, MD (Chairperson). The conflict of interest statement
+was read into the record by Yvette Waples, PharmD (Acting Designated Federal Officer). There
+were approximately 1300 people online. There were nine (9) Open Public Hearing (OPH)
+speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda:
+The committee discussed biologic license application (BLA) 761158, for belantamab mafodotin,
+submitted by GlaxoSmithKline Intellectual Property Development Ltd. England. The proposed
+indication (use) for this product is for the treatment of adults with relapsed or refractory multiple
+myeloma who have received at least four prior therapies including an anti-CD38 monoclonal
+antibody, a proteasome inhibitor, and an immunomodulatory agent.
+
+Attendance:
+ODAC Members Present (Voting): Massimo Cristofanilli, MD, FACP; Jorge A. Garcia, MD,
+FACP; Susan Halabi, PhD; Christian S. Hinrichs, MD; Philip C. Hoffman, MD (Chairperson);
+David E. Mitchell (Consumer Representative); Anthony D. Sung, MD
+
+ODAC Members Not Present (Voting): Jaffer A. Ajani, MD; Alberto S. Pappo, MD
+
+ODAC Member Present (Non-Voting): Jonathan D. Cheng, MD (Industry Representative)
+
+Temporary Members (Voting): James Chodosh, MD, MPH; John DeFlice, MD (Patient
+Representative); Brad H. Feldman, MD; Heidi D. Klepin, MD, MS; Grzegorz S. Nowakowski,
+MD; Gita Thanarajasingam, MD; Thomas S. Uldrick, MD, MS
+
+FDA Participants (Non-Voting): Richard Pazdur, MD; Nicole Gormley, MD; Bindu Kanapuru,
+MD; Andrea Baines, MD, PhD; Wiley Chambers, MD
+
+Designated Federal Officer (Non-Voting): Yvette Waples, PharmD (Acting)
+
+Open Public Hearing Speakers: Jenny Ahlstrom (Myeloma Crowd); Chris Greklek; Anne
+Quinn Young, MPH (Multiple Myeloma Research Foundation; statement read by Mary
+Derome); Edwina Moscaritolo; Marguerite McDonald, MD, FACS; Meg Seymour, PhD
+(National Center for Health Research); Ola Landgren, MD, PhD (statement read by Paul G.
+
+
+
+
+                                             Page 2 of 5
+July 14, 2020
+Oncologic Drugs Advisory Committee Meeting
+
+Richardson, MD); Paul G. Richardson, MD (Dana-Farber Cancer Institute); Sue Glick (statement
+read by Chris Greklek)
+____________________________________________________________________________
+
+The agenda was as follows:
+
+  Call to Order and Introduction of                    Philip C. Hoffman, MD
+  Committee                                            Chairperson, ODAC
+
+  Conflict of Interest Statement                       Yvette Waples, PharmD
+                                                       Acting Designated Federal Officer, ODAC
+
+  TECHNICAL BREAK
+
+  FDA Opening Remarks                                  Bindu Kanapuru, MD
+                                                       Multiple Myeloma Team Lead (Acting)
+                                                       Division of Hematologic Malignancies II (DHM2)
+                                                       Office of Oncologic Diseases (OOD)
+                                                       Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                              GlaxoSmithKline Intellectual Property Development
+                                                       Ltd. England
+
+  Belantamab Mafodotin Introduction                    Axel Hoos, MD, PhD
+                                                       Senior Vice President and Therapy Area Head
+                                                       Oncology Research & Development
+                                                       GlaxoSmithKline
+
+  Unmet Need in Patients with Relapsed/                Kenneth Anderson, MD
+  Refractory Multiple Myeloma                          Professor of Medicine at Harvard Medical School
+                                                       Director of the Lebow Institute for Myeloma Therapeutics
+                                                       and Jerome Lipper Multiple Myeloma Center
+                                                       Dana-Farber Cancer Institute
+
+  Belantamab Mafodotin: Clinical Efficacy              Ira Gupta, MD
+                                                       Medicine Development Leader - belantamab mafodotin
+                                                       GlaxoSmithKline
+
+  Belantamab Mafodotin: Overall Clinical Safety        Hesham Abdullah, MD, MSc, RAC
+                                                       Senior Vice President
+                                                       Oncology Clinical Development
+                                                       GlaxoSmithKline
+
+
+
+
+                                             Page 3 of 5
+July 14, 2020
+Oncologic Drugs Advisory Committee Meeting
+
+  APPLICANT PRESENTATIONS (cont.)
+
+  Belantamab Mafodotin: Characterization of            Kathryn Colby, MD, PhD
+  Corneal Safety and Monitoring                        Louis Block Professor and Chair
+                                                       Department of Ophthalmology & Visual Science
+                                                       President, Cornea Society
+                                                       University of Chicago
+
+  Risk Evaluation and Mitigation Strategy              Hesham Abdullah, MD, MSc, RAC
+  (REMS)
+
+  Belantamab Mafodotin: Clinical Perspective           Sagar Lonial, MD, FACP
+                                                       Professor and Chair
+                                                       Department of Hematology and Medical Oncology
+                                                       Chief Medical Officer, Winship Cancer Institute
+                                                       Emory University
+
+  FDA PRESENTATION
+
+  BLA 761158: Belantamab Mafodotin                     Andrea C. Baines, MD, PhD
+                                                       Clinical Reviewer
+                                                       DMH2, OOD, OND, CDER, FDA
+
+  Clarifying Questions to Presenters
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee
+  Discussion
+
+  ADJOURNMENT
+
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss whether the risk of ocular toxicity has been adequately
+   characterized in Study 205678 (DREAMM-2) to allow for an assessment of the benefit-risk
+   profile.
+
+   Committee Discussion: There was not a consensus on whether the risk of ocular toxicity was
+   adequately characterized in the DREAMM-2 study. One committee member agreed that the
+   ocular toxicity was adequately characterized during the trial period, but stated the concern
+   that there is not clear data of this toxicity with longer duration of use. On the other hand,
+   another committee member stated that the DREAMM-2 study was not able to adequately
+   characterize the risks of ocular toxicity that was noted in the trial; however, there are
+
+
+                                             Page 4 of 5
+July 14, 2020
+Oncologic Drugs Advisory Committee Meeting
+
+   existing data regarding ocular toxicity across other malignancies. A couple of members also
+   commented that the ocular toxicity profile should have been studied for a longer period of
+   time as it was not fully explored. Please see the transcript for details of the committee
+   discussion.
+
+2. DISCUSSION: Discuss the impact of ocular toxicity on the benefit-risk profile for
+   belantamab mafodotin.
+
+   Committee Discussion: Overall, the committee members agreed that the impact of ocular
+   toxicity on the benefit-risk profile of belantamab mafodotin is reasonable and likely to be
+   tolerated by patients considering the limited options. The members further commented that
+   the Risk Evaluation and Mitigation Strategy (REMS), which includes ophthalmic exams,
+   would help identify ocular adverse events early. The following concerns were stated: 1) the
+   feasibility of access to ocular specialists in a community setting who are knowledgeable in
+   the drug and its adverse events (due to the need of consistent monitoring); 2) the level of
+   reversibility in patients with an ocular adverse event. Please see the transcript for details of
+   the committee discussion.
+
+3. VOTE: Does the demonstrated benefit of belantamab mafodotin outweigh the risks in the
+   proposed patient population with multiple myeloma?
+
+   Vote Result:        Yes: 12                No: 0          Abstain: 0              No Vote: 2
+
+   Committee Discussion: With the exception of the two members not in attendance for the
+   vote, the committee unanimously voted “Yes”, that the demonstrated benefit of belantamab
+   mafodotin outweigh the risks in the proposed patient population with relapsed or refractory
+   multiple myeloma. The committee agreed that there is lack of therapeutic options available
+   and that belantamab mafodotin was shown to be effective in the data presented. In regards
+   to the concern of ocular toxicity, the committee noted the importance of the REMS and the
+   collaboration between oncologists and ophthalmologists for early identification and/or
+   management of the adverse event. Please see the transcript for details of the committee
+   discussion.
+
+The meeting was adjourned at approximately 4:00 p.m.
+
+
+
+
+                                             Page 5 of 5
+

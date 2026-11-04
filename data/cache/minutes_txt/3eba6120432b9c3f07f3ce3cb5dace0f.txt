@@ -1,0 +1,274 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+             Summary Minutes of the Arthritis Advisory Committee Meeting
+                                   August 3, 2017
+
+Location: The FDA White Oak Campus, Building 31, The Great Room (Rm. 1503), White Oak
+Conference Center, Silver Spring, Maryland.
+
+Topic: The committee discussed supplemental new drug applications (sNDAs) 203214
+supplement 17, for XELJANZ (tofacitinib) tablets and 208246 supplement 3, for XELJANZ XR
+(tofacitinib) extended release tablets submitted by Pfizer Inc., for the treatment of adult patients
+with active psoriatic arthritis. The committee discussed the efficacy and safety data and benefit-
+risk considerations.
+
+These summary minutes for the August 3, 2017, meeting of the Arthritis Advisory Committee
+of the Food and Drug Administration were approved on August 22, 2017.
+
+I certify that I attended the August 3, 2017, meeting of the Arthritis Advisory Committee of the
+Food and Drug Administration and that these minutes accurately reflect what transpired.
+
+
+
+
+__________/s/________________                     __________/s/________________
+Philip A. Bautista, PharmD                        Daniel H. Solomon, MD, MPH
+Acting Designated Federal Officer, AAC            Chairperson, AAC
+
+
+
+
+                                            Page 1 of 6
+              Summary Minutes of the Arthritis Advisory Committee Meeting
+                                    August 3, 2017
+
+The following is the final report of the Arthritis Advisory Committee meeting, held on August 3,
+2017. A verbatim transcript will be available in approximately six weeks, sent to the Division of
+Pulmonary, Allergy, and Rheumatology Products, and posted on the FDA website at:
+https://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/ArthritisAdvisor
+yCommittee/ucm564748.htm
+
+All external requests for the meeting transcript should be submitted to the CDER Freedom of
+Information Office.
+
+
+The Arthritis Advisory Committee met on August 3, 2017, at the FDA White Oak Campus,
+Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New Hampshire Avenue,
+Silver Spring, Maryland. Prior to the meeting, the members and temporary voting members
+were provided the briefing materials from the FDA and Pfizer, Inc. The meeting was called to
+order by Daniel H. Solomon, MD, MPH (Chairperson). The conflict of interest statement was
+read into the record by Philip A. Bautista, PharmD (Acting Designated Federal Officer). There
+were approximately 160 people in attendance. There were two Open Public Hearing (OPH)
+speaker presentations.
+
+Issue: The committee discussed supplemental new drug applications (sNDAs) 203214
+supplement 17, for XELJANZ (tofacitinib) tablets and 208246 supplement 3, for XELJANZ XR
+(tofacitinib) extended release tablets submitted by Pfizer Inc., for the treatment of adult patients
+with active psoriatic arthritis. The committee discussed the efficacy and safety data and benefit-
+risk considerations.
+
+Attendance:
+
+Arthritis Advisory Committee Members Present (Voting): Mara L. Becker, MD, MSCE;
+Jennifer Horonjeff, PhD (Consumer Representative); Beth L. Jonas, MD; Alyce M. Oliver, PhD,
+MD; Daniel H. Solomon, MD, MPH (Chairperson)
+
+Arthritis Advisory Committee Members Present (Non-Voting): James B. Chung, MD, PhD
+(Industry Representative)
+
+Arthritis Advisory Committee Members Not Present (Voting): Liron Caplan, MD, PhD;
+Jeffrey Curtis, MD, MS, MPH; Veena K. Ranganath, MD, MS; Andreas M. Reimold, MD; Jose
+U. Scher, MD; Eric J. Tchetgen Tchetgen, BS, PhD
+
+Temporary Members (Voting): Diane Aronson (Patient Representative); Erica Brittain, PhD;
+James Katz, MD; Steven B. Meisel, PharmD; Maria E. Suarez-Almazor, MD, PhD; Michael H.
+Weisman, MD
+
+
+
+
+                                             Page 2 of 6
+August 3, 2017
+Arthritis Advisory Committee Meeting
+
+FDA Participants (Non-Voting): Badrul Chowdhury, MD, PhD; Gregory Levin, PhD; Janet
+Maynard, MD, MHS; Raj Nair, MD; Rebecca Rothwell, PhD
+
+Acting Designated Federal Officer (Non-Voting): Philip A. Bautista, PharmD
+
+OPH Speakers: Stephen Marmaras (Global Health Living Foundation and Creaky Joints);
+Richard Howard (Spondylitis Association of America)
+
+The agenda was as follows:
+
+  Call to Order and Introduction of     Daniel H. Solomon, MD, MPH
+  Committee                             Chairperson, AAC
+
+  Conflict of Interest Statement        Philip A. Bautista, PharmD
+                                        Acting Designated Federal Officer, AAC
+
+  FDA Introductory Remarks              Janet Maynard, MD, MHS
+                                        Clinical Team Leader, Division of Pulmonary, Allergy, and
+                                        Rheumatology Products (DPARP)
+                                        Office of Drug Evaluation II (ODE II)
+                                        Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS               Pfizer, Inc.
+
+  Introduction                          Nancy McKay
+                                        Director, Regulatory Affairs
+                                        Pfizer, Inc.
+
+  Psoriatic Arthritis: A Physician’s    Philip Mease, MD, MACR
+  Perspective/Unmet Medical Need        Director, Rheumatology Research
+                                        Swedish-Providence-St. Joseph Health Systems
+                                        Clinical Professor
+                                        University of Washington, School of Medicine
+
+  Tofacitinib PsA Development Program   Keith Kanik, MD, FACR
+  and Efficacy                          Senior Director, Global Clinical Lead PsA
+                                        Inflammation and Immunology
+                                        Pfizer, Inc.
+
+  Tofacitinib PsA Safety                Daniela Graham, MD
+                                        Clinician, PsA Development Program
+                                        Inflammation and Immunology
+                                        Pfizer, Inc.
+
+  Risk Management                       Thomas Jones, MD
+                                        Senior Director, Safety Risk Management
+                                        Pfizer, Inc.
+
+
+
+
+                                           Page 3 of 6
+August 3, 2017
+Arthritis Advisory Committee Meeting
+
+  APPLICANT PRESENTATIONS (CONT.)
+
+  Benefit: Risk and Conclusions            Michael Corbo, PhD
+                                           Senior VP
+                                           Chief Development Officer, Inflammation and
+                                           Immunology
+                                           Pfizer, Inc.
+
+  Clarifying Questions
+
+  FDA PRESENTATIONS
+
+  Introduction and Clinical Overview       Raj Nair, MD
+                                           Medical Officer
+                                           DPARP, ODE II, OND, CDER, FDA
+
+  Statistical Considerations on Efficacy   Rebecca Rothwell, PhD
+                                           Mathematical Statistician
+                                           Division of Biometrics II (DB II)
+                                           Office of Biostatistics (OB)
+                                           Office of Translational Sciences (OTS), CDER, FDA
+
+  Summary of Safety and Risk/Benefit       Raj Nair, MD
+  Considerations
+
+  Clarifying Questions
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+  Charge to the Committee                  Janet Maynard, MD, MHS
+
+  Questions to the
+  Committee/Committee Discussion
+
+  ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the efficacy of the proposed dose of tofacitinib for adult patients
+   with active psoriatic arthritis. In your discussion, comment on the following:
+
+    a. The overall efficacy of tofacitinib with respect to signs and symptoms and physical
+       function for adult patients with psoriatic arthritis.
+
+    b. The evaluation of the effect of tofacitinib on radiographic progression in psoriatic
+       arthritis.
+
+
+
+
+                                              Page 4 of 6
+August 3, 2017
+Arthritis Advisory Committee Meeting
+
+    Committee Discussion: Overall, the committee agreed that the results of the studies
+    demonstrate the efficacy of tofacitinib for adult patients with active psoriatic arthritis with
+    respect to signs and symptoms and physical function. In regards to the evaluation of the
+    effect of the tofacitinib on radiographic progression in psoriatic arthritis, the committee
+    members noted that the totality of the data does not provide substantial evidence that
+    tofacitinib has an effect on radiographic progression in this patient population. The
+    committee commented that due to the design of the study, including the small patient sample
+    size and the shortened time on placebo, the evidence was insufficient to draw definitive
+    conclusions on radiographic benefit. Based on this, the committee members concluded that
+    no claim or implied claim should be made in the labeling to suggest that tofacitinib has a
+    positive effect on radiographic progression in psoriatic arthritis patients, if the product were
+    to be approved. Please see the transcript for details of the committee discussion.
+
+2. DISCUSSION: Discuss the safety of tofacitinib for the treatment of adult patients with
+   active psoriatic arthritis.
+
+    Committee Discussion: The committee agreed that the results of the studies demonstrate the
+    safety of tofacitinib for the treatment of adult patients with active psoriatic arthritis. The
+    committee noted that the safety profile was consistent with the known safety in rheumatoid
+    arthritis. The committee members added that the risk for herpes zoster infection with this
+    drug product was clear and that a more aggressive risk mitigation strategy should be
+    implemented to prevent infection given the availability of a vaccine. Please see the
+    transcript for details of the committee discussion.
+
+3. VOTE: Overall, do the data provide substantial evidence of the efficacy of tofacitinib for the
+   treatment of adult patients with active psoriatic arthritis?
+
+            a. If not, what data are needed?
+
+    Vote Result:        Yes:     10    No: 1      Abstain: 0
+
+    Committee Discussion: The majority of the committee (10 to 1) agreed that the data provide
+    substantial evidence of the efficacy of tofacitinib for the treatment of adult patients with
+    active psoriatic arthritis. The one committee member who voted “No” noted concerns with
+    regards to lack of evidence for reducing radiographic progression. Please see the transcript
+    for details of the committee discussion.
+
+4. VOTE: Is the safety profile of tofacitinib adequate to support approval of tofacitinib for the
+   treatment of adult patients with active psoriatic arthritis?
+
+            a. If not, what further data should be obtained?
+
+    Vote Result:        Yes:     10    No: 1        Abstain: 0
+
+    Committee Discussion: The majority of the committee (10 to 1) agreed that the safety
+    profile of tofacitinib is adequate to support the approval of tofacitinib for the treatment of
+
+
+                                               Page 5 of 6
+August 3, 2017
+Arthritis Advisory Committee Meeting
+
+    adult patients with active psoriatic arthritis. The committee members agreed that the safety
+    profile was consistent with the known safety in rheumatoid arthritis, and reiterated the need
+    for more aggressive risk mitigation strategies to prevent herpes zoster infection. The one
+    member who voted “No” noted concerns regarding the risk of infection with tofacitinib.
+    Please see the transcript for details of the committee discussion.
+
+5. VOTE: Do you recommend approval of the proposed dose of tofacitinib for the treatment of
+   adult patients with active psoriatic arthritis?
+
+    Vote Result:        Yes:     10    No: 1            Abstain: 0
+
+    Committee Discussion: The majority of the committee (10 to 1) recommended the approval
+    of the proposed dose of tofacitinib for the treatment of adult patients with active psoriatic
+    arthritis. One committee member noted that there is not enough evidence to conclude a
+    positive effect on radiographic progression outcomes, but acknowledged that the study was
+    not designed to demonstrate this statistically. Committee members reiterated that if
+    approved, the label should not include any claim or implied claim regarding a positive effect
+    on radiological progression. The one member who voted “No” noted concerns with the
+    efficacy and safety. Please see the transcript for details of the committee discussion.
+
+The meeting was adjourned at approximately 12:30 p.m.
+
+
+
+
+                                               Page 6 of 6
+

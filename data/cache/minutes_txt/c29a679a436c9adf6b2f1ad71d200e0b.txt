@@ -1,0 +1,249 @@
+                              Food and Drug Administration
+                         Center for Drug Evaluation and Research
+
+Final Summary Minutes of the Psychopharmacologic Drugs Advisory Committee Meeting
+                                     July 18, 2025
+
+
+Location: FDA White Oak Campus, 10903 New Hampshire Ave., Bldg. 31 Conference Center,
+the Great Room (Rm. 1503), Silver Spring, Maryland. The public also had the option to
+participate via an online teleconferencing and/or video conferencing platform, and the meeting
+presentations were heard, viewed, captioned, and recorded through an online video conferencing
+platform.
+
+Topic: The Committee discussed supplemental New Drug Application (sNDA) 205422/S-012,
+for REXULTI (brexpiprazole) tablets, submitted by Otsuka Pharmaceutical Company, Ltd., for
+the proposed indication of treatment of adults with post-traumatic stress disorder (PTSD), in
+combination with sertraline.
+
+These summary minutes for the July 18, 2025 meeting of the Psychopharmacologic Drugs
+Advisory Committee (PDAC) of the Food and Drug Administration were approved on August 6,
+2025.
+
+I certify that I attended the July 18, 2025 meeting of the PDAC of the Food and Drug
+Administration and that these minutes accurately reflect what transpired.
+
+
+
+__________ __/s/________________                 ____________/s/_________________
+Joyce Frimpong, PharmD                           Rajesh Narendran, MD
+Designated Federal Officer, PDAC                 Acting Chairperson, PDAC
+
+
+
+
+                                           Page 1 of 5
+July 18, 2025
+Psychopharmacologic Drugs Advisory Committee Meeting
+
+    Summary Minutes of the Psychopharmacologic Drugs Advisory Committee Meeting
+                                    July 18, 2025
+
+The Psychopharmacologic Drugs Advisory Committee (PDAC) of the Food and Drug
+Administration, Center for Drug Evaluation and Research met on July 18, 2025, at the FDA
+White Oak Campus, 10903 New Hampshire Ave., Bldg. 31 Conference Center, the Great Room
+(Rm. 1503), Silver Spring, MD 20993-0002. Prior to the meeting, the members and temporary
+voting members were provided the briefing materials from the FDA and Otsuka Pharmaceutical
+Company, Ltd. The meeting was called to order by Dr. Rajesh Narendran (Acting Chairperson).
+The conflict of interest statement was read into the record by Joyce Frimpong (Designated
+Federal Officer). There were approximately 70 people in attendance in-person, and
+approximately 816 people online. There were 15 Open Public Hearing (OPH) speaker
+presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The Committee discussed supplemental New Drug Application (sNDA) 205422/S-012,
+for REXULTI (brexpiprazole) tablets, submitted by Otsuka Pharmaceutical Company, Ltd., for
+the proposed indication of treatment of adults with post-traumatic stress disorder (PTSD), in
+combination with sertraline.
+
+Attendance:
+Psychopharmacologic Drugs Advisory Committee Members Present (Voting): Patrick S.
+Thomas, Jr., MD, PhD (via video conferencing platform)
+
+Psychopharmacologic Drugs Advisory Committee Member Present (Non-Voting): Carla M.
+Canuso, MD (Industry Representative)
+
+Temporary Members (Voting): Jacob S. Ballon, MD, MPH; Laura C. Block, PharmD (Patient
+Representative); Christopher S. Coffey, PhD, MS; Walter S. Dunn, MD, PhD; Jess G.
+Fiedorowicz, MD, PhD (via video conferencing platform); Rajesh Narendran, MD (Acting
+Chairperson); Murray Raskind, MD (via video conferencing platform); Pamela A. Shaw, PhD
+(via video conferencing platform); Brian R. Shiner, MD, MPH; Gregory Simon, MD, MPH
+
+FDA Participants (Non-Voting): Teresa Buracchio, MD; Tiffany R. Farchione, MD; Bernard
+Fischer, MD; Valentina Mantua, MD, PhD; Roberta Rasetti, MD, PhD; Peiling Yang, PhD;
+Yiming Chen, PhD
+
+Designated Federal Officer (Non-Voting): Joyce Frimpong, PharmD
+
+Open Public Hearing Speakers: Todd Lynch; Jeff Winton (Rural Minds); Ron Blake; Michael
+Abrams, MPH, PhD (Public Citizen); Diana Zuckerman, PhD (National Center for Health
+Research); Kimberly Witczak (Woodymatters); Clark Sabo; Saundra Maass-Robinson, MD;
+Debbie Plotnick (Mental Health America); William Sauve, MD (Osmind); James Knutson, MD;
+
+
+
+
+                                              Page 2 of 5
+July 18, 2025
+Psychopharmacologic Drugs Advisory Committee Meeting
+
+Vanessa Walker (Depression and Bipolar Support Alliance); Lloyd Briggery; Kathryn Santoro
+Policy Center for Maternal Mental Health.
+_____________________________________________________________________________
+The agenda was as follows:
+
+  9:00 a.m.          Call to Order and Introduction of      Rajesh Narendran, MD
+                     Committee                              Acting Chairperson, PDAC
+
+  9:05 a.m.          Conflict of Interest Statement         Joyce Frimpong, PharmD
+                                                            Designated Federal Officer, PDAC
+
+  9:15 a.m.          FDA Opening Remarks                    Tiffany R. Farchione, MD
+                                                            Director
+                                                            Division of Psychiatry (DP)
+                                                            Office of Neuroscience (ON)
+                                                            Office of New Drugs (OND), CDER, FDA
+
+  9:25 a.m.          APPLICANT PRESENTATIONS                Otsuka Pharmaceutical Company, Ltd.
+
+                     Introduction                           Mary Hobart, PhD
+                                                            Senior Vice President
+                                                            Global Regulatory Affairs
+                                                            Otsuka Pharmaceutical Company, Ltd.
+
+                     Background and Unmet Need              Arash Javanbakht, MD
+                                                            Founding Director
+                                                            Stress, Trauma, and Anxiety Research Clinic
+                                                            (STARC)
+                                                            Wayne State University School of Medicine
+
+                     Efficacy                               John Kraus, MD, PhD
+                                                            Executive Vice President and
+                                                            Chief Medical Officer
+                                                            Otsuka Pharmaceutical Company, Ltd.
+
+                                                            Jason Connor, PhD
+                                                            President & Lead Statistical Scientist
+                                                            ConfluenceStat LLC
+
+                     Safety                                 Thomas Thompson, MD
+                                                            Vice President, Global Clinical Development
+                                                            Therapeutic Head, CNS
+                                                            Otsuka Pharmaceutical Company, Ltd.
+
+                     Clinical Perspective                   Kathleen Brady, MD, PhD
+                                                            Distinguished University Professor
+                                                            Medical University of South Carolina
+
+
+
+
+                                              Page 3 of 5
+July 18, 2025
+Psychopharmacologic Drugs Advisory Committee Meeting
+
+                                                               Director, South Carolina Clinical and
+                                                               Translational Research Institute
+                     Benefit/ Risk Summary
+                                                               Mary Hobart, PhD
+
+  10:25 a.m.         Clarifying Questions to Applicant
+
+  10:55 a.m.         BREAK
+
+  11:05 a.m.         FDA PRESENTATIONS
+
+                     Brexpiprazole for the treatment of        Roberta Rasetti, MD, PhD
+                     posttraumatic stress disorder (PTSD) in   Clinical Reviewer
+                     adults, in combination with sertraline    DP, ON, OND, CDER, FDA
+
+                                                               Yiming Chen, PhD
+                                                               Statistical Reviewer
+                                                               Division of Biometrics I
+                                                               Office of Biostatistics
+                                                               Office of Translational Sciences
+                                                               CDER, FDA
+  12:05 p.m.         Clarifying Questions to FDA
+
+  12:35 p.m.         LUNCH
+
+  1:30 p.m.          OPEN PUBLIC HEARING
+
+  2:30 p.m.          Questions to the Committee/Committee Discussion
+
+  4:00 p.m.     ADJOURNMENT
+_____________________________________________________________________________
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the strength of evidence provided by the two phase 3 studies 00071
+   and 00072, in particular discuss the impact of the discordant results on your overall
+   assessment of efficacy.
+
+   Committee Discussion: Panel members discussed that the combination therapy appeared to
+   to work better in patients with a poor response to sertraline, whereas it appeared less
+   effective in those with a better response to sertraline alone. Members also noted that genetic
+   or other response factors could have influenced the differing outcomes; however, neither
+   trial specifically evaluated these factors. Additionally, some panelists discussed the
+   importance of including a broader population, particularly military populations, in future
+   studies. Please see the transcript for details of the committee discussion.
+
+
+
+
+                                              Page 4 of 5
+July 18, 2025
+Psychopharmacologic Drugs Advisory Committee Meeting
+
+
+
+2. DISCUSSION: Discuss your view on the contribution of Study 00061 on the overall
+   evidence of effectiveness.
+
+   Committee Discussion: Panel members discussed that study 00061 was difficult to use to
+   determine the drug’s effectiveness or to serve as a substitute for study 00072. However, they
+   noted that study 00061 provided some evidence of a low to moderate effect, suggesting that
+   the combination could be effective. Please see the transcript for details of the committee
+   discussion.
+
+3. DISCUSSION: Based on available data, and with consideration of the known risks of
+   brexpiprazole and sertraline individually, discuss the acceptability of the proposed concurrent
+   initiation treatment paradigm.
+
+   Committee Discussion: Overall, panel members discussed that, in the real-world co-
+   initiation may not reflect how patients will use this treatment. They noted that patients are
+   likely to start with sertraline and then add brexpiprazole, as third-party payers could dictate
+   this sequencing. Panel members also noted that that co-initiation could increase risks
+   associated with brexpiprazole such as weight gain, akathisia, and extrapyramidal symptoms
+   (EPS). Additionally, panel members questioned whether the efficacy, showing only a five-
+   point benefit was strong enough to support clinicians adopting co-initiation as a standard
+   approach. Please see the transcript for details of the committee discussion.
+
+4. VOTE: Based on the available data presented, has the efficacy of brexpiprazole, when
+   initiated concurrently with sertraline, been established for the treatment of PTSD?
+
+   Please provide your rationale and indicate the specific information (e.g., statistical analyses,
+   other data) on which you base your vote.
+
+   Vote Result:        Yes: 1          No: 10          Abstain: 0
+
+   Committee Discussion: The majority of the panel voted “No,” stating that the current
+   evidence did not establish efficacy. Panel members discussed that while study 00071 showed
+   supportive results, study 00072 yielded negative findings, and study 00061 provided only
+   limited evidence. The panel noted that the mixed results created uncertainty about the overall
+   risk-benefit profile. Additional concerns were raised regarding the absence of clear plans for
+   managing Type 1 error in study 00061, and some members suggested including combat
+   veterans with PTSD in future studies. Overall, panel members noted that an additional well-
+   designed phase 3 trial may be necessary to strengthen the evidence. Please see the transcript
+   for details of the committee discussion.
+
+
+The meeting was adjourned at approximately 3:55 p.m.
+
+
+
+
+                                              Page 5 of 5
+

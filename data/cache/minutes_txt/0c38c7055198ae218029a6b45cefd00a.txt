@@ -1,0 +1,362 @@
+                                Food and Drug Administration
+                           Center for Drug Evaluation and Research
+
+     Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                  February 26, 2020
+
+
+Location: FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.
+1503), 10903 New Hampshire Avenue, Silver Spring, Maryland
+
+Topic: During the morning session, the committee discussed new drug application 212578 for
+padeliporfin di-potassium powder for solution for injection, submitted by STEBA Biotech, S.A.
+The proposed indication (use) for this product is for the treatment of patients with localized
+prostate cancer, meeting the following criteria: Stage T1-T2a and prostate specific antigen less
+than or equal to 10 ng/mL and Gleason Grade Group 1 based on transrectal ultrasound guided
+biopsy or unilateral Gleason Grade Group 2 based on multiparametric magnetic resonance
+imaging-targeted biopsy with less than 50 percent of cores positive.
+
+During the afternoon session, the committee discussed supplemental biologics license
+application 125477/S-034, for CYRAMZA (ramucirumab) injection for intravenous use,
+submitted by Eli Lilly and Company. The proposed indication (use) for this product is in
+combination with erlotinib, for first-line treatment of patients with metastatic non-small cell lung
+cancer whose tumors have epidermal growth factor receptor exon 19 deletions or exon 21
+(L858R) substitution mutations.
+
+These summary minutes for the February 26, 2020 meeting of the Oncologic Drugs Advisory
+Committee of the Food and Drug Administration were approved on March 19, 2020.
+
+I certify that I attended the February 26, 2020 meeting of the Oncologic Drugs Advisory
+Committee of the Food and Drug Administration and that these minutes accurately reflect what
+transpired.
+
+
+________/s/__________________                      _____________/s/__________________
+Lauren Tesh Hotaki, PharmD, BCPS, BCIDP            Philip Hoffman, MD
+Designated Federal Officer                         Chairperson
+ODAC                                               ODAC
+
+
+
+
+                                             Page 1 of 7
+February 26, 2020
+Oncologic Drugs Advisory Committee Meeting Meeting
+
+
+
+       Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                  February 26, 2020
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research met on February 26, 2020, at the FDA White Oak
+Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New Hampshire
+Avenue, Silver Spring, Maryland. Prior to the meeting, the members and temporary voting
+members were provided the briefing materials from the FDA and STEBA Biotech, S.A. and Eli
+Lilly and Company. The meeting was called to order by Philip C. Hoffman, MD (Chairperson).
+The conflict of interest statement was read into the record by Lauren Tesh Hotaki, PharmD,
+BCPS, BCIDP (Designated Federal Officer). There were approximately 160 people in
+attendance during the morning session and 100 people in attendance during the afternoon
+session. There were six (6) Open Public Hearing (OPH) speaker presentations during the
+morning session and four (4) OPH speaker presentations during the afternoon session.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: During the morning session, the committee discussed new drug application 212578 for
+padeliporfin di-potassium powder for solution for injection, submitted by STEBA Biotech, S.A.
+The proposed indication (use) for this product is for the treatment of patients with localized
+prostate cancer, meeting the following criteria: Stage T1-T2a and prostate specific antigen less
+than or equal to 10 ng/mL and Gleason Grade Group 1 based on transrectal ultrasound guided
+biopsy or unilateral Gleason Grade Group 2 based on multiparametric magnetic resonance
+imaging-targeted biopsy with less than 50 percent of cores positive.
+
+During the afternoon session, the committee discussed supplemental biologics license
+application 125477/S-034, for CYRAMZA (ramucirumab) injection for intravenous use,
+submitted by Eli Lilly and Company. The proposed indication (use) for this product is in
+combination with erlotinib, for first-line treatment of patients with metastatic non-small cell lung
+cancer whose tumors have epidermal growth factor receptor exon 19 deletions or exon 21
+(L858R) substitution mutations.
+
+Attendance:
+
+Oncologic Drugs Advisory Committee Members Present (Voting): Massimo Cristofanilli,
+MD, FACP; Jorge A. Garcia, MD; Susan Halabi, PhD; Christian S. Hinrichs, MD; Philip
+Hoffman, MD (Chairperson); Heidi D. Klepin, MD, MS
+
+Oncologic Drugs Advisory Committee Members Not Present (Voting): Jaffer A. Ajani, MD;
+David E. Mitchell (Consumer Representative); Alberto S. Pappo, MD; Gregory J. Riely, MD,
+PhD; Anthony D. Sung, MD; Thomas S. Uldrick MD, MS
+
+Oncologic Drugs Advisory Committee Member Present (Non-Voting): Jonathan D. Cheng,
+MD (Industry Representative)
+
+
+
+                                              Page 2 of 7
+February 26, 2020
+Oncologic Drugs Advisory Committee Meeting Meeting
+
+
+
+Temporary Members (Voting): John Deeken, MD (Afternoon Session Only); Randy W.
+Hawkins, MD (Acting Consumer Representative); Maha Hussain, MD, FACP, FASCO
+(Morning Session Only); Terrence “Terry” Kungel, MBA (Patient Representative; Morning
+Session Only); Danil V. Makarov, MD, MHS (Morning Session Only); Shakun Malik, MD
+(Afternoon Session Only); Tracy G. Matson (Patient Representative; Afternoon Session Only);
+Brian I. Rini, MD (Morning Session Only); Howard Sandler, MD, MS, FASTRO, FASCO
+(Morning Session Only); Mohummad Minhaj Siddiqui, MD, FACS (Morning Session Only);
+Daniel Y. Song, MD (Morning Session Only); Eva Szabo, MD (Afternoon Session Only);
+Patrick C. Walsh, MD (Morning Session Only)
+
+FDA Participants (Non-Voting): Richard Pazdur, MD; Paul Kluetz, MD (Morning Session
+Only); Julia Beaver, MD (Morning Session Only); Chana Weinstock, MD (Morning Session
+Only); Sundeep Agrawal, MD (Morning Session Only); Xin (Cindy) Gao, PhD (Morning
+Session Only); Harpreet Singh, MD (Afternoon Session Only); Erin Larkins, MD (Afternoon
+Session Only); Barbara Scepura, MS, CRNP (Afternoon Session Only); Xiaoxue Li, PhD
+(Afternoon Session Only)
+
+Designated Federal Officer (Non-Voting): Lauren Tesh Hotaki, PharmD, BCPS, BCIDP
+
+Open Public Hearing Speakers: Morning Session: Michael A. Gorin, MD; John Fortin, BS,
+MS; Peter Prest, MBA; David G. Morse (Men to Men of Sarasota); Diana Zuckerman, PhD
+(National Center for Health Research); Herbert Lepor, MD
+Afternoon Session: Diana Zuckerman, PhD (National Center for Health Research); Samantha
+Mixon; Anne Phillips; Gina Dietzer
+
+_____________________________________________________________________________
+
+The morning session agenda was as follows:
+
+  Call to Order and Introduction of            Philip C. Hoffman, MD
+  Committee                                    Chairperson, ODAC
+
+  Conflict of Interest Statement               Lauren Tesh Hotaki, PharmD, BCPS, BCIDP
+                                               Designated Federal Officer, ODAC
+
+  FDA Opening Remarks                          Chana Weinstock, MD
+                                               Team Leader, Genitourinary Cancers Team
+                                               Division of Oncology 1 (DO1)
+                                               Office of Oncologic Diseases (OOD)
+                                               Office of New Drugs (OND), CDER, FDA
+
+
+  Contemporary Diagnosis and Treatment Jim C. Hu, MD, MPH
+  of Localized Prostate Cancer         Ronald P. Lynch Professor of Urologic Oncology
+                                       Director of the LeFrak Center for Robotic Surgery,
+                                       Weill Cornell Medicine
+
+
+                                              Page 3 of 7
+February 26, 2020
+Oncologic Drugs Advisory Committee Meeting Meeting
+
+                                               New York Presbyterian/Weill Cornell
+                                               New York, New York
+
+  APPLICANT PRESENTATIONS                      STEBA Biotech, S.A.
+
+  Introduction                                 John C. Rewcastle, PhD
+                                               Head, US Regulatory
+                                               STEBA Biotech, S.A.
+
+  Current Management of Clinically             Peter T. Scardino, MD
+  Localized Prostate Cancer                    Attending Surgeon and Member
+                                               Departments of Surgery and Molecular
+                                               Pharmacology and Therapeutics
+                                               Memorial Sloan Kettering Cancer Center
+                                               Professor of Urology
+                                               Weill Cornell College of Medicine
+                                               New York, New York
+
+  Prostate Hemiablation with TOOKAD            Neal D. Shore, MD, FACS
+  VTP: Procedure and Mechanism of              Medical Director, CPI
+  Action                                       Carolina Urologic Research Center
+                                               National Urology Research Director
+                                               21st Century Oncology
+                                               Atlantic Urology Clinics
+                                               Myrtle Beach, South Carolina
+
+  Efficacy and Safety and Confirmatory         Henri W. Boodée, MD
+  Study                                        Head, US Medical Affairs and Clinical
+                                               Development
+                                               STEBA Biotech, S.A.
+
+  Clinical Perspective                         Inderbir S. Gill, MD
+                                               Chair and Distinguished Professor of Urology
+                                               Keck School of Medicine
+                                               University of Southern California
+                                               Los Angeles, California
+
+  FDA PRESENTATION
+
+  NDA 202578: padeliporfin di-                 Sundeep Agrawal, MD
+  potassium powder for solution for            Clinical Reviewer, Genitourinary Cancers Team
+  injection (TOOKAD)                           DO1, OOD, OND, CDER, FDA
+
+  Clarifying Questions to Presenters
+
+  BREAK
+
+
+
+                                              Page 4 of 7
+February 26, 2020
+Oncologic Drugs Advisory Committee Meeting Meeting
+
+
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee
+  Discussion
+
+  LUNCH
+
+The afternoon session agenda was as follows:
+
+  Call to Order and Introduction of             Philip C. Hoffman, MD
+  Committee                                     Chairperson, ODAC
+
+  Conflict of Interest Statement                Lauren Tesh Hotaki, PharmD, BCPS, BCIDP
+                                                Designated Federal Officer, ODAC
+
+  FDA Opening Remarks                           Erin Larkins, MD, CDR, USPHS
+                                                Cross-Discipline Team Lead
+                                                Thoracic and Head & Neck Cancers Team
+                                                Division of Oncology 2 (DO2)
+                                                OOD, OND, CDER, FDA
+
+  APPLICANT PRESENTATIONS                       Eli Lilly and Company
+
+  Introduction                                  Allen Melemed, MD, MBA
+                                                Distinguished Medical Scholar and Senior Director
+                                                Global Regulatory Affairs, Oncology
+                                                Eli Lilly and Company
+
+  Unmet Medical Need                            Everett Vokes, MD
+                                                John E. Ultmann Professor of Medicine and
+                                                Radiation Oncology
+                                                Physician-in-Chief, University of Chicago Medicine
+                                                and Biological Sciences Chair Department of
+                                                Medicine
+
+  Efficacy                                      Paolo Abada, MD, PhD
+                                                Senior Medical Director
+                                                Cyramza Global Product Development, Oncology
+                                                Eli Lilly and Company
+
+
+  Safety                                        Carla Visseren, MD
+                                                Global Medical Lead RELAY
+                                                Eli Lilly and Company
+
+
+
+
+                                              Page 5 of 7
+February 26, 2020
+Oncologic Drugs Advisory Committee Meeting Meeting
+
+  Clinical Perspective                          John Heymach, MD, PhD
+                                                Chair, Department of Thoracic Head and Neck
+                                                Medical Oncology
+                                                MD Anderson Cancer Center
+                                                David Bruton, Jr. Chair in Cancer Research
+
+  FDA PRESENTATION
+
+  BLA: 125477 s:34 Ramucirumab                  Barbara Scepura, MS, CRNP
+                                                Clinical Reviewer
+                                                Thoracic and Head & Neck Cancers Team
+                                                DOP2, OOD, OND, CDER, FDA
+
+  Clarifying Questions to Presenters
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee
+  Discussion
+
+  ADJOURNMENT
+
+_________________________________________________________
+Questions to the Committee:
+
+Morning Session:
+
+1. VOTE: Do the results of PCM301 represent a favorable benefit/risk profile for TOOKAD
+   in patients with low-risk early stage prostate cancer?
+
+   Vote Result:          Yes: 2        No: 13          Abstain: 0
+
+   Committee Discussion: The majority of the members agreed that, the PCM301 trial
+   ultimately did not support a favorable benefit/risk profile for patients with low-risk early
+   stage prostate cancer treated with Tookad. The committee agreed with the general concept of
+   using progression in a manner that resulted in a delay of morbidity from definitive therapy.
+   The committee members that voted “No” did not accept that the results of PCM301
+   represented a favorable benefit/risk profile for TOOKAD in patients with low-risk early
+   stage prostate cancer. There was concern about the flawed study trial design, the low risk
+   population studied in which active surveillance is an accepted management option, short
+   study duration, missing biopsy data, and trial conduct. Members also questioned if the study
+   population could be generalized to the US population due to differences in low risk
+   classification versus the classification used for study enrollment at the time of trial
+   conduct,and were apprehensive of lack of long term safety data. Concern was raised, too,
+
+
+                                              Page 6 of 7
+February 26, 2020
+Oncologic Drugs Advisory Committee Meeting Meeting
+
+   about the learning curve required to master the technique of this modality. The two
+   committee members that voted “Yes” noted that the trial met its co-primary endpoints, and
+   that an “in-between” option is needed for patients who would otherwise receive active
+   surveillance versus definitive therapy. Please see the transcript for details of the committee
+   discussion.
+
+Afternoon Session:
+
+1. DISCUSSION: Discuss whether the results of the RELAY trial, with a demonstrated
+   improvement in progression free survival (PFS), support a positive benefit/risk assessment
+   given the uncertain effect on overall survival (OS) and the increased toxicity associated with
+   the addition of ramucirumab to erlotinib.
+
+   Committee Discussion: In addition to concerns surrounding increased cardiovascular
+   toxicity, i.e. Grade 3 hypertension, with the combination of ramucirumab and erlotinib,
+   members weighed the meaningfulness of using PFS vs. OS as the primary endpoint for the
+   RELAY trial. One member noted that PFS as a primary endpoint is clinically meaningful
+   especially when using OS as a primary endpoint is difficult to obtain or will take a very long
+   time to study. Some members mentioned that it is unknown if there is a detriment in OS if a
+   PFS proven regimen is used before an OS proven regimen (in this case, osimertinib) in the
+   treatment cascade of a patient. Members also questioned the role of the combination in the
+   current treatment landscape for non-small cell lung cancer (e.g. first-line or otherwise), and
+   whether this combination would be of benefit to patients seeking additional options. Please
+   see the transcript for details of the committee discussion.
+
+2. VOTE: Is the benefit/risk profile of ramucirumab plus erlotinib favorable for patients with
+   untreated metastatic EGFR-positive non-small cell lung cancer?
+
+   Vote Result:        Yes: 6          No: 5            Abstain: 0
+
+   Committee Discussion: The committee members that voted “Yes” agreed that the benefit/risk
+   profile of ramucirumab plus erlotinib is favorable for patients with untreated metastatic
+   EGFR-positive non-small cell lung cancer and noted it should be available as a treatment
+   option for patients during the shared-decision making process with their physician. Members
+   also noted that the RELAY trial met its primary PFS endpoint. The committee members that
+   voted “No” were concerned that impact on OS was uncertain, and that the trial did not
+   demonstrate evidence of improved quality of life, and increased adverse events. While some
+   members expressed reservations about the need for regular IV infusions with this regimen as
+   compared to an oral drug alone, and the effect that might have on quality of life, others
+   opined that it was not within the purview of ODAC to mandate how a company would
+   eventually market a drug or what regimen patients and physicians might choose if the data
+   on efficacy and safety appeared promising. Please see the transcript for details of the
+   committee discussion.
+
+The meeting was adjourned at approximately 4:48 p.m.
+
+
+
+                                               Page 7 of 7
+

@@ -1,0 +1,96 @@
+meeting_date,app,field,value,source
+2023-05-12,125781,orphan_for_indication,Y,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2023-05-12,125781,orphan_indication_basis,"corrected 2026-11-04 on audit: OOPD 2013 ""Treatment of Duchenne Muscular Dystrophy"" (delandistrogene moxeparvovec / Sarepta) matches indication",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2018-05-10,210645,orphan_for_indication,Y,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2018-05-10,210645,orphan_indication_basis,"corrected 2026-11-04 on audit: OOPD volanesorsen ""Treatment of familial chylomicronemia syndrome"" matches indication",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2020-07-14,761158,orphan_for_indication,Y,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2020-07-14,761158,orphan_indication_basis,"corrected 2026-11-04 on audit: OOPD 2017-06-22 belantamab mafodotin ""Treatment of multiple myeloma"" (Designated/Approved)",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2025-07-17,761440,orphan_for_indication,Y,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2025-07-17,761440,orphan_indication_basis,"corrected 2026-11-04 on audit: OOPD 2017-06-22 belantamab mafodotin ""Treatment of multiple myeloma"" (Designated/Approved)",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2019-06-06,212862,orphan_for_indication,Y,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2019-06-06,212862,orphan_indication_basis,corrected 2026-11-04 on audit: OOPD pretomanid designation for tuberculosis matches BPaL indication (XDR/TI-MDR pulmonary TB),OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2021-05-27,761183,orphan_for_indication,Y,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2021-05-27,761183,orphan_indication_basis,corrected 2026-11-04 on audit: OOPD teplizumab designation for (recent-onset/delay of) type 1 diabetes matches indication,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2017-05-10,208630,orphan_for_indication,Y,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2017-05-10,208630,orphan_indication_basis,corrected 2026-11-04 on audit: OOPD aminolevulinic acid designation for visualization of malignant glioma matches Gleolan indication,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2024-09-13,207999,orphan_for_indication,Y,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2024-09-13,207999,orphan_indication_basis,"corrected 2026-11-04 on audit: OOPD obeticholic acid designation ""Treatment of primary biliary cirrhosis/cholangitis"" matches indication",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2023-09-27,125782,orphan_for_indication,Y,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2023-09-27,125782,orphan_indication_basis,"corrected 2026-11-04 on audit: OOPD 2011-02-04 ""mesenchymal stromal cells secreting neurotrophic factors"" (BrainStorm) for ALS",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2017-06-20,022341,orphan_for_indication,N,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2017-06-20,022341,orphan_indication_basis,"corrected 2026-11-04 on audit: keyword match was to anti-IL-21 (NNC0114-0006) T1D designation, a different product; liraglutide has no designation; LEADER CV-risk claim in T2DM is common",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2018-01-09,206089,orphan_for_indication,N,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2018-01-09,206089,orphan_indication_basis,corrected 2026-11-04 on audit: testosterone designations are for constitutional delay of puberty / HIV wasting (other indications/products); hypogonadism is common,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2018-01-10,208088,orphan_for_indication,N,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2018-01-10,208088,orphan_indication_basis,corrected 2026-11-04 on audit: testosterone designations are for constitutional delay of puberty / HIV wasting (other indications/products); hypogonadism is common,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2021-07-15,213805,orphan_for_indication,N,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2021-07-15,213805,orphan_indication_basis,"corrected 2026-11-04 on audit: spurious keyword match; only roxadustat designation is MDS (2025-12-13, after the decision, other indication); CKD anemia is common",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2024-05-24,761326,orphan_for_indication,N,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2024-05-24,761326,orphan_indication_basis,corrected 2026-11-04 on audit: match was neonatal-diabetes designation of a different product; no insulin icodec designation; T1D/T2D common,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2018-03-07,125557,orphan_for_indication,Y,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2018-03-07,125557,orphan_indication_basis,corrected 2026-11-04 on audit: OOPD blinatumomab designation for acute lymphoblastic leukemia (2008) covers MRD+ ALL,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2021-10-07,215596,orphan_for_indication,Y,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2021-10-07,215596,orphan_indication_basis,corrected 2026-11-04 on audit: OOPD maribavir designation for clinically significant CMV viremia/disease in at-risk (transplant) patients matches indication,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2018-07-26,210607,orphan_for_indication,N,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2018-07-26,210607,orphan_indication_basis,"corrected 2026-11-04 on audit: only tafenoquine designation is ""Treatment of malaria"" (GSK, 2013); Arakoda is prophylaxis (prevention) by a different sponsor, not covered",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2022-09-22,125739,orphan_for_indication,Y,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2022-09-22,125739,orphan_indication_basis,"corrected 2026-11-04 on audit: OOPD 2014-03-10 ""fecal microbiota, live - jslm"" (Ferring) for prevention of recurrent CDI, Designated/Approved = Rebyota",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2022-10-28,761176,orphan_for_indication,Y,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2022-10-28,761176,orphan_indication_basis,"corrected 2026-11-04 on audit: OOPD 2016-08-29 131-I-8H9 (omburtamab, Y-mAbs) ""Treatment of neuroblastoma"" covers CNS/leptomeningeal metastases from neuroblastoma",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2021-09-17,,orphan_for_indication,N,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2021-09-17,,orphan_indication_basis,corrected 2026-11-04 on audit: no OOPD designation for RSV or COVID-19 vaccines (searched rsv/respiratory syncytial/covid/sars-cov/bnt162); common indication,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2023-02-28,125769,orphan_for_indication,N,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2023-02-28,125769,orphan_indication_basis,corrected 2026-11-04 on audit: no OOPD designation for RSV or COVID-19 vaccines (searched rsv/respiratory syncytial/covid/sars-cov/bnt162); common indication,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2023-03-01,125775,orphan_for_indication,N,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2023-03-01,125775,orphan_indication_basis,corrected 2026-11-04 on audit: no OOPD designation for RSV or COVID-19 vaccines (searched rsv/respiratory syncytial/covid/sars-cov/bnt162); common indication,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2023-05-18,125768,orphan_for_indication,N,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2023-05-18,125768,orphan_indication_basis,corrected 2026-11-04 on audit: no OOPD designation for RSV or COVID-19 vaccines (searched rsv/respiratory syncytial/covid/sars-cov/bnt162); common indication,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2025-05-20,761145,orphan_for_indication,review,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2025-05-20,761145,orphan_indication_basis,"corrected 2026-11-04 on audit: daratumumab designation is ""Treatment of multiple myeloma"" (2013); high-risk smoldering MM is a precursor state - ambiguous whether covered",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2026-07-30,125827,orphan_for_indication,review,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2026-07-30,125827,orphan_indication_basis,corrected 2026-11-04 on audit: no OOPD record found for vusolimogene oderparepvec/RP1/GALV-HSV; advanced melanoma post-PD-1 - left for review,OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2021-06-24,761209,orphan_indication_basis,"corrected 2026-11-04 on audit: OOPD 2020-03-24 retifanlimab ""anal cancer"" matches SCAC (earlier basis wrongly cited Merkel cell)",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2018-08-07,207356,orphan_indication_basis,"corrected 2026-11-04 on audit: OOPD 2013-03-25 liposomal amikacin (Insmed) NTM infections, Designated/Approved",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2021-04-15,125734,orphan_indication_basis,"corrected 2026-11-04 on audit: OOPD 2017-02-01 donislecel-jujn (CellTrans) ""Treatment of Brittle Type 1 Diabetes"", Designated/Approved",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2018-07-12,210795,orphan_indication_basis,"corrected 2026-11-04 on audit: OOPD 2013-01-15 tafenoquine (GSK) ""Treatment of malaria"", Designated/Approved",OOPD orphan designation database https://www.accessdata.fda.gov/scripts/opdlisting/oopd/ (local oopd_all.csv)
+2017-07-12,125646,review_priority,PRIORITY,https://www.novartis.com/news/media-releases/novartis-announces-first-car-t-cell-therapy-bla-pediatric-and-young-adult-patients-rr-b-cell-all-granted-fda-priority-review
+2017-07-12,125646,priority_basis,PRIORITY: https://www.novartis.com/news/media-releases/novartis-announces-first-car-t-cell-therapy-bla-pediatric-and-young-adult-patients-rr-b-cell-all-granted-fda-priority-review,https://www.novartis.com/news/media-releases/novartis-announces-first-car-t-cell-therapy-bla-pediatric-and-young-adult-patients-rr-b-cell-all-granted-fda-priority-review
+2017-10-12,125610,review_priority,PRIORITY,https://www.sec.gov/Archives/edgar/data/1609351/000160935117000074/spark-20178kblaacceptance.htm
+2017-10-12,125610,priority_basis,PRIORITY: https://www.sec.gov/Archives/edgar/data/1609351/000160935117000074/spark-20178kblaacceptance.htm,https://www.sec.gov/Archives/edgar/data/1609351/000160935117000074/spark-20178kblaacceptance.htm
+2021-04-15,125734,review_priority,STANDARD,https://www.fda.gov/media/170827/download
+2021-04-15,125734,priority_basis,STANDARD: https://www.fda.gov/media/170827/download,https://www.fda.gov/media/170827/download
+2022-06-09,125755,review_priority,PRIORITY,https://investor.bluebirdbio.com/news-releases/news-release-details/bluebird-bio-announces-fda-priority-review-biologics-license-0
+2022-06-09,125755,priority_basis,PRIORITY: https://investor.bluebirdbio.com/news-releases/news-release-details/bluebird-bio-announces-fda-priority-review-biologics-license-0,https://investor.bluebirdbio.com/news-releases/news-release-details/bluebird-bio-announces-fda-priority-review-biologics-license-0
+2022-06-10,125717,review_priority,PRIORITY,https://www.sec.gov/Archives/edgar/data/1293971/000129397121000089/blue-20211122.htm
+2022-06-10,125717,priority_basis,PRIORITY: https://www.sec.gov/Archives/edgar/data/1293971/000129397121000089/blue-20211122.htm,https://www.sec.gov/Archives/edgar/data/1293971/000129397121000089/blue-20211122.htm
+2023-05-12,125781,review_priority,PRIORITY,https://investorrelations.sarepta.com/news-releases/news-release-details/sarepta-therapeutics-announces-us-fda-has-accepted-filing-and
+2023-05-12,125781,priority_basis,PRIORITY: https://investorrelations.sarepta.com/news-releases/news-release-details/sarepta-therapeutics-announces-us-fda-has-accepted-filing-and,https://investorrelations.sarepta.com/news-releases/news-release-details/sarepta-therapeutics-announces-us-fda-has-accepted-filing-and
+2023-09-27,125782,review_priority,unverified,https://www.fda.gov/media/172397/download
+2023-09-27,125782,priority_basis,not found (unverified): no priority designation located; checked FDA briefing https://www.fda.gov/media/172397/download,https://www.fda.gov/media/172397/download
+2026-07-29,125842,priority_basis,unverified for the reviewed submission: PRIORITY applied to original BLA (https://www.capricor.com/investors/news-events/press-releases/detail/305/capricor-therapeutics-announces-fda-acceptance-and-priority); adcom reviewed a Class 2 resubmission (https://www.capricor.com/investors/news-events/press-releases/detail/338/capricor-therapeutics-announces-establishment-of-new-pdufa ; .../detail/354/capricor-therapeutics-announces-extension-of-pdufa-target),capricor press
+2026-07-30,125827,priority_basis,unverified for the reviewed submission: PRIORITY applied to original BLA (https://ir.replimune.com/news-releases/news-release-details/replimune-announces-biologics-license-application-acceptance-and); adcom reviewed a Class 1 resubmission (https://ir.replimune.com/news-releases/news-release-details/replimune-announces-fda-acceptance-rp1-biologics-license),replimune press
+2020-08-13,125706,priority_basis,unverified: CBER BLA/sBLA not in openFDA; no priority source checked,
+2024-03-15,125746,priority_basis,unverified: CBER BLA/sBLA not in openFDA; no priority source checked,
+2024-03-15,125736,priority_basis,unverified: CBER BLA/sBLA not in openFDA; no priority source checked,
+2020-08-13,125706,brand,RYONCIL,FDA approval page https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-remestemcel-l-rknd-steroid-refractory-acute-graft-versus-host-disease-pediatric
+2024-03-15,125746,brand,CARVYKTI,FDA minutes https://www.fda.gov/media/178184/download
+2024-03-15,125736,brand,ABECMA,FDA minutes https://www.fda.gov/media/178184/download
+2020-08-13,125706,notes,"Vote 8-2-0 per FDA minutes https://www.fda.gov/media/143336/download; minutes note one ""No"" voter later said they changed their vote, which is why press/cgt_check report 9-1. FDA-recorded tally kept.",https://www.fda.gov/media/143336/download
+2023-04-28,208558,vote_type,restriction/other,vote on restricting indication to BRCAm (FDA minutes media/169632)
+2023-10-05,214665,vote_type,restriction/other,"vote on PFS interpretability, not approval (media/174559)"
+2018-03-08,203214,vote_type,restriction/other,labeling vote on 10 mg BID maintenance
+2025-05-20,761309,vote_type,restriction/other,vote on applicability of STARGLO to US population
+2018-08-07,207356,vote_type,restriction/other,surrogate-endpoint vote (sputum conversion)
+2023-03-22,215887,vote_type,restriction/other,surrogate-endpoint vote (NfL reasonably likely to predict benefit)
+2019-02-26,212306,vote_type,restriction/other,vote on delaying approval until BOSTON
+2021-06-24,761209,vote_type,restriction/other,vote on deferring decision until POD1UM-303
+2022-02-10,761222,vote_type,restriction/other,vote on requiring US-applicability trial before decision (deferral)
+2021-02-09,125514,vote_type,restriction/other,vote on deferring decision until further KEYNOTE-522 data
+2020-10-09,213378,vote_type,effectiveness-only,vote on whether samidorphan mitigates weight gain (efficacy claim)
+2023-09-27,125782,vote_type,effectiveness-only,FDA question: substantial evidence of effectiveness
+2026-07-29,125842,vote_type,effectiveness-only,FDA question: substantial evidence of effectiveness (media/193857)
+2026-07-30,125827,vote_type,effectiveness-only,"FDA voting question: ""Are the efficacy results from IGNYTE evaluable and clinically meaningful?"" (https://www.fda.gov/media/193882/download)"
+2020-08-13,125706,vote_type,effectiveness-only,FDA question: do available data support efficacy (media/143336)
+2021-11-04,214812,vote_type,effectiveness-only,carbetocin: substantial evidence of effectiveness (transcript media/155577)
+2023-05-12,125781,vote_type,approval/benefit-risk,benefit-risk question supporting ACCELERATED approval (flag)
+2018-10-17,021200,vote_type,approval/benefit-risk,"reintroduction-supported-by-safety vote, de facto approval (flag)"

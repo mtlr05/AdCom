@@ -1,0 +1,295 @@
+                          Food and Drug Administration
+                     Center for Drug Evaluation and Research
+   Final Summary Minutes of the Gastrointestinal Drugs Advisory Committee Meeting
+
+Location: Please note that due to the impact of this COVID-19 pandemic, all meeting
+participants joined this advisory committee meeting via an online teleconferencing platform.
+
+Topic: The committee discussed new drug application (NDA) 212833, obeticholic acid (OCA)
+25 mg oral tablets, submitted by Intercept Pharmaceuticals, Inc., for the treatment of pre-
+cirrhotic liver fibrosis due to nonalcoholic steatohepatitis.
+
+These summary minutes for the May 19, 2023 meeting of the Gastrointestinal Drugs Advisory
+Committee of the Food and Drug Administration were approved on ____6/16/2023___.
+
+I certify that I attended the May 19, 2023 meeting of the Gastrointestinal Drugs Advisory
+Committee (GIDAC) of the Food and Drug Administration and that these minutes accurately
+reflect what transpired.
+
+
+
+__________ _/s/___________________                   __________ ___/s/________________
+Jessica Seo, PharmD, MPH                             Benjamin Lebwohl, MD, MS
+Acting Designated Federal Officer, GIDAC             Chairperson, GIDAC
+
+
+
+
+                                           Page 1 of 6
+                       Summary Minutes of the Gastrointestinal Drugs
+                              Advisory Committee Meeting
+                                     May 19, 2023
+
+The Gastrointestinal Drugs Advisory Committee (GIDAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research, met on May 19, 2023. The meeting presentations were
+heard, viewed, captioned, and recorded through an online teleconferencing platform. Prior to the
+meeting, the members and temporary voting members were provided the briefing materials from
+the FDA and Intercept Pharmaceuticals, Inc. The meeting was called to order by Benjamin
+Lebwohl, MD, MS (Chairperson). The conflict of interest statement was read into the record by
+Jessica Seo, PharmD, MPH (Acting Designated Federal Officer). There were approximately
+1358 people online. There were a total of 13 Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda:
+
+The committee discussed new drug application (NDA) 212833, obeticholic acid (OCA) 25 mg
+oral tablets, submitted by Intercept Pharmaceuticals, Inc., for the treatment of pre-cirrhotic liver
+fibrosis due to nonalcoholic steatohepatitis.
+
+Attendance:
+
+Gastrointestinal Drugs Advisory Committee Members Present (Voting): David N. Assis,
+MD; Lin Chang, MD; Christopher S. Coffey, PhD, MS; Joy McVey Hugick, BA (Consumer
+Representative); Benjamin Lebwohl, MD, MS (Chairperson); Peter Mannon, MD, MPH; Steven
+F. Solga, MD
+
+Gastrointestinal Drugs Advisory Committee Members Not Present (Voting): Sandeep
+Khurana, MBBS; Jennifer C. Lai, MD, MBA; Miguel Saps, MD; Sarah Streett, MD, AGAF
+
+Gastrointestinal Drugs Advisory Committee Member (Non-Voting): Helmut H. Albrecht,
+MD, MS (Industry Representative)
+
+Temporary Members (Voting): Mark J. Czaja, MD; James Floyd, MD, MS; Theo Heller, MD;
+Sally A. Hunsberger, PhD; Brian P. Lee, MD, MAS; Jacquelyn Maher, MD; Jorge Rakela, MD,
+MACP, FAASLD, FACG, AGAF; Jennifer Schwartzott, MS (Patient Representative); Peter
+W.F. Wilson, MD
+
+FDA Participants (Non-Voting): Frank A. Anania, MD, FACP, AGAF, FAASLD; Ruby
+Mehta, MD; Paul H. Hayashi, MD, MPH, FAASLD; Charmaine Stewart, MD, FAASLD,
+AGAF, FACP; Rebecca Hager, PhD
+
+Acting Designated Federal Officer (Non-Voting): Jessica Seo, PharmD, MPH
+
+
+
+                                             Page 2 of 6
+May 19, 2023
+Gastrointestinal Drugs Advisory Committee Meeting
+
+Open Public Hearing Speakers Present: Michael T. Abrams, MPH, PhD (Public Citizen);
+Wayne Eskridge (Fatty Liver Foundation); Michael Betel (Fatty Liver Alliance); Anthony J.
+Villiotti; Donna Cryer, JD (Global Liver Institute); Bruce D. Dimmig; Gina Villiotti Madison;
+Beth; Betsy Villiotti; David Frank (NASH Aware); Paul J. Pockros, MD; Manal F. Abdelmalek,
+MD, MPH; Kimberly Martinez
+
+The agenda was as follows:
+
+  Call to Order                               Benjamin Lebwohl, MD, MS
+                                              Chairperson, GIDAC
+
+  Introduction of Committee and               Jessica Seo, PharmD, MPH
+  Conflict of Interest Statement              Acting Designated Federal Officer, GIDAC
+
+  FDA Introductory Remarks                    Ruby Mehta, MD
+                                              Medical Team Leader
+                                              Division of Hepatology and Nutrition (DHN)
+                                              Office of Immunology and Inflammation (OII)
+                                              Office of New Drugs (OND)
+                                              CDER, FDA
+
+  APPLICANT PRESENTATIONS                     Intercept Pharmaceuticals, Inc.
+
+  Introduction                                M. Michelle Berrey, MD, MPH
+                                              President, Research & Development
+                                              Chief Medical Office
+                                              Intercept Pharmaceuticals
+
+  Medical Need                                Kris Kowdley, MD, AGAF, FAASLD, FACG,
+                                              FACP, FASG
+                                              Director, Liver Institute Northwest
+                                              Professor of Medicine
+                                              Elson S. Floyd College of Medicine
+                                              Washington State University
+
+  Non-Invasive Tests                          Rohit Loomba, MD, MHSc
+                                              Director, NAFLD Research Center
+                                              Professor of Medicine
+                                              Vice Chief, Gastroenterology
+                                              Director, Hepatology
+                                              University of California at San Diego
+
+  Efficacy Results                            Thomas Capozza, MD, FACP
+                                              Executive Director, Clinical Research
+                                              Intercept Pharmaceuticals
+
+  OCA Safety                                  Sangeeta Sawhney, MD
+                                              Vice President, Clinical Development
+                                              Intercept Pharmaceuticals
+
+
+
+
+                                                Page 3 of 6
+May 19, 2023
+Gastrointestinal Drugs Advisory Committee Meeting
+
+  Clinical Perspective                        Arun Sanyal, MD
+                                              Professor of Medicine, VCU School of Medicine
+                                              Chair of NIDDK NASH Clinical Research
+                                              Network Steering Committee
+
+  Clarifying Questions
+
+  BREAK
+
+  FDA PRESENTATIONS
+
+  Regulatory Framework, Study Design,         Rebecca Hager, PhD
+  and Efficacy                                Statistical Team Leader
+                                              Division of Biometrics III (DBIII)
+                                              Office of Biostatistics (OB)
+                                              Office of Translational Sciences (OTS)
+                                              CDER, FDA
+
+  Drug-Induced Liver Injury (DILI)            Paul H. Hayashi, MD, MPH, FAASLD
+  Assessment                                  DILI Team Leader
+                                              DHN, OII, OND, CDER, FDA
+
+  Safety Assessment (non-DILI)                Charmaine Stewart, MD, FAASLD, AGAF,
+                                              FACP
+                                              Medical Officer
+                                              DHN, OII, OND, CDER, FDA
+
+  Benefit:Risk                                Ruby Mehta, MD
+
+  Clarifying Questions
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+
+  Charge to the Committee                     Frank A. Anania, MD, FACP, AGAF, FAASLD
+                                              Director (Acting)
+                                              DHN, OII, OND, CDER, FDA
+
+  Questions to the Committee/Committee
+  Discussion
+
+  BREAK
+
+  Questions to the Committee/Committee
+  Discussion (cont.)
+
+  ADJOURNMENT
+
+
+
+
+Questions to the Committee:
+
+                                                Page 4 of 6
+May 19, 2023
+Gastrointestinal Drugs Advisory Committee Meeting
+
+
+1. DISCUSSION: Discuss the strength of the available efficacy data on the histopathologic
+   endpoint, a surrogate endpoint that is reasonably likely to predict clinical benefit, in nonalcoholic
+   steatohepatitis (NASH) patients with Stage 2 or 3 fibrosis treated with obeticholic acid (OCA) 25
+   mg.
+
+    Committee Discussion: Many Committee members acknowledged the Applicant met one of
+    the prespecified surrogate histologic endpoints and agreed that modest efficacy of OCA
+    25mg was demonstrated. The Committee was broadly in agreement that there remains great
+    uncertainty around the ability of available efficacy data on the surrogate histopathologic
+    endpoint to translate into clinically important outcomes. Many members voiced concerns that
+    the degree of the effect observed was likely not large enough to predict clinical benefit over a
+    longer term in a real-world setting. One member opined that unlike Hepatitis C, where
+    treatments are aimed at cure, in NASH the underlying disease is progressive. The
+    significance of a one stage fibrosis reversal and its durability is unknown. However, many
+    expressed difficulties weighing the evidence of efficacy without consideration of OCA’s
+    safety profile. Please see the transcript for details of the Committee’s discussion.
+
+2. DISCUSSION: Based on the data presented concerning cholestatic drug-induced liver injury
+   (DILI) in OCA 25 mg-treated patients, discuss:
+      a. Whether periodic liver enzyme monitoring could adequately mitigate the risk of DILI
+      b. The frequency of such monitoring
+      c. What stopping criteria should be developed to aid clinicians’ decisions to discontinue
+           treatment
+
+    Committee Discussion: Most Committee members expressed concern about the data
+    presented regarding cholestatic DILI in patients treated with OCA 25 mg. While one member
+    acknowledged the periodic liver enzyme monitoring program established by the Applicant
+    was associated with a reduction in events, the member was concerned that in the postmarket
+    setting close monitoring every 3-4 weeks will be impractical, especially if patients are on
+    OCA for a long duration. Most members were not convinced that periodic monitoring of
+    enzymes could adequately mitigate the risk of DILI, citing the long latency, unpredictability
+    of events, and variability of presentation. With respect to the frequency of such monitoring,
+    there were concerns among panel members that what was suggested by the Applicant would
+    either be very challenging in a real-world setting, or may not be adequate. Some members
+    pointed out the potential public health implications of OCA’s safety risks for a condition with
+    a large disease burden such as NASH. Another member opined that if OCA was approved,
+    then most patients who might receive OCA in the real world would have NAFLD rather than
+    NASH with stage 2 or 3 fibrosis, which would expose patients with earlier stage of disease
+    (who might not even progress to NASH) than were studied in the development program to the
+    substantial safety risks of OCA. One panel member also expressed concern regarding
+    uncertainty surrounding the adequacy of non-invasive tests (NITs) to identify patients who
+    progress to cirrhosis, in whom there would be substantial safety concerns and no potential
+    for efficacy. One member opined that if DILI were to occur in one patient in clinical practice,
+    that will reduce the enthusiasm of treating any patient with this drug. Please see the
+    transcript for details of the Committee’s discussion.
+
+
+                                                Page 5 of 6
+May 19, 2023
+Gastrointestinal Drugs Advisory Committee Meeting
+
+3. VOTE: Given the available efficacy and safety data, do the benefits of OCA 25 mg outweigh the
+   risks in NASH patients with Stage 2 or 3 fibrosis?
+
+    Vote Result:        Yes: 2           No: 12           Abstain: 2
+
+    Committee Discussion: The majority of Committee members voted “No,” and were in
+    agreement that given the available efficacy and safety data, the benefits of OCA 25 mg did
+    not outweigh its risks in NASH patients with Stage 2 or 3 fibrosis. While many acknowledged
+    the Applicant met one of the primary surrogate histologic endpoints for efficacy and some
+    found the efficacy data promising, the degree to which the surrogate histological endpoint
+    would translate into clinical benefit remains uncertain. These panel members agreed that the
+    potential for efficacy was outweighed by their concerns from clear evidence of safety risks
+    associated with OCA treatment.
+
+    Those who voted “Yes” or abstained cited the seriousness of the disease and unmet need,
+    and importance of empowering patients with a potential option for treatment. Please see the
+    transcript for details of the Committee’s discussion.
+
+4. VOTE: Clinical outcome events in patients enrolled in Trial 747-303 will continue to be
+   captured to evaluate clinical benefit in support of a future application for traditional approval. At
+   present, which of the following would you recommend:
+       A. Approval of OCA 25 mg at this time, under the accelerated (approval) pathway, based on
+           efficacy data on a histopathologic surrogate and available clinical safety data;
+       B. Defer approval until clinical outcome data from Trial 747-303 are submitted and
+           reviewed, at which time the traditional approval pathway could be considered.
+
+    Vote Result:        A: 1             B: 15            Abstain: 0
+
+    Committee Discussion: The Committee members were nearly unanimous in voting to defer
+    approval of OCA 25 mg until clinical outcome data from Trial 747-303 are submitted and
+    reviewed, at which time the traditional approval pathway could be considered. Panel
+    members encouraged the Applicant continue the clinical outcomes trial, given the unmet
+    medical need. Many panel members acknowledged the great unmet need for treatment
+    options among NASH patients with pre-cirrhotic liver fibrosis but were in agreement that
+    additional data to address the uncertainty about clinical benefit would be needed to evaluate
+    whether the benefits outweigh the substantial risks observed with OCA use.
+
+    The member who voted “A” acknowledged the benefit of further study but was swayed by
+    consideration for the patients who are in need of treatment now. Please see the transcript for
+    details of the Committee’s discussion.
+
+The meeting was adjourned at approximately 4:45 p.m. ET.
+
+
+
+
+                                                 Page 6 of 6
+

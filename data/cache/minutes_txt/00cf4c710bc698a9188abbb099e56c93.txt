@@ -1,0 +1,202 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+     Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                    June 24, 2021
+
+
+Location: Please note that due to the impact of the COVID-19 pandemic, all meeting participants
+joined this advisory committee meeting via an online teleconferencing platform.
+
+Topic: The committee discussed biologics license application (BLA) 761209 for retifanlimab
+injection, submitted by Incyte Corporation. The proposed indication (use) for this product is for
+the treatment of adult patients with locally advanced or metastatic squamous carcinoma of the
+anal canal (SCAC) who have progressed on or who are intolerant of platinum-based
+chemotherapy.
+
+These summary minutes for the June 24, 2021 meeting of the Oncologic Drugs Advisory
+Committee (ODAC) of the Food and Drug Administration were approved on July 23, 2021.
+
+I certify that I attended the June 24, 2021 meeting of the ODAC of the Food and Drug
+Administration and that these minutes accurately reflect what transpired.
+
+
+
+_______/s/____________________                    ________/s/____________________
+She-Chia Chen, PharmD                             Philip C. Hoffman, MD
+Designated Federal Officer, ODAC                  Chairperson, ODAC
+
+
+
+
+                                            Page 1 of 5
+       Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                     June 24, 2021
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research met on June 24, 2021. The meeting presentations were
+heard, viewed, captioned, and recorded through an online teleconferencing platform. Prior to the
+meeting, the members and temporary voting members were provided the briefing materials from
+the FDA and Incyte Corporation. The meeting was called to order by Philip C. Hoffman, MD
+(Chairperson). The conflict of interest statement was read into the record by She-Chia Chen,
+PharmD (Designated Federal Officer). There were approximately 440 people online. There were
+seven Open Public Hearing (OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committee discussed biologics license application (BLA) 761209 for retifanlimab
+injection, submitted by Incyte Corporation. The proposed indication (use) for this product is for
+the treatment of adult patients with locally advanced or metastatic squamous carcinoma of the
+anal canal (SCAC) who have progressed on or who are intolerant of platinum-based
+chemotherapy.
+
+Attendance:
+ODAC Members Present (Voting): Massimo Cristofanilli, MD, FACP; Jorge A. Garcia, MD,
+FACP; Susan Halabi, PhD; Philip C. Hoffman, MD (Chairperson); Christopher H. Lieu, MD;
+David E. Mitchell (Consumer Representative); Jorge J. Nieva, MD; Ashley Rosko, MD
+
+ODAC Members Not Present (Voting): Jaffer A. Ajani, MD; Ranjana H. Advani, MD; Alberto
+S. Pappo, MD; Anthony D. Sung, MD
+
+ODAC Member Not Present (Non-Voting): Jonathan D. Cheng, MD (Industry Representative)
+
+Temporary Members (Voting): Neil Berlin (Patient Representative); Marcia Cruz-Correa, MD,
+PhD, AGAF, FASGE; Pamela L. Kunz, MD; Mark A. Lewis, MD; Kathryn A. Lurain, MD;
+Diane Reidy-Lagunes, MD; Kim Reiss Binder, MD; Hanna K. Sanoff, MD, MPH; Colin D.
+Weekes, MD, PhD, FASCO
+
+Acting Industry Representative to the Committee (Non-Voting): Albert L. Kraus, PhD
+
+FDA Participants (Non-Voting): Richard Pazdur, MD; Julia Beaver, MD; Paul Kluetz, MD;
+Steven Lemery, MD, MHS; ‘Lola Fashoyin-Aje, MD, MPH; Sandra Casak, MD; May Tun
+Saung, MD
+
+Designated Federal Officer (Non-Voting): She-Chia Chen, PharmD
+
+
+
+
+                                            Page 2 of 5
+June 24, 2021
+Oncologic Drugs Advisory Committee Meeting
+
+Open Public Hearing Speakers: NFN Scout, MA, PhD (National LGBT Cancer Network);
+May Cho, MD; Martha Raymond, MA Ed. (GI Cancers Alliance, Inc.); Kim M. Czubaruk, Esq.
+(Cancer Support Community); Karen Cadenhead; Paul Romesser, MD; Lillian Kreppel (HPV
+Alliance)
+_____________________________________________________________________________
+
+The agenda was as follows:
+
+  Call to Order and Introduction of          Philip C. Hoffman, MD
+  Committee                                  Chairperson, ODAC
+
+  Conflict of Interest Statement             She-Chia Chen, PharmD
+                                             Designated Federal Officer, ODAC
+
+  FDA Introductory Comments                  Sandra Casak, MD
+                                             Team Leader (Acting)
+                                             Division of Oncology 3 (DO3)
+                                             Office of Oncologic Diseases (OOD)
+                                             Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                    Incyte Corporation
+
+  Introduction                               Michael J. McGraw, PharmD, MS
+                                             Executive Director, Global Regulatory Affairs
+                                             Incyte Corporation
+
+  Unmet Need                                 Marwan Fakih, MD
+                                             Professor, Medical Oncology and Therapeutics Research
+                                             Judy and Bernard Briskin Distinguished Director in Clinical
+                                             Research
+                                             City of Hope Comprehensive Cancer Center
+
+  Efficacy and Safety                        Mark Cornfeld, MD, MPH
+                                             Vice President, Immuno-Oncology Drug Development
+                                             Incyte Corporation
+
+  Clinical Perspective                       Marwan Fakih, MD
+
+  Benefit-Risk                               Mark Cornfeld, MD, MPH
+
+  FDA PRESENTATION
+
+  BLA 761209 - Retifanlimab                  May Tun Saung, MD
+                                             Clinical Reviewer
+                                             DO3, OOD, OND, CDER, FDA
+
+  Clarifying Questions to Presenters
+
+  LUNCH
+
+
+
+
+                                             Page 3 of 5
+June 24, 2021
+Oncologic Drugs Advisory Committee Meeting
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee Discussion
+
+  ADJOURNMENT
+______________________________________________________________________________
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss whether the demonstrated magnitude of effect on overall response
+   rate (and duration of response) is clinically meaningful and reasonably likely to predict
+   clinical benefit in patients with recurrent advanced or metastatic squamous cell carcinoma of
+   the anal canal.
+
+    Committee Discussion: A majority of the Committee members cautioned that the POD1UM-
+    202 clinical trial did not appear to demonstrate a magnitude of effect on overall response
+    rate (ORR) that is clinically meaningful and reasonably likely to predict clinical benefit in
+    patients with recurrent advanced or metastatic squamous cell carcinoma of the anal canal.
+    Particularly, some Committee members commented that there were historical accelerated
+    approvals of PD-1 or PD-L1 inhibitors based on low response rates; however, the
+    confirmatory trials were not successful in demonstrating benefit. Other Committee members
+    were concerned that a small portion of the trial had demonstrable clinical benefit, and
+    identified potential confounding effects of utilizing stable disease as an endpoint when there
+    was no control arm. Some Committee members were worried that the trial had a negative
+    result scientifically, as the primary endpoint did not achieve the study’s pre-specified goal,
+    particularly in a single arm trial, and questioned what was the threshold of clinically
+    meaningful data. One Committee member shared that this disease state was virally driven,
+    and it was important to recognize that, as it may affect the magnitude of effect on ORR when
+    compared to other diseases being studied in trials investigating checkpoint inhibitors. Please
+    see the transcript for details of the Committee’s discussion.
+
+2. VOTE: Should a regulatory decision on retifanlimab for the treatment of advanced or
+   metastatic SCAC be deferred until further data are available from clinical trial POD1UM-
+   303?
+
+    Vote Result:        Yes: 13         No: 4            Abstain: 0
+
+    Committee Discussion: A majority of the Committee members voted, “Yes,” that a
+    regulatory decision on retifanlimab for the treatment of advanced or metastatic SCAC should
+    be deferred until further data are available from clinical trial POD1UM-303. These
+    members expressed concerns about the existing strength of evidence from the single-arm
+    phase 2 POD1UM-202 trial, which had an overall response rate (ORR) as the primary
+    endpoint. The members further commented on their concerns of the low ORR (approximately
+    14%) and questioned whether the low ORR was clinically meaningful and reasonably likely
+    to predict clinical benefit in this patient population. The Committee members who voted
+    “No” noted that this drug product could provide a treatment option for this patient
+
+
+                                                Page 4 of 5
+June 24, 2021
+Oncologic Drugs Advisory Committee Meeting
+
+    population, particularly the HIV (+) subset. Please see the transcript for details of the
+    Committee’s discussion.
+
+The meeting was adjourned at approximately 2:40 p.m.
+
+
+
+
+                                             Page 5 of 5
+

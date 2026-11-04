@@ -1,0 +1,362 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+     Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                   March 15, 2024
+
+
+Location: All meeting participants were heard, viewed, captioned, and recorded for this advisory
+committee meeting via an online teleconferencing and/or video conferencing platform.
+
+Topic: During the morning session, the Committee discussed supplemental biologics license
+application (sBLA) 125746.74 for CARVYKTI (ciltacabtagene autoleucel), suspension for
+intravenous infusion, submitted by Janssen Biotech, Inc. The proposed indication for this product
+is for the treatment of adult patients with relapsed or refractory multiple myeloma, who have
+received at least one prior line of therapy, including a proteasome inhibitor, and an
+immunomodulatory agent, and are refractory to lenalidomide. The Committee had a general
+discussion focused on the overall survival data in the Study MMY3002 (CARTITUDE-4) and
+the risk and benefit of ciltacabtagene autoleucel in the intended population.
+
+During the afternoon session, the Committee discussed sBLA 125736.218 for ABECMA
+(idecabtagene vicleucel), suspension for intravenous infusion, submitted by Celgene Corp., a
+Bristol-Myers Squibb Co. The proposed indication is for the treatment of adult patients with
+relapsed or refractory multiple myeloma who have received an immunomodulatory agent, a
+proteasome inhibitor, and an anti-CD38 monoclonal antibody. The Committee had a general
+discussion focused on the overall survival data in the Study MM-003 (KarMMa-3) and the risk
+and benefit of idecabtagene vicleucel in the intended population.
+
+These summary minutes for the March 15, 2024 meeting of the Oncologic Drugs Advisory
+Committee of the Food and Drug Administration were approved on 4/29/2024.
+
+I certify that I attended the March 15, 2024 meeting of the Oncologic Drugs Advisory
+Committee of the Food and Drug Administration and that these minutes accurately reflect what
+transpired.
+
+
+
+           /s/____________ ______                __________/s/___________________
+Joyce Frimpong, PharmD                           Ravi A. Madan, MD
+Acting Designated Federal Officer, ODAC          Chairperson, ODAC
+
+
+
+
+                                           Page 1 of 7
+March 15, 2024
+Oncologic Drugs Advisory Committee Meeting
+
+           Summary Minutes of the Oncologic Drugs Advisory CommitteeMeeting
+                                    March 15, 2024
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research met on March 15, 2024. The meeting presentations
+were heard, viewed, captioned, and recorded through an online video conferencing platform.
+Prior to the meeting, the members and temporary voting members were provided the briefing
+materials from the FDA, Janssen Biotech, Inc. and Celgene Corporation, a Bristol-Myers Squibb
+Company. The meeting was called to order by Ravi Madan, MD (Chairperson). The conflict of
+interest statement was read into the record by Joyce Frimpong, PharmD (Acting Designated
+Federal Officer). There were approximately 2400 people in attendance. There were 10 Open
+Public Hearing (OPH) speaker presentations during the morning session and 4 OPH speaker
+presentations during the afternoon session.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: During the morning session, the Committee discussed supplemental biologics license
+application (sBLA) 125746.74 for CARVYKTI (ciltacabtagene autoleucel), suspension for
+intravenous infusion, submitted by Janssen Biotech, Inc. The proposed indication for this product
+is for the treatment of adult patients with relapsed or refractory multiple myeloma, who have
+received at least one prior line of therapy, including a proteasome inhibitor, and an
+immunomodulatory agent, and are refractory to lenalidomide. The Committee had a general
+discussion focused on the overall survival data in the Study MMY3002 (CARTITUDE-4) and
+the risk and benefit of ciltacabtagene autoleucel in the intended population.
+
+During the afternoon session, the Committee discussed sBLA 125736.218 for ABECMA
+(idecabtagene vicleucel), suspension for intravenous infusion, submitted by Celgene Corp., a
+Bristol-Myers Squibb Co. The proposed indication is for the treatment of adult patients with
+relapsed or refractory multiple myeloma who have received an immunomodulatory agent, a
+proteasome inhibitor, and an anti-CD38 monoclonal antibody. The Committee had a general
+discussion focused on the overall survival data in the Study MM-003 (KarMMa-3) and the risk
+and benefit of idecabtagene vicleucel in the intended population.
+
+Attendance:
+Oncologic Drugs Advisory Committee Members Present (Voting): Ranjana Advani, MD;
+William Gradishar, MD; Christopher Lieu, MD; Ravi Madan, MD (Chairperson); Jorge Nieva,
+MD; Daniel Spratt, MD; Neil Vasan, MD
+
+Oncologic Drugs Advisory Committee Members Not Present (Voting): Toni K. Choueiri,
+MD; Mark R. Conaway, PhD; Pamela L. Kunz, MD; David E. Mitchell (Consumer
+Representative); Alberto S. Pappo, MD; Ashley Rosko, MD
+
+Oncologic Drugs Advisory Committee Member Present (Non-Voting): Tara Frenkl MPH,
+MD (Industry Representative)
+
+
+
+
+                                             Page 2 of 7
+March 15, 2024
+Oncologic Drugs Advisory Committee Meeting
+
+Temporary Members (Voting): John DeFlice, MD (Patient Representative); Sally Hunsberger,
+PhD; Mark Kwok, MD; Susan Lattimore, RN, GCPH (Acting Consumer Representative)
+
+FDA Participants (Non-Voting): Richard Pazdur, MD (afternoon sessiononly); Marc Theoret,
+MD; Nicole Verdun, MD; Bindu Kanapuru, MD; Robert Sokolic, MD; Helkha Peredo-Pinto,
+MD, MPH (morning session only); Cong Wang, PhD (morning session only); Poornima Sharma,
+MD (afternoon session only); Xue (Mary) Lin, PhD (afternoon session only)
+
+Acting Designated Federal Officer (Non-Voting): Joyce Frimpong, PharmD
+
+Open Public Hearing Speakers:
+Morning session: Mary DeRome (Multiple Myeloma Research Foundation); Cynthia
+Chmielewski; Saad Usmani, MD; Aparajita and Ajai Puri; Surbhi Sidana, MD; Jack Aiello;
+Yelak Biru (Internaational Myeoloma Foundation); Deborah Haustein; Jenny Ahlstrom
+(HealthTree Foundation); Douglas Keller
+
+Afternoon session: Mary DeRome (Multiple Myeloma Research Foundation); Sanjay Singh; Carl
+Burgman; Brian G.M. Durie, MD International Myeloma Foundation
+
+The agenda was as follows:
+
+  Call to Order                               Ravi A. Madan, MD
+                                              Chairperson, ODAC
+
+  Introduction of Committee/ Conflict of      Joyce Frimpong, PharmD
+  Interest Statement                          Acting Designated Federal Officer, ODAC
+
+  FDA Opening Remarks                         Robert Sokolic, MD
+                                              Branch Chief
+                                              Malignant Hematology Branch (MHB)
+                                              Division of Clinical Evaluation Hematology (DCEH)
+                                              Office of Clinical Evaluation (OCE)
+                                              Office of Therapeutic Products (OTP)
+                                              Center for Biologics Evaluation and Research (CBER)
+                                              FDA
+
+  GUEST SPEAKER PRESENTATION
+  Current Management of Multiple Myeloma      Sham Mailankody, MBBS
+                                              Clinical Director, Cellular Therapy Service
+                                              Research Director, Myeloma Service
+                                              Associate Attending Physician and Associate Member
+                                              Memorial Sloan Kettering Cancer Center
+
+  Clarifying Questions to Guest Speaker
+
+
+
+
+  APPLICANT PRESENTATIONS                     Janssen Biotech Inc.
+
+
+                                             Page 3 of 7
+March 15, 2024
+Oncologic Drugs Advisory Committee Meeting
+
+
+  Introduction                                Sen Zhuang, MD, PhD
+                                              Vice President, Oncology Research & Development
+                                              Johnson & Johnson
+
+  Unmet Need                                  Irene Ghobrial, MD
+                                              Professor of Medicine
+                                              Dana Farber Cancer Institute
+                                              Harvard Medical School
+
+  CARTITUDE-4 Efficacy                        Jordan Schecter, MD
+  and Safety Data                             Vice President
+                                              Research & Development
+                                              Johnson & Johnson
+
+  Clinical Perspective                        Sundar Jagannath, MBBS
+                                              Director of Center of Excellence for Multiple
+                                              Myeloma Tisch Cancer Institute
+                                              Professor of Medicine at Icahn School of Medicine
+                                              Mount Sinai
+
+  FDA PRESENTATIONS
+
+  Ciltacabtagene Autoleucel                   Helkha Peredo-Pinto, MD, MPH
+  (CARVYKTI) sBLA 125746.74                   Clinical Reviewer
+                                              MHB, DCEH, OCE, OTP, CBER, FDA
+
+                                              Cong Wang, PhD
+                                              Statistical Reviewer
+                                              Therapeutics Evaluation Branch 1 (TEB1)
+                                              Division of Biostatistics (DB)
+                                              Office of Biostatistics and Pharmacovigilance (OBPV)
+                                              CBER, FDA
+
+  Clarifying Questions
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee
+  Discussion
+
+  LUNCH
+
+  Call to Order                               Ravi A. Madan, MD
+                                              Chairperson, ODAC
+
+  Introduction of Committee/ Conflict of      Joyce Frimpong, PharmD
+  Interest Statement                          Acting Designated Federal Officer, ODAC
+
+
+
+                                             Page 4 of 7
+March 15, 2024
+Oncologic Drugs Advisory Committee Meeting
+
+
+
+  FDA Opening Remarks                           Robert Sokolic, MD
+                                                Branch Chief
+                                                MHB, DCEH, OCE, OTP, CBER, FDA
+
+  APPLICANT PRESENTATIONS                       Celgene Corporation, a Bristol-Myers Squibb
+                                                Company
+
+  Introduction                                  Anne Kerber, MD
+                                                Senior Vice President, Head of Late Clinical
+                                                Development, Hematology, Oncology, and CT
+                                                Bristol Myers Squibb
+
+  Disease Background                            Sagar Lonial, MD
+                                                Chief Medical Officer, Winship Cancer Institute of
+                                                Emory University
+                                                Professor and Chair, Department of Hematology and
+                                                Medical Oncology
+                                                Anne and Bernard Gray Family Chair in Cancer
+                                                Emory University School of Medicine
+
+  KarMMa-3 Design and PFS Results               Eric Bleickardt, MD
+                                                Vice President, Late Clinical Development, Cell
+                                                Therapy
+                                                Bristol Myers Squibb
+
+  KarMMa-3 Overall Survival Results             Eric Bleickardt, MD
+
+
+  Clinical Safety                               Mark Cook, MBChB, PhD
+                                                Senior Clinical Trial Physician
+                                                Bristol Myers Squibb
+
+  Clinical Perspective on Benefits and Risks    Noopur Raje, MD
+  of Ide-cel Treatment for                      Director, Center for Multiple Myeloma
+  Triple-class Exposed Multiple Myeloma         Massachusetts General Hospital
+  Patients                                      Professor of Medicine
+                                                Harvard Medical School
+
+  FDA PRESENTATIONS
+
+  Idecabtagene Vicleucel (ABECMA) sBLA          Poornima Sharma, MD
+  125736.218                                    Clinical Reviewer
+                                                MHB, DCEH, OCE, OTP, CBER, FDA
+
+                                                Xue (Mary) Lin, PhD
+                                                Statistical Reviewer
+                                                TEB1, DB, OBPV, CBER, FDA
+  Clarifying Questions
+
+
+
+
+                                               Page 5 of 7
+March 15, 2024
+Oncologic Drugs Advisory Committee Meeting
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee
+  Discussion
+
+  ADJOURNMENT
+
+
+Questions to the Committee:
+
+   Morning session
+
+1. DISCUSSION: Discuss whether the results of CARTITUDE-4 are sufficient to support a
+   positive risk-benefit assessment of ciltacabtagene autoleucel for the proposed indication.
+
+   Committee Discussion: Committee members discussed that, while there are some risks, the
+   benefit of the progression free survival allows patients freedom from treatment. Committee
+   members highlighted that it was a benefit to have a treatment option that could be given one
+   time without having patients come back and forth for treatment. Please see the transcript for
+   details of the Committee’s discussion.
+
+2. DISCUSSION: Is the risk of early death associated with ciltacabtagene autoleucel treatment
+   acceptable in the context of the PFS benefit?
+
+   Committee Discussion: Committee members acknowledged that the risk of the death up front
+   was concerning,but noted that the risk may or may not be mitigated for the future. Please see
+   the transcript for details of the Committee’s discussion.
+
+3. VOTE: Is the risk-benefit assessment for ciltacabtagene autoleucel for the proposed
+   indication, favorable?
+
+   Vote Result:        Yes: 11                No: 0        Abstain: 0
+
+   Committee Discussion: The Committee unanimously agreed that the risk-benefit assessment
+   was favorable. Committee members acknowledged the risk of early death could be related to
+   an inadequate bridging regimen, which was not optimized. The Committee noted that the
+   risk should be addressed in the future, but there was agreement that the progression free
+   survival data was strong, and it outweighed the risk. Please see the transcript for details of
+   the Committee’s discussion.
+
+
+
+
+                                             Page 6 of 7
+March 15, 2024
+Oncologic Drugs Advisory Committee Meeting
+
+   Afternoon session
+
+1. DISCUSSION: Discuss whether the results of KarMMa-3 are sufficient to support a positive
+   risk-benefit assessment of idecabtagene vicleucel for the proposed indication.
+
+   Committee Discussion: Committee members generally agreed that it was difficult to evaluate
+   the overall survival given the amount of crossover presented, and that the benefit observed
+   was in regard to the progression free survival. Please see the transcript for details of the
+   Committee’s discussion.
+
+2. DISCUSSION: Is the risk of early death associated with idecabtagene vicleucel treatment
+   acceptable in the context of the PFS benefit?
+
+   Committee Discussion: Overall, Committee members agreed that the progression free
+   survival benefit was clear, and the risk of early death was a concern. Some panel members
+   suggested that the risk of the early death could be related to an inadequate bridging
+   regimen, which was not optimized. Please see the transcript for details of the Committee’s
+   discussion.
+
+3. VOTE: Is the risk-benefit assessment for idecabtagene vicleucel for the proposed indication,
+   favorable?
+
+   Vote Result:        Yes: 8          No: 3            Abstain: 0
+
+   Committee Discussion: The majority of the panel agreed that the risk-benefit assessment for
+   idecabtagene vicleucel for the proposed indication was favorable. Members who voted
+   “Yes,” commented that the progression free survival data was encouraging and beneficial to
+   the patient and that time off of therapy was valuable. They also noted that in the future the
+   bridging regimen should be optimized. Those who voted “No,” expressed concerns about the
+   lack of improvement in OS with earlier ide-cel treatment, the possibility that crossing over of
+   the OS curves was from a higher rate of death in the SOC arm upon cross over to ide-cel arm
+   and the lack of plateau in the PFS curves. Please see the transcript for details of the
+   Committee’s discussion.
+
+
+The morning session was adjourned at approximately 1:00 p.m. and the afternoon session was
+adjourned at approximately 5:05 p.m.
+
+
+
+
+                                               Page 7 of 7
+

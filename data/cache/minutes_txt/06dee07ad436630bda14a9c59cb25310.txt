@@ -1,0 +1,331 @@
+                              Food and Drug Administration
+                         Center for Drug Evaluation and Research
+
+Final Summary Minutes of the Oncologic Drugs Advisory Committee (ODAC) Meeting
+                                 December 17, 2019
+
+
+Location: FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.
+1503), 10903 New Hampshire Avenue, Silver Spring, Maryland
+
+Topic: During the morning session, the committee discussed supplemental new drug application
+(sNDA) 208558/010 for LYNPARZA (olaparib) tablets, submitted by AstraZeneca
+Pharmaceuticals LP. The proposed indication (use) for this product is for the maintenance
+treatment of adult patients with deleterious or suspected deleterious gBRCAm metastatic
+adenocarcinoma of the pancreas whose disease has not progressed on first-line platinum-based
+chemotherapy.
+
+During the afternoon session, the committee discussed supplemental biologics license
+application (sBLA) 125514/066 for KEYTRUDA (pembrolizumab) for injection, submitted by
+Merck Sharpe & Dohme Corp. The proposed indication (use) for this product is for the treatment
+of patients with bacillus Calmette-Guérin-unresponsive, high-risk, non-muscle invasive bladder
+cancer with carcinoma in-situ with or without papillary tumors who are ineligible for or have
+elected not to undergo cystectomy.
+
+These summary minutes for the December 17, 2019 meeting of the Oncologic Drugs Advisory
+Committee of the Food and Drug Administration were approved on January 14, 2020.
+
+I certify that I attended the December 17, 2019 meeting of the Oncologic Drugs Advisory
+Committee of the Food and Drug Administration and that these minutes accurately reflect what
+transpired.
+
+
+__________ /s/___________________               _________/s/______________________
+Lauren Tesh Hotaki, PharmD, BCPS, BCIDP         Philip Hoffman, MD
+Designated Federal Officer                      Chairperson
+ODAC                                            ODAC
+
+
+
+
+                                          Page 1 of 7
+December 17, 2019
+Oncologic Drugs Advisory Committee Meeting
+
+       Final Summary Minutes of the Oncologic Drugs Advisory Committee Meeting
+                                  December 17, 2019
+
+The Oncologic Drugs Advisory Committee (ODAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research met on December 17, 2019, at the FDA White Oak
+Campus, Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New Hampshire
+Avenue, Silver Spring, Maryland. Prior to the meeting, the members and temporary voting
+members were provided the briefing materials from the FDA, AstraZeneca Pharmaceuticals LP
+and Merck Sharpe & Dohme Corp. The meeting was called to order by Philip C. Hoffman, MD
+(Chairperson). The conflict of interest statement was read into the record by Lauren Tesh Hotaki,
+PharmD, BCPS, BCIDP (Designated Federal Officer). There were approximately 150 people in
+attendance during the morning and afternoon sessions. There were four (4) Open Public Hearing
+(OPH) speaker presentations during the morning session and two (2) OPH speaker presentations
+during the afternoon session.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: During the morning session, the committee discussed supplemental new drug
+application (sNDA) 208558/010 for LYNPARZA (olaparib) tablets, submitted by AstraZeneca
+Pharmaceuticals LP. The proposed indication (use) for this product is for the maintenance
+treatment of adult patients with deleterious or suspected deleterious gBRCAm metastatic
+adenocarcinoma of the pancreas whose disease has not progressed on first-line platinum-based
+chemotherapy.
+
+During the afternoon session, the committee discussed supplemental biologics license
+application (sBLA) 125514/066 for KEYTRUDA (pembrolizumab) for injection, submitted by
+Merck Sharpe & Dohme Corp. The proposed indication (use) for this product is for the treatment
+of patients with bacillus Calmette-Guérin-unresponsive, high-risk, non-muscle invasive bladder
+cancer with carcinoma in-situ with or without papillary tumors who are ineligible for or have
+elected not to undergo cystectomy.
+
+Attendance:
+
+Oncologic Drugs Advisory Committee Members Present (Voting): Massimo Cristofanilli,
+MD, FACP; Susan Halabi, PhD; Christian S. Hinrichs, MD; Philip Hoffman, MD (Chairperson);
+Heidi D. Klepin, MD, MS; Anthony D. Sung, MD (Morning Session Only); Thomas S. Uldrick,
+MD, MS
+
+Oncologic Drugs Advisory Committee Members Not Present (Voting): Jaffer A. Ajani, MD;
+Jorge A. Garcia, MD; David E. Mitchell (Consumer Representative); Alberto S. Pappo, MD;
+Gregory J. Riely, MD, PhD
+
+Oncologic Drugs Advisory Committee Member Present (Non-Voting): Albert L. Kraus, PhD
+(Industry Representative (alternate))
+
+
+
+
+                                             Page 2 of 7
+December 17, 2019
+Oncologic Drugs Advisory Committee Meeting
+
+Oncologic Drugs Advisory Committee Member Not Present (Non-Voting): Jonathan D.
+Cheng, MD (Industry Representative)
+
+Temporary Members (Voting): Piyush Agarwal, MD (Afternoon Session Only); Dawn
+Aldrich, PhD (Patient Representative; Morning Session Only); Andrea B. Apolo, MD (Afternoon
+Session Only); Randy W. Hawkins, MD (Acting Consumer Representative); Colette Johnson
+(Patient Representative; Afternoon Session Only); Matthew H. Kulke, MD (Morning Session
+Only); Diane Reidy Lagunes, MD (Morning Session Only); Jonah Murdock, MD, PhD, FACS
+(Afternoon Session Only); Christian P. Pavlovich, MD (Afternoon Session Only); Hanna
+K.Sanoff, MD, MPH (Morning Session Only); Mohummad Minhaj Siddiqui, MD FACS
+(Afternoon Session Only)
+
+FDA Participants (Non-Voting): Richard Pazdur, MD; Steven Lemery, MD (Morning Session
+Only); ‘Lola Fashoyin-Aje, MD MPH (Morning Session Only); Martha Donoghue, MD
+(Morning Session Only); Naomi Horiba, MD, MPH (Morning Session Only); Julia Beaver, MD
+(Afternoon Session Only); Daniel Suzman, MD (Afternoon Session Only); Jamie Brewer, MD
+(Afternoon Session Only); Joyce Cheng, PhD (Afternoon Session Only)
+
+Designated Federal Officer (Non-Voting): Lauren Tesh Hotaki, PharmD, BCPS, BCIDP
+
+Open Public Hearing Speakers: Morning Session: Lisa Schlager (Facing Our Risk of Cancer
+Empowered); Julie Fleshman, JD, MBA (Pancreatic Cancer Action Network); Allison Perlis;
+Nina Zeldes, MS (National Center for Health Research)
+Afternoon Session: Andrea Maddox-Smith (Bladder Cancer Advocacy Network); Diana
+Zuckerman, PhD (National Center for Health Research)
+_____________________________________________________________________________
+
+The morning session agenda was as follows:
+
+  Call to Order and Introduction of            Philip C. Hoffman, MD
+  Committee                                    Chairperson, ODAC
+
+  Conflict of Interest Statement               Lauren Tesh Hotaki, PharmD, BCPS, BCIDP
+                                               Designated Federal Officer, ODAC
+
+  FDA Opening Remarks                          Martha Donoghue, MD
+                                               Cross-Discipline Team Leader
+                                               Gastrointestinal Cancers Team
+                                               Division of Oncology 3 (DO3)
+                                               Office of Oncologic Diseases (OOD)
+                                               Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                      AstraZeneca Pharmaceuticals LP
+
+
+
+
+                                             Page 3 of 7
+December 17, 2019
+Oncologic Drugs Advisory Committee Meeting
+
+  Introduction                                 Susan Galbraith, MB, BChir, PhD, MRCP,
+                                               FRCR, FMedSci
+                                               Senior Vice President
+                                               Head of Research and Early Development
+                                               Oncology R&D, AstraZeneca
+
+  Disease Background and Unmet Need            Hedy Kindler, MD
+                                               Professor of Medicine
+                                               University of Chicago
+
+  POLO Clinical Development Program            Carsten Goessl, MD
+  and Efficacy                                 Global Development Lead for Olaparib
+                                               AstraZeneca
+
+  Clinical Safety                              Mayur Patel, PharmD
+                                               Vice President, Patient Safety
+                                               Oncology/Immuno Oncology, AstraZeneca
+
+  Clinical Perspective                         Margaret Tempero, MD
+                                               Director, UCSF Pancreas Center
+                                               University of California at San Francisco
+
+  Summary                                      Susan Galbraith, MB, BChir , PhD, MRCP,
+                                               FRCR, FMedSci
+
+  FDA PRESENTATION
+
+  sNDA 208558 s10: Olaparib                    Naomi Horiba, MD, MPH
+                                               Clinical Reviewer
+                                               Gastrointestinal Cancers Team
+                                               DO3, OOD, OND, CDER, FDA
+
+  Clarifying Questions to Presenters
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee
+  Discussion
+
+  LUNCH
+
+
+
+
+                                             Page 4 of 7
+December 17, 2019
+Oncologic Drugs Advisory Committee Meeting
+
+The afternoon session agenda was as follows:
+
+  Call to Order and Introduction of            Philip C. Hoffman, MD
+  Committee                                    Chairperson, ODAC
+
+  Conflict of Interest Statement               Lauren Tesh Hotaki, PharmD, BCPS, BCIDP
+                                               Designated Federal Officer, ODAC
+
+  FDA Opening Remarks                          Daniel Suzman, MD
+                                               Acting Clinical Team Leader
+                                               Genitourinary Team 2
+                                               Division of Oncology 1 (DO1)
+                                               OOD, OND, CDER, FDA
+
+  APPLICANT PRESENTATIONS                      Merck Sharpe & Dohme Corp
+
+  Introduction                                 Jeffrey N. Stuart, PhD
+                                               Executive Director, Global Regulatory Affairs
+                                               Merck & Co., Inc.
+
+  Unmet Need                                   Gary D. Steinberg, MD
+                                               Professor and Director
+                                               Goldstein Bladder Cancer Program
+                                               NYU Langone Health
+
+  Efficacy and Safety                          Ekta Kapadia, MD
+                                               Senior Clinical Director, Oncology
+                                               Merck & Co., Inc.
+
+  Clinical Perspective                         Ashish M. Kamat, MD, MBBS, FACS
+                                               Professor of Urologic Oncology (Surgery)
+                                               Wayne B. Duddlesten Professor of Cancer Research
+                                               MD Anderson Cancer Center, Houston, Texas
+                                               President, International Bladder Cancer Group
+                                               (IBCG)
+                                               Co-President, International Bladder Cancer Network
+                                               (IBCN)
+
+  Benefit-Risk                                 Scot Ebbinghaus, MD
+                                               Vice President, Clinical Research, Oncology
+                                               Merck & Co., Inc.
+
+
+
+
+                                             Page 5 of 7
+December 17, 2019
+Oncologic Drugs Advisory Committee Meeting
+
+  FDA PRESENTATION
+
+  Keytruda® (pembrolizumab)                      Jamie Brewer, MD
+                                                 Clinical Reviewer
+                                                 Genitourinary Team 2
+                                                 DO1, OOD, OND, CDER, FDA
+
+  Clarifying Questions to Presenters
+
+  BREAK
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee
+  Discussion
+
+  ADJOURNMENT
+
+___________________________________________________________________________
+Questions to the Committee:
+
+Morning Session:
+
+1. VOTE: Is the risk-benefit assessment for olaparib as a maintenance therapy in patients with
+   gBRCAm pancreatic cancer favorable?
+
+   Vote Result:        Yes: 7          No: 5            Abstain: 0
+
+   Committee Discussion: Members of the Committee agreed that an imaging-based endpoint
+   like progression free survival, was an appropriate endpoint to support an assessment of
+   clinical benefit in gBRCAm metastatic pancreatic cancer. The committee members who voted
+   “Yes” stated that the statistically significant improvement in progression free survival,
+   without evidence to demonstrate an improvement in overall survival, was sufficient to
+   demonstrate the clinical benefit of olaparib in the indicated population, which consists of a
+   small subset of patients with pancreatic cancer and noted that consistency with the known
+   safety profile of olaparib supported favorable risk-benefit assessment. Committee members
+   noted the convenience of providing a treatment option that permits a delay in the initiation of
+   cytotoxic chemotherapy with its associated toxicity profile, the challenges with conducting a
+   study to demonstrate OS in a rare biomarker selected population, and the high unmet
+   medical need of patients with gBRCAm metastatic pancreatic adenocarcinoma, as important
+   considerations in the recommendation for approval. Committee members who voted “No”
+   acknowledged that having an oral medication may provide a more convenient treatment
+   option to paients, and stated that treatment with olaparib appeared to confer benefit in a
+   subset of patients with gBRCAm metastatic pancreatic cancer; however, these members
+   viewed the absence of a demonstrated benefit in OS or improvement in quality of life, to be a
+   significant limitation to concluding that that the risk:benefit assessment is favorable.
+
+
+                                               Page 6 of 7
+December 17, 2019
+Oncologic Drugs Advisory Committee Meeting
+
+Afternoon Session:
+
+1. VOTE: Do the observed complete response rate and duration represent a favorable
+   risk/benefit profile in patients with BCG-unresponsive high-risk NMIBC with CIS treated
+   with pembrolizumab?
+
+   Vote Result:        Yes: 9          No: 4            Abstain: 0
+
+   Committee Discussion: The majority of the committee agreed that the observed complete
+   response rate and duration do represent a favorable risk/benefit profile in patients with
+   bacillus Calmette-Guérin-unresponsive, high-risk, non-muscle invasive bladder cancer with
+   carcinoma in-situ treated with pembrolizumab. The committee members that voted “Yes”
+   agreed that the response data presented, although immature, seemed to be clinically
+   meaningful in patients who want to delay cystectomy and have another option for treatment.
+   It was further commented that it will be important for physicians and patients to have an
+   informed discussion regarding risks and benefits associated with pembrolizumab for use in
+   this indication. The committee members that voted “No”stated that data presented by the
+   Applicant was immature and that the subset of patients who experienced prolonged benefit
+   may be too small for approval in the setting of a systemic therapy. Some committee members
+   were concerned that deferring cystectomy may result in a higher-risk operation if and when
+   cystectomy is subsequently required. Some committee members noted that presentation of
+   quality of life data may have been helpful to better understand the risk/benefit of
+   pembrolizumab in this setting. One member noted concern with using systemic therapy for a
+   localized disease. Please see the transcript for details of the committee discussion.
+
+The meeting was adjourned at approximately 4:36 p.m.
+
+
+
+
+                                               Page 7 of 7
+

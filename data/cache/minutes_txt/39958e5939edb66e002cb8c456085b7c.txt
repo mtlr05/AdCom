@@ -1,0 +1,325 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+             Summary Minutes of the Arthritis Advisory Committee Meeting
+                                   August 2, 2017
+
+Location: The FDA White Oak Campus, Building 31, The Great Room (Rm. 1503), White Oak
+Conference Center, Silver Spring, Maryland.
+
+Topic: The committee discussed biologics license application (BLA) 761057, for sirukumab
+injection (proposed trade name PLIVENSIA), submitted by Janssen Biotech, Inc., for the
+treatment of adult patients with moderately to severely active rheumatoid arthritis who have had
+an inadequate response or are intolerant to one or more disease modifying anti-rheumatic drugs.
+The discussion included dose selection, efficacy, radiographic progression study, and safety.
+
+These summary minutes for the August 2, 2017, meeting of the Arthritis Advisory Committee
+of the Food and Drug Administration were approved on August 22, 2017.
+
+I certify that I attended the August 2, 2017, meeting of the Arthritis Advisory Committee of the
+Food and Drug Administration and that these minutes accurately reflect what transpired.
+
+
+
+
+__________/s/________________                    __________/s/______________
+Philip A. Bautista, PharmD                       Daniel H. Solomon, MD, MPH
+Acting Designated Federal Officer, AAC           Chairperson, AAC
+
+
+
+
+                                           Page 1 of 7
+              Summary Minutes of the Arthritis Advisory Committee Meeting
+                                    August 2, 2017
+
+The following is the final report of the Arthritis Advisory Committee meeting, held on August 2,
+2017. A verbatim transcript will be available in approximately six weeks, sent to the Division of
+Pulmonary, Allergy, and Rheumatology Products, and posted on the FDA website at:
+https://www.fda.gov/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/ArthritisAdvisor
+yCommittee/ucm564748.htm
+
+All external requests for the meeting transcript should be submitted to the CDER Freedom of
+Information Office.
+
+
+The Arthritis Advisory Committee met on August 2, 2017, at the FDA White Oak Campus,
+Building 31 Conference Center, the Great Room (Rm. 1503), 10903 New Hampshire Avenue,
+Silver Spring, Maryland. Prior to the meeting, the members and temporary voting members
+were provided the briefing materials from the FDA and Janssen Biotech, Inc. The meeting was
+called to order by Daniel H. Solomon, MD, MPH (Chairperson). The conflict of interest
+statement was read into the record by Philip A. Bautista, PharmD (Acting Designated Federal
+Officer). There were approximately 190 people in attendance. There were three Open Public
+Hearing (OPH) speaker presentations.
+
+Issue: The committee discussed biologics license application (BLA) 761057, for sirukumab
+injection (proposed trade name PLIVENSIA), submitted by Janssen Biotech, Inc., for the
+treatment of adult patients with moderately to severely active rheumatoid arthritis who have had
+an inadequate response or are intolerant to one or more disease modifying anti-rheumatic drugs.
+The discussion included dose selection, efficacy, radiographic progression study, and safety.
+
+Attendance:
+
+Arthritis Advisory Committee Members Present (Voting): Mara L. Becker, MD, MSCE;
+Jennifer Horonjeff, PhD (Consumer Representative); Beth L. Jonas, MD; Alyce M. Oliver, PhD,
+MD; Daniel H. Solomon, MD, MPH (Chairperson)
+
+Arthritis Advisory Committee Members Not Present (Voting): Liron Caplan, MD, PhD;
+Jeffrey Curtis, MD, MS, MPH; Veena K. Ranganath, MD, MS; Andreas M. Reimold, MD; Jose
+U. Scher, MD; Eric J. Tchetgen Tchetgen, BS, PhD
+
+Arthritis Advisory Committee Members Not Present (Non-Voting): James B. Chung, MD,
+PhD (Industry Representative)
+
+Temporary Members (Voting): Diane Aronson (Patient Representative); Erica Brittain, PhD;
+David T. Felson, MD, MPH; James Katz, MD; Steven B. Meisel, PharmD; Maria E. Suarez-
+Almazor, MD, PhD; Scott A. Waldman, MD, PhD; Michael H. Weisman, MD
+
+Temporary Members (Non-Voting): Sean P. Curtis, MD (Acting Industry Representative)
+
+
+                                           Page 2 of 7
+August 2, 2017
+Arthritis Advisory Committee Meeting
+
+FDA Participants (Non-Voting): Curtis Rosebraugh, MD, MPH; Badrul Chowdhury, MD,
+PhD; Gregory Levin, PhD; Janet Maynard, MD, MHS; Mark Borigini, MD
+
+Acting Designated Federal Officer (Non-Voting): Philip A. Bautista, PharmD
+
+OPH Speakers: Stephen Marmaras (Global Health Living Foundation and Creaky Joints);
+Tiffany Westrich-Robertson (International Foundation for Autoimmune and Autoinflammatory
+Arthritis); Stephanie Mosely
+
+The agenda was as follows:
+
+  Call to Order and Introduction of    Daniel H. Solomon, MD, MPH
+  Committee                            Chairperson, AAC
+
+  Conflict of Interest Statement       Philip A. Bautista, PharmD
+                                       Acting Designated Federal Officer, AAC
+
+  FDA Introductory Remarks             Janet Maynard, MD, MHS
+                                       Clinical Team Leader
+                                       Division of Pulmonary, Allergy, and Rheumatology
+                                       Products (DPARP)
+                                       Office of Drug Evaluation II (ODE II)
+                                       Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS              Janssen Biotech, Inc.
+
+  Introduction                         George Vratsanos, MD
+                                       Vice President
+                                       Translational Medicine
+                                       Janssen R&D
+
+  Unmet Medical Need                   Sergio Schwartzman, MD
+                                       Professor of Clinical Medicine
+                                       Weill Cornell Medical College
+
+  Efficacy                             George Vratsanos, MD
+
+  Safety                               Newman Yeilding, MD
+                                       Head of Immunology Development
+                                       Clinical Development
+                                       Janssen R&D
+
+  Conclusion                           George Vratsanos, MD
+
+  Clarifying Questions
+
+  BREAK
+
+
+
+
+                                          Page 3 of 7
+August 2, 2017
+Arthritis Advisory Committee Meeting
+
+  FDA PRESENTATIONS
+
+  Introduction and Clinical Overview     Mark Borigini, MD
+                                         Medical Officer
+                                         DPARP, ODE II, OND, CDER, FDA
+
+  Dose Selection Considerations: Phase   Dipak Pisal, PhD
+  2 Study Results                        Clinical Pharmacology Reviewer
+                                         Division of Clinical Pharmacology II
+                                         Office of Clinical Pharmacology
+                                         Office of Translational Science (OTS), CDER, FDA
+
+  Review of Efficacy                     William Koh, PhD
+                                         Statistical Reviewer
+                                         Division of Biometrics II
+                                         Office of Biostatistics, OTS, CDER, FDA
+
+  Safety Assessment and Risk/Benefit     Mark Borigini, MD
+  Considerations
+
+  Clarifying Questions
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+
+  Charge to the Committee                Janet Maynard, MD, MHS
+
+  Questions to the
+  Committee/Committee Discussion
+
+  BREAK
+
+  Questions to the
+  Committee/Committee Discussion
+  (cont.)
+
+  ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the efficacy of sirukumab for the treatment of adult patients with
+   moderately to severely active rheumatoid arthritis who have had an inadequate response or
+   are intolerant to one or more disease-modifying anti-rheumatic drugs (DMARDs).
+
+    Committee Discussion: The committee agreed that results of the submitted studies
+    demonstrated the efficacy of sirukumab for the treatment of adult patients with moderately to
+    severely active rheumatoid arthritis who have had an inadequate response or are intolerant
+    to one or more disease-modifying anti-rheumatic drugs (DMARDs). The committee noted
+    that the efficacy of sirukumab was clear based on the percentage of study patients achieving
+
+
+                                            Page 4 of 7
+August 2, 2017
+Arthritis Advisory Committee Meeting
+
+    American College of Rheumatology response criteria (ACR 20, ACR 50, and ACR 70), the
+    reduction in DAS28-CRP scores, the reduction in Health Assessment Questionnaire
+    Disability Index (HAQ-DI) score, and the reduction in radiographic progression (van der
+    Heijde modified Sharp score). One committee member noted that 5-10% of patients achieved
+    remission in comparison to placebo in study ARA3002, which had minimal response. Please
+    see the transcript for details of the committee discussion.
+
+2. VOTE: Overall, do the data provide substantial evidence of the efficacy of sirukumab for the
+   treatment of adult patients with moderately to severely active rheumatoid arthritis who have
+   had an inadequate response or are intolerant to one or more DMARDs?
+
+            a. If not, what data are needed?
+
+    Vote Result:        Yes:     13    No: 0        Abstain: 0
+
+    Committee Discussion: The committee unanimously (13 members) agreed that the data
+    provide substantial evidence of the efficacy of sirukumab for the treatment of adult patients
+    with moderately to severely active rheumatoid arthritis who have had an inadequate
+    response or are intolerant to one or more disease modifying anti-rheumatic drugs
+    (DMARDs). One committee member recommended that additional studies be conducted
+    comparing sirukumab to other IL-6 inhibitors. Please see the transcript for details of the
+    committee discussion.
+
+3. DISCUSSION: Discuss the design of the 52-week placebo-controlled radiographic study,
+   ARA3002.
+
+    Committee Discussion: Overall, the majority of the committee agreed that the 52-week
+    placebo-controlled radiographic study ARA3002 was designed and conducted appropriately.
+    Some of the members noted ethical concerns regarding the use of a 52-week placebo
+    treatment arm in patients with active disease given the potential for subsequent disease
+    progression. The members appreciated that the study design allowed for “early escape” at
+    week 18 and “late escape” at week 40 from the placebo arm if patients did not achieve 20%
+    improvement in swollen and tender joint count from baseline. One committee member added
+    that achieving an ACR20 is not an appropriate reason to allow a patient to stay on placebo,
+    especially given the safety data. Given the advances in imaging techniques, some committee
+    members suggested that radiographic progression could have been measured more
+    frequently rather than just at the end of the study. One of the members added that frequent
+    measures of radiographic progression could have informed the decision on whether a patient
+    was eligible for early escape or late escape from the placebo arm. One of the members noted
+    that active-controlled trials should be considered instead of placebo-controlled trials.
+    Please see the transcript for details of the committee discussion.
+
+4. DISCUSSION: Discuss the safety findings in the phase 3 program, with particular
+   consideration of the imbalance in all-cause death between sirukumab and placebo.
+
+
+
+
+                                               Page 5 of 7
+August 2, 2017
+Arthritis Advisory Committee Meeting
+
+    Committee Discussion: The committee agreed that there are concerns with regards to the
+    safety findings in the phase 3 program. The committee noted that there were a high number
+    of deaths in the sirukumab arms vs. placebo arms in studies ARA3002 and ARA3003. The
+    committee members commented that it is unclear whether the imbalance in all-cause death
+    between sirukumab and placebo is a result of study design or whether it is a real safety
+    signal. Regarding study ARA3005, which compared sirukumab to an active comparator
+    (adalimumab), one member added that the sirukumab arm had a higher rate of adverse
+    events, including death, vs. adalimumab, and that this might indicate more safety issues with
+    sirukumab. Please see the transcript for details of the committee discussion.
+
+5. DISCUSSION: Discuss the dose selection for the phase 3 program.
+
+    Committee Discussion: The committee noted that there was a clear separation in treatment
+    effect for ACR20, ACR50, Disease Activity Score 28, and Clinical Disease Activity Index
+    score for the 100 mg every 2 week dosing during the phase 2 dose ranging study. The
+    committee highlighted that this separation in treatment effect was not observed between the
+    100 mg every 2 weeks and 50 mg every 4 weeks dosing in the phase 3 studies. The committee
+    agreed that based on the data, there was no clear dose treatment effect or a clear dose
+    response for adverse events in the phase 3 program. The committee could not conclude
+    whether reducing the dose would improve safety outcomes with sirukumab. Please see the
+    transcript for details of the committee discussion.
+
+6. VOTE: Is the safety profile of sirukumab adequate to support approval of sirukumab for the
+   treatment of adult patients with moderately to severely active rheumatoid arthritis who have had
+   an inadequate response or are intolerant to one or more DMARDs?
+
+        a. If not, what data are needed?
+
+    Vote Result:        Yes:     2     No: 11         Abstain: 0
+
+        Committee Discussion: The majority of the committee (11 to 2) did not agree that the
+        safety profile of sirukumab is adequate to support the approval of sirukumab for the
+        treatment of adult patients with moderately to severely active rheumatoid arthritis who
+        have had an inadequate response or are intolerant to one or more disease modifying
+        anti-rheumatic drugs (DMARDs). The majority of the committee agreed that it is
+        unclear whether the imbalance in all-cause mortality is a true safety signal or whether it
+        is a result of bias due to the study design. The majority of the committee also agreed that
+        additional studies should be conducted to further define the safety profile of sirukumab.
+        One committee member proposed that the sponsor find alternative methods to
+        reanalyzing the data in addition to conducting more studies. One of the members who
+        voted “yes” stated that sirukumab is no less safe than the other approved biologics on
+        the market. Please see the transcript for details of the committee discussion.
+
+7. VOTE: Do you recommend approval of sirukumab at the proposed dose of 50 mg
+   subcutaneously every 4 weeks for the proposed indication of the treatment of adult patients with
+   moderately to severely active rheumatoid arthritis who have had an inadequate response or are
+   intolerant to one or more DMARDs?
+
+
+                                             Page 6 of 7
+August 2, 2017
+Arthritis Advisory Committee Meeting
+
+
+
+            a. If not, what data are needed?
+
+    Vote Result:        Yes:     1     No: 12           Abstain: 0
+
+    Committee Discussion: The majority of the committee (12 to 1) did not recommend the
+    approval of sirukumab at the proposed dose of 50 mg subcutaneously every 4 weeks for the
+    proposed indication of the treatment of adult patients with moderately to severely active
+    rheumatoid arthritis who have had an inadequate response or are intolerant to one or more
+    disease modifying anti-rheumatic drugs (DMARDs). The majority agreed that efficacy was
+    clear but the safety data was lacking, and a few members emphasized that sirukumab would
+    be more suitable for patients who have had an inadequate response or are intolerant to one
+    or more biologic DMARDs. These members added that the benefit of this drug for this
+    narrower indication might outweigh the unknown safety risks, especially for patients who
+    have limited treatment options left. Please see the transcript for details of the committee
+    discussion.
+
+The meeting was adjourned at approximately 3:37 p.m.
+
+
+
+
+                                               Page 7 of 7
+

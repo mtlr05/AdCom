@@ -1,0 +1,29 @@
+subset,outcome,n,FavApproved,FavNotApproved,UnfavApproved,UnfavNotApproved,outcome_unverified
+All,final,149,90,5,10,43,1
+All,1yr,88,52,13,5,18,62
+Rare (orphan Y),final,55,40,2,2,11,1
+Rare (orphan Y),1yr,35,23,6,2,4,21
+Common (orphan N),final,92,48,3,8,32,0
+Common (orphan N),1yr,51,28,6,3,14,41
+Priority,final,54,47,1,2,3,0
+Priority,1yr,37,31,4,2,0,17
+Standard,final,46,33,0,8,5,0
+Standard,1yr,34,20,5,3,6,12
+CNS (PCNS/PDAC),final,20,12,0,1,7,0
+CNS (PCNS/PDAC),1yr,14,10,1,1,2,6
+CGT (CTGTAC + CAR-T/MSC),final,11,10,0,0,1,1
+CGT (CTGTAC + CAR-T/MSC),1yr,5,2,2,0,1,7
+Rare + priority,final,32,28,1,1,2,0
+Rare + priority,1yr,21,18,2,1,0,11
+Approval-only: All,final,115,72,5,8,30,0
+Approval-only: All,1yr,67,42,10,3,12,48
+Approval-only: Common,final,74,39,3,7,25,0
+Approval-only: Common,1yr,43,25,4,2,12,31
+Approval-only: Rare,final,40,32,2,1,5,0
+Approval-only: Rare,1yr,23,17,5,1,0,17
+Approval-only: Rare + priority,final,24,22,1,0,1,0
+Approval-only: Rare + priority,1yr,14,12,2,0,0,10
+Approval-only: CGT,final,8,8,0,0,0,0
+Approval-only: CGT,1yr,2,1,1,0,0,6
+2016-11-04..2021 (Daval overlap),final,90,55,3,6,26,0
+2016-11-04..2021 (Daval overlap),1yr,55,33,10,2,10,35

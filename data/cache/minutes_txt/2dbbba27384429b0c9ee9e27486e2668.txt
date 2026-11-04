@@ -1,0 +1,240 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+               Final Summary Minutes of the of the Joint Meeting of the
+           Psychopharmacologic Drugs Advisory Committee (PDAC) and the
+           Drug Safety and Risk Management Advisory Committee (DSaRM)
+                                  October 9, 2020
+
+
+Location: Please note that due to the impact of the COVID-19 pandemic, all meeting
+participants joined this advisory committee meeting via an online teleconferencing platform.
+
+Topic: The committees discussed the efficacy, safety, and benefit-risk profile of new drug
+application (NDA) 213378, olanzapine/samidorphan oral tablets, submitted by Alkermes, Inc.,
+for the proposed indications of schizophrenia and bipolar I disorder.
+
+These summary minutes for the October 9, 2020 joint meeting of the Psychopharmacologic
+Drugs Advisory Committee (PDAC) and the Drug Safety and Risk Management Advisory
+Committee (DSaRM) were approved on January 4, 2021.
+
+I certify that I attended the October 9, 2020 joint meeting of the PDAC and DSaRM of the Food
+and Drug Administration and that these minutes accurately reflect what transpired.
+
+
+
+
+__________ /s/                                                       /s/
+LaToya Bonner, PharmD                                      Rajesh Narendran, MD
+Acting Designated Federal Officer, PDAC                    Chairperson, PDAC
+
+
+
+
+                                           Page 1 of 5
+October 9, 2020
+Joint Meeting of the Psychopharmacologic Drugs Advisory Committee (PDAC) and the Drug Safety and Risk
+Management Advisory Committee (DSaRM)
+
+                     Final Summary Minutes of the Joint Meeting of the
+              Psychopharmacologic Drugs Advisory Committee (PDAC) and the
+              Drug Safety and Risk Management Advisory Committee (DSaRM)
+                                     October 9, 2020
+
+The Psychopharmacologic Drugs Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee (DSaRM) of the Food and Drug Administration (FDA),
+Center for Drug Evaluation and Research, met on October 9, 2020. The meeting presentations
+were heard, viewed, captioned, and recorded through an online teleconferencing platform. Prior
+to the meeting, the members and temporary voting members were provided the briefing materials
+and pre-recorded presentations from the FDA and Alkermes, Inc. The meeting was called to
+order by Rajesh Narendran, MD (Chairperson). The conflict of interest statement was read into
+the record by LaToya Bonner, PharmD (Acting Designated Federal Officer). There were
+approximately 400 people online. There were a total of 20 Open Public Hearing (OPH) speaker
+presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve
+weeks following the meeting date.
+
+Agenda: The committees discussed the efficacy, safety, and benefit risk profile of new drug
+application (NDA) 213378, olanzapine/samidorphan oral tablets, submitted by Alkermes, Inc.,
+for the proposed indications of schizophrenia and bipolar I disorder.
+
+Attendance:
+PDAC Members Present (Voting): Walter S. Dunn, MD, PhD; Jess G. Fiedorowicz, MD, PhD;
+Satish Iyengar, PhD; Felipe A. Jain, MD; Jessica J. Jeffrey, MD, MPH, MBA; Sonia L. Krishna,
+MD, FAPA, DFAACAP; Rajesh Narendran, MD (Chairperson); Patrick S. Thomas, Jr., MD,
+PhD; Kim O. Witczak (Consumer Representative)
+
+PDAC Members Not Present (Voting): None
+
+PDAC Member Not Present (Non-Voting): Robert W. Baker, MD (Industry Representative)
+
+DSaRM Members (Voting): Denise M. Boudreau, PhD, RPh; Karim Anton Calis, PharmD,
+MPH, FASHP, FCCP; Steven B. Meisel, PharmD, CPPS
+
+DSaRM Members Not Present (Voting): Marie R. Griffin, MD, MPH; Laurel A. Habel, MPH,
+PhD; Sonia Hernandez-Diaz, MD, MPH, DrPH; Collin A. Hovinga, PharmD, MS, FCCP; Martin
+Kulldorff, PhD; Lewis S. Nelson, MD; Soko Setoguchi, MD, DrPH
+
+DSaRM Member (Non-Voting): Reema J. Mehta, PharmD, MPH (Industry Representative)
+
+Temporary Members (Voting): Maryann Amirshahi, PharmD, MD, MPH, PhD; Amy S.B.
+Bohnert, PhD, MHS; Erin E. Krebs, MD, MDH; Matthew Racher, BA, CRPS (Patient
+Representative); Kevin L. Zacharoff, MD, FACIP, FACPE, FAAP
+
+
+
+                                                Page 2 of 5
+October 9, 2020
+Joint Meeting of the Psychopharmacologic Drugs Advisory Committee (PDAC) and the Drug Safety and Risk
+Management Advisory Committee (DSaRM)
+
+FDA Participants (Non-Voting): Billy Dunn, MD; Eric Bastings, MD; Tiffany R. Farchione,
+MD; Bernard Fischer, MD; Judy Staffa, PhD, RPh; Cathy Southammakosane, MD; Jana
+McAninch, MD, MPH, MS
+
+Acting Designated Federal Officer (Non-voting): LaToya Bonner, PharmD
+
+Open Public Hearing Speakers: Phyllis Foxworth (Depression and Bipolar Support Alliance);
+Andrew Sperling (National Alliance on Mental Illness); Luke Kramer (The STARR Coalition);
+Kathy Bernstein; Linda Stalters, MSN, APRN (ret) (Schizophrenia And Related Disorders
+Alliance of America); Michelle Hammer (Schizophrenic.NYC); Meg Seymour, MD (National
+Center for Health Research); Ralph Aquila, MD; Alan L. Podawiltz, DO, MS, FAPA; Chris
+Bullard; Jason Wright (Oddball Magazine and the Oddball Foundation); Roger McIntyre, MD,
+FRCPC (Depression & Bipolar Support Alliance Scientific Advisory Board); Debbie F. Plotnick,
+MSS, MLSP; Jacob S. Ballon, MD, MPH; Michael T. Abrams, MPH, PhD (Health Research
+Group of Public Citizen); Andrew A. Nierenberg, MD; Joseph McEvoy, MD; Cecilia McGough;
+Thomas R. Kosten, MD; Christopher Correll, MD
+____________________________________________________________________________
+
+The agenda was as follows:
+
+  Call to Order                                 Rajesh Narendran, MD
+                                                Chairperson, PDAC
+
+  Introduction of Committee and                 LaToya Bonner, PharmD
+  Conflict of Interest Statement                Acting Designated Federal Officer, PDAC
+
+  FDA Opening Remarks                           Bernard Fischer, MD
+                                                Deputy Director (Acting)
+                                                Division of Psychiatry (DP)
+                                                Office of Neuroscience (ON)
+                                                Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATION                        Alkermes, Inc.
+
+  Summary Presentation                          Sarah Akerman, MD
+                                                Senior Medical Director, Medical Affairs
+                                                Alkermes, Inc.
+
+  Clarifying Questions to Applicant
+
+  Clarifying Questions to FDA
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+  Questions to the Committee/Committee Discussion
+
+
+                                                Page 3 of 5
+October 9, 2020
+Joint Meeting of the Psychopharmacologic Drugs Advisory Committee (PDAC) and the Drug Safety and Risk
+Management Advisory Committee (DSaRM)
+
+
+  ADJOURNMENT
+
+Questions to the Committee:
+
+1. VOTE: Has the Applicant presented adequate evidence that samidorphan meaningfully
+   mitigates olanzapine-associated weight gain?
+
+            Vote Results:       Yes: 16          No:     1       Abstain: 0
+
+    Committee Discussion: The majority of the committee members agreed that the Applicant
+    presented adequate evidence that samidorphan meaningfully mitigates olanzapine-associated
+    weight gain. The members were convinced by the data shown related to waist circumference
+    reductions, lowered blood pressure measures, and overall weight gain mitigation (less
+    weight gain in patients treated with ALKS 3831 than those administered olanzapine alone).
+    Due to the low-risk population studied, some committee members suggested for the Applicant
+    to broaden their studied population to reveal efficacy findings that can be applied to real-
+    world settings. In addition, the members noted the need for further information on
+    samidorphan, due to the safety concerns related to samidorphan’s opioid antagonistic effect.
+    The member that voted “No”, stated that the overall weight gain mitigation was minimal,
+    and the quality of life was non-impactful (minimum to none). Please see the transcript for
+    details of the Committees’ discussion.
+
+2. VOTE: Has the Applicant adequately characterized the safety profile of ALKS 3831
+   (olanzapine/samidorphan)?
+
+            Vote Results:       Yes: 13          No: 3           Abstain: 1
+
+    Committee Discussion: The majority of the committee members voted “Yes”, agreeing that
+    the Applicant adequately characterized the safety profile of olanzapine/samidorphan;
+    however, some expressed the need for more post-marketing surveillance data on the safety of
+    samidorphan. These members also suggested further data on the safety profile of
+    samidorphan’s metabolites in conjunction with other prescribed opioids. For those who
+    voted, “No”, they acknowledged the safety parameters of olanzapine but were not confident
+    in the data shown regarding samidorphan’s safe use. These panel members noted the
+    potential of samidorphan to precipitate withdrawal in patients who are physically dependent
+    on opioids, the possible ineffectiveness of analgesia when opioids are medically necessary,
+    and the potential of opioid overdose due to possible efforts to overcome samidorphan’s
+    opioid receptor blocking effects. Overall, the committee members recommended additional
+    safety data, specifically, pharmacokinetics (PK) studies of samidorphan’s mu opioid affinity,
+    metabolites and saturation data. Please see the transcript for details of the Committees’
+    discussion.
+
+3. VOTE: Is labeling sufficient to mitigate the risks related to the opioid antagonist action of
+   samidorphan?
+
+
+
+                                                Page 4 of 5
+October 9, 2020
+Joint Meeting of the Psychopharmacologic Drugs Advisory Committee (PDAC) and the Drug Safety and Risk
+Management Advisory Committee (DSaRM)
+
+            Vote Result:        Yes: 11          No: 6           Abstain: 0
+
+    Committee Discussion: The majority of the committee members voted “Yes”, agreeing that
+    the labeling will be sufficient to mitigate risks associated with the opioid antagonist action of
+    samidorphan. These members acknowledged the importance of labeling but agreed that other
+    factors, such as post-marketing surveillance and responsible advertisement, are imperative
+    to assure public safety. The committee members that voted “No”, expressed that labeling
+    was not enough to secure public safety, noting samidorphan is a new molecular enitity and
+    its safety profile is unknown. In addition, these members conveyed their concerns about
+    probable prescribing errors made by non-psychiatrists who would likely not be cognizant of
+    the possible interactions with the patient’s regimen.
+
+    Collectively, the committee members expressed that more education is needed. The members
+    recommended that targeted education towards opioid-prescribing healthcare providers
+    should be considered and a comprehensive education plan should be established targeting
+    psychiatric providers and patients. Please see the transcript for details of the Committees’
+    discussion.
+
+4. DISCUSSION: What, if any, additional data are needed to address outstanding issues of
+   ALKS 3831 (olanzapine/samidorphan)?
+
+    Committee Discussion: The committee members provided several recommendations for
+    additional data needed to address the outstanding issues of olanzapine/samidorphan.
+    These include
+       - positron emission tomography (PET) studies during and after therapy has been
+           discontinued to assess samidorphan receptor occupancy
+       - data showing the effects (i.e., weight and metabolic syndrome) of switching patients
+           from olanzapine to olanzapine/samidorphan
+       - data on non-compliant patients and their benefits/risks effects
+       - opioid overdose data associated with olanzapine/samidorphan use
+       - studies on other sub-populations (patients with higher BMI, bipolar disorder patients,
+           and younger patients (18 – 25 y/o))
+       - data on off-label use and long-term use
+       - information on metabolic syndrome properties and adverse events
+    Please see the transcript for details of the Committees’ discussion.
+
+The meeting was adjourned at approximately 3:38 p.m.
+
+
+
+
+                                                Page 5 of 5
+

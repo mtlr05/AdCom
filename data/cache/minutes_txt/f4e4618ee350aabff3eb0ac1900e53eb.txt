@@ -1,0 +1,305 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+    Final Summary Minutes of the Antimicrobial Drugs Advisory Committee Meeting
+                                  October 7, 2021
+
+Location: Please note that due to the impact of this COVID-19 pandemic, all meeting
+participants joined this advisory committee meeting via an online teleconferencing platform.
+
+Topic: The committee discussed new drug application (NDA) 215596, for maribavir oral
+tablets, submitted by Takeda Pharmaceuticals USA, Inc., for the treatment of adults with post-
+transplant cytomegalovirus infection and/or disease, including infections resistant and/or
+refractory to ganciclovir, valganciclovir, cidofovir, or foscarnet.
+
+These summary minutes for the October 7, 2021 meeting of the Antimicrobial Drugs Advisory
+Committee were approved on November 17, 2021.
+
+I certify that I attended the October 7, 2021 meeting of the Antimicrobial Drugs Advisory
+Committee (AMDAC) of the Food and Drug Administration and that these minutes accurately
+reflect what transpired.
+
+
+
+__________ ______/s/__________________           ________________/s/ __________________
+Moon Hee V. Choi, PharmD                         Lindsey R. Baden, MD
+Acting Designated Federal Officer, AMDAC         Chairperson, AMDAC
+
+
+
+
+                                           Page 1 of 7
+    Final Summary Minutes of the Antimicrobial Drugs Advisory Committee Meeting
+                                  October 7, 2021
+
+The Antimicrobial Drugs Advisory Committee (AMDAC) of the Food and Drug Administration,
+Center for Drug Evaluation and Research, met on October 7, 2021. The meeting presentations
+were heard, viewed, captioned, and recorded through an online teleconferencing platform. Prior
+to the meeting, the members and temporary voting members were provided the briefing materials
+from the FDA and Takeda Pharmaceuticals USA, Inc. The meeting was called to order by
+Lindsey R. Baden, MD (Chairperson). The conflict-of-interest statement was read into the
+record by Moon Hee V. Choi, PharmD (Acting Designated Federal Officer). There were
+approximately 381 people online. There were a total of 8 Open Public Hearing (OPH) speaker
+presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The committee discussed new drug application (NDA) 215596, for maribavir oral
+tablets, submitted by Takeda Pharmaceuticals USA, Inc., for the treatment of adults with post-
+transplant cytomegalovirus infection and/or disease, including infections resistant and/or
+refractory to ganciclovir, valganciclovir, cidofovir, or foscarnet.
+
+Attendance:
+
+Antimicrobial Drugs Advisory Committee Members Present (Voting): Lindsey R. Baden,
+MD (Chairperson); CAPT Timothy H. Burgess, MD, MPH, FACP; Michael D. Green, MD,
+MPH; W. David Hardy, MD; Sally A. Hunsberger, PhD; Jennifer Le, PharmD, MAS, FIDSA,
+FCCP, FCSHP, BCPS-ID; Richard A. Murphy, MD, MPH; Federico Perez, MD, MS; George K.
+Siberry, MD, MPH; Roblena E. Walker, PhD; Peter J. Weina, PhD, MD, FACP, FIDSA
+
+Antimicrobial Drugs Advisory Committee Members Not Present (Voting): Ighovwerha
+Ofotokun, MD, MSc; Sankar Swaminathan, MD
+
+Antimicrobial Drugs Advisory Committee Member Present (Non-Voting): Richa S.
+Chandra, MD, MBA (Industry Representative)
+
+Temporary Members (Voting): Catherine Bollard, MD, FRACP, FRCPA; Nancy D. Bridges,
+MD; Arthur Flatau, PhD (Patient Representative); Juan Gea-Banacloche, MD; Ghady Haidar,
+MD; Lauren Lee, MD
+
+FDA Participants (Non-Voting): John Farley, MD, MPH; Debra Birnkrant, MD; Yodit Belew,
+MD; Mary Singer, MD, PhD; Andreas Pikis, MD; Takashi Komatsu, PhD, RAC
+
+Acting Designated Federal Officer (Non-Voting): Moon Hee V. Choi, PharmD
+
+
+
+
+                                            Page 2 of 7
+October 7, 2021
+Antimicrobial Drugs Advisory Committee Meeting
+
+Open Public Hearing Speakers Present: Bret Ambrose; William Watson; Fernanda P.
+Silveira, MD, MS, FIDSA, FAST; Thomas Paolo; Genovefa Papanicolaou, MD; Willa V.
+Cochran, MSN, CRNP; Michael J. Boeckh, MD, PhD; Ronak Gandhi, PharmD, BCPS
+
+The agenda was as follows:
+
+  Call to Order                                         Lindsey R. Baden, MD
+                                                        Chairperson, AMDAC
+
+  Introduction of Committee and                         Moon Hee V. Choi, PharmD
+  Conflict of Interest Statement                        Acting Designated Federal Officer, AMDAC
+
+  FDA Opening Remarks                                   Debra Birnkrant, MD
+                                                        Director
+                                                        Division of Antivirals (DAV)
+                                                        Office of Infectious Disease (OID)
+                                                        Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                               Takeda Pharmaceuticals USA, Inc.
+
+  Introduction                                          Michael Cronin, PharmD
+                                                        Director, Global Regulatory Lead
+                                                        Takeda
+
+  Overview of Post-Transplant                           Camille Kotton, MD
+  Resistant/Refractory CMC Infection                    Clinical Director of Transplant and
+  and Unmet Needs                                       Immunocompromised Host Infectious Diseases
+                                                        Massachusetts General Hospital
+
+  Maribavir Clinical Efficacy                           Martha Fournier, MD
+                                                        Executive Director
+                                                        Global Clinical Development Lead
+                                                        Takeda
+
+  Maribavir Clinical Safety                             Adedeji Adefuye, MD, MPH, FRIPH, FRSPH
+                                                        Vice President
+                                                        Head of Medical Safety, Rare Diseases
+                                                        Takeda
+
+  Clinical Perspective                                  Robin Avery, MD
+                                                        Professor of Medicine
+                                                        Division of Infectious Disease
+                                                        Johns Hopkins
+
+  Clarifying Questions
+
+
+
+                                                 Page 3 of 7
+October 7, 2021
+Antimicrobial Drugs Advisory Committee Meeting
+
+  BREAK
+
+  FDA PRESENTATION
+
+  Background; Efficacy                                  Andreas Pikis, MD
+                                                        Medical Officer
+                                                        DAV, OID, OND, CDER, FDA
+
+  Virology                                              Takashi Komatsu, PhD, RAC
+                                                        Clinical Virology Reviewer
+                                                        DAV, OID, OND, CDER, FDA
+
+  Safety; Conclusions                                   Andreas Pikis, MD
+
+  Clarifying Questions
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+
+  Charge to the Committee                               Debra Birnkrant, MD
+
+  Questions to the Committee/Committee Discussion
+
+  BREAK
+
+  Questions to the Committee/Committee Discussion
+
+  ADJOURNMENT
+
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the efficacy outcome in phase 3 trial SHP620-303 and data from
+   the phase 2 trial SHP620-202 and the overall risk-benefit assessment for maribavir. Include
+   in the discussion the following:
+
+    a. Population – narrow population with unmet medical need
+
+        Committee Discussion: Overall, the Committee members agreed that the study
+        population was overwhelmingly white adults and noted a lack of African American and
+        pediatric representation. One Committee member added that cytomegalovirus (CMV)
+        serum positivity has a higher prevalence among African Americans, which is why it
+        would be beneficial to include more efficacy data from this population in future studies.
+        Some Committee members expressed the need for additional data in patients with graft
+        versus host disease (GVHD), given the small percentage that was represented in these
+        trials. Other Committee members noted that despite the lack of pediatric and African
+
+
+                                                 Page 4 of 7
+October 7, 2021
+Antimicrobial Drugs Advisory Committee Meeting
+
+        American representation, this study was composed of a narrow population with an unmet
+        medical need, given the rarity of the disease and high risk of the population.
+
+    b. Trial design and limitations, including potential bias
+
+        Committee Discussion:
+        Although some Committee members expressed that a stratified, double-blind, placebo-
+        controlled study would have been ideal, these members agreed that the data from the
+        open-label was ethical and sufficient given the patient population. One Committee
+        member stated that the study was stratified in its design given the difference in transplant
+        population characteristics (stem-cell transplant vs. solid organ transplant), and
+        expressed that the effects favoring maribavir was robust in each study population
+        individually, which speaks to adequate design and adequate reassurance that it wasn’t
+        simply time and immunosuppression manipulation that impacted the results. However, it
+        was noted that a better understanding of how the alterations of the immunosuppressive
+        medication and time from transplant (especially in SCT patients) impacted the results
+        would be of value. Another Committee member stated that more research would need to
+        be done beyond the fixed time point as 8 weeks is not enough time to gather information
+        on how to manage a patient in the case that they do develop resistance to maribavir.
+    c. Primary efficacy outcome
+
+        Committee Discussion: The Committee members agreed that the Applicant used an FDA
+        validated surrogate endpoint; however, it was noted that the combination of virologic
+        efficacy and tolerability as the primary outcome made it hard to isolate for just the anti-
+        viral effect of maribavir. One Committee member expressed the need for future studies
+        with a hard endpoint (such as death or tissue disease) as this might reduce the possibility
+        of an immune reconstitution effect. Another Committee member stated that using death
+        and tissue invasion as an endpoint could be a major attribution and adjudication
+        problem because the approximate cause of death for someone with CMV disease is not
+        always the CMV disease as death in these patients is more so related to factors such as
+        multiple comorbid conditions, low white cell counts, and other complications of therapy,
+        to name a few. Overall, the Committee members agreed that the rarity of events such as
+        death and tissue disease make it difficult to design a study that can be achieved in a
+        reasonable amount of time, which make virologic markers and toxicity assessments a
+        reasonable endpoint for this condition/study.
+
+    d. Results from the sensitivity and subgroup analyses
+
+        Committee Discussion: The Committee members agreed that the sensitivity and
+        secondary subgroup analyses all seem to point in a favor of maribavir. One Committee
+        member expressed that the study demonstrated non-inferiority rather than superiority
+        explaining that the patients receiving the investigator assigned treatment (IAT), who had
+        already demonstrated to be refractory or resistant to the IAT, showed a higher success
+        rate and the maribavir naïve patients demonstrated a lower success rate than one would
+        expect. Some of the Committee members expressed that the results did show maribavir to
+
+                                                 Page 5 of 7
+October 7, 2021
+Antimicrobial Drugs Advisory Committee Meeting
+
+        be effective based on sensitivity analysis; however, they noted that when looking at the
+        virologic failures, all the drugs in the study performed about the same (which
+        demonstrated the effectiveness of maribavir when compared to a ‘failing’ antiviral, but
+        not to its superiority when compared to other anti-virals).
+
+    e. Maribavir safety profile in comparison to other antivirals for cytomegalovirus (CMV)
+
+        Committee Discussion: Many of the Committee members agreed that the safety profile
+        of maribavir was favorable when compared to ganciclovir, valganciclovir, foscarnet or
+        cidofovir. Most of the Committee members also agreed that the ease of administration
+        and favorable toxicity profile of maribavir will improve outcomes and quality of life in
+        this population. Some Committee members expressed that more research is needed to get
+        data on the tolerability, efficacy, and safety profile of maribavir in comparison to other
+        antivirals in African American and pediatric populations.
+
+     Please see the transcript for details of the Committee’s discussion.
+
+2. VOTE: Is the overall benefit-risk assessment favorable for the use of maribavir for the
+   treatment of transplant recipients with CMV infection and disease refractory to treatment and
+   with genotypic resistance to ganciclovir, valganciclovir, foscarnet or cidofovir?
+
+     a. If you voted “No”, what additional information would be needed for the benefit-risk
+        assessment to be favorable for the use of maribavir in this population?
+           i.   If a new clinical trial is recommended, please comment on trial design
+
+    Vote Result:        Yes: 17          No: 0            Abstain: 0
+
+    Committee Discussion: The Committee unanimously agreed that the overall benefit-risk
+    assessment is favorable for the use of maribavir for the treatment of transplant recipients
+    with CMV infection and disease refractory to treatment and with genotypic resistance to
+    ganciclovir, valganciclovir, foscarnet or cidofovir. The Committee members provided the
+    following recommendations: 1) additional data post-licensing for the bone marrow
+    transplant/GVHD population; 2) phase 4 studies in younger adolescents, pediatric and
+    African-American populations; 3) additional language in labeling for hematologic and renal
+    laboratory monitoring; and 4) studies of resistance patterns, pharmacokinetics and other
+    potential drug-drug interactions post-licensing. Please see the transcript for details of the
+    Committee’s discussion.
+
+3. VOTE: Is the overall benefit-risk assessment favorable for the use of maribavir for the
+treatment of transplant recipients with CMV infection and disease refractory to treatment but
+without genotypic resistance to ganciclovir, valganciclovir, foscarnet or cidofovir?
+
+     a. If you voted “No”, what additional information would be needed for the benefit-risk
+        assessment to be favorable for the use of maribavir in this population?
+           i.   If a new clinical trial is recommended, please comment on trial design
+
+
+
+                                                 Page 6 of 7
+October 7, 2021
+Antimicrobial Drugs Advisory Committee Meeting
+
+    Vote Result:       Yes: 17        No: 0           Abstain: 0
+    Committee Discussion: The Committee unanimously agreed that the overall benefit-risk
+    assessment is favorable for the use of maribavir for the treatment of transplant recipients
+    with CMV infection and disease refractory to treatment but without genotypic resistance to
+    ganciclovir, valganciclovir, foscarnet or cidofovir. The Committee members recommended
+    post-market surveillance, therapeutic drug-monitoring, and removal of the clinical
+    distinction between refractory disease with or without genetic resistance as it might be
+    confusing in practice and to patients. Please see the transcript for details of the Committee’s
+    discussion.
+
+The meeting was adjourned at approximately 4:00 p.m. ET.
+
+
+
+
+                                                 Page 7 of 7
+

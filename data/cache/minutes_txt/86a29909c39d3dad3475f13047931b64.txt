@@ -1,0 +1,353 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+                    Final Summary Minutes of the Joint Meeting of the
+           Anesthetic and Analgesic Drug Products Advisory Committee and the
+                 Drug Safety and Risk Management Advisory Committee
+                                    February 15, 2022
+
+Location: Please note that due to the impact of this COVID-19 pandemic, all meeting
+participants will be joining this advisory committee meeting via an online teleconferencing
+platform
+
+Topic: The committees discussed new drug application (NDA) 213231, for tramadol
+hydrochloride injection, submitted by Avenue Therapeutics, Inc., for the management of
+moderate to moderately severe pain in adults in a medically supervised healthcare setting. The
+issues for the committees to discuss include the clinical relevance of tramadol hydrochloride
+injection, an opioid intended for management of acute pain in a medically supervised healthcare
+setting, when its onset of action is delayed, and its proposed dosing is a fixed-dosing regimen.
+
+These summary minutes for the February 15, 2022 joint meeting of the Anesthetic and Analgesic
+Drug Products Advisory Committee (AADPAC) and the Drug Safety and Risk Management
+Advisory Committee (DSaRM) of the Food and Drug Administration were approved on March
+4, 2022.
+
+I certify that I attended the February 15, 2022 joint meeting of the AADPAC and DSaRM of the
+Food and Drug Administration and that these minutes accurately reflect what transpired.
+
+
+
+__________ ___/s/________________                 _____________/s/___ ___________
+Moon Hee V. Choi, PharmD                          Brian T. Bateman, MD
+Designated Federal Officer, AADPAC                Chairperson, AADPAC
+
+
+
+
+                                            Page 1 of 7
+   Final Summary Minutes of the Anesthetic and Analgesic Drug Products Advisory
+Committee and the Drug Safety and Risk Management Advisory Committee Joint Meeting
+                                 February 15, 2022
+
+The Anesthetic and Analgesic Drug Products Advisory Committee (AADPAC) and the
+Drug Safety and Risk Management Advisory Committee (DSaRM) of the Food and Drug
+Administration, Center for Drug Evaluation and Research, met jointly on February 15, 2022.
+The meeting presentations were heard, viewed, captioned, and recorded through an online
+teleconferencing platform. Prior to the meeting, the members and temporary voting members
+were provided the briefing materials from the FDA and Avenue Therapeutics, Inc. The meeting
+was called to order by Brian T. Bateman, MD, MSc (Chairperson). The conflict of interest
+statement was read into the record by Moon Hee V. Choi, PharmD (Designated Federal Officer).
+There were approximately 246 people online. There were a total of nine Open Public Hearing
+(OPH) speaker presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda:
+
+The committees discussed new drug application (NDA) 213231, for tramadol hydrochloride
+injection, submitted by Avenue Therapeutics, Inc., for the management of moderate to
+moderately severe pain in adults in a medically supervised healthcare setting. The issues that the
+committees discussed include the clinical relevance of tramadol hydrochloride injection, an
+opioid intended for management of acute pain in a medically supervised healthcare setting, when
+its onset of action is delayed, and its proposed dosing is a fixed-dosing regimen.
+
+Attendance:
+
+Anesthetic and Analgesic Drug Products Advisory Committee Members Present (Voting):
+Brian T. Bateman, MD, MSc (Chairperson); Basavana G. Goudra, MD, FRCA, FCARSCI;
+Jennifer Higgins, PhD (Consumer Representative); Maryam Jowza, MD; Maura S. McAuliffe,
+CRNA, MSN, MSNA, PhD, FAAN; Mary Ellen McCann, MD, MPH; Rebecca Richmond,
+PharmD, BCPS; Abigail B. Shoben, PhD; Michael Sprintz, DO, DFASAM; Sherif Zaafran, MD,
+FASA
+
+Anesthetic and Analgesic Drug Products Advisory Committee Member Not Present
+(Voting): Richard D. Urman, MD, MBA
+
+Anesthetic and Analgesic Drug Products Advisory Committee Member Present (Non-
+Voting): Jay Horrow, MD, MS, FACC (Industry Representative)
+
+Drug Safety and Risk Management Advisory Committee Members Present (Voting):
+Karim Anton Calis, PharmD, MPH, FASHP, FCCP; Marie R. Griffin, MD, MPH; Sonia
+Hernandez-Diaz, MD, MPH, DrPH; John B. Hertig, PharmD, MS, CPPS, FASHP; Collin A.
+
+
+
+                                            Page 2 of 7
+February 15, 2022
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+Hovinga, PharmD, MS, FCCP; Krista F. Huybrechts, MS, PhD; Vincent Lo Re III, MD, MSCE;
+Mara McAdams DeMarco, MS, PhD; Suzanne B. Robotti (Consumer Representative)
+
+Drug Safety and Risk Management Advisory Committee Members Not Present (Voting):
+Martin Kulldorff, PhD; Lewis S. Nelson, MD
+
+Drug Safety and Risk Management Advisory Committee Member Present (Non-Voting):
+Reema J. Mehta, PharmD, MPH (Industry Representative)
+
+Temporary Members (Voting): Joseph O’Brien, MBA (Patient Representative); Anne-
+Michelle Ruha, MD; Kevin L. Zacharoff, MD, FACIP, FACPE, FAAP
+
+FDA Participants (Non-Voting): Rigoberto Roca, MD; Lisa Wiltrout, MD; Judy A. Staffa,
+PhD; Tamra Meyer, PhD, MPH; Dominic Chiapperino, PhD
+
+Designated Federal Officer (Non-Voting): Moon Hee V. Choi, PharmD
+
+Open Public Hearing Speakers Present: Primarius Andreas Faltlhauser, MD, DEAA, JFICM,
+FCCA; Sidney M. Wolfe, MD (Public Citizen); Richard A. Pollak, DPM, MS; C. Aaron Dees;
+Clint Matthews; Diana Zuckerman, PhD (National Center for Health Research); David Leiman,
+MD, MBA; Jim Baccus; Adriane Fugh-Berman, MD (PharmedOut)
+
+The agenda was as follows:
+
+Call to Order                                          Brian T. Bateman, MD, MSc
+                                                       Chairperson, AADPAC
+
+Introduction of Committee and                          Moon Hee V. Choi, PharmD
+Conflict of Interest Statement                         Designated Federal Officer, AADPAC
+
+Statement on Formal Dispute Resolution Request         Moon Hee V. Choi, PharmD
+
+FDA Opening Remarks                                    Rigoberto Roca, MD
+                                                       Director
+                                                       Division of Anesthesiology, Addiction Medicine and
+                                                       Pain Medicine (DAAP), Office of Neuroscience (ON)
+                                                       Office of New Drugs (OND), CDER, FDA
+
+APPLICANT PRESENTATIONS                                Avenue Therapeutics, Inc.
+
+Introduction                                           Lucy Lu, MD
+                                                       President and CEO
+                                                       Avenue Therapeutics, Inc.
+
+Mechanism of Action and Intravenous (IV)               Prof. Richard Langford, MD
+Tramadol Experience in European Union                  Lead Consultant
+                                                       Pain Service, The London Clinic
+
+
+                                                  Page 3 of 7
+February 15, 2022
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+APPLICANT PRESENTATIONS (CONT.)
+
+Pharmacokinetics, Clinical Efficacy, and Safety        Lucy Lu, MD
+
+Discussion of FDA Concerns                             Lucy Lu, MD
+
+Epidemiology of Abuse of Tramadol                      Janetta Iwanicki, MD
+                                                       Chief Scientific Officer
+                                                       Rocky Mountain Poison and Drug Safety
+
+Clinical Perspective from a U.S. Investigator          Harold Minkowitz, MD
+                                                       Adjunct Associate Professor
+                                                       Anesthesiology and Perioperative Medicine
+                                                       MD Anderson Cancer Center
+
+Clarifying Questions for Applicant
+
+BREAK
+
+FDA PRESENTATIONS
+
+Tramadol IV: A Multidisciplinary Review                Lisa Wiltrout, MD
+                                                       Medical Officer
+                                                       DAAP, ON, OND, CDER, FDA
+
+Abuse Potential Considerations for Tramadol IV         James M. Tolliver, PhD
+Injection Under NDA 213231                             Senior Pharmacologist
+                                                       Controlled Substance Staff, CDER, FDA
+
+Epidemiologic Data and Public Health                   Christina R. Greene, PhD
+Considerations in Evaluating Benefit-Risk of IV        Senior Epidemiologist, Division of Epidemiology II
+Tramadol                                               Office of Pharmacovigilance and Epidemiology
+                                                       Office of Surveillance and Epidemiology, CDER, FDA
+
+Clarifying Questions for FDA
+
+LUNCH
+
+OPEN PUBLIC HEARING
+
+Charge to the Committee                                Rigoberto Roca, MD
+
+Questions to the Committee/Committee Discussion
+
+BREAK
+
+Questions to the Committee/Committee Discussion (cont.)
+
+ADJOURNMENT
+
+
+                                                  Page 4 of 7
+February 15, 2022
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+Questions to the Committees:
+
+1. DISCUSSION: Discuss the importance of time to onset of action and risks related to delayed
+   onset of action for intravenous tramadol proposed for the management of moderate to severe
+   acute pain in the inpatient setting, such as post-operative or acute severe injury setting.
+
+    Committee Discussion: The committee members expressed varying levels of concern
+    regarding the risks related to the delayed onset of action for intravenous (IV) tramadol.
+    Some committee members were not concerned about the time to onset of action for this drug
+    product, noting the distinction in treatment setting to be important as patients are closely
+    monitored in the inpatient setting (whereas they would have concern about the delayed onset
+    resulting in safety issues for patients treated in an Emergency Department (ED) or
+    Ambulatory Surgical Care (ASC) setting, who are discharged shortly after treatment). One
+    member noted it would be helpful, if this drug product were approved, to have criteria on
+    how long a patient treated in the ED or ASC setting needs to be monitored before being
+    discharged. Some members suggested that in skillful hands, IV tramadol could be given early
+    and the delayed onset could be leveraged as part of an effective plan to manage analgesia in
+    the post-operative/inpatient setting, although one member noted it may not be handled
+    optimally in a real world setting.
+
+    Many other committee members expressed that the delayed onset of IV tramadol was
+    problematic and pointed out that clear labeling and extensive education on the delayed onset
+    of this drug product would be needed. Some members voiced concern about the proposed use
+    of NSAIDs as rescue medication after starting with IV tramadol – the result being use of
+    opioids in patients who don’t necessarily require it. Regarding the potential for opioid
+    stacking and its associated safety risks due to IV tramadol’s delayed onset of action, some
+    members acknowledged that it is a theoretical concern while others were less concerned due
+    to the proposed use in a controlled inpatient setting. Some members pointed out that the
+    trials presented did not provide any insight into the safety of opioid stacking as opioids were
+    not allowed as a rescue medication in the studies. A few members were reassured by the
+    European pharmacovigilance data presented while others noted that scheduling and use of
+    opioids are different in Europe than in the United States, and more real world data
+    specifically examining opioid stacking with IV tramadol is warranted. Please see the
+    transcript for details of the Committees’ discussion.
+
+2. DISCUSSION: Discuss the benefits and risks of intravenous tramadol for acute pain
+   management in the inpatient setting considering its mechanism of analgesia, drug
+   pharmacokinetics, and complex metabolism.
+
+    Committee Discussion: One committee member acknowledged that the safety risk associated
+    with opioid stacking was a theoretical risk but without significant adverse events observed in
+    other countries where it is approved, and noted that it would be advantageous to have a
+    Schedule IV opioid as a treatment option. Another member commented that the studies
+    presented could have been more useful if an active comparator such as ibuprofen were used
+    instead of placebo and echoed previous comments about safety data on IV tramadol from
+
+
+                                                  Page 5 of 7
+February 15, 2022
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+    Europe not being comparable to the United States population. The Committee acknowledged
+    that much of the benefits and risks of IV tramadol for acute pain management in the inpatient
+    setting had already been addressed in question #1. Please see the transcript for details of the
+    Committees’ discussion.
+
+3. DISCUSSION: Discuss the relevance of tramadol’s abuse potential as a Schedule IV
+   substance in the context of the proposed use for the management of acute pain in an inpatient
+   setting with consideration of the following issues:
+
+    a. Any impact on a patient’s subsequent risk of abuse, misuse, or development of opioid use
+       disorder in the outpatient setting.
+
+        Committee Discussion: With regard to IV tramadol’s abuse potential as a Schedule IV
+        substance on a patient’s subsequent risk of abuse, misuse or development of opioid use
+        disorder (OUD) in the outpatient setting, one member noted the potential of a drug
+        scheduled to be delivered every 4 to 6 hours (instead of when needed) leading to the
+        theoretical risk of patients getting a dose of an analgesic they don’t need, contributing to
+        the potential risk of abuse. Another member mentioned the potential for a false sense of
+        safety with a Schedule IV substance, leading to more opioids being prescribed. One
+        committee member highlighted the Applicant’s data demonstrating less euphoria
+        associated with this drug product, concluding that IV tramadol likely has less potential
+        for abuse or misuse. Several members agreed on the increased likelihood of patients
+        being sent home or discharged on oral tramadol after being given IV tramadol in the
+        inpatient setting, leading to an increase in abuse of tramadol and side effects. While one
+        member noted this may be a benefit due to lower abuse potential (versus discharging a
+        patient on a Schedule II narcotic), another member highlighted the concern of an
+        increase in drug interactions with more prescribing of oral tramadol resulting in
+        seizures, serotonin syndrome, etc. One member pointed out there are currently few
+        options available for weaker narcotics and preventing use of IV tramadol because of
+        theoretical safety concerns may result in patients getting a stronger narcotic than
+        needed. Please see the transcript for details of the Committees’ discussion.
+
+    b. Any comparative advantage over currently available Schedule II intravenous opioids
+       approved for the management of acute pain in an inpatient setting.
+
+        Committee Discussion: The Committee members expressed varying views on IV
+        tramadol’s abuse potential as a Schedule IV substance and any comparative advantage
+        over Schedule II opioids. Several members commented that there was no evidence
+        presented demonstrating that IV tramadol use in a medically supervised setting will
+        result in less misuse or abuse after discharge when compared to the use of a Schedule II
+        opioid in the same setting. One member noted that due to IV tramadol’s delayed onset, it
+        is expected to be used frequently in combination with Schedule II opioids and it is
+        unclear what advantage there is to administer IV tramadol over just starting with a
+        Schedule II analgesic. Another member noted that if IV tramadol is able to produce
+        adequate pain relief, it has the possible advantage of clinicians being able to avoid
+
+
+                                                  Page 6 of 7
+February 15, 2022
+Joint Meeting of the Anesthetic and Analgesic Drug Products Advisory Committee and the Drug Safety and Risk
+Management Advisory Committee
+
+        sending a patient home with a Schedule II drug. Please see the transcript for details of
+        the Committees’ discussion.
+
+4. VOTE: Has the Applicant submitted adequate information to support the position that the
+   benefits of their product outweigh the risks for the management of acute pain severe enough
+   to require an opioid analgesic in an inpatient setting?
+
+    a. If you voted ‘Yes’, please discuss the rationale for your vote and specify whether any
+       post-approval studies should be required.
+
+    b. If you voted ‘No’, please discuss the rationale for your vote and what additional data are
+       needed for approval.
+
+    Vote Result:         Yes: 8           No: 14           Abstain: 0
+
+    Committee Discussion: A majority of members voted “No,” agreeing that the Applicant did
+    not submit adequate information to support the position that the benefits for their product
+    outweigh the risks for the management of acute pain severe enough to require an opioid
+    analgesic in an inpatient setting. These members were in agreement that strong evidence of
+    IV tramadol’s benefit was not demonstrated, with many citing the use of placebo in the
+    studies presented and calling for additional data comparing IV tramadol against a Schedule
+    II opioid or non-opioid analgesic. Several members also noted the need for future trials to be
+    conducted in an inpatient setting as proposed by the labeling. Many members were also in
+    agreement about the safety concerns for this product, citing the delayed onset of action
+    leading to potential for adverse events due to opioid stacking, the inability to titrate the
+    dosing, the unpredictability of the drug’s pharmacokinetics, and the drug’s potential for
+    interactions with other medications. The members who voted “No” were in agreement that
+    more data was needed to assess IV tramadol’s overall safety, with some members noting a
+    specific need for more real world data on safety after patients are discharged from a
+    medically supervised setting.
+
+    Those who voted “Yes” agreed that IV tramadol’s efficacy was demonstrated by the pivotal
+    trials, with several emphasizing the need for proper use of this drug product in an inpatient
+    medically supervised setting to mitigate potential safety concerns regarding opioid stacking.
+    One member noted the current lack of a Schedule IV intravenous opioid available as a
+    treatment option. Several members noted the need for proper education, clear labeling for
+    use, and appropriate guidance on monitoring time prior to discharge as strategies to
+    mitigate the safety risks of this drug product. One member also suggested a need for post
+    approval tracking on how IV tramadol affects different ethnic groups, noting differences in
+    diversity between the populations of the United States and Europe. Please see the transcript
+    for details of the Committees’ discussion.
+
+The meeting was adjourned at approximately 5:36 p.m. ET.
+
+
+
+
+                                                  Page 7 of 7
+

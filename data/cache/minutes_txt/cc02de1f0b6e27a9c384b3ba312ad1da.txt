@@ -1,0 +1,348 @@
+                               Food and Drug Administration
+                          Center for Drug Evaluation and Research
+
+Final Summary Minutes of the Endocrinologic and Metabolic Drugs Advisory Committee
+                                     Meeting
+                                   October 31, 2024
+
+
+Location: FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm.
+1503), 10903 New Hampshire Avenue, Silver Spring, Maryland. The public also had the option
+to participate via an online teleconferencing and/or video conferencing platform, and the meeting
+presentations were heard, viewed, captioned, and recorded through an online video conferencing
+platform.
+
+Topic: The Committee discussed new drug application 210934, for sotagliflozin oral tablet,
+submitted by Lexicon Pharmaceuticals, Inc., for the proposed indication, as an adjunct to insulin
+therapy, to improve glycemic control in adults with type 1 diabetes mellitus and chronic kidney
+disease.
+
+These summary minutes for the October 31, 2024 meeting of the Endocrinologic and Metabolic
+Drugs Advisory Committee of the Food and Drug Administration were approved on December
+18, 2024.
+
+I certify that I attended the October 31, 2024 meeting of the Endocrinologic and Metabolic Drugs
+Advisory Committee of the Food and Drug Administration and that these minutes accurately
+reflect what transpired.
+
+
+
+__________ /s/___________________                 _____________/s/_________________
+Joyce Frimpong, PharmD                            Cecilia C. Low Wang, MD
+Acting Designated Federal Officer, EMDAC          Chairperson, EMDAC
+
+
+
+
+                                            Page 1 of 7
+Ocotber 31, 2024
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    Summary Minutes of the Endocrinologic and Metabolic Drugs Advisory Committee
+                                      Meeting
+                                  October 31, 2024
+
+The Endocrinologic and Metabolic Drugs Advisory Committee Meeting (EMDAC) of the Food
+and Drug Administration, Center for Drug Evaluation and Research met on October 31, 2024, at
+the FDA White Oak Campus, Building 31 Conference Center, the Great Room (Rm. 1503),
+10903 New Hampshire Avenue, Silver Spring, Maryland. The public also had the option to
+participate via an online teleconferencing and/or video conferencing platform, and the meeting
+presentations were heard, viewed, captioned, and recorded through an online video conferencing
+platform. Prior to the meeting, the members and temporary voting members were provided the
+briefing materials from the FDA and Lexicon Pharmaceuticals, Inc. The meeting was called to
+order by Cecilia C. Low Wang, MD (Chairperson). The conflict of interest statement was read
+into the record by Joyce Frimpong, PharmD (Acting Designated Federal Officer). There were
+approximately 100 people in attendance. There were 22 Open Public Hearing (OPH) speaker
+presentations.
+
+A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+following the meeting date.
+
+Agenda: The Committee discussed new drug application 210934, for sotagliflozin oral tablet,
+submitted by Lexicon Pharmaceuticals, Inc., for the proposed indication, as an adjunct to insulin
+therapy, to improve glycemic control in adults with type 1 diabetes mellitus and chronic kidney
+disease.
+
+Attendance:
+Endocrinologic and Metabolic Drugs Advisory Committee Members Present (Voting):
+Matthew T. Drake, MD, PhD; Cecilia C. Low Wang, MD; Thomas Wang, MD
+
+Endocrinologic and Metabolic Drugs Advisory Committee Members Not Present (Voting):
+Robert Alan Greevy, Jr., PhD
+
+Endocrinologic and Metabolic Drugs Advisory Committee Member Present (Non-Voting):
+Ilan Irony, MD (Industry Representative)
+
+Temporary Members (Voting): Elizabeth A. Chrischilles, PhD; Brendan M. Everett, MD,
+MPH; Marvin A. Konstam, MD; Martha Nason, PhD; Connie Newman, MD, MACP; Barbara
+Onumah, MD; Afshin Parsa, MD, MPH; Prabir Roy-Chaudhury, MD, PhD, FRCP; Steve
+Seliger, MD, MS; Abigail B. Shoben, PhD; Paul Tibbits, Jr. (Patient Representative)
+
+FDA Participants (Non-Voting): Lisa Yanoff, MD; Patrick Archdeacon, MD; Justin
+Penzenstadler, PharmD; Mari Suzuki, MD; Wenda Tu, PhD
+
+Acting Designated Federal Officer (Non-Voting): Joyce Frimpong, PharmD
+
+
+
+
+                                               Page 2 of 7
+Ocotber 31, 2024
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+Open Public Hearing Speakers: Nina Zeldes (Public Citizen); Anna Norton; Donald
+Hannaford; Robert Busch, MD; Sanjoy Dutta ( BreakthroughT1D (formerly JDRF)); Helena W.
+Rodbard, MD; Pablo Lapuerta, MD (Lapuerta Consulting, LLC); Christel Marchand Aprigliano;
+Sylvia E. Rosas, MD (National Kidney Foundation); Donna Rice (DiabetesSisters); Chris
+Bryant; Julie Keller Heverly (The diaTribe Foundation); Christian W. Mende, MD; Brittany
+Carney (Taking Control of Your Diabetes (TCOYD)); Ginine Cilenti (Diabetes Foundation,
+Inc.); Kelly Close, Elaine Young, Esther Min, Kat Moon, Nayeli Yanez (Close Concerns);
+Richard M. Bergenstal, MD; Janet McGill, MD, Nirali Shah, MD (American Association of
+Clinical Endocrinology); Carolina Solis-Herrera, MD; Kristen Hohmann; Alexander Fleming,
+MD; John Sjolund
+
+_____________________________________________________________________________
+
+The agenda was as follows:
+
+   Call to Order and Introduction of             Cecilia C. Low Wang, MD
+   Committee                                     Chairperson, EMDAC
+
+
+   Conflict of Interest Statement                Joyce Frimpong, PharmD
+                                                 Acting Designated Federal Officer, EMDAC
+
+   FDA Introductory Remarks                      Patrick Archdeacon, MD
+   NDA 210934: Sotagliflozin to Improve          Deputy Director
+   Glycemic Control in Adults with Type 1        Division of Diabetes, Lipid Disorders, and Obesity
+   Diabetes Mellitus and Chronic Kidney          (DDLO)
+   Disease (T1D-CKD)                             Office of Cardiology, Hematology, Endocrinology, and
+                                                 Nephrology (OCHEN)
+                                                 Office of New Drugs (OND), CDER, FDA
+
+   APPLICANT PRESENTATIONS                       Lexicon Pharmaceuticals, Inc.
+
+   Introduction: T1D-CKD Indication              Brian Corrigan
+                                                 Senior VP Regulatory & Quality Assurance
+                                                 Lexicon Pharmaceuticals, Inc.
+
+   Overview of T1D-CKD Disease, Burden,          Steven Edelman, MD
+   and Unmet Need                                Professor of Medicine
+                                                 Division of Endocrinology, Diabetes & Metabolism
+                                                 University of California, San Diego
+                                                 Founder and Director
+                                                 Taking Control of Your Diabetes 501(c)(3)
+
+   Sotagliflozin Efficacy                        Michael Davies, PhD
+                                                 Executive Director, Clinical Development
+                                                 Lexicon Pharmaceuticals, Inc.
+
+
+
+
+                                               Page 3 of 7
+Ocotber 31, 2024
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+   Sotagliflozin Safety                            Craig Granowitz, MD, PhD
+                                                   Senior Vice President and Chief Medical Officer
+                                                   Lexicon Pharmaceuticals, Inc.
+
+   T1D-CKD Management, Risk                        Richard Pratley, MD
+   Management, and Education                       Medical Director
+                                                   AdventHealth Diabetes Institute
+                                                   Senior Investigator, Diabetes Program Lead
+                                                   AdventHealth Translational Research Institute
+
+   Conclusion                                      Craig Granowitz, MD, PhD
+
+   Clarifying Questions to Applicant
+
+   BREAK
+
+   FDA PRESENTATIONS
+
+   Overview of Sotagliflozin Development           Mari Suzuki, MD
+   Program                                         Clinical Reviewer
+                                                   DDLO, OCHEN, OND, CDER, FDA
+
+   Efficacy Review of Tandem Studies by            Wenda Tu, PhD
+   estimated glomerular filtration rate (eGFR)     Statistical Reviewer
+   Subgroup                                        Division of Biometrics II (DBII)
+                                                   Office of Biostatistics (OB)
+                                                   Office of Translational Sciences, CDER, FDA
+
+   Major Safety Considerations for                 Mari Suzuki, MD
+   Sotagliflozin in Patients with Type 1
+   Diabetes and Chronic Kidney Disease
+
+
+   The Evidence and Uncertainties Regarding        Justin Penzenstadler, PharmD
+   Benefits and Risks for Sotagliflozin to         Clinical Team Leader
+   Improve Glycemic Control in Adults with         DDLO, OCHEN, OND, CDER, FDA
+   Type 1 Diabetes and Chronic Kidney
+   Disease
+
+   Clarifying Questions to FDA
+
+   LUNCH
+
+   OPEN PUBLIC HEARING
+
+   Questions to the Committee/Committee Discussion
+
+   BREAK
+
+    Questions to the Committee/Committee Discussion
+
+
+
+                                                 Page 4 of 7
+Ocotber 31, 2024
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+
+
+   ADJOURNMENT
+______________________________________________________________________________
+Questions to the Committee:
+
+1. DISCUSSION: Discuss the evidence and uncertainties based on the existing clinical trial
+   data as to whether sotagliflozin improves hemoglobin A1c (A1C) across a range of estimated
+   glomerular filtration rates (eGFRs), including the following categories: 45 to
+   <60 mL/min/1.73 m2, 60 to <90 mL/min/1.73 m2, and ≥90 mL/min/1.73 m2. Consider the
+   durability of the treatment effect demonstrated.
+
+    Committee Discussion: Committee members discussed that the data presented was not
+    conclusive, but the trend was concerning. One Committee member mentioned that the data
+    was not a predefined subgroup; that it was ad hoc, the sample sizes were small, and there
+    was no accounting for multiple comparisons. Committee members stated that there did
+    appear to be A1C lowering across the eGFR categories, especially in the 60 mL//min to less
+    than 90 mL/min group, but that there was more uncertainty in the A1C lowering for the
+    eGFR less than 60 mL/min group, since the sample size was extremely small. Regarding
+    durability, Committee members stated that since the data beyond 24 weeks was unblinded, it
+    was difficult to draw conclusions, and the durability was questionable. Please see the
+    transcript for details of the committee discussion.
+
+2. DISCUSSION: Discuss the evidence and uncertainties as to whether patients with type 1
+   diabetes (T1D) and chronic kidney disease (CKD) accrue a greater benefit with respect to
+   microvascular disease than patients with T1D without CKD for any given reduction in A1C.
+   In your discussion, consider different KDIGO categories of CKD, classified by both eGFR
+   (45 to <60 mL/min/1.73 m2; 60 to <90 mL/min/1.73 m2; ≥90 mL/min/1.73 m2) and urine
+   albumin-creatinine ratio (UACR) (<30 mg/g; 30 to <300 mg/g; ≥300 mg/g). Discuss the
+   magnitude of clinical benefit conferred by the A1C reductions expected with use of
+   sotagliflozin across the range of CKD severity, considering both eGFR and UACR.
+
+    Committee Discussion: Committee members discussed the distinction between relative and
+    absolute risk reduction, and while a higher risk population does have greater potential for
+    benefit, they were unable to draw conclusions about whether there was indeed greater
+    benefit with a certain level of A1C reduction based on the data presented. Committee
+    members stated that there are other potential benefits, but these were not quantified, so
+    overall it was difficult to conclude from the available data. Committee members felt there
+    was great uncertainty, but felt the magnitude of benefit from the small improvement in A1c
+    was expected to be small. Please see the transcript for details of the committee discussion.
+
+3. DISCUSSION: Discuss whether the magnitude of the diabetic ketoacidosis (DKA) risk in
+   patients with T1D and CKD using sotagliflozin has been sufficiently characterized. Discuss
+   the evidence and uncertainties regarding DKA risk for patients with T1D and eGFRs in the
+
+
+                                               Page 5 of 7
+Ocotber 31, 2024
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    following ranges: 45 to <60 mL/min/1.73 m2, 60 to <90 mL/min/1.73 m2, and ≥90
+    mL/min/1.73 m2.
+
+    Committee Discussion: Committee members mentioned that there was substantial
+    uncertainty in the magnitude of DKA risk in T1D with CKD, partly due to the short duration
+    of the trials. Some members noted that the Sentinel data showed a much higher background
+    rate of DKA than the clinical trials which may better reflect real world, and that the DKA
+    risk with sotagliflozin in patients with T1D and CKD was insufficiently characterized across
+    the eGFR categories, because the clinical trials enrolled relatively few subjects with CKD.
+    Committee members also discussed that data from Sentinal and FinnDiane suggested that
+    patients with lower eGFRs may be at higher baseline risk of DKA. Committee members also
+    discussed that risk of DKA may be increased with higher doses of sotagliflozin. Please see
+    the transcript for details of the committee discussion.
+
+4. DISCUSSION: Discuss your view of the scientific rationale justifying extrapolation of the
+   demonstrated benefit of sotagliflozin to reduce the risk of cardiovascular death,
+   hospitalization for heart failure, and urgent heart failure visit in patients with type 2 diabetes
+   (T2D), moderate-to-severe CKD, and other cardiovascular risk factors to patients with T1D
+   and mild-to-moderate CKD.
+
+    Committee Discussion: Committee members noted that it was challenging to extrapolate the
+    SCORED data generated in subjects with T2D and moderate-to-severe CKD to the
+    population (patients with T1D and mild-to-moderate CKD) in support of the indication
+    proposed by the Applicant in the current submission. Committee members also discussed the
+    differences in the mechanisms of cardiovascular disease between T2D and TID, and that it
+    was difficult to conclude that sotagliflozin had similar benefits in reducing cardiovascular
+    death, hospitalization for heart failure, and urgent heart failure in patients with T1D and
+    mild-to-moderate CKD. Overall, Committee members agreed that they did not know the
+    magnitude of benefit, so they did not know what the absolute risk reduction would be so
+    could not balance the potential benefit with risk of DKA - there was just not enough data.
+    Please see the transcript for details of the committee discussion.
+
+5. DISCUSSION: Discuss other potential benefits of sotagliflozin suggested by SCORED.
+   Discuss your view of the scientific rationale justifying extrapolation of such potential
+   benefits to patients with T1D and mild-to-moderate CKD.
+
+    Committee Discussion: Overall, Committee members agreed that they were unable to
+    extrapolate the potential benefits of sotagliflozin from the SCORED secondary endpoints, but
+    there may be a benefit for renal outcomes, which could translate into a benefit for patients
+    with T1D who have moderate to severe CKD and additional cardiovascular risk factors.
+    Please see the transcript for details of the committee discussion.
+
+6. DISCUSSION: Discuss the overall benefit-risk assessment for sotagliflozin as an adjunct to
+   insulin to improve glycemic control in patients with T1D and eGFR ≥ 45 to < 60
+
+
+
+                                               Page 6 of 7
+Ocotber 31, 2024
+Endocrinologic and Metabolic Drugs Advisory Committee Meeting
+
+    mL/min/1.73 m2 OR eGFR ≥ 60 mL/min/1.73 m2 and UACR ≥ 30 mg/g. Address how to
+    consider the increased risk of DKA relative to the benefit of an A1C improvement in the
+    population proposed by the Applicant. Discuss how you weigh other advantages of
+    sotagliflozin in the benefit-risk assessment for the proposed indication.
+
+    Committee Discussion: Committee members agreed that there was evidence for small but
+    significant A1C lowering across the eGFR categories; noting that it was more modest in the
+    eGFR less than 60 category. Committee members also discussed that the estimated 20%
+    reduction in hypoglycemia as well as the reduction in body weight, was beneficial. Lastly,
+    some Committee members brought up the point of whether a lower dose might change the
+    benefit risk balance. Please see the transcript for details of the committee discussion.
+
+7. VOTE: Do the available data demonstrate that the benefits of sotagliflozin outweigh the
+   risks for the indication of improved glycemic control in a population of patients with T1D
+   and eGFR ≥ 45 to < 60 mL/min/1.73 m2 or eGFR ≥ 60 mL/min/1.73 m2 and UACR ≥ 30
+   mg/g?
+        •   If yes, provide your rationale and suggest specific risk mitigation approaches.
+        •   If no, do the data demonstrate that the benefits outweigh the risks for the indication of
+            improved glycemic control for another population of patients with T1D and CKD,
+            defined by different eGFR and/or UACR categories? Explain and clarify the
+            population in which the benefits of improved glycemic control outweigh the risks, if
+            any.
+
+    Vote Result:        Yes: 3                  No: 11                Abstain: 0
+
+    Committee Discussion: The majority of the panel agreed that the available data did not
+    demonstrate that the benefits of sotagliflozin outweigh the risks for the indication of
+    improved glycemic control in a population of patients with T1D and eGFR ≥ 45 to < 60
+    mL/min/1.73 m2 or eGFR ≥ 60 mL/min/1.73 m2 and UACR ≥ 30 mg/g. Many members stated
+    that there was a lot of uncertainty in the data and did not feel that the data supported a
+    subgroup of patients with T1D and CKD that would benefit. Other Committee members
+    mentioned that the subgroup with eGFR of 60 to less than 90 ml/min and a UACR greater
+    than 30 mg/g could possibly benefit from sotagliflozin. Committee members also discussed
+    the need for adequate risk mitigation strategies such as ketone monitoring and continuous
+    glucose monitoring. Please see the transcript for details of the committee discussion.
+
+
+The meeting was adjourned at approximately 5:05 p.m.
+
+
+
+
+                                               Page 7 of 7
+

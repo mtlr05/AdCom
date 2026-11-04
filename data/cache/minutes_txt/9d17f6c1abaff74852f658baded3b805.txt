@@ -1,0 +1,309 @@
+                                  Food and Drug Administration
+                             Center for Drug Evaluation and Research
+
+Final Summary Minutes of the Cardiovascular and Renal Drugs Advisory Committee Meeting
+                                       July 15, 2021
+
+
+   Location: Please note that due to the impact of the COVID-19 pandemic, all meeting participants
+   joined this advisory committee meeting via an online teleconferencing platform.
+
+   Topic: The committee discussed new drug application 213805, for the hypoxia inducible factor
+   prolyl hydroxylase inhibitor, roxadustat tablets, submitted by FibroGen, Inc., for the treatment of
+   anemia due to chronic kidney disease in adult patients not on dialysis and on dialysis.
+
+   These summary minutes for the July 15, 2021 meeting of the Cardiovascular and Renal Drugs
+   Advisory Committee (CRDAC) of the Food and Drug Administration were approved on August
+   10, 2021.
+
+   I certify that I attended the July 15, 2021 CRDAC meeting of the Food and Drug Administration
+   and that these minutes accurately reflect what transpired.
+
+
+
+   ________    /s/ _______________                    _____________/s/________________
+   Joyce Yu, PharmD                                   Julia Lewis, MD
+   Designated Federal Officer, CRDAC                  Chairperson, CRDAC
+
+
+
+
+                                               Page 1 of 7
+   July 15, 2021
+   Cardiovascular and Renal Drugs Advisory Committee Meeting
+
+Final Summary Minutes of the Cardiovascular and Renal Drugs Advisory Committee Meeting
+                                       July 15, 2021
+
+   The Cardiovascular and Renal Drugs Advisory Committee (CRDAC) of the Food and Drug
+   Administration, Center for Drug Evaluation and Research met on July 15, 2021. The meeting
+   presentations were heard, viewed, captioned, and recorded through an online teleconferencing
+   platform. Prior to the meeting, the members and temporary voting members were provided the
+   briefing materials from the FDA and FibroGen, Inc. The meeting was called to order by Julia B.
+   Lewis, MD (Chairperson). The conflict of interest statement was read into the record by Joyce
+   Yu, PharmD (Designated Federal Officer). There were approximately 1610 people online.
+   There were 15 Open Public Hearing (OPH) speaker presentations.
+
+   A verbatim transcript will be available, in most instances, at approximately ten to twelve weeks
+   following the meeting date.
+
+   Agenda: The committee discussed new drug application 213805, for the hypoxia inducible
+   factor prolyl hydroxylase inhibitor, roxadustat tablets, submitted by FibroGen, Inc., for the
+   treatment of anemia due to chronic kidney disease in adult patients not on dialysis and on
+   dialysis.
+
+   Attendance:
+   Cardiovascular and Renal Drugs Advisory Committee Members Present (Voting):
+   Jacqueline D. Alikhaani, BA (Consumer Representative); C. Noel Bairey Merz, MD, FACC,
+   FAHA, FESC; Thomas D. Cook, PhD, MS, MA; Edward K. Kasper, MD, FACC, FAHA; Julia
+   B. Lewis, MD (Chairperson); David J. Moliterno, MD; Christopher M. O’Connor, MD, MACC,
+   FESC, FHFA, FHFSA; Ravi I. Thadhani, MD, MPH
+
+   Cardiovascular and Renal Drugs Advisory Committee Members Not Present (Voting):
+   Javed Butler, MD, MPH, MBA; Peter E. Carson, MD; Csaba P. Kovesdy, MD, FASN
+
+   Cardiovascular and Renal Drugs Advisory Committee Member Not Present (Non-Voting):
+   Jerome A. Rossert, MD, PhD
+
+   Acting Industry Representative to the Committee (Non-Voting): David G. Soergel, MD
+
+   Temporary Members (Voting): Leslie S. Cho, MD, FACC, FSCAI, FESC; Paul T. Conway
+   (Patient Representative); Susan T. Crowley, MD, MBA, FASN; Milton Packer, MD; Afshin
+   Parsa, MD, MPH; Thomas J. Wang, MD
+
+   FDA Participants (Non-Voting): Ellis F. Unger, MD; Ann T. Farrell, MD; Saleh Ayache, MD;
+   Jae Joon Song, PhD
+
+   Designated Federal Officer (Non-Voting): Joyce Yu, PharmD
+
+   Open Public Hearing Speakers: Jayant Kumar, MD; Melissia Baker; S. Wyatt Carr; Arnold L.
+   Silva, MD, PhD; Bridget Luebbers; Subir Paul, MD, FASN; Jessica Coleman, MD; Alice Wei,
+
+
+
+                                                  Page 2 of 7
+July 15, 2021
+Cardiovascular and Renal Drugs Advisory Committee Meeting
+
+MD; Roberto Manllo-Karim; Amanda Dilger; Liz Griffith; Louard Crumbaugh Jr.; Anjay
+Rastogi MD, PhD; Leigh-Ann Williams; Michael Douglas Spigler (American Kidney Fund)
+
+The agenda was as follows:
+
+  Call to Order and Introduction of              Julia B. Lewis, MD
+  Committee                                      Chairperson, CRDAC
+
+  Conflict of Interest Statement                 Joyce Yu, PharmD
+                                                 Designated Federal Officer, CRDAC
+
+  FDA Opening Remarks                            Ellis F. Unger, MD
+                                                 Director
+                                                 Office of Cardiology, Hematology, Endocrinology
+                                                 and Nephrology (OCHEN)
+                                                 Office of New Drugs (OND), CDER, FDA
+
+  APPLICANT PRESENTATIONS                        FibroGen, Inc.
+
+  Introduction                                   R. Wayne Frost, PharmD, JD
+                                                 Senior Vice President
+                                                 Regulatory Affairs
+                                                 FibroGen, Inc.
+
+  Unmet Need                                     Roberto Pecoits-Filho, MD, PhD
+                                                 Nephrologist and Senior Research Scientist
+                                                 Arbor Research Collaborative for Health
+
+  Efficacy Results                               Lynda Szczech, MD
+                                                 Vice President
+                                                 Clinical Development and Medical Affairs
+                                                 FibroGen, Inc.
+
+  Safety Results                                 Dustin Little, MD
+                                                 Global Clinical Head
+                                                 AstraZeneca LP
+
+  Clinical Perspective                           Steven Fishbane, MD
+                                                 Professor of Medicine
+                                                 Chief, Division of Nephrology
+                                                 Donald and Barbara Zucker School of Medicine
+
+  Clarifying Questions
+
+  BREAK
+
+
+
+
+                                               Page 3 of 7
+July 15, 2021
+Cardiovascular and Renal Drugs Advisory Committee Meeting
+
+  FDA PRESENTATIONS
+
+  Roxadustat for the Treatment of Anemia Due Saleh Ayache, MD
+  to Chronic Kidney Disease in Adult Patients Clinical Reviewer
+  not on Dialysis and on Dialysis             Division of Non-Malignant Hematology (DNH)
+                                              OCHEN, OND, CDER, FDA
+
+                                                 Jae Joon Song, PhD
+                                                 Statistical Reviewer
+                                                 Division of Biometrics VII (DB-VII)
+                                                 Office of Biostatistics (OB)
+                                                 Office of Translational Sciences (OTS)
+                                                 CDER, FDA
+
+  Clarifying Questions
+
+  LUNCH
+
+  OPEN PUBLIC HEARING
+
+  Questions to the Committee/Committee
+  Discussion
+
+  BREAK
+
+  Questions to the Committee/Committee
+  Discussion (cont.)
+
+  ADJOURNMENT
+
+______________________________________________________________________________
+
+Questions to the Committee:
+
+Non-dialysis-dependent population:
+
+1. DISCUSSION: Discuss the benefits and risks of roxadustat in the non-dialysis-dependent
+   (NDD) population.
+
+    Committee Discussion: Committee members considered the convenience of roxadustat being
+    an oral dosage form to be both a benefit and a risk. Committee members stated that while
+    patients would no longer require an erythropoietin (EPO) injection, some members
+    expressed concern that it would result in worse compliance with respect to monitoring of the
+    patient’s hemoglobin (Hb) levels. Committee members were also concerned about
+    roxadustat’s risks of thrombosis and mortality. Despite roxadustat’s effect on Hb
+    improvement and intravenous iron reduction, members noted a surprising lack of
+    improvement in quality of life. There was discussion regarding the interpretability of on-
+    study vs. on-treatment (OT) +7 pooled analyses results for analyses of major adverse
+
+
+
+                                               Page 4 of 7
+July 15, 2021
+Cardiovascular and Renal Drugs Advisory Committee Meeting
+
+    cardiovascular events (MACE) and mortality. Please see the transcript for details of the
+    committee discussion.
+
+2. DISCUSSION: If you have concerns regarding these risks, discuss whether you believe
+   they could be addressed through modification of the treatment algorithm, for example,
+   changes in target hemoglobin, starting dose, titration scheme, monitoring paradigm.
+
+        a. If you favor changes to the treatment algorithm to enhance safety, discuss whether
+           they should be tested (i) prior to approval, (ii) after approval, or (iii) not at all.
+
+    Committee Discussion: Committee members generally agreed that changes in the treatment
+    algorithm with respect to Hb target and starting dose were reasonable proposals to address
+    roxadustat’s safety risks; however, several members commented that such modifications
+    should be tested prior to roxadustat approval. Some committee members expressed
+    uncertainty as to whether the risks were caused by the drug’s mechanism of action (rapid Hb
+    rise) or rather through an unknown off-target mechanism. There were various concerns with
+    the post-marketing assessment proposed by the Applicant; none of the Committee members
+    seemed convinced that a post-marketing real-world study would be adequate. A committee
+    member also commented that a Risk Evaluation and Mitigation Strategy (REMS) program
+    could potentially be considered as a way to reduce risk. Please see the transcript for details
+    of the committee discussion.
+
+3. VOTE: Should roxadustat be approved for the treatment of anemia due to chronic kidney
+   disease (CKD) in adult patients not on dialysis?
+
+        a. If not, provide your rationale, as well as recommendations for additional data and/or
+           analyses that would support a favorable benefit-risk profile and approval of
+           roxadustat.
+
+    Vote Result:        Yes: 1                  No: 13               Abstain: 0
+
+    Committee Discussion: The majority of committee members voted against approval of
+    roxadustat for the treatment of anemia due to CKD in adult patients not on dialysis.
+    Committee members cited the following as their reasons for voting against approval:
+    concerning safety risks, untested proposed mitigation dosing strategy with unknown efficacy,
+    sicker patients with greater need to demonstrate safety, and difficulty in obtaining more
+    definitive data in the post-marketing setting. One member commented that approval based on
+    a mitigation dosing model would be non-traditional. The member who voted “Yes”
+    commented that a REMS program could potentially be a fair strategy to mitigate the safety
+    risks, and allow roxadustat to fulfill an unmet medical need. Please see the transcript for
+    details of the committee discussion.
+
+
+
+
+                                               Page 5 of 7
+July 15, 2021
+Cardiovascular and Renal Drugs Advisory Committee Meeting
+
+Dialysis-dependent population:
+
+4. DISCUSSION: Discuss the benefits and risks of roxadustat in the dialysis-dependent (DD)
+   population.
+
+    Committee Discussion: Some committee members noted that roxadustat could have a benefit
+    in EPO resistant patients. In addition, members expressed greater confidence in the risk
+    mitigation for the DD population, as inadequate Hb monitoring would merit less concern in
+    this setting. However, members remained concerned with the safety data given that on-study
+    analyses of the three principal studies and Study 613 demonstrated increased mortality when
+    compared to EPO. One committee member also commented that it was unclear whether the
+    drug’s benefit would be maintained with a lower roxadustat dose. Please see the transcript
+    for details of the committee discussion.
+
+5. DISCUSSION: If you have concerns regarding these risks, discuss whether you believe
+   they could be addressed through modification of the treatment algorithm, for example,
+   changes in target hemoglobin, starting dose, titration scheme, monitoring paradigm.
+
+        a. If you favor changes to the treatment algorithm to enhance safety, discuss whether
+           they should be tested (i) prior to approval, (ii) after approval, or (iii) not at all.
+
+    Committee Discussion: Similarly to the NDD population, some committee members agreed
+    that the changes to the treatment algorithm should be tested prior to approval of roxadustat
+    in the DD population to provide clinical evidence of its efficacy and safety. Several
+    committee members remained concerned that the Applicant’s proposed dosing regimen to
+    reduce thrombosis risks was not tested, and stated that modeling should not replace a
+    clinical trial prior to approval. There were also comments made regarding the low
+    percentage of African American patients studied. Please see the transcript for details of the
+    committee discussion.
+
+6. VOTE: Should roxadustat be approved for the treatment of anemia due to CKD in adult
+   patients on dialysis?
+
+        a. If not, provide your rationale, as well as recommendations for additional data and/or
+           analyses that would support a favorable benefit-risk profile and approval of
+           roxadustat.
+
+    Vote Result:        Yes: 2                  No: 12               Abstain: 0
+
+    Committee Discussion: The majority of committee members voted against approval of
+    roxadustat for the treatment of anemia due to CKD in the DD population. The majority of
+    members stated that more information was needed on both the efficacy and safety of the
+    proposed dosing strategy prior to approval. Some members who voted “No” recommended
+    additional testing of the lower dose in EPO resistant patients, while other members stated
+    they would favor initial approval for that subpopulation. Other recommendations were to
+    include more African American patients. One member commented that an additional trial
+
+
+                                               Page 6 of 7
+July 15, 2021
+Cardiovascular and Renal Drugs Advisory Committee Meeting
+
+    studying EPO hyporesponders should not be the “stand-alone” trial to support roxadustat
+    approval. Committee members who voted “Yes” agreed with comments made by other
+    members in regards to EPO resistant patients. These members also commented that
+    providers would have more control in the DD setting and could therefore potentially better
+    mitigate safety risks. Please see the transcript for details of the committee discussion.
+
+The meeting was adjourned at approximately 5:32 p.m.
+
+
+
+
+                                               Page 7 of 7
+
