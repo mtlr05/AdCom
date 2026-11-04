@@ -18,6 +18,6 @@ All corrections go in `scripts/cur.py` (`c(...)` for row-level curation, `fo(...
 ## Acceptance test
 From a fresh clone with `pip install -r requirements.txt`:
 1. `./run_all.sh` exits 0 and prints `run_all.sh: OK` and `FAILURES: 0`.
-2. `data/adcom_full_pivotal.csv` has 155 rows and 47 columns; `center` is never blank; `orphan_for_indication` ∈ {Y,N,review,unverified}.
-3. `data/two_by_two.csv` (outcome=final) contains: All 90/5/10/43; Common 48/3/8/32; Rare 40/2/2/11; Rare + priority 28/1/1/2; CGT 10/0/0/1; Approval-only: All 72/5/8/30; Approval-only: Rare + priority 22/1/0/1 (AA/AR/RA/RR). Any intentional change must update this list and CHANGELOG.md.
-4. `charts/` contains the six `*_v4` / `*_approvalonly_v5` PNGs and the two `cgt_*_v4.pdf` tables, newer than the CSV.
+2. `data/adcom_full_pivotal.csv` has 156 rows and 47 columns; `center` is never blank; `orphan_for_indication` ∈ {Y,N,review,unverified}.
+3. `data/two_by_two.csv` (outcome=final) contains: All 90/6/10/43; Common 48/4/8/32; Rare 40/2/2/11; Rare + priority 29/1/1/4; CGT 10/0/0/1; Approval-only: All 72/6/8/30; Approval-only: Rare + priority 22/1/0/2 (AA/AR/RA/RR). Any intentional change must update this list and CHANGELOG.md.
+4. `charts/` contains `all_2x2_counts_v6.png`, `all_2x2_pct_v6.png`, `all_2x2_counts_approvalonly_v6.png`, `all_2x2_pct_approvalonly_v6.png`, the CGT `*_v4` / `*_approvalonly_v5` PNGs and the two `cgt_*_v4.pdf` tables, newer than the CSV.

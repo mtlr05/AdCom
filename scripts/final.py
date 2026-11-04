@@ -123,6 +123,10 @@ if len(G):
     _k=set(zip(M.meeting_date.astype(str),M.app.astype(str).str.lstrip('0')))
     G=G[~G.apply(lambda r:(str(r.meeting_date),str(r.app).lstrip('0')) in _k,axis=1)]
 G=G[G.meeting_date.astype(str)>=WINDOW]; X=X[X.meeting_date.astype(str)>=WINDOW] if len(X) else X
+# Solithromycin 2016-11-04 was filed under excluded as "no NDA/BLA". The transcript
+# (fda.gov/media/102423) is a product benefit-risk vote, now a curated pivotal row.
+if len(X):
+    X=X[~((X.meeting_date.astype(str)=='2016-11-04')&(X.committee.astype(str)=='AMDAC')&(X.reason.astype(str).str.startswith('no NDA/BLA')))].copy()
 # verification flags
 def _tier(x):
     x=str(x); l=x.lower()

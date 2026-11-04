@@ -1,13 +1,13 @@
 # FDA AdCom pivotal-vote dataset: final report (scope 2016-11-04 to 2026)
 
-Generated 2026-11-04 09:54 ET. Files are in the data root (this folder). Main table: adcom_full_pivotal.csv / adcom_full.xlsx (155 product-meeting rows). Excluded sheet: excluded.csv (170 rows, each with a reason). Gaps: 0.
+Generated 2026-11-04 12:09 ET. Files are in the data root (this folder). Main table: adcom_full_pivotal.csv / adcom_full.xlsx (156 product-meeting rows). Excluded sheet: excluded.csv (169 rows, each with a reason). Gaps: 0.
 
 ## Counts by committee
 
 | committee   |   rows |   press_votes |   outcome_press_or_company |
 |:------------|-------:|--------------:|---------------------------:|
 | ODAC        |     38 |             2 |                          9 |
-| AMDAC       |     15 |             4 |                          2 |
+| AMDAC       |     16 |             4 |                          3 |
 | AADPAC      |     13 |             3 |                          4 |
 | PDAC        |     12 |             1 |                          4 |
 | EMDAC       |     11 |             2 |                          3 |
@@ -28,50 +28,50 @@ Generated 2026-11-04 09:54 ET. Files are in the data root (this folder). Main ta
 
 ## Verification rate by field
 
-**Vote**: FDA 136 (88%), press 19 (12%)
+**Vote**: FDA 137 (88%), press 19 (12%)
 
-**Final outcome**: FDA 63 (41%), FDA (openFDA) 49 (32%), press 38 (25%), SEC/company 5 (3%)
+**Final outcome**: FDA 63 (40%), FDA (openFDA) 49 (31%), press 38 (24%), SEC/company 6 (4%)
 
-**Orphan status for the indication**: N 96 (62%), Y 57 (37%), review 2 (1%)
+**Orphan status for the indication**: N 97 (62%), Y 57 (37%), review 2 (1%)
 
-**Review priority basis**: existing 91 (59%), supplement not matched in openFDA 44 (28%), openFDA ORIG 3 (2%), unverified: CBER BLA/sBLA not in openFDA; no priority source checked 3 (2%), PRIORITY: https://www.novartis.com/news/media-releases/novartis-announces-first-car-t-cell-therapy-bla-pediatric-and-young-adult-patients-rr-b-cell-all-granted-fda-priority-review 1 (1%), PRIORITY: https://www.sec.gov/Archives/edgar/data/1609351/000160935117000074/spark-20178kblaacceptance.htm 1 (1%), openFDA supplement S-9 1 (1%), openFDA supplement S-18 1 (1%), openFDA supplement S-12 1 (1%), openFDA supplement S-89 1 (1%), STANDARD: https://www.fda.gov/media/170827/download 1 (1%), no openFDA record (BLA at CBER or unapproved) 1 (1%), PRIORITY: https://investor.bluebirdbio.com/news-releases/news-release-details/bluebird-bio-announces-fda-priority-review-biologics-license-0 1 (1%), PRIORITY: https://www.sec.gov/Archives/edgar/data/1293971/000129397121000089/blue-20211122.htm 1 (1%), PRIORITY: https://investorrelations.sarepta.com/news-releases/news-release-details/sarepta-therapeutics-announces-us-fda-has-accepted-filing-and 1 (1%), not found (unverified): no priority designation located; checked FDA briefing https://www.fda.gov/media/172397/download 1 (1%), unverified for the reviewed submission: PRIORITY applied to original BLA (https://www.capricor.com/investors/news-events/press-releases/detail/305/capricor-therapeutics-announces-fda-acceptance-and-priority); adcom reviewed a Class 2 resubmission (https://www.capricor.com/investors/news-events/press-releases/detail/338/capricor-therapeutics-announces-establishment-of-new-pdufa ; .../detail/354/capricor-therapeutics-announces-extension-of-pdufa-target) 1 (1%), unverified for the reviewed submission: PRIORITY applied to original BLA (https://ir.replimune.com/news-releases/news-release-details/replimune-announces-biologics-license-application-acceptance-and); adcom reviewed a Class 1 resubmission (https://ir.replimune.com/news-releases/news-release-details/replimune-announces-fda-acceptance-rp1-biologics-license) 1 (1%)
+**Review priority basis**: existing 91 (58%), supplement not matched in openFDA 39 (25%), openFDA ORIG 3 (2%), unverified: CBER BLA/sBLA not in openFDA; no priority source checked 2 (1%), PRIORITY: QIDP priority review, Cempra 10-K https://www.sec.gov/Archives/edgar/data/1461993/000156459017002719/cemp-10k_20161231.htm (SEC; FDA transcript does not restate the designation) 1 (1%), PRIORITY: https://www.novartis.com/news/media-releases/novartis-announces-first-car-t-cell-therapy-bla-pediatric-and-young-adult-patients-rr-b-cell-all-granted-fda-priority-review 1 (1%), PRIORITY: https://www.sec.gov/Archives/edgar/data/1609351/000160935117000074/spark-20178kblaacceptance.htm 1 (1%), openFDA supplement S-9 1 (1%), openFDA supplement S-18 1 (1%), PRIORITY: Daiichi Sankyo press release 21 Nov 2018, FDA accepted the R/R FLT3-ITD AML NDA and granted priority review, PDUFA 25 May 2019 (press). https://www.daiichisankyo.com/media/press_release/detail/index_3224.html 1 (1%), openFDA supplement S-12 1 (1%), PRIORITY: FDA SBRA for BLA 125706, "BLA filed (priority review)" 30 Mar 2020, the submission reviewed on 13 Aug 2020. https://www.fda.gov/media/185192/download 1 (1%), openFDA supplement S-89 1 (1%), STANDARD: https://www.fda.gov/media/170827/download 1 (1%), no openFDA record (BLA at CBER or unapproved) 1 (1%), PRIORITY: https://investor.bluebirdbio.com/news-releases/news-release-details/bluebird-bio-announces-fda-priority-review-biologics-license-0 1 (1%), PRIORITY: https://www.sec.gov/Archives/edgar/data/1293971/000129397121000089/blue-20211122.htm 1 (1%), PRIORITY: Y-mAbs press release 31 May 2022, FDA accepted the omburtamab BLA for priority review, PDUFA 30 Nov 2022 (press). https://ir.ymabs.com/news-releases/news-release-details/y-mabs-announces-fda-acceptance-biologics-license-application 1 (1%), STANDARD: Cytokinetics 4 Feb 2022 acceptance, relayed by Drugs.com: FDA assigned a standard review, PDUFA 30 Nov 2022 (secondary). https://www.drugs.com/history/omecamtiv-mecarbil.html 1 (1%), PRIORITY: https://investorrelations.sarepta.com/news-releases/news-release-details/sarepta-therapeutics-announces-us-fda-has-accepted-filing-and 1 (1%), not found (unverified): no priority designation located; checked FDA briefing https://www.fda.gov/media/172397/download 1 (1%), PRIORITY: Lykos press release 4 Jun 2024: FDA accepted the NDA on 9 Feb 2024 and granted priority review (press). https://www.prnewswire.com/news-releases/lykos-therapeutics-provides-update-on-fda-advisory-committee-meeting-for-investigational-mdma-assisted-therapy-for-ptsd-302163950.html 1 (1%), STANDARD: openFDA drugsfda BLA 761145 supplement 29, review_priority STANDARD, status date 2025-11-06. FDA minutes identify the 20 May 2025 sBLA as 761145/S-029 (https://www.fda.gov/media/187747/download). 1 (1%), unverified for the reviewed submission: PRIORITY applied to original BLA (https://www.capricor.com/investors/news-events/press-releases/detail/305/capricor-therapeutics-announces-fda-acceptance-and-priority); adcom reviewed a Class 2 resubmission (https://www.capricor.com/investors/news-events/press-releases/detail/338/capricor-therapeutics-announces-establishment-of-new-pdufa ; .../detail/354/capricor-therapeutics-announces-extension-of-pdufa-target) 1 (1%), unverified for the reviewed submission: PRIORITY applied to original BLA (https://ir.replimune.com/news-releases/news-release-details/replimune-announces-biologics-license-application-acceptance-and); adcom reviewed a Class 1 resubmission (https://ir.replimune.com/news-releases/news-release-details/replimune-announces-fda-acceptance-rp1-biologics-license) 1 (1%)
 
-Review priority values: {'PRIORITY': 55, 'unverified': 51, 'STANDARD': 49}. Unverified is mostly unapproved products, CBER BLAs and supplements that openFDA does not tag.
+Review priority values: {'PRIORITY': 60, 'STANDARD': 51, 'unverified': 45}. Unverified is mostly unapproved products, CBER BLAs and supplements that openFDA does not tag.
 
-1-year outcome: {'unverified': 63, 'approved': 58, 'not approved within 1 yr': 34}. 'unverified' at 1 year means the approval date is known only to the month, or the decision is still pending inside the window.
+1-year outcome: {'unverified': 63, 'approved': 58, 'not approved within 1 yr': 35}. 'unverified' at 1 year means the approval date is known only to the month, or the decision is still pending inside the window.
 
 ## 2x2 tables: adcom vote vs FDA outcome (ties and superseded meetings removed; unverified counts shown)
 
 | subset                           | outcome   |   n |   FavApproved |   FavNotApproved |   UnfavApproved |   UnfavNotApproved |   outcome_unverified |
 |:---------------------------------|:----------|----:|--------------:|-----------------:|----------------:|-------------------:|---------------------:|
-| All                              | final     | 149 |            90 |                5 |              10 |                 43 |                    1 |
-| All                              | 1yr       |  88 |            52 |               13 |               5 |                 18 |                   62 |
+| All                              | final     | 150 |            90 |                6 |              10 |                 43 |                    1 |
+| All                              | 1yr       |  89 |            52 |               14 |               5 |                 18 |                   62 |
 | Rare (orphan Y)                  | final     |  55 |            40 |                2 |               2 |                 11 |                    1 |
 | Rare (orphan Y)                  | 1yr       |  35 |            23 |                6 |               2 |                  4 |                   21 |
-| Common (orphan N)                | final     |  92 |            48 |                3 |               8 |                 32 |                    0 |
-| Common (orphan N)                | 1yr       |  51 |            28 |                6 |               3 |                 14 |                   41 |
-| Priority                         | final     |  54 |            47 |                1 |               2 |                  3 |                    0 |
-| Priority                         | 1yr       |  37 |            31 |                4 |               2 |                  0 |                   17 |
-| Standard                         | final     |  46 |            33 |                0 |               8 |                  5 |                    0 |
-| Standard                         | 1yr       |  34 |            20 |                5 |               3 |                  6 |                   12 |
+| Common (orphan N)                | final     |  93 |            48 |                4 |               8 |                 32 |                    0 |
+| Common (orphan N)                | 1yr       |  52 |            28 |                7 |               3 |                 14 |                   41 |
+| Priority                         | final     |  59 |            48 |                2 |               2 |                  6 |                    0 |
+| Priority                         | 1yr       |  41 |            31 |                6 |               2 |                  2 |                   18 |
+| Standard                         | final     |  48 |            34 |                0 |               8 |                  6 |                    0 |
+| Standard                         | 1yr       |  36 |            20 |                6 |               3 |                  7 |                   12 |
 | CNS (PCNS/PDAC)                  | final     |  20 |            12 |                0 |               1 |                  7 |                    0 |
 | CNS (PCNS/PDAC)                  | 1yr       |  14 |            10 |                1 |               1 |                  2 |                    6 |
 | CGT (CTGTAC + CAR-T/MSC)         | final     |  11 |            10 |                0 |               0 |                  1 |                    1 |
 | CGT (CTGTAC + CAR-T/MSC)         | 1yr       |   5 |             2 |                2 |               0 |                  1 |                    7 |
-| Rare + priority                  | final     |  32 |            28 |                1 |               1 |                  2 |                    0 |
-| Rare + priority                  | 1yr       |  21 |            18 |                2 |               1 |                  0 |                   11 |
-| Approval-only: All               | final     | 115 |            72 |                5 |               8 |                 30 |                    0 |
-| Approval-only: All               | 1yr       |  67 |            42 |               10 |               3 |                 12 |                   48 |
-| Approval-only: Common            | final     |  74 |            39 |                3 |               7 |                 25 |                    0 |
-| Approval-only: Common            | 1yr       |  43 |            25 |                4 |               2 |                 12 |                   31 |
+| Rare + priority                  | final     |  35 |            29 |                1 |               1 |                  4 |                    0 |
+| Rare + priority                  | 1yr       |  23 |            18 |                3 |               1 |                  1 |                   12 |
+| Approval-only: All               | final     | 116 |            72 |                6 |               8 |                 30 |                    0 |
+| Approval-only: All               | 1yr       |  68 |            42 |               11 |               3 |                 12 |                   48 |
+| Approval-only: Common            | final     |  75 |            39 |                4 |               7 |                 25 |                    0 |
+| Approval-only: Common            | 1yr       |  44 |            25 |                5 |               2 |                 12 |                   31 |
 | Approval-only: Rare              | final     |  40 |            32 |                2 |               1 |                  5 |                    0 |
 | Approval-only: Rare              | 1yr       |  23 |            17 |                5 |               1 |                  0 |                   17 |
-| Approval-only: Rare + priority   | final     |  24 |            22 |                1 |               0 |                  1 |                    0 |
-| Approval-only: Rare + priority   | 1yr       |  14 |            12 |                2 |               0 |                  0 |                   10 |
+| Approval-only: Rare + priority   | final     |  25 |            22 |                1 |               0 |                  2 |                    0 |
+| Approval-only: Rare + priority   | 1yr       |  14 |            12 |                2 |               0 |                  0 |                   11 |
 | Approval-only: CGT               | final     |   8 |             8 |                0 |               0 |                  0 |                    0 |
 | Approval-only: CGT               | 1yr       |   2 |             1 |                1 |               0 |                  0 |                    6 |
-| 2016-11-04..2021 (Daval overlap) | final     |  90 |            55 |                3 |               6 |                 26 |                    0 |
-| 2016-11-04..2021 (Daval overlap) | 1yr       |  55 |            33 |               10 |               2 |                 10 |                   35 |
+| 2016-11-04..2021 (Daval overlap) | final     |  91 |            55 |                4 |               6 |                 26 |                    0 |
+| 2016-11-04..2021 (Daval overlap) | 1yr       |  56 |            33 |               11 |               2 |                 10 |                   35 |
 
 ## Corrections 2026-11-04
 
@@ -102,12 +102,13 @@ Review priority values: {'PRIORITY': 55, 'unverified': 51, 'STANDARD': 49}. Unve
 | 2023-05-18     | 768/0)                 | 125768 | unverified | N      | corrected 2026-11-04 on audit: no OOPD designation for RSV or COVID-19 vaccines (searched rsv/respiratory syncytial/covid/sars-cov/bnt162); common indication                              |
 | 2025-05-20     | DARZALEX FASPRO        | 761145 | N          | review | corrected 2026-11-04 on audit: daratumumab designation is "Treatment of multiple myeloma" (2013); high-risk smoldering MM is a precursor state - ambiguous whether covered                 |
 | 2026-07-30     | TUDRIQEV               | 125827 | N          | review | corrected 2026-11-04 on audit: no OOPD record found for vusolimogene oderparepvec/RP1/GALV-HSV; advanced melanoma post-PD-1 - left for review                                              |
+| 2016-11-04     |                        | 209006 | N          | N      | corrected 2026-11-04 on audit: no OOPD record for solithromycin (searched oopd_all.csv); community-acquired bacterial pneumonia is a common indication                                     |
 | 2021-06-24     | retifanlimab injection | 761209 | Y          | Y      | corrected 2026-11-04 on audit: OOPD 2020-03-24 retifanlimab "anal cancer" matches SCAC (earlier basis wrongly cited Merkel cell)                                                           |
 | 2018-08-07     | ARIKAYCE KIT           | 207356 | Y          | Y      | corrected 2026-11-04 on audit: OOPD 2013-03-25 liposomal amikacin (Insmed) NTM infections, Designated/Approved                                                                             |
 | 2021-04-15     | Lantidra               | 125734 | Y          | Y      | corrected 2026-11-04 on audit: OOPD 2017-02-01 donislecel-jujn (CellTrans) "Treatment of Brittle Type 1 Diabetes", Designated/Approved                                                     |
 | 2018-07-12     | KRINTAFEL              | 210795 | Y          | Y      | corrected 2026-11-04 on audit: OOPD 2013-01-15 tafenoquine (GSK) "Treatment of malaria", Designated/Approved                                                                               |
 
-vote_type counts: {'approval/benefit-risk': 119, 'effectiveness-only': 26, 'restriction/other': 10}. center: {'CDER': 137, 'CBER': 18}. CGT rows: 12.
+vote_type counts: {'approval/benefit-risk': 120, 'effectiveness-only': 26, 'restriction/other': 10}. center: {'CDER': 138, 'CBER': 18}. CGT rows: 12.
 
 ## Still press-only votes (no FDA minutes or transcript found)
 
@@ -139,6 +140,7 @@ Teplizumab: an FDA review (761183Orig1s000OtherR) confirms that "the majority" v
 
 | meeting_date   | brand                                  | generic                                                         | final_action                                                                                    | final_action_date   |
 |:---------------|:---------------------------------------|:----------------------------------------------------------------|:------------------------------------------------------------------------------------------------|:--------------------|
+| 2016-11-04     |                                        | solithromycin                                                   | CRL (not approved as of 2026-11)                                                                | 2016-12-29          |
 | 2017-08-02     |                                        |                                                                 | CRL (not approved as of 2026-11)                                                                | 2017-09-22          |
 | 2017-09-28     | Translarna                             | ataluren                                                        | CRL (not approved)                                                                              | 2017-10             |
 | 2017-11-16     |                                        |                                                                 | not approved (no FDA approval on record as of 2026-11; openFDA has no NDA 209367)               |                     |
@@ -264,5 +266,5 @@ Totals: Daval 164 meetings. We have 86 product-vote rows and 39 excluded meeting
 
 ## Not done / caveats
 - Press votes (list above) could not be confirmed against FDA documents. The fda.gov committee pages return 404, and the review PDFs found were image-only.
-- The waiter loops chained after mscan/ait matched their own command lines and could never finish, so they were killed. mscan.py (144000â€“196000) has since finished, but the 118000â€“144000 range and ait2 never ran. With gaps at 0, those runs are optional. The pipeline was rerun manually.
+- The waiter loops chained after mscan/ait matched their own command lines and could never finish, so they were killed. mscan.py (144000–196000) has since finished, but the 118000–144000 range and ait2 never ran. With gaps at 0, those runs are optional. The pipeline was rerun manually.
 - Pre-2016-11 rows stay in sheet pre_2016-11_not_curated and were not worked further.

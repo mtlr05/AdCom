@@ -10,6 +10,17 @@ c('2024-09-26','ODAC','','drop',notes='PD-1 class question (gastric/ESCC by PD-L
 c('2022-06-09','CTGTAC','125717','drop',notes='duplicate: beti-cel voted 2022-06-10; 2022-06-09 was eli-cel',curated_source='CTGTAC minutes media/160777 and 159066')
 c('2023-04-14','PCNS','205422','drop',notes='duplicate of joint PDAC+PCNS Rexulti row',curated_source='minutes')
 c('2017-10-31','DSaRM','210136','drop',notes='misattributed: 2017-10-31 vote was RBP-6000 (Sublocade, NDA 209819); re-added as curated row',curated_source='minutes UCM592674')
+c('2016-11-04','AMDAC','209006','add',brand='',generic='solithromycin',meeting_type='initial application',
+  question_text='Do the efficacy results of solithromycin for the treatment of community-acquired bacterial pneumonia outweigh the risks, including hepatotoxicity?',
+  vote_yes='7',vote_no='6',vote_abstain='0',
+  final_action='CRL (not approved as of 2026-11)',final_action_date='2016-12-29',
+  action_at_1yr='not approved within 1 yr',
+  decision_source='SEC 10-K https://www.sec.gov/Archives/edgar/data/1461993/000156459017002719/cemp-10k_20161231.htm (CRL 29 Dec 2016; oral NDA 209006 and IV NDA 209007, one vote)',
+  minutes_url='https://www.fda.gov/media/102423/download',
+  review_priority='PRIORITY',
+  curated_source='https://www.fda.gov/media/102423/download',
+  pivotal_note='Q3 benefit-risk (transcript: yes 7, no 6, zero abstentions). Q1 efficacy 13-0 and Q2 hepatotoxicity characterized 1-12 are not the pivotal question.',
+  notes='Previously excluded as no NDA/BLA. Transcript names NDAs 209006 and 209007. One benefit-risk vote covers both. Priority review stated in the Cempra 10-K because of QIDP.')
 c('2023-11-16','ODAC','','drop',notes='Acrotech Folotyn/Beleodaq accelerated-approval status review of marketed products, no new application',curated_source='https://www.fda.gov/media/175668/download')
 # ---- outcomes / votes
 c('2017-10-31','PDAC','209819','add',brand='SUBLOCADE',generic='buprenorphine extended-release injection',meeting_type='initial application',question_text='Do you recommend approval of this application? (RBP-6000)',vote_yes='18',vote_no='1',vote_abstain='0',final_action='approved',final_action_date='2017-11-30',decision_source='openFDA drugsfda NDA 209819 ORIG AP 2017-11-30',minutes_url='https://wayback.archive-it.org/7993/2018*/https://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/PsychopharmacologicDrugsAdvisoryCommittee/UCM592674.pdf',curated_source='FDA minutes UCM592674 (joint PDAC/DSaRM) + https://www.prnewswire.com/news-releases/fda-advisory-committees-recommend-approval-of-indiviors-rbp-6000-for-the-treatment-of-opioid-use-disorder-300546838.html')
@@ -161,6 +172,9 @@ for md,app in [('2021-09-17',''),('2023-02-28','125769'),('2023-03-01','125775')
     orph(md,app,'N','no OOPD designation for RSV or COVID-19 vaccines (searched rsv/respiratory syncytial/covid/sars-cov/bnt162); common indication')
 orph('2025-05-20','761145','review','daratumumab designation is "Treatment of multiple myeloma" (2013); high-risk smoldering MM is a precursor state - ambiguous whether covered')
 orph('2026-07-30','125827','review','no OOPD record found for vusolimogene oderparepvec/RP1/GALV-HSV; advanced melanoma post-PD-1 - left for review')
+orph('2016-11-04','209006','N','no OOPD record for solithromycin (searched oopd_all.csv); community-acquired bacterial pneumonia is a common indication')
+fo('2016-11-04','209006','review_priority','PRIORITY','https://www.sec.gov/Archives/edgar/data/1461993/000156459017002719/cemp-10k_20161231.htm')
+fo('2016-11-04','209006','priority_basis','PRIORITY: QIDP priority review, Cempra 10-K https://www.sec.gov/Archives/edgar/data/1461993/000156459017002719/cemp-10k_20161231.htm (SEC; FDA transcript does not restate the designation)','https://www.sec.gov/Archives/edgar/data/1461993/000156459017002719/cemp-10k_20161231.htm')
 # basis-only fixes (value unchanged)
 fo('2021-06-24','761209','orphan_indication_basis','corrected 2026-11-04 on audit: OOPD 2020-03-24 retifanlimab "anal cancer" matches SCAC (earlier basis wrongly cited Merkel cell)',OOPD)
 fo('2018-08-07','207356','orphan_indication_basis','corrected 2026-11-04 on audit: OOPD 2013-03-25 liposomal amikacin (Insmed) NTM infections, Designated/Approved',OOPD)
@@ -179,8 +193,26 @@ fo('2023-09-27','125782','review_priority','unverified','https://www.fda.gov/med
 fo('2023-09-27','125782','priority_basis','not found (unverified): no priority designation located; checked FDA briefing https://www.fda.gov/media/172397/download','https://www.fda.gov/media/172397/download')
 fo('2026-07-29','125842','priority_basis','unverified for the reviewed submission: PRIORITY applied to original BLA (https://www.capricor.com/investors/news-events/press-releases/detail/305/capricor-therapeutics-announces-fda-acceptance-and-priority); adcom reviewed a Class 2 resubmission (https://www.capricor.com/investors/news-events/press-releases/detail/338/capricor-therapeutics-announces-establishment-of-new-pdufa ; .../detail/354/capricor-therapeutics-announces-extension-of-pdufa-target)','capricor press')
 fo('2026-07-30','125827','priority_basis','unverified for the reviewed submission: PRIORITY applied to original BLA (https://ir.replimune.com/news-releases/news-release-details/replimune-announces-biologics-license-application-acceptance-and); adcom reviewed a Class 1 resubmission (https://ir.replimune.com/news-releases/news-release-details/replimune-announces-fda-acceptance-rp1-biologics-license)','replimune press')
-for md,app in [('2020-08-13','125706'),('2024-03-15','125746'),('2024-03-15','125736')]:
+for md,app in [('2024-03-15','125746'),('2024-03-15','125736')]:
     fo(md,app,'priority_basis','unverified: CBER BLA/sBLA not in openFDA; no priority source checked','')
+# Ryoncil: the 13 Aug 2020 adcom reviewed the original BLA, which FDA filed as priority review.
+fo('2020-08-13','125706','review_priority','PRIORITY','https://www.fda.gov/media/185192/download')
+fo('2020-08-13','125706','priority_basis','PRIORITY: FDA SBRA for BLA 125706, "BLA filed (priority review)" 30 Mar 2020, the submission reviewed on 13 Aug 2020. https://www.fda.gov/media/185192/download','https://www.fda.gov/media/185192/download')
+# Quizartinib R/R FLT3-ITD NDA reviewed 14 May 2019. Company announcement of the priority-review acceptance; PDUFA 25 May 2019.
+fo('2019-05-14','212166','review_priority','PRIORITY','https://www.daiichisankyo.com/media/press_release/detail/index_3224.html')
+fo('2019-05-14','212166','priority_basis','PRIORITY: Daiichi Sankyo press release 21 Nov 2018, FDA accepted the R/R FLT3-ITD AML NDA and granted priority review, PDUFA 25 May 2019 (press). https://www.daiichisankyo.com/media/press_release/detail/index_3224.html','https://www.daiichisankyo.com/media/press_release/detail/index_3224.html')
+# Omburtamab BLA reviewed 28 Oct 2022.
+fo('2022-10-28','761176','review_priority','PRIORITY','https://ir.ymabs.com/news-releases/news-release-details/y-mabs-announces-fda-acceptance-biologics-license-application')
+fo('2022-10-28','761176','priority_basis','PRIORITY: Y-mAbs press release 31 May 2022, FDA accepted the omburtamab BLA for priority review, PDUFA 30 Nov 2022 (press). https://ir.ymabs.com/news-releases/news-release-details/y-mabs-announces-fda-acceptance-biologics-license-application','https://ir.ymabs.com/news-releases/news-release-details/y-mabs-announces-fda-acceptance-biologics-license-application')
+# Omecamtiv mecarbil NDA reviewed 13 Dec 2022.
+fo('2022-12-13','216401','review_priority','STANDARD','https://www.drugs.com/history/omecamtiv-mecarbil.html')
+fo('2022-12-13','216401','priority_basis','STANDARD: Cytokinetics 4 Feb 2022 acceptance, relayed by Drugs.com: FDA assigned a standard review, PDUFA 30 Nov 2022 (secondary). https://www.drugs.com/history/omecamtiv-mecarbil.html','https://www.drugs.com/history/omecamtiv-mecarbil.html')
+# Midomafetamine NDA reviewed 4 Jun 2024.
+fo('2024-06-04','215455','review_priority','PRIORITY','https://www.prnewswire.com/news-releases/lykos-therapeutics-provides-update-on-fda-advisory-committee-meeting-for-investigational-mdma-assisted-therapy-for-ptsd-302163950.html')
+fo('2024-06-04','215455','priority_basis','PRIORITY: Lykos press release 4 Jun 2024: FDA accepted the NDA on 9 Feb 2024 and granted priority review (press). https://www.prnewswire.com/news-releases/lykos-therapeutics-provides-update-on-fda-advisory-committee-meeting-for-investigational-mdma-assisted-therapy-for-ptsd-302163950.html','https://www.prnewswire.com/news-releases/lykos-therapeutics-provides-update-on-fda-advisory-committee-meeting-for-investigational-mdma-assisted-therapy-for-ptsd-302163950.html')
+# Darzalex Faspro high-risk SMM sBLA 761145/S-029, reviewed 20 May 2025. openFDA tags that supplement standard. Minutes identify S-029.
+fo('2025-05-20','761145','review_priority','STANDARD','https://www.fda.gov/media/187747/download')
+fo('2025-05-20','761145','priority_basis','STANDARD: openFDA drugsfda BLA 761145 supplement 29, review_priority STANDARD, status date 2025-11-06. FDA minutes identify the 20 May 2025 sBLA as 761145/S-029 (https://www.fda.gov/media/187747/download).','https://www.fda.gov/media/187747/download')
 # -- brand fills + Ryoncil vote note (votes already from FDA minutes)
 fo('2020-08-13','125706','brand','RYONCIL','FDA approval page https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-remestemcel-l-rknd-steroid-refractory-acute-graft-versus-host-disease-pediatric')
 fo('2024-03-15','125746','brand','CARVYKTI','FDA minutes https://www.fda.gov/media/178184/download')

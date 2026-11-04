@@ -12,7 +12,7 @@ pip install -r requirements.txt     # Python 3.11+ (tested on 3.13)
 ## Layout
 | Path | What |
 |---|---|
-| `data/adcom_full_pivotal.csv`, `data/adcom_full.xlsx` | Main table (155 rows). See DATA_DICTIONARY.md |
+| `data/adcom_full_pivotal.csv`, `data/adcom_full.xlsx` | Main table (156 rows). See DATA_DICTIONARY.md |
 | `data/two_by_two.csv` | 2x2 counts by subset (all votes and approval-only) |
 | `data/excluded.csv`, `data/gaps.csv` | Meetings seen but excluded (with reason); open gaps (0) |
 | `data/coverage_vs_daval.csv`, `data/daval_*.csv` | Completeness vs Daval et al. 2023 |

@@ -9,14 +9,14 @@ Last updated: 2026-11-04.
 One row per FDA advisory committee (adcom) meeting x product, for meetings from **2016-11-04 to 2026**, where the committee took a vote on **approval of a specific product** (initial application or supplement). The row records the committee's **pivotal vote** and what the FDA did afterwards. Purpose: estimate the probability that an adcom is favourable and that the FDA follows it, by stratum (rare vs common disease, priority vs standard review, CNS, cell/gene therapy), as a prior for uniQure's AMT-130.
 
 Main outputs:
-- `adcom_full_pivotal.csv` (155 rows; sheet `meetings_pivotal` in `adcom_full.xlsx`). The main table.
-- `excluded.csv` (170 rows, each with a reason). Meetings that were seen but have no product approval vote.
+- `adcom_full_pivotal.csv` (156 rows; sheet `meetings_pivotal` in `adcom_full.xlsx`). The main table.
+- `excluded.csv` (169 rows, each with a reason). Meetings that were seen but have no product approval vote.
 - `gaps.csv`. Product meetings found in the Federal Register with no usable vote (currently 0 open gaps).
 - `two_by_two.csv`. Vote vs FDA outcome counts by subset. Final outcome and 1-year outcome.
 - `coverage_vs_daval.csv`, `daval_shortfall_explained.csv`. Completeness check against Daval et al.
 - `REPORT.md`. Counts by committee and verification rates. `README.md`. Short change log.
 - Charts: `four.py` / `four_pct.py` / `four_cgt.py` build the four 2x2 charts (all drugs, and CGT only) from the CSV.
-- Charts (current): `charts/all_2x2_counts_v4.png`, `charts/all_2x2_pct_v4.png`, `charts/cgt_2x2_pct_v4.png` (all pivotal votes) and `charts/*_approvalonly_v5.png` (vote_type == approval/benefit-risk only). Older `*_v2/_v3` and `four_2x2*.png` are superseded.
+- Charts (current): `charts/all_2x2_counts_v6.png`, `charts/all_2x2_pct_v6.png`, `charts/cgt_2x2_pct_v4.png` (all pivotal votes) and `charts/*_approvalonly_v6.png` plus `charts/cgt_2x2_pct_approvalonly_v5.png` (vote_type == approval/benefit-risk only). Older `*_v2/_v3/_v4/_v5` and `four_2x2*.png` are superseded for the all-drug charts.
 - CGT tables built from the CSV by `cgt_tables.py`: `charts/cgt_validation_table_v4.pdf`, `charts/cgt_priority_review_table_v4.pdf` (12 CGT rows). The hand-built `cgt_*_table.pdf` (val.py, 9 rows) are superseded.
 - `check_consistency.py` asserts CSV, xlsx, two_by_two.csv and chart inputs agree.
 
@@ -63,7 +63,7 @@ Rerun: `python3 cur.py && python3 final.py && python3 report.py && python3 four.
 
 ## 5. Verification columns
 
-`verified_vote` / `vote_source_tier`: FDA minutes/transcripts (136 of 155) vs press (19). `verified_outcome` / `outcome_source_tier`: FDA document or openFDA (112), press (38), SEC/company (5). `verified_orphan`, `orphan_indication_basis`, `priority_basis` say how each label was derived. When quoting results, always report these tiers; do not present press-sourced rows as FDA-verified.
+`verified_vote` / `vote_source_tier`: FDA minutes/transcripts (137 of 156) vs press (19). `verified_outcome` / `outcome_source_tier`: FDA document or openFDA (112), press (38), SEC/company (6). `verified_orphan`, `orphan_indication_basis`, `priority_basis` say how each label was derived. When quoting results, always report these tiers; do not present press-sourced rows as FDA-verified.
 
 ## 6. Completeness check against Daval
 
@@ -75,10 +75,10 @@ Counts as AA / AR / RA / RR (first letter adcom: A favourable or R unfavourable,
 
 | Subset | All pivotal votes | Approval/benefit-risk votes only |
 |---|---|---|
-| All | 90 / 5 / 10 / 43 (n=148, 1 pending) | 72 / 5 / 8 / 30 (n=115) |
-| Common (orphan N) | 48 / 3 / 8 / 32 | 39 / 3 / 7 / 25 |
+| All | 90 / 6 / 10 / 43 (n=150, 1 pending) | 72 / 6 / 8 / 30 (n=116) |
+| Common (orphan N) | 48 / 4 / 8 / 32 | 39 / 4 / 7 / 25 |
 | Rare (orphan Y) | 40 / 2 / 2 / 11 (1 pending) | 32 / 2 / 1 / 5 |
-| Rare + priority | 28 / 1 / 1 / 2 | 22 / 1 / 0 / 1 |
+| Rare + priority | 29 / 1 / 1 / 4 | 22 / 1 / 0 / 2 |
 | CGT (12 rows) | 10 / 0 / 0 / 1 (deramiocel pending) | 8 / 0 / 0 / 0 |
 
 2 rows are orphan `review` (Darzalex Faspro SMM, Tudriqev) and appear only in "All". Cells are small. FDA tends to convene adcoms when it is uncertain (selection bias), "final" counts later approvals, and some outcomes and votes rest on press.
@@ -107,6 +107,9 @@ Counts as AA / AR / RA / RR (first letter adcom: A favourable or R unfavourable,
 - FIXED (was item 6): CGT priority written with URLs in `priority_basis`.
 - FIXED (was item 9, which was stale): Ryoncil 2020, Carvykti and Abecma 2024 were already rows with FDA-minutes votes (media/143336: 8-2; media/178184: 11-0 and 8-3). Brand, center and CGT now filled.
 - Hardcoded absolute input paths in `final.py` replaced by `inputs/` + env overrides.
+- Added solithromycin (AMDAC 2016-11-04, NDA 209006; the IV NDA 209007 was the same vote). It had been excluded as "no NDA/BLA". FDA transcript media/102423: benefit-risk 7 yes, 6 no. Cempra 10-K: CRL 29 Dec 2016, priority review because of QIDP. Orphan N (no OOPD row; common pneumonia). This is the one product-approval vote the 2026-11-04 calendar and EDGAR search added. Search log: `data/missing_row_search.csv`.
+- Priority resolved where a source names it for the submission the committee reviewed (`data/factor_verification.csv`): Ryoncil (FDA SBRA, priority), quizartinib (press, priority), omburtamab (press, priority), omecamtiv (secondary, standard), midomafetamine (press, priority), Darzalex Faspro S-029 (openFDA, standard). 45 priority cells stay unverified. Darzalex SMM and Tudriqev stay orphan `review`.
+- 2x2 after those two changes (AA/AR/RA/RR, final): All 90/6/10/43 (n=150); Common 48/4/8/32; Rare unchanged 40/2/2/11; Rare+priority 29/1/1/4; CGT unchanged 10/0/0/1; Approval-only All 72/6/8/30; Approval-only Rare+priority 22/1/0/2. All-drug charts rebuilt as `*_v6`.
 
 ## 9. Conventions for agents working on this dataset
 

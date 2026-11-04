@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 2026-11-04 — missing-row search and priority lookups
+- Solithromycin (AMDAC 2016-11-04, NDA 209006) added. FDA transcript: benefit-risk 7-6. SEC 10-K: CRL 29 Dec 2016 and priority review. Orphan N. Search log in `data/missing_row_search.csv` (one added row; sulopenem 2024-09-09 had no vote).
+- Six `review_priority` values set from a cited source (Ryoncil, quizartinib, omburtamab, omecamtiv, midomafetamine, Darzalex Faspro S-029). 45 stay unverified. Log: `data/factor_verification.csv`.
+- 2x2 (AA/AR/RA/RR, final): All 90/6/10/43; Common 48/4/8/32; Rare 40/2/2/11; Rare+priority 29/1/1/4; CGT 10/0/0/1; Approval-only All 72/6/8/30; Approval-only Rare+priority 22/1/0/2. All-drug charts are `*_v6`.
+
 ## 2026-11-04 — corrections + handover
 - All corrections moved into code (`cur.py` -> `curated.csv` + `field_overrides.csv`; applied last in `final.py`). Previously 7 orphan fixes and 32 center values existed only as CSV edits.
 - Orphan audit of 155 rows (`orphan_audit_2026-11-04.csv`): 20 value changes + 4 basis-only fixes. NurOwn -> Y.

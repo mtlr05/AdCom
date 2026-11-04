@@ -1,0 +1,65 @@
+factors,with_vote,n,events,nagelkerke,mcfadden,aic,stable,note
+(intercept),False,116,80,0.0,0.0,145.69529922001595,True,
+initial,False,116,80,0.016112454747524107,0.009291549176821068,146.36014728083515,True,
+cber,False,116,80,0.032623433064879095,0.018925174722577598,144.97584057546408,True,
+cber+initial,False,116,80,0.046778292710330134,0.02727660757613315,145.77577893265655,True,
+CNS,False,116,80,0.008115897216276388,0.004666816613658642,147.02469961031133,True,
+CNS+initial,False,116,80,0.026437067476035737,0.015302147897234608,147.4964524992139,True,
+CNS+cber,False,116,80,0.043438082753870816,0.025298065569339112,146.06008611834218,True,
+CNS+cber+initial,False,116,80,0.059946036344710706,0.035123981739545784,146.64814815415355,True,
+CGT,False,116,80,0.045361086586572286,0.02643654650384153,143.8964917598026,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+CGT+initial,False,116,80,0.05982844609558996,0.035053564668816595,144.65826675620218,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+CGT+cber,False,116,80,0.04646221556366507,0.027089174381953796,145.80271220157792,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+CGT+cber+initial,False,116,80,0.060430302065025976,0.0354140414007158,146.60646794435007,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+CGT+CNS,False,116,80,0.054165855436653976,0.03166986066704769,145.14448911520833,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+CGT+CNS+initial,False,116,80,0.07054266341735003,0.04149495597629427,145.73266910488096,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+CGT+CNS+cber,False,116,80,0.05558547255736377,0.03251682741826312,147.022783974463,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+CGT+CNS+cber+initial,False,116,80,0.07142815860793636,0.04202962261237575,147.65584002262628,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+priority,False,85,77,0.012801264752887892,0.009551781243953172,56.5270484917821,True,
+priority+initial,False,85,77,0.13056750888539426,0.10020241620210468,53.719517711184594,True,
+priority+cber,False,85,77,0.020965935240181668,0.015673791739963527,58.20237615041022,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+priority+cber+initial,False,85,77,0.11837936833197324,0.0905791480158884,56.22987440131189,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+priority+CNS,False,85,77,0.029817618832816823,0.022337461869249786,57.8489776411435,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+priority+CNS+initial,False,85,77,0.12727970112839201,0.09760079853025239,55.857490898493765,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+priority+CNS+cber,False,85,77,0.043372737594539267,0.032595945760159895,59.304933166545155,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+priority+CNS+cber+initial,False,85,77,0.13341017782444703,0.1024552079515193,57.600044023189064,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+priority+CGT,False,85,77,0.020965935240181668,0.015673791739963527,58.20237615041022,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+priority+CGT+initial,False,85,77,0.11837936833197324,0.0905791480158884,56.22987440131189,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+priority+CGT+cber,False,85,77,0.026146248138981292,0.019570239822668145,59.99573342693398,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+priority+CGT+cber+initial,False,85,77,0.14901365714781828,0.11487754762734792,56.941242456204414,True,
+priority+CGT+CNS,False,85,77,0.043372750485162724,0.03259595554704253,59.3049326475114,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+priority+CGT+CNS+initial,False,85,77,0.13341017094333005,0.1024552024944565,57.60004431259683,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+priority+CGT+CNS+cber,False,85,77,0.049163177950470274,0.03699823268324132,61.071463981276835,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+priority+CGT+CNS+cber+initial,False,85,77,0.13650083217423212,0.1049081243111647,59.46995700386846,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan,False,115,79,0.06872255174882637,0.04032997290625662,141.18316559978786,True,
+orphan+initial,False,115,79,0.08482223851791444,0.050077756893469716,141.7897367886386,True,
+orphan+cber,False,115,79,0.08185018723699396,0.04826937421474242,142.0482419554978,True,
+orphan+cber+initial,False,115,79,0.09601517205132976,0.05692495766021466,142.8109413171118,True,
+orphan+CNS,False,115,79,0.08196580995175375,0.04833965039422916,142.03819609755072,True,
+orphan+CNS+initial,False,115,79,0.10085174050559507,0.059901823435656754,142.38540351858583,True,
+orphan+CNS+cber,False,115,79,0.09650178868224046,0.05722396806422114,142.7681982985629,True,
+orphan+CNS+cber+initial,False,115,79,0.11333536146885312,0.06763668194243355,143.2797189129725,True,
+orphan+CGT,False,115,79,0.08783944433180943,0.051917782011245306,141.5267083900087,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+CGT+initial,False,115,79,0.10201998111337954,0.060622520067312724,142.28238118530834,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+CGT+cber,False,115,79,0.08882365883214934,0.05251891086746663,143.44077806281118,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+CGT+cber+initial,False,115,79,0.10251596558627385,0.060928692059075584,144.23861443021315,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+CGT+CNS,False,115,79,0.09956219188524099,0.0591070399154211,142.49901644406467,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+CGT+CNS+initial,False,115,79,0.1158712791963895,0.06921706707233533,143.05380560020257,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+CGT+CNS+cber,False,115,79,0.10086000775551675,0.05990692129819597,144.3846747879793,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+CGT+CNS+cber+initial,False,115,79,0.1166224202660481,0.06968577515045038,144.98680459352036,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+priority,False,84,76,0.016914153981595573,0.012604453251131686,58.16873743746234,True,
+orphan+priority+initial,False,84,76,0.13504385422361226,0.10353629676153975,55.36438169125862,True,
+orphan+priority+cber,False,84,76,0.021999939377222954,0.016414011847259546,59.96746059070281,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+priority+cber+initial,False,84,76,0.12253488904507563,0.09365742908677732,57.88632860058086,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+priority+CNS,False,84,76,0.035462599949065636,0.026542639404956714,59.432317695437405,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+priority+CNS+initial,False,84,76,0.13227232446759246,0.1013422009026338,57.4803060653889,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+priority+CNS+cber,False,84,76,0.046607814905046334,0.03497683623069858,60.98669952230834,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+priority+CNS+cber+initial,False,84,76,0.13795636520141435,0.10584526871875011,59.24238787410724,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+priority+CGT,False,84,76,0.021999939377222954,0.016414011847259546,59.96746059070281,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+priority+CGT+initial,False,84,76,0.12253488904507563,0.09365742908677732,57.88632860058086,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+priority+CGT+cber,False,84,76,0.04956507803929927,0.03722229133320876,60.86806159847308,True,
+orphan+priority+CGT+cber+initial,False,84,76,0.15344294892264215,0.11817931681098093,58.59072226898751,True,
+orphan+priority+CGT+CNS,False,84,76,0.046607804049941394,0.034976827994216086,60.98669995748034,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+priority+CGT+CNS+initial,False,84,76,0.13795637508756403,0.10584527656195697,59.24238745971383,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+priority+CGT+CNS+cber,False,84,76,0.051711118938002204,0.038853772025344124,62.7818628221645,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
+orphan+priority+CGT+CNS+cber+initial,False,84,76,0.1409124690814837,0.10819223416650015,61.11838668266819,False,"unpenalized fit separated; R2 from penalized likelihood, not used for a probability"
