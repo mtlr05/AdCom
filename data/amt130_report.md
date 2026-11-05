@@ -18,7 +18,7 @@ Filling the blank review types in as standard, and then as priority, does not gi
 
 ![Figure 1. Penalized log-odds for a favourable vote and for later FDA approval. A circle is the factor on its own, using every meeting that records it. A square is the same factor inside the model that contains orphan status and opioid, fit on the meetings that record both. Priority review is a circle only. The line is a bootstrap 95 percent interval. A positive value means more of the outcome. The vote panel uses 141 meetings. The approval panel uses 140. Orphan status is missing for 2 of them. Priority review is missing for 25.](../charts/amt130_factor_compare.png)
 
-For an orphan product that is not an opioid, the penalized fit gives 0.77 for a favourable vote and 0.77 for eventual approval. The bootstrap intervals run from 0.65 to 0.87 and from 0.66 to 0.87. The matching cells are 40 of 51 and 39 of 50, and the intervals on those cells run from 0.66 to 0.88 and from 0.65 to 0.88. None of the orphan products in those cells is an opioid. Adding cell and gene therapy, as a separate comparison, gives 0.80 and 0.84, on cells of 9 of 11 and 9 of 10. After the vote is known, a model with the vote alone puts eventual approval at 0.90 after a favourable vote and at 0.26 after an unfavourable vote.
+For an orphan product that is not an opioid, the penalized fit gives 0.77 for a favourable vote and 0.77 for eventual approval. The bootstrap intervals run from 0.65 to 0.87 and from 0.66 to 0.87. The matching cells are 40 of 51 and 39 of 50, and the intervals on those cells run from 0.66 to 0.88 and from 0.65 to 0.88. None of the orphan products in those cells is an opioid. A three-factor model adds cell and gene therapy and reads AMT-130 as an orphan gene therapy that is not an opioid. It gives 0.80 and 0.84, on cells of 9 of 11 and 9 of 10. After the vote is known, a model with the vote alone puts eventual approval at 0.90 after a favourable vote and at 0.26 after an unfavourable vote.
 
 ## Introduction
 
@@ -84,9 +84,21 @@ This is the pair the vote screen produced, on the meetings that record orphan st
 
 The vote drop-one p-values are 0.045 for orphan status and 0.044 for opioid. The criterion is 177.5 for orphan status alone and 175.5 with opioid, so the second factor earns its place on the vote. The joint bootstrap intervals run from 0.08 to 1.52 and from -1.69 to -0.13. For approval, opioid's drop-one p-value is 0.016 and orphan's is 0.18. The approval bootstrap interval for orphan status crosses zero. Figure 1 shows the squares on these two factors.
 
+### Orphan status, opioid, and cell and gene therapy
+
+This is the two-factor model with cell and gene therapy added. It uses the same 139 vote meetings and 138 approval meetings, because opioid and cell and gene therapy are filled on every row and the only rows dropped are the two orphan cells marked "review." Tudriqev is one of those two, and it is a cell and gene therapy, so the class count inside this fit is 9 of 11 for the vote and 9 of 10 for approval. The one-at-a-time count of 10 of 12 keeps Tudriqev. On these meetings, before the factors are combined, the vote log-odds are 0.88 for orphan status, -1.11 for opioid, and 0.61 for cell and gene therapy (9 of 11 against 81 of 128, p = 0.33).
+
+| Factor | Vote, alone | Vote, combined | Approval, alone | Approval, combined |
+| --- | ---: | ---: | ---: | ---: |
+| Orphan status | 0.88 | 0.71 | 0.69 | 0.45 |
+| Opioid | -1.11 | -0.89 | -1.21 | -1.06 |
+| Cell and gene therapy | 0.61 | 0.21 | 0.83 | 0.57 |
+
+The vote drop-one p-values are 0.081 for orphan status, 0.044 for opioid, and 0.75 for cell and gene therapy. The criterion is 175.5 for orphan status and opioid, and 177.4 with the third factor, so the third factor does not earn its place on the vote. The bootstrap intervals are 0.02 to 1.50, -1.68 to -0.12, and -0.66 to 1.09. For approval the drop-one p-values are 0.38, 0.016, and 0.27, and the criterion moves from 170.2 to 171.0. The approval bootstrap intervals are -0.22 to 1.21, -1.87 to -0.27, and -0.34 to 1.26. The cell-and-gene-therapy interval crosses zero on both outcomes. Among orphan products, the class is 9 of 11 against 31 of 40 for the vote (p = 1.00) and 9 of 10 against 30 of 40 for approval (p = 0.42).
+
 ### Orphan status and cell and gene therapy together
 
-This pair does not require a review type, and it is not the model the screen selected. On the 139 vote meetings the coefficients are 0.84 for orphan status and 0.22 for cell and gene therapy. The drop-one p-values are 0.021 and 0.75. The criterion is 177.5 for orphan status alone and 179.4 with the second factor, so the second factor does not earn its place. On the 138 approval meetings the coefficients are 0.61 and 0.58, and the drop-one p-values are 0.13 and 0.27. Among orphan products, cell and gene therapy is 9 of 11 against 31 of 40 for the vote (p = 1.00) and 9 of 10 against 30 of 40 for approval (p = 0.42).
+This pair leaves opioid out. On the 139 vote meetings the coefficients are 0.84 for orphan status and 0.22 for cell and gene therapy. The drop-one p-values are 0.021 and 0.75. The criterion is 177.5 for orphan status alone and 179.4 with the second factor. On the 138 approval meetings the coefficients are 0.61 and 0.58, and the drop-one p-values are 0.13 and 0.27.
 
 ### What the fits give for AMT-130
 
@@ -96,10 +108,12 @@ This pair does not require a review type, and it is not the model the screen sel
 | Orphan status | Eventual approval | 0.77 | 0.66-0.86 | 39/50 | 0.65-0.88 |
 | Orphan, not an opioid | Favourable vote | 0.77 | 0.65-0.87 | 40/51 | 0.66-0.88 |
 | Orphan, not an opioid | Eventual approval | 0.77 | 0.66-0.87 | 39/50 | 0.65-0.88 |
+| Orphan, not an opioid, cell and gene therapy | Favourable vote | 0.80 | 0.62-0.92 | 9/11 | 0.53-0.96 |
+| Orphan, not an opioid, cell and gene therapy | Eventual approval | 0.84 | 0.69-0.92 | 9/10 | 0.62-0.99 |
 | Orphan and cell and gene therapy | Favourable vote | 0.80 | 0.62-0.91 | 9/11 | 0.53-0.96 |
 | Orphan and cell and gene therapy | Eventual approval | 0.84 | 0.69-0.92 | 9/10 | 0.62-0.99 |
 
-AMT-130 is not an opioid, so the joint model is read at opioid set to no. None of the orphan products in the matching cell is an opioid, and the probability sits on the orphan-only figure. The cell-and-gene-therapy rows are 9 of 11 and 9 of 10. NurOwn is the approval failure. Deramiocel is the extra unfavourable vote, and it has no final action. All ten completed cell-and-gene-therapy votes in the orphan cell come from FDA minutes or transcripts. Two of the ten outcomes come from an FDA document, four from openFDA, and four from press reports.
+AMT-130 is not an opioid. The two-factor model is read at opioid set to no, and the probability sits on the orphan-only figure because none of the orphan products in that cell is an opioid. The three-factor model sets cell and gene therapy to yes as well. The probability moves to 0.80 and 0.84. The matching cells are 9 of 11 and 9 of 10, the same cells as orphan status plus cell and gene therapy with opioid left out. NurOwn is the approval failure. Deramiocel is the extra unfavourable vote, and it has no final action. Tudriqev is the cell-and-gene-therapy meeting left out of both cells because its orphan label is still "review." All ten completed cell-and-gene-therapy votes in the orphan cell come from FDA minutes or transcripts. Two of the ten outcomes come from an FDA document, four from openFDA, and four from press reports.
 
 Once the vote is known, the pre-meeting labels add little. The vote-only model has an R-squared of 0.64. Eventual approval is 0.90 after a favourable vote and 0.26 after an unfavourable vote. The bootstrap intervals run from 0.85 to 0.94 and from 0.17 to 0.36.
 
@@ -121,7 +135,7 @@ Of 150 pivotal meetings, 141 asked an approval, benefit-risk, or effectiveness q
 
 Taken one at a time, opioid and orphan status clear a Fisher test at 0.05 for the vote: 5 of 15 against 87 of 126 (p = 0.009), and 40 of 51 against 50 of 88 (p = 0.011). Priority review is 57 of 68 against 31 of 48 (p = 0.027) on the 116 meetings with a recorded original designation. Cell and gene therapy is 10 of 12 (p = 0.22). For approval, opioid clears the Fisher test, 5 of 15 against 90 of 125 (p = 0.006). Orphan status is 39 of 50 against 54 of 88 (p = 0.059). Priority review is 56 of 67 against 39 of 48 (p = 0.81).
 
-The sensitivity on the blank review types does not agree with itself, so priority review is not in the joint model. In the model with orphan status and opioid, the vote coefficients are 0.75 and -0.90, and both drop-one p-values are 0.04. AMT-130 is not an opioid. That model, read at opioid set to no, gives 0.77 and 0.77, from cells of 40 of 51 and 39 of 50. Cell and gene therapy's vote coefficient falls from 0.61 to 0.22 beside orphan status, and the drop-one p-value is 0.75. The probabilities with cell and gene therapy set to yes are 0.80 and 0.84, from cells of 9 of 11 and 9 of 10.
+The sensitivity on the blank review types does not agree with itself, so priority review is not in the joint model. In the model with orphan status and opioid, the vote coefficients are 0.75 and -0.90, and both drop-one p-values are 0.04. AMT-130 is not an opioid. That model, read at opioid set to no, gives 0.77 and 0.77, from cells of 40 of 51 and 39 of 50. Adding cell and gene therapy moves those coefficients to 0.71, -0.89, and 0.21. The third factor's drop-one p-value is 0.75, and the criterion rises from 175.5 to 177.4. Read as an orphan gene therapy that is not an opioid, the three-factor model gives 0.80 and 0.84, from cells of 9 of 11 and 9 of 10.
 
 Orphan status is taken from FDA designation 525216. Priority review is a company statement, and it is not a term in the model used for the probability. The clinical evidence is outside this calculation. Nine meetings with a narrower question are outside the 141.
 
@@ -199,7 +213,7 @@ The model with the vote and no pre-meeting factor is stable, uses the 140 meetin
 | Favourable | 0.90 | 0.85-0.94 | 86/92 | 0.87-0.97 |
 | Unfavourable | 0.26 | 0.17-0.36 | 9/48 | 0.10-0.31 |
 
-Adding orphan status and opioid leaves the favourable-vote probability at 0.90. The matching cell among orphan products that are not opioids is 38 of 40. The unfavourable cell in that group is 1 of 10.
+Adding orphan status and opioid leaves the favourable-vote probability at 0.90. The matching cell among orphan products that are not opioids is 38 of 40. The unfavourable cell in that group is 1 of 10. Adding cell and gene therapy puts the favourable-vote probability at 0.93, on a cell of 9 of 9, and the unfavourable probability at 0.35. That unfavourable cell is one meeting, NurOwn, which was not approved.
 
 ## Appendix. Cell and gene therapy meetings
 
