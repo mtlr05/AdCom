@@ -2,7 +2,7 @@
 
 Audience: any agent or person who needs to rebuild, audit, extend, or correct this dataset.
 Location: this repo. Scripts in `scripts/`, data (and the pipeline working directory) in `data/`, charts in `charts/`. Run `./run_all.sh`.
-Last updated: 2026-11-04.
+Last updated: 2026-11-05.
 
 ## 1. What the dataset is
 
@@ -29,7 +29,7 @@ Never overwrite `adcom_full_pivotal.csv` blindly. Backup before the 2026-11-04 o
 - **Superseded meetings** (`replaced_by_later_meeting=True`) are excluded from the 2x2s. Example: Relyvrio's first vote was replaced by the Sept 2022 vote.
 - **FDA outcome**: `final_action` (latest known decision, so a CRL followed by approval years later counts as approved) and `action_at_1yr` (approved within 365 days of the meeting). Withdrawn or pending is not "approved". Pending and unverified outcomes are left out of the 2x2s and counted in the "unverified" figure.
 - **Rare disease** = `orphan_for_indication == Y`: the product has FDA orphan drug designation (US prevalence under 200,000) **for the indication reviewed at the meeting**, per FDA's orphan database (OOPD). `orphan_designation_any` is the looser product-level flag.
-- **Priority vs standard**: `review_priority` (`PRIORITY`, `STANDARD`, or `unverified`) is the **original application's** review type. A supplement or a later cycle uses that original designation when openFDA's original submission, or a cited source, names it. The supplement's own designation is not the flag. 78 priority, 51 standard, 27 unverified.
+- **Priority vs standard**: `review_priority` (`PRIORITY`, `STANDARD`, or `unverified`) is the **original application's** review type. A supplement or a later cycle uses that original designation when openFDA's original submission, or a cited source, names it. The supplement's own designation is not the flag. 81 priority, 72 standard, 3 unverified. Twenty-one of the standard values are calculated from the initial submission to the original PDUFA goal and are tagged `(calculated)` in `priority_basis`. A missing day is the 15th. A stated goal is used. Where no goal is stated, the complete-response date is used only when it lands on one anniversary.
 - **Opioid** (`opioid`, with `opioid_basis`): Y when an active moiety is an opioid agonist (oxycodone, hydrocodone, buprenorphine, tramadol, sufentanil, oliceridine, oxycodegol). N otherwise. Naloxone, samidorphan without an opioid agonist, and lofexidine are N. Every row is Y or N (16 are Y).
 - **CNS** = committees PCNS and PDAC. **CGT** = committee CTGTAC **or** one of the cell therapies reviewed elsewhere: Kymriah 125646, Ryoncil 125706, Carvykti 125746, Abecma 125736 (`CGT_APPS` in `final.py`). Rebyota (fecal microbiota, VRBPAC) is not CGT.
 - **Center** (`center`, with `center_basis`): set per product in `final.py`: CTGTAC/VRBPAC rows and `CBER_APPS` are CBER; an application listed in Drugs@FDA/openFDA (CDER products only), a 761xxx BLA, or an NDA is CDER.
@@ -88,7 +88,7 @@ Counts as AA / AR / RA / RR (first letter adcom: A favourable or R unfavourable,
 
 1. **Orphan `review`**: Darzalex Faspro 2025-05-20 (high-risk SMM vs the multiple-myeloma designation) and Tudriqev (no OOPD record found for RP1/vusolimogene). Decide and set in `cur.py`.
 2. **Vote type is a judgement**: Elevidys (benefit-risk for *accelerated* approval) and Zelnorm (reintroduction supported by safety data) are coded approval/benefit-risk and flagged; VRBPAC vaccine and Rebyota pivotal questions are effectiveness questions (separate safety votes) and coded effectiveness-only.
-3. **Priority review**: 27 cells stay `unverified`. The flag is the original application's review type. A supplement uses that original designation when a source names it (Carvykti, Abecma, Columvi, Darzalex Faspro, and the openFDA original submission on other supplements). Remoxy, deramiocel, and Tudriqev use a cited original-cycle designation. Still open: NurOwn, the 17 Sep 2021 Comirnaty booster (no application number on the row), and the products whose acceptance notice gives a PDUFA date and does not say the words. `action_at_1yr` is unverified on 63 rows. That is an outcome, not a pre-meeting factor, and it was not filled from a missing record.
+3. **Priority review**: 3 cells stay `unverified` (nicotine mouth spray, Tookad, AR19). The flag is the original application's review type. A supplement uses that original designation when a source names it (Carvykti, Abecma, Columvi, Darzalex Faspro, and the openFDA original submission on other supplements). Remoxy, deramiocel, and Tudriqev use a cited original-cycle designation. The rest of the former blanks are STANDARD `(calculated)`, including estimates that take a missing day as the 15th and two rows that use the complete-response date because it lands on the standard anniversary (ITCA 650, condoliase). The log is `data/unapproved_priority_search_2026-11-05.csv`. `action_at_1yr` is unverified on 63 rows. That is an outcome, not a pre-meeting factor, and it was not filled from a missing record.
 4. **Ryoncil vote**: FDA minutes (media/143336) record 8-2; the minutes note one "No" voter later changed their vote, which is why press and cgt_check say 9-1. The FDA-recorded 8-2 is kept.
 5. **Tzield vote count** (10-7) is unconfirmed: an FDA review confirms only that a majority voted favourably. Romosozumab, Descovy, and tanezumab FDA review PDFs were image-only or lacked the tally. Skysona and Zynteglo counts are from press only. Relyvrio was not re-verified after the final stage.
 6. **Translarna** (1-10 in this dataset, 0-10-1 in the hand data): FDA minutes give A 0, B 10, C 1, and option C counts as a yes here. **Aduhelm** uses the final question (0-10-1), though Q1 was 1-8-2.
@@ -113,9 +113,27 @@ Counts as AA / AR / RA / RR (first letter adcom: A favourable or R unfavourable,
 - 2x2 after the solithromycin row and the first six priority fills (AA/AR/RA/RR, final): All 90/6/10/43 (n=150); Common 48/4/8/32; Rare 40/2/2/11; Rare+priority 29/1/1/4; CGT 10/0/0/1; Approval-only All 72/6/8/30; Approval-only Rare+priority 22/1/0/2.
 - 2x2 after the initial-review priority rule (AA/AR/RA/RR, final): All, Common, Rare, and CGT aggregate unchanged. Rare+priority 29/1/1/8 -> 32/1/1/8 (n=42, 1 pending). Approval-only Rare+priority 22/1/0/4 -> 25/1/0/4 (n=30). Priority 78, standard 51, unverified 27. All-drug charts `*_v8`. CGT charts `cgt_2x2_pct_v5.png` and `cgt_2x2_pct_approvalonly_v6.png` because the rare-and-priority panel inside them changed (8/0/0/0 with 1 pending; approval-only 7/0/0/0). CGT aggregate stays 10/0/0/1. `opioid` is Y or N on every row (16 Y).
 
+### 2026-11-05 — unapproved priority search
+
+- The 27 unverified rows were searched in the FDA briefing, then a sponsor SEC filing, then a company press release. Log: `data/unapproved_priority_search_2026-11-05.csv`.
+- PRIORITY from an FDA document: stannsoporfin (2018-05-03, NDA 209904, media/112936), obeticholic acid for NASH (2023-05-19, NDA 212833, media/168215), and the original Comirnaty BLA (clinical review media/152256, "Priority Review (Yes/No): Yes" on STN 125742/0). The 17 Sep 2021 row stays without an application number because the notice does not print the booster supplement number. All three are orphan N, unfavourable, and not approved.
+- Priority 81, standard 51, unverified 24. Headline 2x2 cells are unchanged, so chart filenames stay at v8 / v5 / v6. NurOwn stays unverified. The factor screen was not rerun.
+
+### 2026-11-05 — PDUFA clock for the rows still unverified
+
+- The clock is measured from the initial submission, not from the later filing or acceptance date. An NME or original BLA is 8 months from submission for priority and 12 months from submission for standard. A non-NME is 6 and 10 months from submission. A Class 2 resubmission, an extended goal, and a sponsor's forecast of a goal are not used.
+- STANDARD (calculated), from the initial submission: Rexista (25 Nov 2016 to 25 Sep 2017, 10 months); sirukumab (23 Sep 2016 to 22 Sep 2017, 12 months); Waylivra (31 Aug 2017 to 30 Aug 2018, 12 months); Buvaya (29 Sep 2017 to 28 Jul 2018, 10 months); ALKS 5461 (31 Jan 2018 to 31 Jan 2019, 12 months); sotagliflozin NDA 210934 (26 Mar 2018 to 22 Mar 2019, 12 months); roxadustat (23 Dec 2019 to 20 Dec 2020, 12 months); gefapixant (21 Dec 2020 to 21 Dec 2021, 12 months). The basis starts with `STANDARD (calculated):`.
+- Priority 81, standard 61, unverified 14. All, Common, Rare, Rare + priority, CGT, and the approval-only cells are unchanged. The Standard row is 32 / 1 / 8 / 17 (n=58). Chart filenames stay at v8 / v5 / v6. The factor screen was not rerun.
+
+### 2026-11-05 — estimated clocks for the rows still unverified
+
+- A missing day is the 15th. A stated goal is used, including one a company said it expected. Where the filing date is missing it is estimated as 60 days after submission. A complete-response date is used as the goal only when it lands on one anniversary. The basis still starts with `STANDARD (calculated):` and states the estimate.
+- Eleven more rows set to STANDARD: Hydexor (both cycles), MNK-812, vernakalant, oxycodegol, tanezumab, sintilimab, poziotinib, NurOwn, ITCA 650, and condoliase. Nicotine mouth spray, Tookad, and AR19 stay unverified.
+- Priority 81, standard 72, unverified 3. All, Common, Rare, Rare + priority, CGT, and the approval-only cells are unchanged. The Standard row is 32 / 3 / 8 / 26 (n=69). Chart filenames stay at v8 / v5 / v6.
+
 ## 9. Conventions for agents working on this dataset
 
-- Never fabricate. If a field cannot be confirmed from a source, mark it `unverified` or "not found". Never infer "not approved" from a missing record.
+- Never fabricate. If a field cannot be confirmed from a source, mark it `unverified` or "not found". Never infer "not approved" from a missing record. A review type may be calculated from the initial submission to the original PDUFA goal only when that interval lands on one anniversary in the rule above, and `priority_basis` says `(calculated)`. A missing day may be taken as the 15th, and a stated goal may be used, only when every day in the missing month lands on the same anniversary. A complete-response date may stand in for the goal only when it lands on one anniversary, and the basis says so.
 - Cite a URL for every manual change (`curated_source`), and say whether the source is primary (FDA, SEC) or secondary (press).
 - Do not use the OOPD file as a list of meetings.
 - Disclose coverage gaps and verification tiers whenever statistics are quoted, because David has asked for complete coverage and flagged undisclosed gaps as unacceptable.

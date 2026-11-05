@@ -318,6 +318,7 @@ def main():
     without_priority = [key for _c, key, _l in FACTORS if key != "priority"]
     all_factors = [key for _c, key, _l in FACTORS]
     three = ["orphan", "opioid", "CGT"]
+    four = ["orphan", "priority", "opioid", "CGT"]
     payload["priority_sensitivity"] = sens
     payload["priority_decision"] = dict(
         use_in_joint=use_priority,
@@ -339,18 +340,23 @@ def main():
             "all_factors": joint_fit(frame, all_factors, y),
             "orphan_cgt": joint_fit(frame, ["orphan", "CGT"], y),
             "three": joint_fit(frame, three, y),
+            "four": joint_fit(frame, four, y),
         }
         same = frame.dropna(subset=[COL[k] for k in selected] + [y]) if selected else frame.dropna(subset=[y])
         joints[name]["alone_on_joint_sample"] = {key: one(same, COL[key], y) for key in selected}
         same3 = frame.dropna(subset=[COL[k] for k in three] + [y])
         joints[name]["alone_on_three"] = {key: one(same3, COL[key], y) for key in three}
+        same4 = frame.dropna(subset=[COL[k] for k in four] + [y])
+        joints[name]["alone_on_four"] = {key: one(same4, COL[key], y) for key in four}
         conds[name] = conditional_fisher(frame, y)
         boots[name] = boot_coefs(frame, selected, y) if selected else {}
         boots[name + "_three"] = boot_coefs(frame, three, y)
+        boots[name + "_four"] = boot_coefs(frame, four, y)
         preds[name] = {
             "orphan": prediction_block(frame, y, ["orphan"]),
             "selected": prediction_block(frame, y, selected),
             "three": prediction_block(frame, y, three),
+            "four": prediction_block(frame, y, four),
             "intercept": prediction_block(frame, y, []),
         }
     payload["screens"] = screens
@@ -360,6 +366,7 @@ def main():
     payload["predictions"] = preds
     payload["vote_conditional"] = vote_conditional(known, "y_app", selected)
     payload["vote_conditional_three"] = vote_conditional(known, "y_app", three)
+    payload["vote_conditional_four"] = vote_conditional(known, "y_app", four)
 
     idx = known[known.index_approved.notna()].copy()
     idx["y_idx"] = idx.index_approved.astype(float)
@@ -565,6 +572,13 @@ def brief(p):
               "AIC", f(three["aic"], 1), "b", {k: f(v) for k, v in three["log_odds"].items()}, "drop", three["drop"])
         print("  PRED three", {k: f(pr["three"][k]) if isinstance(pr["three"][k], float) else pr["three"][k] for k in ("p", "boot_lo", "boot_hi", "stratum_n", "stratum_k", "stratum_lo", "stratum_hi", "r2", "aic", "stable")})
         print("  THREE boot", {k: (f(lo), f(hi), n) for k, (lo, hi, n) in p["joint_boot"][name + "_three"].items()})
+        four = p["joints"][name]["four"]
+        print("  FOUR", four["factors"], four["n"], "stable", four["stable"], "R2", f(four["nagelkerke"], 3),
+              "AIC", f(four["aic"], 1), "b", {k: f(v) for k, v in four["log_odds"].items()}, "drop", four["drop"])
+        print("  PRED four", {k: f(pr["four"][k]) if isinstance(pr["four"][k], float) else pr["four"][k] for k in ("p", "boot_lo", "boot_hi", "stratum_n", "stratum_k", "stratum_lo", "stratum_hi", "r2", "aic", "stable")})
+        print("  FOUR boot", {k: (f(lo), f(hi), n) for k, (lo, hi, n) in p["joint_boot"][name + "_four"].items()})
+        alone4 = p["joints"][name]["alone_on_four"]
+        print("  ALONE on four", {k: (v["n"], v["yes_event"], v["yes_n"], v["no_event"], v["no_n"], f(v["log_odds"]), f(v["fisher_p"], 4)) for k, v in alone4.items()})
         same = p["joints"][name]["alone_on_joint_sample"]
         print("  ALONE on joint n", {k: (v["n"], f(v["log_odds"]), f(v["fisher_p"], 4)) for k, v in same.items()})
         alone3 = p["joints"][name]["alone_on_three"]

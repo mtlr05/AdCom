@@ -9,7 +9,7 @@ p('## Counts by committee\n'); bc=M.groupby('committee').agg(rows=('app','size')
 p('## Verification rate by field\n')
 for c,lab in [('vote_source_tier','Vote'),('outcome_source_tier','Final outcome'),('orphan_for_indication','Orphan status for the indication'),('priority_basis','Review priority basis')]:
     v=M[c].value_counts(); p(f'**{lab}**: '+', '.join(f'{k} {n} ({n/len(M):.0%})' for k,n in v.items())+'\n')
-p(f"Review priority values: {M.review_priority.value_counts().to_dict()}. Unverified is mostly unapproved products, CBER BLAs and supplements that openFDA does not tag.\n")
+p(f"Review priority values: {M.review_priority.value_counts().to_dict()}. The three unverified rows are nicotine mouth spray, Tookad, and AR19. Their submission and goal dates do not pick one anniversary.\n")
 p(f"1-year outcome: {M.action_at_1yr.value_counts().to_dict()}. 'unverified' at 1 year means the approval date is known only to the month, or the decision is still pending inside the window.\n")
 p('## 2x2 tables: adcom vote vs FDA outcome (ties and superseded meetings removed; unverified counts shown)\n'); p(T.to_markdown(index=False)+'\n')
 p('## Corrections 2026-11-04\n'); A=pd.read_csv('orphan_audit_2026-11-04.csv',dtype=str).fillna(''); p(A[['meeting_date','brand','app','old','new','basis']].to_markdown(index=False)+'\n'); p('vote_type counts: '+str(M.vote_type.value_counts().to_dict())+'. center: '+str(M.center.value_counts().to_dict())+'. CGT rows: '+str((M.CGT=='True').sum())+'.\n')

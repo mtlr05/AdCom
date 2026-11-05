@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## 2026-11-05 — estimated clocks, three unverified left
+- A missing day is the 15th. A stated goal is used, including an expected date. A complete-response date is the goal only when it lands on one anniversary. Each basis says `(calculated)` and states the estimate. Log: `data/unapproved_priority_search_2026-11-05.csv`.
+- Eleven more rows set to STANDARD: Hydexor (both cycles), MNK-812, vernakalant, oxycodegol, tanezumab, sintilimab, poziotinib, NurOwn, ITCA 650, and condoliase. Nicotine mouth spray, Tookad, and AR19 stay unverified.
+- Priority 81, standard 72, unverified 3. All, Common, Rare, Rare + priority, CGT, and the approval-only cells are unchanged, so the chart filenames stay at v8 / v5 / v6. The Standard row is 32 / 3 / 8 / 26 (n=69). The factor screen was rerun, and a four-factor model (orphan, priority, opioid, cell and gene therapy) was added beside the screen-selected pair.
+
+## 2026-11-05 — PDUFA clock for the remaining unverified rows
+- The clock is measured from the initial submission. An NME or original BLA is 8 months from submission for priority and 12 months from submission for standard. A non-NME is 6 and 10 months from submission. The basis says `(calculated)`. A Class 2 clock, an extended goal, and a sponsor forecast are not used. Log: `data/unapproved_priority_search_2026-11-05.csv`.
+- Ten rows set to STANDARD: Rexista (both cycles), sirukumab, Waylivra, Buvaya, ALKS 5461, sotagliflozin NDA 210934 (both cycles), roxadustat, and gefapixant. Fourteen stay unverified.
+- Priority 81, standard 61, unverified 14. All, Common, Rare, Rare + priority, CGT, and the approval-only cells are unchanged, so the chart filenames stay at v8 / v5 / v6. The Standard row is 32 / 1 / 8 / 17 (n=58). The factor screen was not rerun.
+
+## 2026-11-05 — priority search for unapproved products
+- Searched the 27 rows whose review type was unverified. Each is unapproved, so Drugs@FDA has no original submission. The search looked at the FDA briefing for that meeting, then a sponsor SEC filing, then a company press release, including releases that were never filed. Log: `data/unapproved_priority_search_2026-11-05.csv`.
+- Three rows set to PRIORITY from an FDA document: stannsoporfin (3 May 2018, NDA 209904), obeticholic acid for NASH (19 May 2023, NDA 212833), and the original Comirnaty BLA (the 17 Sep 2021 meeting is a booster supplement; the row's application cell stays blank). All three votes were unfavourable and the products were not approved. They are orphan N, so the rare-and-priority 2x2 does not change.
+- Priority 81, standard 51, unverified 24. All, Common, Rare, Rare + priority, CGT, and the approval-only cells are unchanged, so the chart filenames stay at v8 / v5 / v6. The Priority row in `two_by_two.csv` is now 58 / 2 / 2 / 15 (n=78, 1 pending): the three new rows are unfavourable and not approved. The factor screen was not rerun.
+
 ## 2026-11-04 — opioid column and initial-review priority
 - `opioid` is Y or N on every row. Y means an active moiety is an opioid agonist. Sixteen rows are Y. Naloxone, samidorphan alone, and lofexidine are N.
 - `review_priority` is the original application's designation. Supplements take openFDA's original submission when it names one. Cited original cycles set Remoxy (2008 10-K, SEC), Carvykti (Legend 6-K, SEC), Abecma (FDA clinical review), Columvi (openFDA original submission), Darzalex Faspro (FDA multi-discipline review, still standard), deramiocel and Tudriqev (company announcements of the original BLA; press).
