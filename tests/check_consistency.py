@@ -11,7 +11,8 @@ for c in ['meeting_date','app','adcom','final_action','orphan_for_indication','r
     ok(list(M[c])==[str(v) for v in X[c]],f'column {c} identical csv vs xlsx')
 ok(set(M.orphan_for_indication)<= {'Y','N','review','unverified'},'orphan values in {Y,N,review,unverified}')
 ok((M.center.isin(['CDER','CBER'])).all(),'center filled CDER/CBER on every row')
-ok(set(M.vote_type)<={'approval/benefit-risk','effectiveness-only','restriction/other'},'vote_type values valid')
+ok(set(M.opioid)<= {'Y','N'},'opioid is Y or N on every row')
+ok((M.opioid!='').all(),'opioid has no blank')
 ok((M[M.CGT=='True'].center=='CBER').all(),'all CGT rows are CBER')
 ok(M[M.committee.str.contains('CTGTAC')].CGT.eq('True').all(),'all CTGTAC rows flagged CGT')
 FO=pd.read_csv('field_overrides.csv',dtype=str).fillna('')
@@ -33,6 +34,6 @@ for ap,sub in [(False,'CGT (CTGTAC + CAR-T/MSC)'),(True,'Approval-only: CGT')]:
     ok((r['AA'],r['AR'],r['RA'],r['RR'])==(t.FavApproved,t.FavNotApproved,t.UnfavApproved,t.UnfavNotApproved),f'CGT chart cells == two_by_two [{sub}]')
 X2=pd.read_excel('adcom_full.xlsx','2x2'); ok(len(X2)==len(pd.read_csv('two_by_two.csv')) and (X2.FavApproved.values==pd.read_csv('two_by_two.csv').FavApproved.values).all(),'xlsx 2x2 sheet == two_by_two.csv')
 csvt=os.path.getmtime('adcom_full_pivotal.csv')
-for f in ['all_2x2_counts_v7.png','all_2x2_pct_v7.png','cgt_2x2_pct_v4.png','all_2x2_counts_approvalonly_v7.png','all_2x2_pct_approvalonly_v7.png','cgt_2x2_pct_approvalonly_v5.png','cgt_validation_table_v4.pdf','cgt_priority_review_table_v4.pdf']:
+for f in ['all_2x2_counts_v8.png','all_2x2_pct_v8.png','cgt_2x2_pct_v5.png','all_2x2_counts_approvalonly_v8.png','all_2x2_pct_approvalonly_v8.png','cgt_2x2_pct_approvalonly_v6.png','cgt_validation_table_v5.pdf','cgt_priority_review_table_v5.pdf']:
     p=os.path.join(CH,f); ok(os.path.exists(p) and os.path.getmtime(p)>=csvt,f'{f} exists and is newer than CSV')
 print('FAILURES:',len(fails)); sys.exit(1 if fails else 0)

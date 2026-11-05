@@ -16,9 +16,9 @@ from scipy.special import expit
 from scipy.stats import beta as beta_dist
 
 CHART = os.environ.get("CHART_DIR", "charts")
-FACTORS = ["orphan", "priority", "CGT", "CNS", "cber", "initial"]
-# AMT-130: orphan, priority, CGT, CBER, initial BLA. CNS is unknown.
-AMT = dict(orphan=1, priority=1, CGT=1, CNS=0, cber=1, initial=1)
+FACTORS = ["orphan", "priority", "opioid", "CGT", "CNS", "cber", "initial"]
+# AMT-130: orphan, priority, CGT, CBER, initial BLA. Not an opioid. CNS is unknown.
+AMT = dict(orphan=1, priority=1, opioid=0, CGT=1, CNS=0, cber=1, initial=1)
 
 
 def cells(df):
@@ -44,6 +44,8 @@ def prepare(m):
                      np.where(m.orphan_for_indication.str.upper().str.startswith("N"), 0.0, np.nan))
     m["pri"] = np.where(m.review_priority.str.upper().str.startswith("PRI"), 1.0,
                 np.where(m.review_priority.str.upper().str.startswith("STA"), 0.0, np.nan))
+    m["opioid_i"] = np.where(m.opioid.str.upper().str.startswith("Y"), 1.0,
+                     np.where(m.opioid.str.upper().str.startswith("N"), 0.0, np.nan))
     m["cber_i"] = (m.center == "CBER").astype(float)
     m["init_i"] = m.meeting_type.str.startswith("initial").astype(float)
     yr = pd.to_datetime(m.meeting_date, errors="coerce").dt.year
@@ -117,7 +119,7 @@ def screen(df, y, with_vote):
         cols = [f for f, k in zip(FACTORS, mask) if k]
         need = cols + ([ "fav" ] if with_vote else [])
         # map factor names to frame columns
-        colmap = {"orphan": "orphan_y", "priority": "pri", "CGT": "cgt", "CNS": "cns", "cber": "cber_i", "initial": "init_i", "vote": "fav"}
+        colmap = {"orphan": "orphan_y", "priority": "pri", "opioid": "opioid_i", "CGT": "cgt", "CNS": "cns", "cber": "cber_i", "initial": "init_i", "vote": "fav"}
         raw = [colmap[c] for c in cols] + (["fav"] if with_vote else [])
         use, X, yy = design(df, raw, y)
         if len(use) < 20 or yy.sum() in (0, len(yy)):
@@ -152,7 +154,7 @@ def keep(sc, k=4):
 
 
 def predict_row(b, cols, with_vote, cns, vote):
-    colmap = {"orphan": "orphan", "priority": "priority", "CGT": "CGT", "CNS": "CNS", "cber": "cber", "initial": "initial"}
+    colmap = {"orphan": "orphan", "priority": "priority", "opioid": "opioid", "CGT": "CGT", "CNS": "CNS", "cber": "cber", "initial": "initial"}
     x = [1.0]
     for c in cols:
         if c == "CNS":
@@ -168,8 +170,8 @@ def predict_row(b, cols, with_vote, cns, vote):
 def stratum_beta(df, cols, y, cns, vote=None):
     """Jeffreys interval on the rows that match AMT-130 on the factors in the model."""
     sub = df.dropna(subset=[y]).copy()
-    spec = {"orphan": 1, "priority": 1, "CGT": 1, "CNS": cns, "cber": 1, "initial": 1}
-    colmap = {"orphan": "orphan_y", "priority": "pri", "CGT": "cgt", "CNS": "cns", "cber": "cber_i", "initial": "init_i"}
+    spec = {"orphan": 1, "priority": 1, "opioid": 0, "CGT": 1, "CNS": cns, "cber": 1, "initial": 1}
+    colmap = {"orphan": "orphan_y", "priority": "pri", "opioid": "opioid_i", "CGT": "cgt", "CNS": "cns", "cber": "cber_i", "initial": "init_i"}
     for c in cols:
         sub = sub[sub[colmap[c]] == spec[c]]
     if vote is not None:
@@ -183,7 +185,7 @@ def stratum_beta(df, cols, y, cns, vote=None):
     return n, k, float(med), float(lo), float(hi)
 
 
-COLMAP = {"orphan": "orphan_y", "priority": "pri", "CGT": "cgt", "CNS": "cns", "cber": "cber_i", "initial": "init_i"}
+COLMAP = {"orphan": "orphan_y", "priority": "pri", "opioid": "opioid_i", "CGT": "cgt", "CNS": "cns", "cber": "cber_i", "initial": "init_i"}
 
 
 def raw_cols(cols, with_vote, extra=()):
@@ -205,7 +207,7 @@ def refit(df, cols, y, with_vote, extra=()):
 
 
 def boot_pred(df, cols, y, with_vote, cns, vote, B=400):
-    colmap = {"orphan": "orphan_y", "priority": "pri", "CGT": "cgt", "CNS": "cns", "cber": "cber_i", "initial": "init_i"}
+    colmap = {"orphan": "orphan_y", "priority": "pri", "opioid": "opioid_i", "CGT": "cgt", "CNS": "cns", "cber": "cber_i", "initial": "init_i"}
     raw = [colmap[c] for c in cols] + (["fav"] if with_vote else [])
     use, X, yy = design(df, raw, y)
     rng = np.random.default_rng(130)

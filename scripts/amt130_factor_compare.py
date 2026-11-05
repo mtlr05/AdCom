@@ -1,13 +1,21 @@
-"""One-at-a-time factor screen, then a joint model, on the approval questions.
+"""One-at-a-time factor screen, then a joint model.
+
+The main set is every pivotal vote whose question was an approval, benefit-risk,
+or effectiveness question. The wording of an AMT-130 meeting is unset, so an
+effectiveness question stays in. Restriction, dose, and labeling questions stay
+out. A meeting with no final action stays in the vote screen and drops out of
+the approval screen.
+
+Run from data/ with scripts/ on PYTHONPATH. Does not edit the pivotal CSV.
 
 Run from data/ with scripts/ on PYTHONPATH. Does not edit the pivotal CSV.
 
 Each one-at-a-time fit drops a meeting only when that factor is unrecorded.
-The joint model is orphan status plus cell and gene therapy, the candidate
-named for this report, fit on the meetings that record both. A wider joint
-model of every factor is written beside it so the comparison is visible.
-Significance one at a time is Fisher's exact test. The effect size is the
-penalized log-odds. The correlation is the phi coefficient.
+Priority review is the original application's designation. A sensitivity fills the
+remaining blanks as standard, and again as priority. Priority enters the joint
+model only when those two bounds agree and the recorded-review sample does not
+remove another factor's association. The joint model is every other factor that
+clears Fisher's exact test on the vote.
 """
 import json
 import os
@@ -37,12 +45,12 @@ SEED = 130
 FACTORS = [
     ("orphan_y", "orphan", "Orphan status"),
     ("cgt", "CGT", "Cell and gene therapy"),
+    ("opioid_i", "opioid", "Opioid"),
     ("pri", "priority", "Priority review"),
     ("cber_i", "cber", "Biologics center"),
     ("cns", "CNS", "Neurology committees"),
     ("init_i", "initial", "Initial application"),
 ]
-JOINT = ["orphan", "CGT"]
 COL = {key: col for col, key, _ in FACTORS}
 LABEL = {key: lab for _, key, lab in FACTORS}
 
@@ -204,41 +212,81 @@ def prediction_block(df, y, keys):
                 aic=None if fit is None else fit["aic"], stable=None if fit is None else fit["stable"])
 
 
-def vote_conditional(df, y):
-    """Approval given the vote, with and without the two factors."""
+def vote_conditional(df, y, keys):
+    """Approval given the vote, with and without the selected factors."""
     rows = {}
-    for keys in ([], ["orphan", "CGT"]):
-        fit = refit(df, keys, y, True)
+    for keyset in ([], keys):
+        fit = refit(df, keyset, y, True)
         if fit is None:
             continue
         rec = dict(n=fit["n"], r2=fit["nagelkerke"], aic=fit["aic"], stable=fit["stable"])
         for vote, name in ((1, "favourable"), (0, "unfavourable")):
-            rec[name] = predict_row(fit["b_pen"], keys, True, 0, vote)
-            lo, hi = boot_pred(df, keys, y, True, 0, vote)
+            rec[name] = predict_row(fit["b_pen"], keyset, True, 0, vote)
+            lo, hi = boot_pred(df, keyset, y, True, 0, vote)
             rec[name + "_lo"] = lo
             rec[name + "_hi"] = hi
-            n, k, med, blo, bhi = stratum_beta(df, keys, y, 0, vote)
+            n, k, med, blo, bhi = stratum_beta(df, keyset, y, 0, vote)
             rec[name + "_stratum"] = dict(n=n, k=k, med=med, lo=blo, hi=bhi)
-        rows["+".join(keys) or "(vote only)"] = rec
+        rows["+".join(keyset) or "(vote only)"] = rec
     return rows
+
+
+def bounds_disagree(a, b):
+    """True when the two filled-in samples do not support the same conclusion."""
+    return bool((a["fisher_p"] < 0.05) != (b["fisher_p"] < 0.05) or (a["log_odds"] > 0) != (b["log_odds"] > 0))
+
+
+def priority_sensitivity(frame, y):
+    """Recorded review type, then the blanks filled as standard and as priority."""
+    as_std = frame.copy()
+    as_pri = frame.copy()
+    as_std["pri"] = as_std["pri"].fillna(0.0)
+    as_pri["pri"] = as_pri["pri"].fillna(1.0)
+    blank = frame[frame.pri.isna()]
+    kept = frame.dropna(subset=["pri"])
+    others = {}
+    for col, key, _lab in FACTORS:
+        if key == "priority":
+            continue
+        others[key] = one(kept, col, y)
+    return dict(
+        recorded=one(frame, "pri", y),
+        blanks_as_standard=one(as_std, "pri", y),
+        blanks_as_priority=one(as_pri, "pri", y),
+        n_blank=int(len(blank)),
+        blank_events=int(blank[y].sum()) if len(blank) else 0,
+        n_recorded=int(len(kept)),
+        recorded_events=int(kept[y].sum()) if len(kept) else 0,
+        others_on_recorded=others,
+    )
 
 
 def main():
     m = prepare(pd.read_csv("adcom_full_pivotal.csv", dtype=str).fillna(""))
     gate(m, pd.read_csv("two_by_two.csv"))
     base = m[(~m.replaced) & m.fav.notna()].copy()
-    appr = base[base.vote_type == "approval/benefit-risk"].copy()
-    known = appr[appr.approved.notna()].copy()
+    # Approval or benefit-risk, plus effectiveness. Restriction questions stay out.
+    wide = base[base.vote_type.isin(["approval/benefit-risk", "effectiveness-only"])].copy()
+    wide["y_fav"] = wide.fav
+    known = wide[wide.approved.notna()].copy()
     known["y_app"] = known.approved.astype(float)
     known["y_fav"] = known.fav
+    appr = base[base.vote_type == "approval/benefit-risk"].copy()
+    appr_known = appr[appr.approved.notna()].copy()
+    appr_known["y_app"] = appr_known.approved.astype(float)
+    appr_known["y_fav"] = appr_known.fav
 
     payload = {}
-    payload["n_approval"] = int(len(appr))
+    payload["n_base"] = int(len(base))
+    payload["n_vote"] = int(len(wide))
     payload["n_known"] = int(len(known))
-    payload["vote_tiers"] = appr.vote_source_tier.value_counts().to_dict()
+    payload["n_restriction"] = int((base.vote_type == "restriction/other").sum())
+    payload["n_approval_questions"] = int(len(appr))
+    payload["vote_type_counts"] = wide.vote_type.value_counts().to_dict()
+    payload["vote_tiers"] = wide.vote_source_tier.value_counts().to_dict()
     payload["outcome_tiers"] = known.outcome_source_tier.value_counts().to_dict()
-    payload["base_fav"] = dict(n=int(len(known)), k=int(known.y_fav.sum()), **dict(zip(
-        ("med", "lo", "hi"), jeffreys(int(known.y_fav.sum()), int(len(known))))))
+    payload["base_fav"] = dict(n=int(len(wide)), k=int(wide.y_fav.sum()), **dict(zip(
+        ("med", "lo", "hi"), jeffreys(int(wide.y_fav.sum()), int(len(wide))))))
     payload["base_app"] = dict(n=int(len(known)), k=int(known.y_app.sum()), **dict(zip(
         ("med", "lo", "hi"), jeffreys(int(known.y_app.sum()), int(len(known))))))
     fav_yes = known[known.y_fav == 1]
@@ -249,45 +297,71 @@ def main():
         ("med", "lo", "hi"), jeffreys(int(fav_no.y_app.sum()), int(len(fav_no))))))
 
     screens = {}
+    frames = {"favourable": wide, "approval": known}
+    ys = {"favourable": "y_fav", "approval": "y_app"}
+    for name in ("favourable", "approval"):
+        screens[name] = screen_frame(frames[name], ys[name])
+    sens = {name: priority_sensitivity(frames[name], ys[name]) for name in frames}
+    vote_bounds = bounds_disagree(sens["favourable"]["blanks_as_standard"], sens["favourable"]["blanks_as_priority"])
+    flipped = []
+    for r in screens["favourable"]:
+        if r["factor"] == "priority" or not (r["fisher_p"] < 0.05):
+            continue
+        other = sens["favourable"]["others_on_recorded"][r["factor"]]
+        if not (other["fisher_p"] < 0.05):
+            flipped.append(r["factor"])
+    use_priority = (not vote_bounds) and (not flipped)
+    selected = []
+    for r in screens["favourable"]:
+        if r["fisher_p"] < 0.05 and (r["factor"] != "priority" or use_priority):
+            selected.append(r["factor"])
+    without_priority = [key for _c, key, _l in FACTORS if key != "priority"]
+    all_factors = [key for _c, key, _l in FACTORS]
+    payload["priority_sensitivity"] = sens
+    payload["priority_decision"] = dict(
+        use_in_joint=use_priority,
+        vote_bounds_disagree=vote_bounds,
+        factors_lost_on_recorded_sample=flipped,
+        selected=selected,
+    )
+
     joints = {}
     conds = {}
     boots = {}
     preds = {}
-    for y, name in (("y_fav", "favourable"), ("y_app", "approval")):
-        screens[name] = screen_frame(known, y)
+    for name in ("favourable", "approval"):
+        y = ys[name]
+        frame = frames[name]
         joints[name] = {
-            "two": joint_fit(known, JOINT, y),
-            "five": joint_fit(known, ["orphan", "CGT", "CNS", "cber", "initial"], y),
-            "six": joint_fit(known, ["orphan", "priority", "CGT", "CNS", "cber", "initial"], y),
+            "selected": joint_fit(frame, selected, y),
+            "without_priority": joint_fit(frame, without_priority, y),
+            "all_factors": joint_fit(frame, all_factors, y),
+            "orphan_cgt": joint_fit(frame, ["orphan", "CGT"], y),
         }
-        # One-at-a-time log-odds refit on the joint sample, so the comparison
-        # of coefficients is not only a comparison of who was dropped.
-        two_cols = [COL[k] for k in JOINT]
-        same = known.dropna(subset=two_cols + [y])
-        joints[name]["alone_on_joint_sample"] = {key: one(same, COL[key], y) for key in JOINT}
-        conds[name] = conditional_fisher(known, y)
-        boots[name] = boot_coefs(known, JOINT, y)
+        same = frame.dropna(subset=[COL[k] for k in selected] + [y]) if selected else frame.dropna(subset=[y])
+        joints[name]["alone_on_joint_sample"] = {key: one(same, COL[key], y) for key in selected}
+        conds[name] = conditional_fisher(frame, y)
+        boots[name] = boot_coefs(frame, selected, y) if selected else {}
         preds[name] = {
-            "orphan": prediction_block(known, y, ["orphan"]),
-            "two": prediction_block(known, y, JOINT),
-            "intercept": prediction_block(known, y, []),
+            "orphan": prediction_block(frame, y, ["orphan"]),
+            "selected": prediction_block(frame, y, selected),
+            "intercept": prediction_block(frame, y, []),
         }
     payload["screens"] = screens
     payload["joints"] = joints
     payload["conditional"] = conds
     payload["joint_boot"] = boots
     payload["predictions"] = preds
-    payload["vote_conditional"] = vote_conditional(known, "y_app")
+    payload["vote_conditional"] = vote_conditional(known, "y_app", selected)
 
-    # One-year action, same two-factor model.
     idx = known[known.index_approved.notna()].copy()
     idx["y_idx"] = idx.index_approved.astype(float)
     payload["one_year"] = dict(
         n=int(len(idx)), k=int(idx.y_idx.sum()),
         screen=screen_frame(idx, "y_idx"),
-        two=joint_fit(idx, JOINT, "y_idx"),
+        selected=joint_fit(idx, selected, "y_idx"),
         pred_orphan=prediction_block(idx, "y_idx", ["orphan"]),
-        pred_two=prediction_block(idx, "y_idx", JOINT),
+        pred_selected=prediction_block(idx, "y_idx", selected),
         conditional=conditional_fisher(idx, "y_idx"),
     )
     both = known.dropna(subset=["index_approved"])
@@ -296,7 +370,19 @@ def main():
         disagree=int((both.approved.astype(bool) != both.index_approved.astype(bool)).sum()),
     )
 
-    # All pivotal votes, as a sensitivity. Same rule.
+    # Approval questions alone, and every pivotal vote including restriction
+    # questions. Sensitivities. The main screen is the block above.
+    payload["approval_only"] = {}
+    for y, name in (("y_fav", "favourable"), ("y_app", "approval")):
+        payload["approval_only"][name] = dict(
+            n=int(len(appr_known.dropna(subset=[y]))),
+            screen=screen_frame(appr_known, y),
+            selected_fit=joint_fit(appr_known, selected, y),
+            conditional=conditional_fisher(appr_known, y),
+            pred_selected=prediction_block(appr_known, y, selected),
+            pred_orphan=prediction_block(appr_known, y, ["orphan"]),
+        )
+
     piv = base[base.approved.notna()].copy()
     piv["y_app"] = piv.approved.astype(float)
     piv["y_fav"] = piv.fav
@@ -305,16 +391,16 @@ def main():
         payload["all_pivotal"][name] = dict(
             n=int(len(piv.dropna(subset=[y]))),
             screen=screen_frame(piv, y),
-            two=joint_fit(piv, JOINT, y),
+            selected_fit=joint_fit(piv, selected, y),
             conditional=conditional_fisher(piv, y),
-            pred_two=prediction_block(piv, y, JOINT),
+            pred_selected=prediction_block(piv, y, selected),
         )
 
     # Year term on the two-factor model.
     year_notes = {}
     for y, name in (("y_fav", "favourable"), ("y_app", "approval")):
-        base_fit = refit(known, JOINT, y, False)
-        yr_fit = refit(known, JOINT, y, False, extra=("year_c",))
+        base_fit = refit(known, selected, y, False)
+        yr_fit = refit(known, selected, y, False, extra=("year_c",))
         year_notes[name] = dict(
             aic=None if base_fit is None else base_fit["aic"],
             aic_year=None if yr_fit is None else yr_fit["aic"],
@@ -331,7 +417,7 @@ def main():
         label = r.brand or r.generic or r.product_text
         names.append(dict(
             date=r.meeting_date, committee=r.committee, app=r.app, name=label,
-            vote=r.adcom, yes=r.vote_yes, no=r.vote_no, final=r.final_action,
+            vote=r.adcom, yes=r.vote_yes, no=r.vote_no, vote_type=r.vote_type, final=r.final_action,
             priority=r.review_priority, vote_tier=r.vote_source_tier, outcome_tier=r.outcome_source_tier,
         ))
     payload["cgt_orphan_rows"] = names
@@ -347,7 +433,7 @@ def main():
         cgt=int((miss.cgt == 1).sum()),
         cns=int((miss.cns == 1).sum()),
         cber=int((miss.cber_i == 1).sum()),
-        initial=int((miss.init_i == 1).sum()),
+        opioid=int((miss.opioid_i == 1).sum()),
     )
 
     def conv(o):
@@ -375,12 +461,13 @@ def main():
             flat.append(dict(outcome=name, **{k: r[k] for k in r if k != "outcome"}))
     pd.DataFrame(flat).to_csv("amt130_one_at_a_time.csv", index=False)
 
-    draw(screens, joints, boots)
+    legend = "Joint model: " + ", ".join(LABEL[k] for k in selected) if selected else "No factor cleared the vote screen"
+    draw(screens, joints, boots, joint_name="selected", legend=legend)
     print("wrote amt130_factor_compare.json")
     brief(clean)
 
 
-def draw(screens, joints, boots):
+def draw(screens, joints, boots, joint_name="selected", legend="Joint model"):
     import matplotlib
     matplotlib.use("Agg")
     import matplotlib.pyplot as plt
@@ -390,7 +477,7 @@ def draw(screens, joints, boots):
     titles = {"favourable": "Favourable vote", "approval": "FDA approval"}
     for ax, name in zip(axes, ("favourable", "approval")):
         by = {r["factor"]: r for r in screens[name]}
-        joint = joints[name]["two"]["log_odds"]
+        joint = joints[name][joint_name]["log_odds"]
         jboot = boots[name]
         ypos = np.arange(len(order))[::-1]
         ax.axvline(0, color="0.75", lw=0.8, zorder=0)
@@ -404,12 +491,20 @@ def draw(screens, joints, boots):
                 ax.plot(joint[key], y - 0.18, "s", color="white", markeredgecolor="0.1",
                         markeredgewidth=1.1, ms=6, zorder=3)
         ax.set_yticks(ypos)
-        ax.set_yticklabels([
-            f"{LABEL[key]}  ({by[key]['n']})" for key in order
-        ], fontsize=8)
+        ax.set_yticklabels([LABEL[key] for key in order], fontsize=8)
         ax.set_xlabel("Penalized log-odds", fontsize=9)
         ax.set_title(titles[name], fontsize=11)
-        ax.set_xlim(-1.6, 2.4)
+    xs = []
+    for name in ("favourable", "approval"):
+        for r in screens[name]:
+            xs.extend([r["boot_lo"], r["boot_hi"], r["log_odds"]])
+        for lo, hi, _n in boots[name].values():
+            xs.extend([lo, hi])
+    finite = [x for x in xs if x == x]
+    pad = 0.2
+    xlim = (min(-0.4, min(finite) - pad), max(0.4, max(finite) + pad))
+    for ax in axes:
+        ax.set_xlim(*xlim)
         ax.tick_params(axis="x", labelsize=8)
         ax.spines["top"].set_visible(False)
         ax.spines["right"].set_visible(False)
@@ -418,7 +513,7 @@ def draw(screens, joints, boots):
         Line2D([0], [0], marker="o", color="none", markerfacecolor="0.1", markeredgecolor="0.1",
                ms=6, label="One factor at a time"),
         Line2D([0], [0], marker="s", color="none", markerfacecolor="white", markeredgecolor="0.1",
-               markeredgewidth=1.1, ms=6, label="In the two-factor model"),
+               markeredgewidth=1.1, ms=6, label=legend),
     ]
     fig.legend(handles=handles, loc="lower center", ncol=2, frameon=False, fontsize=8)
     fig.tight_layout(rect=(0, 0.08, 1, 1))
@@ -442,29 +537,43 @@ def brief(p):
             print(f"  {r['factor']:10} n={r['n']:3} yes {r['yes_event']}/{r['yes_n']} no {r['no_event']}/{r['no_n']} "
                   f"phi={f(r['phi'], 3)} b={f(r['log_odds'])} boot {f(r['boot_lo'])}-{f(r['boot_hi'])} "
                   f"fisher={f(r['fisher_p'], 4)} stable={r['stable']} lr_p={f(r['lr_p'], 4)} R2={f(r['nagelkerke'], 3)}")
-        two = p["joints"][name]["two"]
-        print("  JOINT", two["n"], "stable", two["stable"], "R2", f(two["nagelkerke"], 3), "AIC", f(two["aic"], 1),
-              "b", {k: f(v) for k, v in two["log_odds"].items()}, "drop", two["drop"])
-        five = p["joints"][name]["five"]
-        print("  FIVE stable", five["stable"], "R2", f(five["nagelkerke"], 3), "b", {k: f(v) for k, v in five["log_odds"].items()})
-        six = p["joints"][name]["six"]
-        print("  SIX n", six["n"], "stable", six["stable"], "R2", f(six["nagelkerke"], 3),
-              "b", {k: f(v) for k, v in six["log_odds"].items()})
+        chosen = p["joints"][name]["selected"]
+        print("  JOINT", chosen["factors"], chosen["n"], "stable", chosen["stable"], "R2", f(chosen["nagelkerke"], 3),
+              "AIC", f(chosen["aic"], 1), "b", {k: f(v) for k, v in chosen["log_odds"].items()}, "drop", chosen["drop"])
+        wide_fit = p["joints"][name]["without_priority"]
+        print("  WITHOUT PRIORITY n", wide_fit["n"], "stable", wide_fit["stable"], "R2", f(wide_fit["nagelkerke"], 3),
+              "b", {k: f(v) for k, v in wide_fit["log_odds"].items()})
+        every = p["joints"][name]["all_factors"]
+        print("  ALL n", every["n"], "stable", every["stable"], "R2", f(every["nagelkerke"], 3),
+              "b", {k: f(v) for k, v in every["log_odds"].items()})
         c = p["conditional"][name]
         print("  CGT|orphan", c["cgt_among_orphan"])
         print("  orphan|nonCGT", c["orphan_among_non_cgt"], "cgt_not_orphan", c["cgt_not_orphan"],
               "both", c["both_events"], "/", c["both_n"])
         pr = p["predictions"][name]
         print("  PRED orphan", {k: f(pr["orphan"][k]) if isinstance(pr["orphan"][k], float) else pr["orphan"][k] for k in ("p", "boot_lo", "boot_hi", "stratum_n", "stratum_k", "stratum_lo", "stratum_hi", "r2", "aic", "stable")})
-        print("  PRED two", {k: f(pr["two"][k]) if isinstance(pr["two"][k], float) else pr["two"][k] for k in ("p", "boot_lo", "boot_hi", "stratum_n", "stratum_k", "stratum_lo", "stratum_hi", "r2", "aic", "stable")})
+        print("  PRED selected", {k: f(pr["selected"][k]) if isinstance(pr["selected"][k], float) else pr["selected"][k] for k in ("p", "boot_lo", "boot_hi", "stratum_n", "stratum_k", "stratum_lo", "stratum_hi", "r2", "aic", "stable")})
         same = p["joints"][name]["alone_on_joint_sample"]
         print("  ALONE on joint n", {k: (v["n"], f(v["log_odds"]), f(v["fisher_p"], 4)) for k, v in same.items()})
     print("vote conditional", json.dumps(p["vote_conditional"], default=str)[:2000])
+    print("priority decision", p["priority_decision"])
+    for name in ("favourable", "approval"):
+        s = p["priority_sensitivity"][name]
+        print(" sensitivity", name,
+              "recorded", s["recorded"]["yes_event"], "/", s["recorded"]["yes_n"], "vs", s["recorded"]["no_event"], "/", s["recorded"]["no_n"],
+              "p", f(s["recorded"]["fisher_p"], 4),
+              "as standard", s["blanks_as_standard"]["yes_event"], "/", s["blanks_as_standard"]["yes_n"], "vs",
+              s["blanks_as_standard"]["no_event"], "/", s["blanks_as_standard"]["no_n"], "p", f(s["blanks_as_standard"]["fisher_p"], 4),
+              "b", f(s["blanks_as_standard"]["log_odds"]),
+              "as priority", s["blanks_as_priority"]["yes_event"], "/", s["blanks_as_priority"]["yes_n"], "vs",
+              s["blanks_as_priority"]["no_event"], "/", s["blanks_as_priority"]["no_n"], "p", f(s["blanks_as_priority"]["fisher_p"], 4),
+              "b", f(s["blanks_as_priority"]["log_odds"]),
+              "blank", s["blank_events"], "/", s["n_blank"], "recorded events", s["recorded_events"], "/", s["n_recorded"])
     print("priority missing", p["priority_missing"])
     print("disagree", p["label_disagree"])
     print("year", p["year"])
-    print("one year n", p["one_year"]["n"], p["one_year"]["k"], "two", p["one_year"]["two"]["log_odds"],
-          "pred", p["one_year"]["pred_two"]["p"], p["one_year"]["pred_orphan"]["p"])
+    print("one year n", p["one_year"]["n"], p["one_year"]["k"], "selected", p["one_year"]["selected"]["log_odds"],
+          "pred", p["one_year"]["pred_selected"]["p"], p["one_year"]["pred_orphan"]["p"])
     print("tiers", p["vote_tiers"], p["outcome_tiers"])
     print("CGT rows:")
     for row in p["cgt_orphan_rows"]:
@@ -472,8 +581,8 @@ def brief(p):
     print("all pivotal fisher:")
     for name in ("favourable", "approval"):
         block = p["all_pivotal"][name]
-        print(" ", name, "n", block["n"], "two", block["two"]["log_odds"], "stable", block["two"]["stable"],
-              "pred", block["pred_two"]["p"], "cond", block["conditional"]["cgt_among_orphan"]["fisher_p"],
+        print(" ", name, "n", block["n"], "selected", block["selected_fit"]["log_odds"], "stable", block["selected_fit"]["stable"],
+              "pred", block["pred_selected"]["p"], "cond", block["conditional"]["cgt_among_orphan"]["fisher_p"],
               block["conditional"]["orphan_among_non_cgt"]["fisher_p"])
         for r in block["screen"]:
             print(f"    {r['factor']:10} {r['yes_event']}/{r['yes_n']} vs {r['no_event']}/{r['no_n']} p={r['fisher_p']:.4f} b={r['log_odds']:.2f} phi={r['phi']:.3f}")

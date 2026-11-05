@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2026-11-04 — opioid column and initial-review priority
+- `opioid` is Y or N on every row. Y means an active moiety is an opioid agonist. Sixteen rows are Y. Naloxone, samidorphan alone, and lofexidine are N.
+- `review_priority` is the original application's designation. Supplements take openFDA's original submission when it names one. Cited original cycles set Remoxy (2008 10-K, SEC), Carvykti (Legend 6-K, SEC), Abecma (FDA clinical review), Columvi (openFDA original submission), Darzalex Faspro (FDA multi-discipline review, still standard), deramiocel and Tudriqev (company announcements of the original BLA; press).
+- 2x2 (AA/AR/RA/RR, final): All, Common, Rare, and the CGT aggregate unchanged. Rare+priority 29/1/1/8 -> 32/1/1/8 (n=42, 1 pending). Approval-only Rare+priority 22/1/0/4 -> 25/1/0/4 (n=30). Priority 78, standard 51, unverified 27. Charts `*_v8`, CGT `cgt_2x2_pct_v5.png` and `cgt_2x2_pct_approvalonly_v6.png`, CGT tables `*_v5.pdf`.
+- The factor screen adds opioid. A sensitivity that fills blank review types as standard, and again as priority, does not agree, so priority review is not in the joint model. The vote screen carries orphan status and opioid.
+
 ## 2026-11-04 — exhaustive priority search
 - Fourteen `review_priority` values set where a source names the designation for the submission the committee reviewed. Eight are FDA documents (Rebyota, Abrysvo 60+, Arexvy, Abrysvo maternal, Carvykti sBLA, Abecma sBLA, mFLUSIVA, tramadol IV). Two are SEC filings (Bayer ciprofloxacin dry powder, via Aradigm's 10-Q; bardoxolone). Four are press (Translarna, Linhaliq, retifanlimab, carbetocin).
 - Thirty-one priority cells stay unverified. The search note is in `priority_basis`. Orphan `review` is unchanged (Darzalex Faspro SMM, Tudriqev). `action_at_1yr` stays unverified on 63 rows.

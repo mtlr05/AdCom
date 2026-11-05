@@ -144,22 +144,25 @@ if os.path.exists('orphan_adj.csv'):
         M.loc[s_,'orphan_for_indication']=o.orphan_for_indication; M.loc[s_,'orphan_indication_basis']=o.note
 _leg=M.source.astype(str).str.contains('legacy|cgt_check')&M.orphan_designation_any.astype(str).str.upper().str[:1].isin(['Y','N'])
 M.loc[_leg,'orphan_for_indication']=M.loc[_leg,'orphan_designation_any'].astype(str).str.upper().str[:1]; M.loc[_leg,'orphan_indication_basis']='hand-verified (legacy out/ or cgt_check)'
-# review priority from openFDA when missing
-import json as _j,re as _re
+# review priority: the original application's designation, not a later supplement or resubmission
+import json as _j
+def _orig_priority(app):
+    a=str(app).split('/')[0].lstrip('0')
+    fn='ofda/'+a.zfill(6)+'.json'
+    if not a or not os.path.exists(fn): return None
+    for s in _j.load(open(fn)).get('submissions',[]):
+        if s.get('submission_type')=='ORIG' and s.get('review_priority') in ('PRIORITY','STANDARD'): return s['review_priority']
+    return None
 def _prio(r):
+    orig=_orig_priority(r.app)
+    suppl='supplement' in str(r.meeting_type).lower()
+    if suppl and orig: return orig,'openFDA ORIG: initial-application review type. The meeting reviewed a supplement; the flag is the original submission.'
     p=str(r.review_priority).upper()
     if p in ('PRIORITY','STANDARD'): return p,'existing'
-    fn='ofda/'+str(r.app).lstrip('0').zfill(6)+'.json'
-    if not str(r.app).strip('0') or not os.path.exists(fn): return 'unverified','no openFDA record (BLA at CBER or unapproved)'
-    d=_j.load(open(fn)); subs=d.get('submissions',[])
-    m=_re.search(r'S-0*(\d+)',str(r.final_action))
-    if m:
-        for s in subs:
-            if s['submission_type']=='SUPPL' and s['submission_number']==m.group(1) and s.get('review_priority') in('PRIORITY','STANDARD'): return s['review_priority'],'openFDA supplement S-'+m.group(1)
-    if 'supplement' not in str(r.meeting_type).lower():
-        for s in subs:
-            if s['submission_type']=='ORIG' and s.get('review_priority') in('PRIORITY','STANDARD'): return s['review_priority'],'openFDA ORIG'
-    return 'unverified','supplement not matched in openFDA'
+    if orig: return orig,'openFDA ORIG'
+    a=str(r.app).split('/')[0].lstrip('0')
+    if not a or not os.path.exists('ofda/'+a.zfill(6)+'.json'): return 'unverified','no openFDA record (BLA at CBER or unapproved)'
+    return 'unverified','no original-submission review type in openFDA'
 _p=M.apply(_prio,axis=1); M['review_priority']=[x[0] for x in _p]; M['priority_basis']=[x[1] for x in _p]
 # ===== 2026-11-04 corrections: center, CGT, vote_type, field overrides (applied last) =====
 CBER_APPS={'125646':'KYMRIAH tisagenlecleucel (CAR-T, CBER OTP)','125706':'RYONCIL remestemcel-L (MSC therapy, CBER OTP)','125746':'CARVYKTI cilta-cel (CAR-T, CBER OTP)','125736':'ABECMA ide-cel (CAR-T, CBER OTP)'}
@@ -175,6 +178,25 @@ def _center(r):
     return 'CDER','CDER committee; no CBER product identified'
 _c=M.apply(_center,axis=1); M['center']=[x[0] for x in _c]; M['center_basis']=[x[1] for x in _c]
 M['CGT']=M.committee.astype(str).str.contains('CTGTAC')|M.app.astype(str).str.lstrip('0').isin(CGT_APPS)
+# Y if an active moiety is an opioid agonist. Antagonists (naloxone, samidorphan alone)
+# and lofexidine are N. Every row is Y or N.
+OPIOID_APPS={
+ '209777':'oxycodone (RoxyBond)','209653':'oxycodone (Rexista / Aximris)','209819':'buprenorphine (Sublocade)',
+ '210136':'buprenorphine (Brixadi)','209257':'hydrocodone (Hydexor)','209588':'buprenorphine (Buvaya)',
+ '22324':'oxycodone (Remoxy)','210730':'oliceridine (Olinvyk)','209128':'sufentanil (Dsuvia)',
+ '210417':'buprenorphine with samidorphan (ALKS 5461)','209774':'oxycodone (MNK-812)',
+ '211802':'oxycodegol (NKTR-181)','213426':'tramadol (Seglentis)','213231':'tramadol (intravenous)'}
+def _opioid(r):
+    a=str(r.app).split('/')[0].lstrip('0')
+    if a in OPIOID_APPS: return 'Y','opioid agonist: '+OPIOID_APPS[a]
+    return 'N','no opioid agonist among the active moieties'
+_op=M.apply(_opioid,axis=1); M['opioid']=[x[0] for x in _op]; M['opioid_basis']=[x[1] for x in _op]
+_stems=('oxycodone','hydrocodone','buprenorphine','tramadol','sufentanil','oliceridine','oxycodegol')
+_blob=(M.brand.astype(str)+' '+M.generic.astype(str)+' '+M.product_text.astype(str)+' '+M.question_text.astype(str)).str.lower()
+for _s in _stems:
+    _bad=M[_blob.str.contains(_s)&(M.opioid!='Y')]
+    if len(_bad): raise SystemExit('opioid stem '+_s+' not flagged '+str(list(_bad.meeting_date)))
+if not set(M.opioid)<=set(['Y','N']) or (M.opioid=='').any(): raise SystemExit('opioid column has a blank')
 def _vt(q):
     q=str(q).lower(); k=q.rfind('vote:'); q=q[k:] if k>=0 else q
     if re.search(r'restrict|be delayed|deferred|prior to a final regulatory|applicab|reliably interpreted|surrogate|reasonably likely to predict|in label',q): return 'restriction/other'
@@ -203,7 +225,7 @@ M['verified_outcome']=np.where(M.final_action.astype(str).isin(['unverified','na
 M['vote_source_tier']=M.verified_vote.map(_tier); M['outcome_source_tier']=np.where(M.verified_outcome=='unverified','unverified',np.where(M.verified_outcome.str.startswith('openFDA'),'FDA (openFDA)',M.verified_outcome.map(_tier)))
 M['verified_orphan']=M.orphan_verification.fillna('unverified')
 cols=['meeting_date','year','committee','center','app','brand','generic','product_text','meeting_type','pre_2010','question_text','vote_yes','vote_no','vote_abstain','voting_member_count','adcom','pivotal_rule','polarity_check',
- 'action_at_1yr','final_action','final_action_date','decision_source','review_priority','orphan_designation_any','orphan_match','CNS','CGT','replaced_by_later_meeting','n_products_same_meeting',
+ 'action_at_1yr','final_action','final_action_date','decision_source','review_priority','orphan_designation_any','orphan_match','CNS','CGT','opioid','opioid_basis','replaced_by_later_meeting','n_products_same_meeting',
  'minutes_url','minutes_title','fr_notice','fr_snippet','orphan_for_indication','orphan_indication_basis','priority_basis','center_basis','vote_type','vote_type_basis','verified_vote','vote_source_tier','verified_outcome','outcome_source_tier','verified_orphan','source','curated_source','notes']
 for c in cols:
     if c not in M: M[c]=''

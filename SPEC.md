@@ -10,7 +10,7 @@ Last vote question explicitly on approval/licensure/benefit-risk; else first eff
 `final_action` = latest known FDA decision (approved later counts as approved). Unverified/pending outcomes are excluded from 2x2 cells and counted separately. Never infer non-approval from a missing record.
 
 ## Strata
-Rare = `orphan_for_indication == Y` (OOPD designation for the reviewed indication, before the decision). Common = `N`. Priority = `review_priority == PRIORITY`. CGT = CTGTAC + Kymriah, Ryoncil, Carvykti, Abecma. Approval-only = `vote_type == approval/benefit-risk`.
+Rare = `orphan_for_indication == Y` (OOPD designation for the reviewed indication, before the decision). Common = `N`. Priority = `review_priority == PRIORITY` on the **original** application (openFDA ORIG, or a cited original-cycle source). A supplement's own review type is not the flag. Opioid = `opioid == Y` (an active moiety is an opioid agonist). CGT = CTGTAC + Kymriah, Ryoncil, Carvykti, Abecma. Approval-only = `vote_type == approval/benefit-risk`.
 
 ## Rules for changes
 All corrections go in `scripts/cur.py` (`c(...)` for row-level curation, `fo(...)` / `orph(...)` for field overrides) with a source URL. Never edit CSVs by hand. Charts are saved under new filenames when the numbers change.
@@ -18,6 +18,6 @@ All corrections go in `scripts/cur.py` (`c(...)` for row-level curation, `fo(...
 ## Acceptance test
 From a fresh clone with `pip install -r requirements.txt`:
 1. `./run_all.sh` exits 0 and prints `run_all.sh: OK` and `FAILURES: 0`.
-2. `data/adcom_full_pivotal.csv` has 156 rows and 47 columns; `center` is never blank; `orphan_for_indication` ∈ {Y,N,review,unverified}.
-3. `data/two_by_two.csv` (outcome=final) contains: All 90/6/10/43; Common 48/4/8/32; Rare 40/2/2/11; Rare + priority 29/1/1/8; CGT 10/0/0/1; Approval-only: All 72/6/8/30; Approval-only: Rare + priority 22/1/0/4 (AA/AR/RA/RR). Any intentional change must update this list and CHANGELOG.md.
-4. `charts/` contains `all_2x2_counts_v7.png`, `all_2x2_pct_v7.png`, `all_2x2_counts_approvalonly_v7.png`, `all_2x2_pct_approvalonly_v7.png`, the CGT `*_v4` / `*_approvalonly_v5` PNGs and the two `cgt_*_v4.pdf` tables, newer than the CSV.
+2. `data/adcom_full_pivotal.csv` has 156 rows and 49 columns; `center` is never blank; `orphan_for_indication` ∈ {Y,N,review,unverified}; `opioid` ∈ {Y,N} on every row.
+3. `data/two_by_two.csv` (outcome=final) contains: All 90/6/10/43; Common 48/4/8/32; Rare 40/2/2/11; Rare + priority 32/1/1/8; CGT 10/0/0/1; Approval-only: All 72/6/8/30; Approval-only: Rare + priority 25/1/0/4 (AA/AR/RA/RR). Any intentional change must update this list and CHANGELOG.md.
+4. `charts/` contains `all_2x2_counts_v8.png`, `all_2x2_pct_v8.png`, `all_2x2_counts_approvalonly_v8.png`, `all_2x2_pct_approvalonly_v8.png`, `cgt_2x2_pct_v5.png`, `cgt_2x2_pct_approvalonly_v6.png`, and the two `cgt_*_v5.pdf` tables, newer than the CSV.
