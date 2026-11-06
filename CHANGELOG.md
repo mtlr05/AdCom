@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 2026-11-06 — four-factor calibration tables
+- `scripts/amt130_factor_compare.py` writes `data/amt130_calibration.md` and `data/amt130_calibration.csv`. Each row is one pattern of orphan status, priority review, opioid, and cell and gene therapy. Predicted is the penalized probability. Observed, fit is the outcome rate on the meetings used to fit that model.
+
 ## 2026-11-05 — estimated clocks, three unverified left
 - A missing day is the 15th. A stated goal is used, including an expected date. A complete-response date is the goal only when it lands on one anniversary. Each basis says `(calculated)` and states the estimate. Log: `data/unapproved_priority_search_2026-11-05.csv`.
 - Eleven more rows set to STANDARD: Hydexor (both cycles), MNK-812, vernakalant, oxycodegol, tanezumab, sintilimab, poziotinib, NurOwn, ITCA 650, and condoliase. Nicotine mouth spray, Tookad, and AR19 stay unverified.

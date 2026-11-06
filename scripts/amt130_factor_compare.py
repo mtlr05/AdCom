@@ -22,6 +22,7 @@ import os
 
 import numpy as np
 import pandas as pd
+from scipy.special import expit
 from scipy.stats import beta as beta_dist
 from scipy.stats import chi2
 from scipy.stats import fisher_exact
@@ -474,6 +475,7 @@ def main():
         for r in rows:
             flat.append(dict(outcome=name, **{k: r[k] for k in r if k != "outcome"}))
     pd.DataFrame(flat).to_csv("amt130_one_at_a_time.csv", index=False)
+    write_calibration(m, joints)
 
     legend = "Joint model: " + ", ".join(LABEL[k] for k in selected) if selected else "No factor cleared the vote screen"
     draw(screens, joints, boots, joint_name="selected", legend=legend)
@@ -536,6 +538,126 @@ def draw(screens, joints, boots, joint_name="selected", legend="Joint model"):
     fig.savefig(path, dpi=150)
     plt.close()
     print("wrote", path)
+
+
+VOTE_QUESTIONS = ("approval/benefit-risk", "effectiveness-only")
+
+
+def pattern_name(orphan, priority, opioid, cgt):
+    """Short name for one cell of the four binary factors."""
+    parts = []
+    if orphan:
+        parts.append("Orphan")
+    parts.append(("priority" if parts else "Priority") if priority else ("standard" if parts else "Standard"))
+    if opioid:
+        parts.append("opioid")
+    if cgt:
+        parts.append("cell/gene therapy")
+    return ", ".join(parts)
+
+
+def calibration_rows(m, fit, ycol):
+    """One row per factor pattern. Predicted is the penalized probability.
+
+    All meetings are those with the four factors and a recorded outcome.
+    The fit is the meetings the four-factor model used: an approval,
+    benefit-risk, or effectiveness question, not superseded, and, for
+    approval, a final action.
+    """
+    b0 = fit["intercept"]
+    coef = fit["log_odds"]
+    groups = {}
+    for _, r in m.iterrows():
+        if pd.isna(r.orphan_y) or pd.isna(r.pri) or pd.isna(r.opioid_i):
+            continue
+        if pd.isna(r[ycol]):
+            continue
+        o, pr, op, cgt = int(r.orphan_y), int(r.pri), int(r.opioid_i), int(bool(r.cgt))
+        eta = (b0 + coef["orphan"] * o + coef["priority"] * pr
+               + coef["opioid"] * op + coef["CGT"] * cgt)
+        key = (o, pr, op, cgt)
+        slot = groups.setdefault(key, dict(p=float(expit(eta)), y=[], fit=[]))
+        y = int(bool(r[ycol])) if ycol == "approved" else int(r[ycol])
+        in_fit = (not bool(r.replaced) and pd.notna(r.fav)
+                  and r.vote_type in VOTE_QUESTIONS)
+        if ycol == "approved":
+            in_fit = in_fit and pd.notna(r.approved)
+        slot["y"].append(y)
+        slot["fit"].append(y if in_fit else None)
+    rows = []
+    for (o, pr, op, cgt), slot in groups.items():
+        ys = slot["y"]
+        fs = [v for v in slot["fit"] if v is not None]
+        rows.append(dict(
+            pattern=pattern_name(o, pr, op, cgt),
+            predicted=slot["p"],
+            all_k=int(sum(ys)), all_n=len(ys),
+            fit_k=int(sum(fs)), fit_n=len(fs),
+        ))
+    rows.sort(key=lambda rec: -rec["predicted"])
+    return rows
+
+
+def pct(x):
+    return f"{100 * x:.1f}%"
+
+
+def fraction(k, n):
+    return f"{k}/{n}"
+
+
+def calibration_markdown(vote_rows, app_rows):
+    def table(rows):
+        lines = [
+            "| Predicted | Pattern | All meetings | Observed | In the fit | Observed, fit |",
+            "| --- | --- | ---: | ---: | ---: | ---: |",
+        ]
+        for rec in rows:
+            lines.append(
+                "| " + " | ".join([
+                    pct(rec["predicted"]),
+                    rec["pattern"],
+                    fraction(rec["all_k"], rec["all_n"]),
+                    pct(rec["all_k"] / rec["all_n"]),
+                    fraction(rec["fit_k"], rec["fit_n"]),
+                    pct(rec["fit_k"] / rec["fit_n"]),
+                ]) + " |"
+            )
+        return "\n".join(lines)
+
+    return "\n".join([
+        "# Four-factor model: predicted probability and the rate in that cell",
+        "",
+        "The model is the penalized logistic regression on orphan status, priority review, opioid, and cell and gene therapy. **Predicted** is that model's probability for the pattern. **Observed, fit** is the share of meetings with the outcome among the meetings used to estimate the model. Compare those two columns. **In the fit** is that count. **Observed** counts every meeting with the same pattern and a recorded outcome. That count includes restriction questions, ties, and a meeting a later one replaced.",
+        "",
+        "A favourable vote is the committee's pivotal vote, coded 1 or 0. Approval means `final_action` begins with \"approved.\" A pending or unverified action is left out. The vote model uses 136 meetings. The approval model uses 135, because deramiocel has no final action.",
+        "",
+        "## Favourable vote",
+        "",
+        table(vote_rows),
+        "",
+        "## Approval",
+        "",
+        table(app_rows),
+        "",
+    ])
+
+
+def write_calibration(m, joints):
+    """Write the vote and approval calibration tables next to the other screen outputs."""
+    vote_rows = calibration_rows(m, joints["favourable"]["four"], "fav")
+    app_rows = calibration_rows(m, joints["approval"]["four"], "approved")
+    flat = []
+    for outcome, rows in (("favourable", vote_rows), ("approval", app_rows)):
+        for rec in rows:
+            flat.append(dict(outcome=outcome, **rec,
+                             observed=rec["all_k"] / rec["all_n"],
+                             observed_fit=rec["fit_k"] / rec["fit_n"]))
+    pd.DataFrame(flat).to_csv("amt130_calibration.csv", index=False)
+    with open("amt130_calibration.md", "w", encoding="utf-8") as f:
+        f.write(calibration_markdown(vote_rows, app_rows))
+    print("wrote amt130_calibration.md")
+    return vote_rows, app_rows
 
 
 def brief(p):

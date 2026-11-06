@@ -107,6 +107,8 @@ This is the screen-selected model with cell and gene therapy added. It uses 136 
 | Opioid | -1.14 | -0.86 | -1.28 | -1.09 |
 | Cell and gene therapy | 0.59 | 0.13 | 0.79 | 0.52 |
 
+The predicted probability for each pattern, set against the share of favourable votes and of approvals in that pattern, is `amt130_calibration.md`.
+
 The vote drop-one p-values are 0.46 for orphan status, 0.004 for priority review, 0.058 for opioid, and 0.86 for cell and gene therapy. The criterion is 164.2 without the fourth factor and 166.1 with it, so cell and gene therapy does not earn its place. The bootstrap intervals are -0.26 to 1.13, 0.42 to 1.76, -1.67 to -0.08, and -0.75 to 1.00. For approval the drop-one p-values are 0.94, 0.034, 0.013, and 0.30, and the criterion moves from 160.7 to 161.6. The approval bootstrap intervals are -0.56 to 0.85, 0.06 to 1.46, -1.91 to -0.34, and -0.25 to 1.14. Orphan status and cell and gene therapy cross zero on both outcomes once priority review is in the model.
 
 ### Orphan status and cell and gene therapy together
@@ -279,4 +281,4 @@ The whole table has 156 rows. Votes come from FDA minutes or transcripts for 137
 
 ## Appendix. Files
 
-The meeting table is `adcom_full_pivotal.csv`. The four-cell counts are `two_by_two.csv`. The factor lookups are `factor_verification.csv`. This screen is `amt130_one_at_a_time.csv` and `amt130_factor_compare.json`. The figure is `charts/amt130_factor_compare.png`. The fit is `scripts/amt130_factor_compare.py`, run from this folder. Corrections to the meeting table are made in `scripts/cur.py` and applied when the table is rebuilt.
+The meeting table is `adcom_full_pivotal.csv`. The four-cell counts are `two_by_two.csv`. The factor lookups are `factor_verification.csv`. This screen is `amt130_one_at_a_time.csv` and `amt130_factor_compare.json`. The predicted-versus-observed tables are `amt130_calibration.md` and `amt130_calibration.csv`. The figure is `charts/amt130_factor_compare.png`. The fit is `scripts/amt130_factor_compare.py`, run from this folder. Corrections to the meeting table are made in `scripts/cur.py` and applied when the table is rebuilt.
