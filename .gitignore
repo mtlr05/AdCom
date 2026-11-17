@@ -4,3 +4,4 @@ data/pdf/
 data/txt/
 data/html/
 .env
+.vercel
