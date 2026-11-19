@@ -1,7 +1,14 @@
-# AGENTS.md: how `adcom_full_pivotal.csv` / `adcom_full.xlsx` was built
+# AGENTS.md
+
+This repository holds two projects. They do not share a pipeline.
+
+- **Advisory-committee dataset.** The rest of this file. An agent working on the dataset does not edit `natural-history/`.
+- **Orphan natural-history page.** `natural-history/`. An agent working on the page does not run the dataset pipeline and does not edit the CSVs. The inclusion class is in `natural-history/README.md`. Follow that file. Do not restate the class elsewhere.
+
+# How `adcom_full_pivotal.csv` / `adcom_full.xlsx` was built
 
 Audience: any agent or person who needs to rebuild, audit, extend, or correct this dataset.
-Location: this repo. Scripts in `scripts/`, data (and the pipeline working directory) in `data/`, charts in `charts/`. Run `./run_all.sh`.
+Location: `scripts/`, `data/` (the pipeline working directory), and `charts/`. Run `./run_all.sh` from the dataset, not from `natural-history/`.
 Last updated: 2026-11-05.
 
 ## 1. What the dataset is

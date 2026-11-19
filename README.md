@@ -1,3 +1,10 @@
+# AdCom
+
+This repository holds two projects. They do not share a pipeline.
+
+- **Advisory-committee dataset.** One row per meeting and product, documented below. `run_all.sh` builds it. Editing the natural-history page does not change `adcom_full_pivotal.csv`.
+- **Orphan natural-history page.** A separate project in [`natural-history/`](natural-history/README.md). `run_all.sh` does not build it.
+
 # FDA advisory committee pivotal votes vs FDA decisions (2016-11-04 to 2026)
 
 One row per adcom meeting x product where the committee voted on approval (or the closest effectiveness question) of a specific NDA/BLA, with the FDA's later decision, orphan status for the indication, review priority, center, CGT flag and vote type. Built as a prior for adcom outcome probabilities (e.g. uniQure AMT-130).

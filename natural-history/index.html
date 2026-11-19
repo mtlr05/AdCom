@@ -286,7 +286,7 @@
 <header class="hero">
   <div class="shell">
     <h1>Orphan drugs compared with natural history</h1>
-    <p>FDA decisions where an orphan-designated product used an untreated or usual-care cohort in the efficacy package. Filter the table; open <strong>Notes</strong> for sources and numbers.</p>
+    <p>FDA decisions where an orphan-designated product used the natural-history class under How rows were chosen. Filter the table; open <strong>Notes</strong> for sources and numbers.</p>
     <p class="meta">Updated November 2026 · Not an official FDA or sponsor site</p>
   </div>
 </header>
@@ -312,7 +312,7 @@
       <label>Therapy <input id="f-therapy" type="search" placeholder="Search name…" autocomplete="off"></label>
       <label>Role <select id="f-role"></select></label>
       <label>Functional endpoint <select id="f-endpoint"></select></label>
-      <label>Treated n <select id="f-n"></select></label>
+      <label>Treated n <select id="f-n" aria-label="Treated n, this size or smaller"></select></label>
       <label>AdCom <select id="f-adcom"></select></label>
       <label>Biomarker <select id="f-biomarker"></select></label>
       <label>Outcome <select id="f-decision"></select></label>
@@ -348,7 +348,7 @@
         <p>Tag columns are short on purpose; detail is in <strong>Notes</strong>.</p>
         <ul>
           <li><strong>Functional endpoint</strong> — pre-specified measure of how the patient functions. <em>Survival</em> and <em>Not a functional scale</em> are separate tags (labs, bleeding, imaging).</li>
-          <li><strong>Treated n</strong> — size of the treated group in the main analysis. Control counts are in Notes.</li>
+          <li><strong>Treated n</strong> — size of the treated group in the main analysis. The filter keeps that size or smaller. Control counts are in Notes. Rows marked <em>Not found</em> stay hidden while a ceiling is set.</li>
           <li><strong>Biomarker</strong> — <em>Yes</em> if a marker tracked biology in that program; <em>Endpoint</em> if the marker is the endpoint. Company figures are labeled in Notes.</li>
           <li><strong>AdCom</strong> — <em>No</em> may mean FDA said no meeting, or (for 2016–2026 products) absence from this project’s meeting list. <em>Pending</em> — none held, and one may still be planned. <em>Not found</em> — approval before 4 Nov 2016; letter not checked.</li>
           <li><strong>Not found</strong> — the FDA documents read for this row do not state the field.</li>
@@ -359,25 +359,21 @@
     <details>
       <summary>How rows were chosen (inclusion)</summary>
       <div class="details-body">
-        <p>A product is listed only if both are true:</p>
-        <ol>
-          <li>FDA orphan designation for the indication in the application.</li>
-          <li>Efficacy package used an untreated or usual-care cohort followed for the disease course — as the decision comparison or as supportive material FDA reviewed.</li>
-        </ol>
-        <p>Approval is not required. Sample size, significance, and AdCom are columns, not entry rules. This is not a full screen of every orphan drug or every natural-history use at FDA.</p>
+        <p>A product is listed only if it has an FDA orphan designation for the indication and the efficacy package used the natural-history class in the <a href="README.md">project README</a>. That class is subject-level data from a natural history study, medical records, or a registry, for the untreated course of the disease. A literature rate, a chart review, another trial’s arm, and the patient’s own baseline are not that class.</p>
+        <p>Approval is not required. Sample size, significance, and AdCom are columns, not entry rules. Original approvals from 1 Nov 2022 through 19 Nov 2026 were screened. The log is <a href="screen_log.csv">screen_log.csv</a>. This is not a full screen of every orphan drug or every efficacy supplement.</p>
       </div>
     </details>
 
     <details>
       <summary>Method and sources</summary>
       <div class="details-body">
-        <p>Built from two published reviews plus FDA lists and selected letters after October 2022. Each row was filled from FDA letters or reviews unless marked as company data.</p>
+        <p>Built from two published reviews, then from CDER novel approvals, CBER biological approvals, and openFDA complete-response letters through 19 Nov 2026. The class is in the <a href="README.md">project README</a>. Each row was filled from an FDA letter, review, label, or snapshot unless marked as company data.</p>
         <ol>
-          <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8332598/">Jahanshahi et al.</a> — external controls in FDA approvals 2000–2019; kept rare-disease rows with retrospective natural history + orphan designation.</li>
-          <li><a href="https://doi.org/10.1186/s13023-024-03111-2">Vaghela et al.</a> — non-oncologic orphan NDAs/BLAs Jan 2017–Oct 2022 with real-world evidence in reviews.</li>
-          <li><a href="https://www.fda.gov/science-research/real-world-evidence/cber-biological-product-approvals-used-real-world-evidence">CBER RWE list</a> — e.g. Zolgensma, Rethymic, Kebilidi.</li>
-          <li>Manual adds: Sohonos, troriluzole, vatiquinone, elamipretide, FAYUVI, RGX-121; AdCom dataset for Skysona, deramiocel; AMT-130 orphan record 525216 (company figures labeled).</li>
-          <li>AdCom <em>No</em> for Viltepso, Voxzogo, Crysvita, Omegaven: not in project meeting files (4 Nov 2016–present). ~19 meetings vs Daval et al. remain unidentified.</li>
+          <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8332598/">Jahanshahi et al.</a> — external controls in FDA approvals 2000–2019; kept rare-disease rows with retrospective natural history and orphan designation.</li>
+          <li><a href="https://doi.org/10.1186/s13023-024-03111-2">Vaghela et al.</a> — non-oncologic orphan NDAs/BLAs Jan 2017–Oct 2022; kept the natural-history bucket, not chart reviews and not another study’s arm.</li>
+          <li><a href="https://www.fda.gov/science-research/real-world-evidence/cber-biological-product-approvals-used-real-world-evidence">CBER RWE list</a> — cross-check, not the list. Examples already in the table: Zolgensma, Rethymic, Kebilidi.</li>
+          <li>Forward screen, 1 Nov 2022 through 19 Nov 2026: CDER novel-drug pages, CBER BLA pages, and the openFDA complete-response set (100 letters, last updated 18 Nov 2026). New rows from that screen: Lembaz, Zycubo, Kygevvi, Skyclarys, Miplyffa, Yuviwel, and the Brineura under-3 supplement.</li>
+          <li>AdCom <em>No</em> for products absent from this project’s meeting files (4 Nov 2016–present). ~19 meetings vs Daval et al. remain unidentified.</li>
         </ol>
         <p>Jahanshahi M, et al. <cite>Ther Innov Regul Sci</cite>. 2021;55(5):1019–1035. doi:10.1007/s43441-021-00302-y.</p>
         <p>Vaghela S, et al. <cite>Orphanet J Rare Dis</cite>. 2024;19:117. doi:10.1186/s13023-024-03111-2.</p>
@@ -407,7 +403,16 @@
           <li><strong>Lumizyme, Nexviazyme, Pombiliti</strong> — pivotal comparisons were randomized; infantile Myozyme row covers NH Pompe.</li>
           <li><strong>Oncology single-arm ORR</strong> — out of scope (Vaghela excluded oncology).</li>
           <li><strong>Zavesca</strong> — US Gaucher indication, not NPC.</li>
-          <li><strong>Xenpozyme, Lamzede, Miplyffa, Aqneursa</strong> — not adjudicated in this file yet.</li>
+          <li><strong>Lamzede</strong> — Beck et al. 2013 is cited to describe alpha-mannosidosis. The pivotal trial was randomized (FDA integrated review, BLA 761278).</li>
+          <li><strong>Aqneursa</strong> — the integrated review for NDA 219132 uses natural-history papers to interpret the scale. It does not compare patients with a subject-level untreated cohort.</li>
+          <li><strong>Xenpozyme</strong> — the adult trial was randomized. Pediatric efficacy was extrapolated from that trial. ASCEND-Peds was not an untreated-cohort comparison (<a href="https://www.fda.gov/media/185753/download">FDA dose-escalation summary</a>).</li>
+          <li><strong>Yartemlea</strong> — the control FDA used is a literature response rate. Jahanshahi counts that as published data, not retrospective natural history. The Kyoto registry comparison was called inconclusive (FDA integrated review, BLA 761152).</li>
+          <li><strong>Ctexli</strong> — confirmatory natural-history material is published literature on the disease course, not a subject-level untreated cohort (<a href="https://www.fda.gov/media/193803/download">FDA LEADER 3D</a>).</li>
+          <li><strong>Evrysdi</strong> — the summary review treats a literature performance threshold as the external control for FIREFISH, not a matched subject-level cohort (NDA 213535 summary review).</li>
+          <li><strong>Elevidys</strong> — external-control data, including CINRG, were in the file. A secondary account of the Center Director’s memo says they were not helpful, and approval rested on the randomized study. The summary basis was not re-read for a tally, so there is no row.</li>
+          <li><strong>Kresladi</strong> — FDA did not accept the historical survival benchmark. Approval used neutrophil CD18/CD11a expression (summary basis, 26 Mar 2026).</li>
+          <li><strong>Dichloroacetate (Saol, NDA 218679)</strong> — the 27 Aug 2025 complete response letter says a published 2012 natural-history paper could not be used as the survival comparison.</li>
+          <li><strong>Waskyra</strong> — severe infections were compared with the patient’s own pre-treatment rate (FDA label).</li>
         </ul>
       </div>
     </details>
@@ -418,6 +423,13 @@
 
 <script type="application/json" id="data">
 [
+  {"therapy":"Lembaz (adrabetadex), infantile-onset Niemann-Pick C, 2026","role":"Primary comparison","endpoint":"Survival","n":"36","adcom":"No","biomarker":"Not found","decision":"Yes","notes":"Survival from the index age: 12 of 36 deaths (33.3%) versus a weighted 24 (66.9%) in the external control; median 102 versus 59 months; hazard ratio 0.45 (95% CI 0.21 to 0.95). Study 1 is a prospective observational natural-history study. Thirty-six treated patients were matched to untreated patients on subtype, age at neurological onset, and baseline miglustat use. The external-control file has 26 patients, weighted to 36. AdCom: absent from this project's pivotal table and excluded.csv (meetings from 4 Nov 2016). Not an approval-letter sentence. Orphan: OOPD 386412, 2-hydroxypropyl-beta-cyclodextrin for Niemann-Pick C, designated 18 Feb 2013; the local export still says not approved. Source: FDA label, NDA 220996, revised November 2026. Approval date 17 Nov 2026 is the CDER novel-approval table."},
+  {"therapy":"Zycubo (copper histidinate), Menkes disease, 2026","role":"Primary comparison","endpoint":"Survival","n":"31","adcom":"No","biomarker":"Not found","decision":"Yes","notes":"Early-treatment survival versus an untreated contemporaneous external-control cohort collected under a protocol amendment. 16 of 31 (52%) alive versus 2 of 17 (12%); median 177.1 versus 17.6 months; hazard ratio 0.22 (95% CI 0.10 to 0.49). A late-treatment comparison was secondary (35 versus 16). AdCom: absent from this project's pivotal table and excluded.csv (meetings from 4 Nov 2016). Not an approval-letter sentence. Orphan: OOPD 366312, designated 14 May 2012, approved 12 Jan 2026. A 30 Sep 2025 complete response letter cited facility inspections, not the external control. Source: FDA label, NDA 211241."},
+  {"therapy":"Kygevvi (doxecitine and doxribtimine), TK2 deficiency, 2025","role":"Primary comparison","endpoint":"Survival","n":"78","adcom":"No","biomarker":"Not found","decision":"Yes","notes":"Survival in 78 treated patients versus 78 matched untreated patients: 3 deaths (3.8%) versus 28 (35.9%); hazard ratio 0.14 (95% CI 0.04 to 0.39). Restricted mean survival at 10 years was 9.6 versus 5.7 years. The control is untreated patients from a retrospective study and published cases, matched on age at symptom onset. AdCom: absent from this project's pivotal table and excluded.csv (meetings from 4 Nov 2016). Not an approval-letter sentence. Orphan: OOPD 532716, designated 7 Jul 2016, approved 3 Nov 2025. Source: FDA Drug Trials Snapshot."},
+  {"therapy":"Skyclarys (omaveloxolone), Friedreich ataxia, 2023","role":"Supportive or not accepted","endpoint":"Yes","n":"51","adcom":"No","biomarker":"Not found","decision":"Yes","notes":"The randomized trial was not enough on its own. In the full analysis set, mFARS favored omaveloxolone by 2.41 points (p=0.0138), and the key secondaries were not statistically significant. FDA required a propensity-matched comparison of the open-label extension with the FA-COMS natural-history cohort at 3 years (pooled analysis p=0.0002). The matched sample size was not stated in that case study. Treated n is 51, the all-randomized omaveloxolone arm. AdCom: absent from this project's pivotal table and excluded.csv (meetings from 4 Nov 2016). Not an approval-letter sentence. Orphan: OOPD 461214, approved 28 Feb 2023. Source: FDA LEADER 3D, media/193804."},
+  {"therapy":"Yuviwel (navepegritide), achondroplasia, 2026","role":"Supportive or not accepted","endpoint":"Yes","n":"57","adcom":"No","biomarker":"Not found","decision":"Yes","notes":"The randomized trial, ASND0036, enrolled 84 children; 57 received navepegritide. Annualized growth velocity at week 52 was 5.9 cm/year versus 4.4 on placebo (difference 1.5 cm/year). To look past one year, FDA compared weeks 52 to 104 in the extension with matched untreated participants from the observational study TCC-NHS-01: 5.29 versus 4.00 cm/year (difference 1.29; 95% CI 0.89 to 1.68). Fifty-four treated participants were available for that match. Confirmatory evidence for approval was the phase 2 trial. The natural-history comparison contextualized the second year. AdCom: absent from this project's pivotal table and excluded.csv (meetings from 4 Nov 2016). Not an approval-letter sentence. Orphan: OOPD 673418, approved 27 Feb 2026. Source: FDA integrated review, NDA 219164."},
+  {"therapy":"Miplyffa (arimoclomol), Niemann-Pick C, 2024","role":"Supportive or not accepted","endpoint":"Yes","n":"50","adcom":"No","biomarker":"Not found","decision":"Yes","notes":"The randomized trial, NPC-002, enrolled 50 patients. The resubmission compared the open-label extension with the NIH natural-history study (32 treated patients with at least 4 years of follow-up versus 23 NIH patients). That post-hoc comparison did not reach statistical significance and did not carry the approval. AdCom: absent from this project's pivotal table and excluded.csv (meetings from 4 Nov 2016). Not an approval-letter sentence. Orphan: OOPD 458814, approved 20 Sep 2024. Source: FDA integrated review, NDA 214927."},
+  {"therapy":"Brineura (cerliponase alfa), CLN2 under 3 years, 2024","role":"Primary comparison","endpoint":"Yes","n":"8","adcom":"No","biomarker":"Not found","decision":"Yes","notes":"Trial 3, label revised July 2024. In patients under 3 years, 0 of 8 treated had a 2-point motor decline or a score of zero by week 169. Seven were matched to 18 untreated patients from the natural-history cohort; 11 of those 18 (61%) had that decline. All seven matched treated children who started at a motor score of 3 were still at 3. AdCom: the 2017 letter says not referred; this supplement is not a separate meeting in the project files. Source: FDA label, BLA 761052, revised July 2024."},
   {"therapy":"Kebilidi (eladocagene exuparvovec), AADC deficiency, 2024","role":"Primary comparison","endpoint":"Yes","n":"12","adcom":"No","biomarker":"Yes","decision":"Yes","notes":"Gross motor milestone at week 48: 8 of 12 treated, 0 of 44 untreated. AdCom: approval letter says not referred. Biomarker: CSF homovanillic acid and putaminal 18F-DOPA rose (FDA summary)."},
   {"therapy":"Zolgensma (intravenous onasemnogene), infantile SMA, 2019","role":"Primary comparison","endpoint":"Yes","n":"21","adcom":"No","biomarker":"Not found","decision":"Yes","notes":"Survival without permanent ventilation, and motor milestones, versus the PNCR cohort. Phase 3 n=21; phase 1 n=15 (12 at the high dose) versus 23. AdCom: summary basis says no meeting held."},
   {"therapy":"Lenmeldy (atidarsagene autotemcel), metachromatic leukodystrophy, 2024","role":"Primary comparison","endpoint":"Yes","n":"37","adcom":"No","biomarker":"Not found","decision":"Yes","notes":"Yes for pre-symptomatic late-infantile disease, on severe motor impairment-free survival. The early-juvenile comparison was limited by sample size. 37 treated (20 in the main subgroup) versus 28 late-infantile and 17 early-juvenile. AdCom: summary basis says not referred."},
@@ -444,7 +456,7 @@
   {"therapy":"Ammonul (phenylacetate and benzoate), urea-cycle hyperammonemia, 2005","role":"Primary comparison","endpoint":"Survival","n":"316","adcom":"Not found","biomarker":"Not found","decision":"Yes","notes":"Survival versus a historical cohort. Not a functional scale. Ammonia marks the crisis. A separate concordance analysis was not found. AdCom: approval is before this project's meeting list, which starts 4 Nov 2016."},
   {"therapy":"Troriluzole, spinocerebellar ataxia, 2025","role":"Primary comparison","endpoint":"No","n":"Not found","adcom":"No","biomarker":"Not found","decision":"CRL","notes":"The randomized study missed its pre-specified endpoints. The company reported 50–70% slowing on a 3-year external control. FDA did not accept that study. n was not found for the external-control study. AdCom: planned, then canceled 21 Aug 2025. The complete response letter does not cite a discordant biomarker."},
   {"therapy":"Vatiquinone, Friedreich ataxia, 2025","role":"Supportive or not accepted","endpoint":"No","n":"143","adcom":"Not found","biomarker":"No","decision":"CRL","notes":"MOVE-FA missed the mFARS primary and the key secondaries. Open-label comparisons with FACOMS did not rescue it. 143 in MOVE-FA. AdCom: no meeting found. Biomarker: FDA said the biomarker data were not confirmatory evidence."},
-  {"therapy":"Elamipretide, Barth syndrome, 2025","role":"Supportive or not accepted","endpoint":"No","n":"12","adcom":"Yes","biomarker":"No","decision":"CRL","notes":"Randomized crossover missed 6-minute walk (p=0.97) and fatigue (p=0.89). A retrospective natural-history study was also submitted. 12 in the randomized study. AdCom: 10 Oct 2024, effective 10–6. Biomarker: left-ventricular stroke volume, the cardiolipin ratio, and acylcarnitines were not accepted as surrogates."},
+  {"therapy":"Forzinity (elamipretide), Barth syndrome, 2025","role":"Supportive or not accepted","endpoint":"No","n":"12","adcom":"Yes","biomarker":"No","decision":"Yes, after a CRL","notes":"Randomized crossover missed 6-minute walk (p=0.97) and fatigue (p=0.89). A retrospective natural-history study was also submitted and was not the basis of approval. 12 in the randomized study. AdCom: 10 Oct 2024, effective 10–6. Biomarker: left-ventricular stroke volume, the cardiolipin ratio, and acylcarnitines were not accepted as surrogates. Complete response letter 15 May 2025. Accelerated approval 19 Sep 2025 for knee-extensor strength. Source: FDA approval letter, NDA 215244."},
   {"therapy":"FAYUVI (UX111, rebisufligene etisparvovec), Sanfilippo syndrome type A, 2026","role":"Primary comparison","endpoint":"Yes","n":"17","adcom":"No","biomarker":"Yes","decision":"Yes, after a CRL","notes":"Bayley-III cognitive raw score from 24 to 60 months of age: least-squares mean change 16.0 in the treated group and −7.6 in the untreated group, difference 23.5 (95% CI 17.2 to 29.9), p<0.0001. 17 in the primary analysis versus 27 untreated. AdCom: summary basis says no meeting held. Biomarker: cerebrospinal-fluid heparan sulfate fell and the reduction was maintained through 24 months. The summary basis treats that change as support for the clinical effect. A complete response letter on 7 Jul 2025 cited manufacturing and facility deficiencies. Approval on 17 Sep 2026 was traditional."},
   {"therapy":"RGX-121 (clemidsogene lanparvovec), MPS II, 2026","role":"Primary comparison","endpoint":"No","n":"13","adcom":"No","biomarker":"No","decision":"CRL","notes":"The application used a cerebrospinal-fluid heparan sulfate (D2S6) threshold as the surrogate. REGENXBIO’s 9 Feb 2026 release says the 7 Feb 2026 letter did not accept that surrogate, the comparability of the natural-history control, or the definition of neuronopathic disease. 13 in the pivotal cohort, from a press account of the letter. The natural-history sample size was not read. AdCom: absent from this project's pivotal table and excluded.csv (meetings from 4 Nov 2016). Not an approval-letter sentence. On 24 Aug 2026 the company said FDA had placed a clinical hold and that it did not expect to resubmit in the near term."},
   {"therapy":"Deramiocel, Duchenne cardiomyopathy, 2026","role":"Primary comparison","endpoint":"No","n":"Not found","adcom":"Yes","biomarker":"Not found","decision":"Pending","notes":"FDA briefing for 29 Jul 2026 (media/193839): HOPE-3’s pre-specified primary was the 12-month change in PUL 2.0 total score, and the key secondary was left-ventricular ejection fraction. Neither was met on the pre-specified analysis. FDA treated later changes to the analysis plan as post-hoc. In HOPE-2 the pre-specified primary was the PUL 1.2 elbow domain; FDA did not accept a percentile-rank analysis written after unblinding. AdCom: 29 Jul 2026, 3–9, on substantial evidence of effectiveness. Outcome pending."},
@@ -530,9 +542,10 @@
     all.textContent = "All";
     sel.appendChild(all);
     nValues().forEach(function (value) {
+      if (value === "Not found") return;
       var opt = document.createElement("option");
       opt.value = value;
-      opt.textContent = value;
+      opt.textContent = "\u2264 " + value;
       sel.appendChild(opt);
     });
   })();
@@ -549,6 +562,11 @@
       var v = el.value.trim();
       if (!v) return true;
       if (textKeys[key]) return String(row[key]).toLowerCase().indexOf(v.toLowerCase()) !== -1;
+      if (key === "n") {
+        var got = Number(row.n);
+        if (!isFinite(got)) return false;
+        return got <= Number(v);
+      }
       return row[key] === v;
     });
   }

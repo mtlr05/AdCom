@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/", "destination": "/orphan_natural_history.html" }
-  ]
-}
