@@ -20,4 +20,4 @@ From a fresh clone with `pip install -r requirements.txt`:
 1. `./run_all.sh` exits 0 and prints `run_all.sh: OK` and `FAILURES: 0`.
 2. `data/adcom_full_pivotal.csv` has 156 rows and 49 columns; `center` is never blank; `orphan_for_indication` ∈ {Y,N,review,unverified}; `opioid` ∈ {Y,N} on every row.
 3. `data/two_by_two.csv` (outcome=final) contains: All 90/6/10/43; Common 48/4/8/32; Rare 40/2/2/11; Rare + priority 32/1/1/8; CGT 10/0/0/1; Approval-only: All 72/6/8/30; Approval-only: Rare + priority 25/1/0/4 (AA/AR/RA/RR). Any intentional change must update this list and CHANGELOG.md.
-4. `charts/` contains `all_2x2_counts_v8.png`, `all_2x2_pct_v8.png`, `all_2x2_counts_approvalonly_v8.png`, `all_2x2_pct_approvalonly_v8.png`, `cgt_2x2_pct_v5.png`, `cgt_2x2_pct_approvalonly_v6.png`, and the two `cgt_*_v5.pdf` tables, newer than the CSV.
+4. `charts/` contains `all_2x2_counts_v9.png`, `all_2x2_pct_v9.png`, `all_2x2_counts_approvalonly_v8.png`, `all_2x2_pct_approvalonly_v8.png`, `cgt_2x2_pct_v6.png`, `cgt_2x2_pct_approvalonly_v6.png`, and the two `cgt_*_v6.pdf` tables, newer than the CSV.

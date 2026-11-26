@@ -4,7 +4,7 @@ Historical rates among products that already had a product-approval vote. The mo
 
 AMT-130 vector: orphan Y (OOPD 525216, 27 Sep 2017, AAV5 microRNA to huntingtin, uniQure), priority review (uniQure, 2 and 4 Nov 2026, company release), CGT, CBER, initial BLA. CNS is predicted both ways because the committee is not set. CNS in this table means the committee was PCNS or PDAC.
 
-Validity: recomputed 2x2 cells match `two_by_two.csv`. Approval-question rows: 116. With a final outcome: 116. Vote source among approval-question rows: {'FDA': 101, 'press': 15}. Outcome source: {'FDA': 49, 'FDA (openFDA)': 34, 'press': 27, 'SEC/company': 6}. Priority still unverified: 31. Orphan still `review`: 2 (dropped from models that use orphan). Final vs 1-year label disagreements: 13 of 68 rows that have both.
+Validity: recomputed 2x2 cells match `two_by_two.csv`. Approval-question rows: 116. With a final outcome: 116. Vote source among approval-question rows: {'FDA': 101, 'press': 15}. Outcome source: {'FDA': 49, 'FDA (openFDA)': 34, 'press': 27, 'SEC/company': 6}. Priority still unverified: 3. Orphan still `review`: 2 (dropped from models that use orphan). Final vs 1-year label disagreements: 13 of 68 rows that have both.
 
 R-squared is Nagelkerke pseudo-R-squared. AIC keeps the smaller model when extra factors do not help. The intercept prior is Normal(0, 2.5); other coefficients Normal(0, 1). Unpenalized fits with a coefficient past 8 are marked separated and are not used as a probability.
 
@@ -12,48 +12,48 @@ R-squared is Nagelkerke pseudo-R-squared. AIC keeps the smaller model when extra
 
 | Screen | Factors | n | Nagelkerke R2 | AIC | P | Bootstrap 95% | Stratum n (events) | Stratum median (95% CrI) |
 |---|---|---:|---:|---:|---:|---|---:|---|
-| P(favourable) approval-question votes | priority | 92 | 0.077 | 90.4 | 0.87 | 0.79–0.94 | 46 (41) | 0.89 (0.78–0.96) |
-| P(favourable) approval-question votes | orphan+priority | 91 | 0.082 | 91.7 | 0.88 | 0.77–0.96 | 27 (23) | 0.85 (0.69–0.95) |
-| P(favourable) approval-question votes | priority+initial | 92 | 0.079 | 92.3 | 0.88 | 0.80–0.94 | 35 (32) | 0.91 (0.79–0.98) |
-| P(favourable) approval-question votes | orphan+priority+initial | 91 | 0.085 | 93.5 | 0.89 | 0.78–0.96 | 22 (19) | 0.86 (0.68–0.96) |
-| P(favourable) approval-question votes | orphan+CNS+cber+initial | 115 | 0.154 | 142.5 | 0.87 | 0.76–0.94 | 6 (6) | 0.96 (0.67–1.00) |
-| P(FDA final approval) | priority | 92 | 0.008 | 74.9 | 0.85 | 0.76–0.93 | 46 (39) | 0.85 (0.72–0.93) |
-| P(FDA final approval) | priority+initial | 92 | 0.034 | 75.6 | 0.87 | 0.78–0.95 | 35 (31) | 0.88 (0.75–0.96) |
-| P(FDA final approval) | orphan+priority | 91 | 0.010 | 76.5 | 0.84 | 0.72–0.93 | 27 (22) | 0.81 (0.64–0.93) |
-| P(FDA final approval) | orphan+priority+initial | 91 | 0.041 | 76.9 | 0.86 | 0.75–0.94 | 22 (19) | 0.86 (0.68–0.96) |
-| P(FDA final approval) | orphan+CNS+cber+initial | 115 | 0.113 | 143.3 | 0.85 | 0.73–0.93 | 6 (6) | 0.96 (0.67–1.00) |
-| P(FDA final approval | vote) | vote | 116 | 0.585 | 85.4 | 0.89 | 0.82–0.93 | 78 (72) | 0.92 (0.85–0.97) |
-| P(FDA final approval | vote) | initial+vote | 116 | 0.589 | 86.8 | 0.88 | 0.81–0.93 | 58 (53) | 0.91 (0.82–0.97) |
-| P(FDA final approval | vote) | cber+vote | 116 | 0.587 | 87.1 | 0.92 | 0.87–0.95 | 9 (9) | 0.98 (0.76–1.00) |
-| P(FDA final approval | vote) | orphan+vote | 115 | 0.584 | 87.2 | 0.90 | 0.82–0.95 | 34 (32) | 0.94 (0.82–0.99) |
-| P(FDA final approval | vote) | CNS+cber+initial+vote | 116 | 0.591 | 90.5 | 0.91 | 0.85–0.95 | 7 (7) | 0.97 (0.71–1.00) |
+| P(favourable) approval-question votes | orphan+priority+opioid+CNS | 112 | 0.261 | 127.6 | 0.86 | 0.76–0.94 | 28 (24) | 0.85 (0.70–0.95) |
+| P(favourable) approval-question votes | priority+opioid+CNS | 113 | 0.235 | 128.6 | 0.82 | 0.73–0.89 | 45 (37) | 0.82 (0.69–0.91) |
+| P(favourable) approval-question votes | orphan+priority+opioid | 112 | 0.227 | 128.9 | 0.87 | 0.78–0.95 | 30 (26) | 0.86 (0.71–0.95) |
+| P(favourable) approval-question votes | orphan+priority+opioid+CNS+cber | 112 | 0.264 | 129.2 | 0.89 | 0.79–0.96 | 7 (7) | 0.97 (0.71–1.00) |
+| P(favourable) approval-question votes | orphan+priority+opioid+CNS+cber+initial | 112 | 0.264 | 131.2 | 0.89 | 0.77–0.96 | 5 (5) | 0.96 (0.62–1.00) |
+| P(FDA final approval) | priority+opioid+CNS | 113 | 0.193 | 128.1 | 0.79 | 0.68–0.88 | 45 (35) | 0.78 (0.64–0.88) |
+| P(FDA final approval) | orphan+priority+opioid+CNS | 112 | 0.203 | 128.6 | 0.83 | 0.69–0.92 | 28 (23) | 0.82 (0.65–0.93) |
+| P(FDA final approval) | priority+opioid+CNS+cber | 113 | 0.204 | 129.1 | 0.86 | 0.69–0.93 | 9 (8) | 0.87 (0.59–0.99) |
+| P(FDA final approval) | priority+opioid | 113 | 0.154 | 129.6 | 0.81 | 0.70–0.88 | 50 (40) | 0.80 (0.67–0.89) |
+| P(FDA final approval) | orphan+priority+opioid+CNS+cber+initial | 112 | 0.211 | 131.8 | 0.87 | 0.75–0.94 | 5 (5) | 0.96 (0.62–1.00) |
+| P(FDA final approval | vote) | priority+opioid+vote | 113 | 0.621 | 79.9 | 0.90 | 0.84–0.94 | 42 (40) | 0.95 (0.86–0.99) |
+| P(FDA final approval | vote) | priority+vote | 113 | 0.601 | 80.6 | 0.90 | 0.83–0.94 | 45 (43) | 0.95 (0.86–0.99) |
+| P(FDA final approval | vote) | priority+opioid+CNS+vote | 113 | 0.629 | 80.8 | 0.90 | 0.83–0.94 | 37 (35) | 0.94 (0.84–0.99) |
+| P(FDA final approval | vote) | priority+opioid+cber+vote | 113 | 0.623 | 81.6 | 0.92 | 0.86–0.96 | 8 (8) | 0.97 (0.74–1.00) |
+| P(FDA final approval | vote) | priority+opioid+CNS+cber+initial+vote | 113 | 0.632 | 84.3 | 0.91 | 0.85–0.96 | 6 (6) | 0.96 (0.67–1.00) |
 
 ## Same models, CNS on (joint PCNS)
 
 | Screen | Factors | P | Bootstrap 95% | Stratum n (events) | Stratum median (95% CrI) |
 |---|---|---:|---|---:|---|
-| P(favourable) approval-question votes | priority | 0.87 | 0.79–0.94 | 46 (41) | 0.89 (0.78–0.96) |
-| P(favourable) approval-question votes | orphan+priority | 0.88 | 0.77–0.96 | 27 (23) | 0.85 (0.69–0.95) |
-| P(favourable) approval-question votes | priority+initial | 0.88 | 0.80–0.94 | 35 (32) | 0.91 (0.79–0.98) |
-| P(favourable) approval-question votes | orphan+priority+initial | 0.89 | 0.78–0.96 | 22 (19) | 0.86 (0.68–0.96) |
-| P(favourable) approval-question votes | orphan+CNS+cber+initial | 0.93 | 0.82–0.98 | 0 (0) | n/a (n/a–n/a) |
-| P(FDA final approval) | priority | 0.85 | 0.76–0.93 | 46 (39) | 0.85 (0.72–0.93) |
-| P(FDA final approval) | priority+initial | 0.87 | 0.78–0.95 | 35 (31) | 0.88 (0.75–0.96) |
-| P(FDA final approval) | orphan+priority | 0.84 | 0.72–0.93 | 27 (22) | 0.81 (0.64–0.93) |
-| P(FDA final approval) | orphan+priority+initial | 0.86 | 0.75–0.94 | 22 (19) | 0.86 (0.68–0.96) |
-| P(FDA final approval) | orphan+CNS+cber+initial | 0.91 | 0.77–0.97 | 0 (0) | n/a (n/a–n/a) |
-| P(FDA final approval | vote) | vote | 0.89 | 0.82–0.93 | 78 (72) | 0.92 (0.85–0.97) |
-| P(FDA final approval | vote) | initial+vote | 0.88 | 0.81–0.93 | 58 (53) | 0.91 (0.82–0.97) |
-| P(FDA final approval | vote) | cber+vote | 0.92 | 0.87–0.95 | 9 (9) | 0.98 (0.76–1.00) |
-| P(FDA final approval | vote) | orphan+vote | 0.90 | 0.82–0.95 | 34 (32) | 0.94 (0.82–0.99) |
-| P(FDA final approval | vote) | CNS+cber+initial+vote | 0.92 | 0.86–0.96 | 0 (0) | n/a (n/a–n/a) |
+| P(favourable) approval-question votes | orphan+priority+opioid+CNS | 0.94 | 0.85–0.97 | 2 (2) | 0.90 (0.33–1.00) |
+| P(favourable) approval-question votes | priority+opioid+CNS | 0.90 | 0.82–0.95 | 5 (5) | 0.96 (0.62–1.00) |
+| P(favourable) approval-question votes | orphan+priority+opioid | 0.87 | 0.78–0.95 | 30 (26) | 0.86 (0.71–0.95) |
+| P(favourable) approval-question votes | orphan+priority+opioid+CNS+cber | 0.95 | 0.88–0.98 | 0 (0) | n/a (n/a–n/a) |
+| P(favourable) approval-question votes | orphan+priority+opioid+CNS+cber+initial | 0.95 | 0.87–0.98 | 0 (0) | n/a (n/a–n/a) |
+| P(FDA final approval) | priority+opioid+CNS | 0.89 | 0.79–0.94 | 5 (5) | 0.96 (0.62–1.00) |
+| P(FDA final approval) | orphan+priority+opioid+CNS | 0.92 | 0.82–0.97 | 2 (2) | 0.90 (0.33–1.00) |
+| P(FDA final approval) | priority+opioid+CNS+cber | 0.93 | 0.81–0.97 | 0 (0) | n/a (n/a–n/a) |
+| P(FDA final approval) | priority+opioid | 0.81 | 0.70–0.88 | 50 (40) | 0.80 (0.67–0.89) |
+| P(FDA final approval) | orphan+priority+opioid+CNS+cber+initial | 0.94 | 0.85–0.98 | 0 (0) | n/a (n/a–n/a) |
+| P(FDA final approval | vote) | priority+opioid+vote | 0.90 | 0.84–0.94 | 42 (40) | 0.95 (0.86–0.99) |
+| P(FDA final approval | vote) | priority+vote | 0.90 | 0.83–0.94 | 45 (43) | 0.95 (0.86–0.99) |
+| P(FDA final approval | vote) | priority+opioid+CNS+vote | 0.93 | 0.88–0.96 | 5 (5) | 0.96 (0.62–1.00) |
+| P(FDA final approval | vote) | priority+opioid+cber+vote | 0.92 | 0.86–0.96 | 8 (8) | 0.97 (0.74–1.00) |
+| P(FDA final approval | vote) | priority+opioid+CNS+cber+initial+vote | 0.95 | 0.90–0.97 | 0 (0) | n/a (n/a–n/a) |
 
-CNS off, the kept models give P(favourable) from 0.87 to 0.89 and P(FDA final approval), not conditioning on the vote, from 0.84 to 0.87.
+CNS off, the kept models give P(favourable) from 0.82 to 0.89 and P(FDA final approval), not conditioning on the vote, from 0.79 to 0.87.
 
-Conditioning on the vote, P(approve | favourable) runs from 0.88 to 0.92, and P(approve | unfavourable) from 0.28 to 0.37.
-The marginal, each model's P(favourable) times P(approve | favourable) plus the unfavourable term, runs from 0.67 to 0.82. The low end is a vote model whose paired stage-1 model does not include priority or CGT, so that end is not the AMT-130 covariate profile.
+Conditioning on the vote, P(approve | favourable) runs from 0.90 to 0.92, and P(approve | unfavourable) from 0.30 to 0.40.
+The marginal, each model's P(favourable) times P(approve | favourable) plus the unfavourable term, runs from 0.78 to 0.86. The low end is a vote model whose paired stage-1 model does not include priority or CGT, so that end is not the AMT-130 covariate profile.
 
-Best stable pre-meeting model for a favourable vote: orphan+CNS+cber+initial, Nagelkerke R2 0.154. That is a small share of the variation. Most of the association in this table is between the vote and the later FDA action, and the covariates are regulatory labels, not the data package.
+Best stable pre-meeting model for a favourable vote: orphan+priority+opioid+CNS+cber+initial, Nagelkerke R2 0.264. That is a small share of the variation. Most of the association in this table is between the vote and the later FDA action, and the covariates are regulatory labels, not the data package.
 
 Stratum column: Jeffreys beta-binomial on the rows that match AMT-130 on the factors in that model. A stratum under about 8 rows is a count, not a forecast. `final` counts a later approval as approved.
 
@@ -63,66 +63,78 @@ All pivotal votes (not only approval/benefit-risk questions), the 1-year FDA act
 
 | Screen | Factors | CNS | n | Nagelkerke R2 | AIC | P |
 |---|---|---:|---:|---:|---:|---:|
-| sensitivity all-pivotal P(favourable) | priority | 0 | 120 | 0.035 | 133.9 | 0.81 |
-| sensitivity all-pivotal P(favourable) | priority | 1 | 120 | 0.035 | 133.9 | 0.81 |
-| sensitivity all-pivotal P(favourable) | priority+CNS | 0 | 120 | 0.057 | 134.0 | 0.83 |
-| sensitivity all-pivotal P(favourable) | priority+CNS | 1 | 120 | 0.057 | 134.0 | 0.73 |
-| sensitivity all-pivotal P(favourable) | orphan+priority | 0 | 119 | 0.038 | 135.1 | 0.81 |
-| sensitivity all-pivotal P(favourable) | orphan+priority | 1 | 119 | 0.038 | 135.1 | 0.81 |
-| sensitivity all-pivotal P(favourable) | orphan+priority+CNS | 0 | 119 | 0.062 | 135.1 | 0.82 |
-| sensitivity all-pivotal P(favourable) | orphan+priority+CNS | 1 | 119 | 0.062 | 135.1 | 0.72 |
-| sensitivity all-pivotal P(favourable) | orphan+priority+CNS+initial | 0 | 119 | 0.071 | 136.4 | 0.83 |
-| sensitivity all-pivotal P(favourable) | orphan+priority+CNS+initial | 1 | 119 | 0.071 | 136.4 | 0.73 |
-| sensitivity all-pivotal P(FDA final approval) | orphan+priority+CNS+initial | 0 | 119 | 0.093 | 114.0 | 0.84 |
-| sensitivity all-pivotal P(FDA final approval) | orphan+priority+CNS+initial | 1 | 119 | 0.093 | 114.0 | 0.73 |
-| sensitivity all-pivotal P(FDA final approval) | priority+initial | 0 | 120 | 0.043 | 114.2 | 0.84 |
-| sensitivity all-pivotal P(FDA final approval) | priority+initial | 1 | 120 | 0.043 | 114.2 | 0.84 |
-| sensitivity all-pivotal P(FDA final approval) | orphan+priority+initial | 0 | 119 | 0.062 | 114.3 | 0.82 |
-| sensitivity all-pivotal P(FDA final approval) | orphan+priority+initial | 1 | 119 | 0.062 | 114.3 | 0.82 |
-| sensitivity all-pivotal P(FDA final approval) | priority+CNS+initial | 0 | 120 | 0.062 | 114.7 | 0.86 |
-| sensitivity all-pivotal P(FDA final approval) | priority+CNS+initial | 1 | 120 | 0.062 | 114.7 | 0.78 |
-| sensitivity all-pivotal P(FDA final approval | vote) | priority+initial+vote | 0 | 120 | 0.675 | 56.3 | 0.94 |
-| sensitivity all-pivotal P(FDA final approval | vote) | priority+initial+vote | 1 | 120 | 0.675 | 56.3 | 0.94 |
-| sensitivity all-pivotal P(FDA final approval | vote) | orphan+priority+initial+vote | 0 | 119 | 0.686 | 56.9 | 0.93 |
-| sensitivity all-pivotal P(FDA final approval | vote) | orphan+priority+initial+vote | 1 | 119 | 0.686 | 56.9 | 0.93 |
-| sensitivity all-pivotal P(FDA final approval | vote) | priority+vote | 0 | 120 | 0.645 | 58.0 | 0.93 |
-| sensitivity all-pivotal P(FDA final approval | vote) | priority+vote | 1 | 120 | 0.645 | 58.0 | 0.93 |
-| sensitivity all-pivotal P(FDA final approval | vote) | priority+CNS+initial+vote | 0 | 120 | 0.676 | 58.2 | 0.94 |
-| sensitivity all-pivotal P(FDA final approval | vote) | priority+CNS+initial+vote | 1 | 120 | 0.676 | 58.2 | 0.93 |
-| sensitivity all-pivotal P(FDA final approval | vote) | orphan+priority+CNS+initial+vote | 0 | 119 | 0.689 | 58.6 | 0.93 |
-| sensitivity all-pivotal P(FDA final approval | vote) | orphan+priority+CNS+initial+vote | 1 | 119 | 0.689 | 58.6 | 0.91 |
-| sensitivity 1-year approval | priority | 0 | 61 | 0.045 | 72.3 | 0.80 |
-| sensitivity 1-year approval | priority | 1 | 61 | 0.045 | 72.3 | 0.80 |
-| sensitivity 1-year approval | priority+initial | 0 | 61 | 0.146 | 69.8 | 0.82 |
-| sensitivity 1-year approval | priority+initial | 1 | 61 | 0.146 | 69.8 | 0.82 |
-| sensitivity 1-year approval | orphan+priority | 0 | 60 | 0.046 | 71.6 | 0.83 |
-| sensitivity 1-year approval | orphan+priority | 1 | 60 | 0.046 | 71.6 | 0.83 |
-| sensitivity 1-year approval | orphan+priority+initial | 0 | 60 | 0.106 | 71.0 | 0.83 |
-| sensitivity 1-year approval | orphan+priority+initial | 1 | 60 | 0.106 | 71.0 | 0.83 |
-| sensitivity 1-year approval | orphan+CNS+cber+initial | 0 | 67 | 0.128 | 88.4 | 0.68 |
-| sensitivity 1-year approval | orphan+CNS+cber+initial | 1 | 67 | 0.128 | 88.4 | 0.82 |
-| sensitivity 1-year approval | vote | vote | 0 | 68 | 0.320 | 73.1 | 0.76 |
-| sensitivity 1-year approval | vote | vote | 1 | 68 | 0.320 | 73.1 | 0.76 |
-| sensitivity 1-year approval | vote | initial+vote | 0 | 68 | 0.337 | 74.1 | 0.76 |
-| sensitivity 1-year approval | vote | initial+vote | 1 | 68 | 0.337 | 74.1 | 0.76 |
-| sensitivity 1-year approval | vote | cber+vote | 0 | 68 | 0.334 | 74.3 | 0.69 |
-| sensitivity 1-year approval | vote | cber+vote | 1 | 68 | 0.334 | 74.3 | 0.69 |
-| sensitivity 1-year approval | vote | orphan+vote | 0 | 67 | 0.342 | 71.9 | 0.79 |
-| sensitivity 1-year approval | vote | orphan+vote | 1 | 67 | 0.342 | 71.9 | 0.79 |
-| sensitivity 1-year approval | vote | CNS+cber+initial+vote | 0 | 68 | 0.360 | 76.6 | 0.68 |
-| sensitivity 1-year approval | vote | CNS+cber+initial+vote | 1 | 68 | 0.360 | 76.6 | 0.77 |
+| sensitivity all-pivotal P(favourable) | orphan+priority+opioid | 0 | 145 | 0.142 | 181.5 | 0.79 |
+| sensitivity all-pivotal P(favourable) | orphan+priority+opioid | 1 | 145 | 0.142 | 181.5 | 0.79 |
+| sensitivity all-pivotal P(favourable) | priority+opioid | 0 | 147 | 0.138 | 181.5 | 0.77 |
+| sensitivity all-pivotal P(favourable) | priority+opioid | 1 | 147 | 0.138 | 181.5 | 0.77 |
+| sensitivity all-pivotal P(favourable) | priority+opioid+cber | 0 | 147 | 0.146 | 182.5 | 0.83 |
+| sensitivity all-pivotal P(favourable) | priority+opioid+cber | 1 | 147 | 0.146 | 182.5 | 0.83 |
+| sensitivity all-pivotal P(favourable) | orphan+priority+opioid+cber | 0 | 145 | 0.147 | 182.8 | 0.84 |
+| sensitivity all-pivotal P(favourable) | orphan+priority+opioid+cber | 1 | 145 | 0.147 | 182.8 | 0.84 |
+| sensitivity all-pivotal P(favourable) | orphan+priority+opioid+CGT+CNS+cber+initial | 0 | 145 | 0.149 | 188.6 | 0.84 |
+| sensitivity all-pivotal P(favourable) | orphan+priority+opioid+CGT+CNS+cber+initial | 1 | 145 | 0.149 | 188.6 | 0.83 |
+| sensitivity all-pivotal P(FDA final approval) | priority+opioid | 0 | 147 | 0.115 | 177.7 | 0.77 |
+| sensitivity all-pivotal P(FDA final approval) | priority+opioid | 1 | 147 | 0.115 | 177.7 | 0.77 |
+| sensitivity all-pivotal P(FDA final approval) | orphan+priority+opioid | 0 | 145 | 0.115 | 178.3 | 0.78 |
+| sensitivity all-pivotal P(FDA final approval) | orphan+priority+opioid | 1 | 145 | 0.115 | 178.3 | 0.78 |
+| sensitivity all-pivotal P(FDA final approval) | priority+opioid+cber | 0 | 147 | 0.121 | 179.0 | 0.83 |
+| sensitivity all-pivotal P(FDA final approval) | priority+opioid+cber | 1 | 147 | 0.121 | 179.0 | 0.83 |
+| sensitivity all-pivotal P(FDA final approval) | priority+opioid+CGT | 0 | 147 | 0.118 | 179.3 | 0.82 |
+| sensitivity all-pivotal P(FDA final approval) | priority+opioid+CGT | 1 | 147 | 0.118 | 179.3 | 0.82 |
+| sensitivity all-pivotal P(FDA final approval) | orphan+priority+opioid+CGT+CNS+cber+initial | 0 | 145 | 0.123 | 185.3 | 0.83 |
+| sensitivity all-pivotal P(FDA final approval) | orphan+priority+opioid+CGT+CNS+cber+initial | 1 | 145 | 0.123 | 185.3 | 0.84 |
+| sensitivity all-pivotal P(FDA final approval | vote) | priority+opioid+vote | 0 | 147 | 0.673 | 95.9 | 0.92 |
+| sensitivity all-pivotal P(FDA final approval | vote) | priority+opioid+vote | 1 | 147 | 0.673 | 95.9 | 0.92 |
+| sensitivity all-pivotal P(FDA final approval | vote) | priority+vote | 0 | 147 | 0.662 | 96.1 | 0.92 |
+| sensitivity all-pivotal P(FDA final approval | vote) | priority+vote | 1 | 147 | 0.662 | 96.1 | 0.92 |
+| sensitivity all-pivotal P(FDA final approval | vote) | orphan+priority+opioid+vote | 0 | 145 | 0.672 | 97.4 | 0.91 |
+| sensitivity all-pivotal P(FDA final approval | vote) | orphan+priority+opioid+vote | 1 | 145 | 0.672 | 97.4 | 0.91 |
+| sensitivity all-pivotal P(FDA final approval | vote) | priority+opioid+initial+vote | 0 | 147 | 0.673 | 97.8 | 0.92 |
+| sensitivity all-pivotal P(FDA final approval | vote) | priority+opioid+initial+vote | 1 | 147 | 0.673 | 97.8 | 0.92 |
+| sensitivity all-pivotal P(FDA final approval | vote) | orphan+priority+opioid+CGT+CNS+cber+initial+vote | 0 | 145 | 0.674 | 105.0 | 0.93 |
+| sensitivity all-pivotal P(FDA final approval | vote) | orphan+priority+opioid+CGT+CNS+cber+initial+vote | 1 | 145 | 0.674 | 105.0 | 0.93 |
+| sensitivity 1-year approval | priority+opioid+CNS | 0 | 67 | 0.161 | 84.6 | 0.80 |
+| sensitivity 1-year approval | priority+opioid+CNS | 1 | 67 | 0.161 | 84.6 | 0.86 |
+| sensitivity 1-year approval | orphan+priority+opioid+CNS | 0 | 66 | 0.159 | 84.6 | 0.83 |
+| sensitivity 1-year approval | orphan+priority+opioid+CNS | 1 | 66 | 0.159 | 84.6 | 0.89 |
+| sensitivity 1-year approval | priority+opioid+CNS+cber | 0 | 67 | 0.170 | 86.1 | 0.76 |
+| sensitivity 1-year approval | priority+opioid+CNS+cber | 1 | 67 | 0.170 | 86.1 | 0.83 |
+| sensitivity 1-year approval | priority+opioid | 0 | 67 | 0.150 | 83.2 | 0.82 |
+| sensitivity 1-year approval | priority+opioid | 1 | 67 | 0.150 | 83.2 | 0.82 |
+| sensitivity 1-year approval | orphan+priority+opioid+CNS+cber+initial | 0 | 66 | 0.195 | 86.7 | 0.77 |
+| sensitivity 1-year approval | orphan+priority+opioid+CNS+cber+initial | 1 | 66 | 0.195 | 86.7 | 0.85 |
+| sensitivity 1-year approval | vote | priority+opioid+vote | 0 | 67 | 0.322 | 75.2 | 0.83 |
+| sensitivity 1-year approval | vote | priority+opioid+vote | 1 | 67 | 0.322 | 75.2 | 0.83 |
+| sensitivity 1-year approval | vote | priority+vote | 0 | 67 | 0.313 | 73.8 | 0.82 |
+| sensitivity 1-year approval | vote | priority+vote | 1 | 67 | 0.313 | 73.8 | 0.82 |
+| sensitivity 1-year approval | vote | priority+opioid+CNS+vote | 0 | 67 | 0.327 | 76.9 | 0.82 |
+| sensitivity 1-year approval | vote | priority+opioid+CNS+vote | 1 | 67 | 0.327 | 76.9 | 0.86 |
+| sensitivity 1-year approval | vote | priority+opioid+cber+vote | 0 | 67 | 0.338 | 76.2 | 0.77 |
+| sensitivity 1-year approval | vote | priority+opioid+cber+vote | 1 | 67 | 0.338 | 76.2 | 0.77 |
+| sensitivity 1-year approval | vote | priority+opioid+CNS+cber+initial+vote | 0 | 67 | 0.363 | 78.6 | 0.76 |
+| sensitivity 1-year approval | vote | priority+opioid+CNS+cber+initial+vote | 1 | 67 | 0.363 | 78.6 | 0.82 |
+| sensitivity year P(favourable) | orphan+priority+opioid+CNS+year | 0 | 112 | 0.289 | 126.8 | 0.77 |
+| sensitivity year P(favourable) | orphan+priority+opioid+CNS+year | 1 | 112 | 0.289 | 126.8 | 0.88 |
+| sensitivity year P(favourable) | priority+opioid+CNS+year | 0 | 113 | 0.261 | 128.1 | 0.72 |
+| sensitivity year P(favourable) | priority+opioid+CNS+year | 1 | 113 | 0.261 | 128.1 | 0.84 |
+| sensitivity year P(favourable) | orphan+priority+opioid+year | 0 | 112 | 0.257 | 127.9 | 0.78 |
+| sensitivity year P(favourable) | orphan+priority+opioid+year | 1 | 112 | 0.257 | 127.9 | 0.78 |
+| sensitivity year P(favourable) | orphan+priority+opioid+CNS+cber+year | 0 | 112 | 0.296 | 128.1 | 0.82 |
+| sensitivity year P(favourable) | orphan+priority+opioid+CNS+cber+year | 1 | 112 | 0.296 | 128.1 | 0.91 |
+| sensitivity year P(favourable) | orphan+priority+opioid+CNS+cber+initial+year | 0 | 112 | 0.296 | 130.1 | 0.82 |
+| sensitivity year P(favourable) | orphan+priority+opioid+CNS+cber+initial+year | 1 | 112 | 0.296 | 130.1 | 0.91 |
 
 Year term versus the same model without it (AIC; lower is better):
 
-- P(favourable), priority: AIC 90.4 without year, 91.2 with year (Nagelkerke 0.097, stable=True).
-- P(favourable), orphan+priority: AIC 91.7 without year, 92.1 with year (Nagelkerke 0.108, stable=True).
-- P(favourable), priority+initial: AIC 92.3 without year, 93.2 with year (Nagelkerke 0.097, stable=True).
-- P(favourable), orphan+priority+initial: AIC 93.5 without year, 94.0 with year (Nagelkerke 0.109, stable=True).
-- P(favourable), orphan+CNS+cber+initial: AIC 142.5 without year, 143.4 with year (Nagelkerke 0.165, stable=True).
-- P(FDA final approval), priority: AIC 74.9 without year, 76.8 with year (Nagelkerke 0.008, stable=True).
-- P(FDA final approval), priority+initial: AIC 75.6 without year, 77.5 with year (Nagelkerke 0.034, stable=True).
-- P(FDA final approval), orphan+priority: AIC 76.5 without year, 78.5 with year (Nagelkerke 0.010, stable=True).
-- P(FDA final approval), orphan+priority+initial: AIC 76.9 without year, 78.9 with year (Nagelkerke 0.041, stable=True).
-- P(FDA final approval), orphan+CNS+cber+initial: AIC 143.3 without year, 145.3 with year (Nagelkerke 0.113, stable=True).
+- P(favourable), orphan+priority+opioid+CNS: AIC 127.6 without year, 126.8 with year (Nagelkerke 0.289, stable=True).
+- P(favourable), priority+opioid+CNS: AIC 128.6 without year, 128.1 with year (Nagelkerke 0.261, stable=True).
+- P(favourable), orphan+priority+opioid: AIC 128.9 without year, 127.9 with year (Nagelkerke 0.257, stable=True).
+- P(favourable), orphan+priority+opioid+CNS+cber: AIC 129.2 without year, 128.1 with year (Nagelkerke 0.296, stable=True).
+- P(favourable), orphan+priority+opioid+CNS+cber+initial: AIC 131.2 without year, 130.1 with year (Nagelkerke 0.296, stable=True).
+- P(FDA final approval), priority+opioid+CNS: AIC 128.1 without year, 129.7 with year (Nagelkerke 0.197, stable=True).
+- P(FDA final approval), orphan+priority+opioid+CNS: AIC 128.6 without year, 130.1 with year (Nagelkerke 0.208, stable=True).
+- P(FDA final approval), priority+opioid+CNS+cber: AIC 129.1 without year, 130.5 with year (Nagelkerke 0.210, stable=True).
+- P(FDA final approval), priority+opioid: AIC 129.6 without year, 131.1 with year (Nagelkerke 0.160, stable=True).
+- P(FDA final approval), orphan+priority+opioid+CNS+cber+initial: AIC 131.8 without year, 133.1 with year (Nagelkerke 0.219, stable=True).
 
 Sources for the AMT-130 vector: orphan, OOPD 525216 in `oopd_all.csv`; priority review, uniQure releases of 2 Nov 2026 and 4 Nov 2026 (company, secondary) until an FDA letter is in hand.

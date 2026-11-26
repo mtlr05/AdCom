@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 2026-11-26 — deramiocel complete response letter
+- Deramiocel (BLA 125842, adcom 29 Jul 2026) is a complete response on 20 Nov 2026, from the FDA letter at `https://download.open.fda.gov/crl/CRL_BLA125842_20261120.pdf`. The outcome tier is FDA. The vote stays 3-9, effectiveness-only.
+- 2x2 (AA/AR/RA/RR, final): All 90/6/10/44 (n=151); Rare 40/2/2/12 (n=56); Rare+priority 32/1/1/9 (n=43); CGT 10/0/0/2 (n=12). Approval-only cells are unchanged. Charts `all_2x2_*_v9.png` and `cgt_2x2_pct_v6.png`. CGT tables `*_v6.pdf`. Approval-only filenames stay.
+- AMT-130 approval, screen-selected model: 0.80 from 30 of 38. Four-factor model, with cell and gene therapy: 0.82 from 8 of 9. The favourable-vote figures are unchanged.
+
 ## 2026-11-06 — four-factor calibration tables
 - `scripts/amt130_factor_compare.py` writes `data/amt130_calibration.md` and `data/amt130_calibration.csv`. Each row is one pattern of orphan status, priority review, opioid, and cell and gene therapy. Predicted is the penalized probability. Observed, fit is the outcome rate on the meetings used to fit that model.
 

@@ -606,7 +606,7 @@ def fraction(k, n):
     return f"{k}/{n}"
 
 
-def calibration_markdown(vote_rows, app_rows):
+def calibration_markdown(vote_rows, app_rows, vote_n, app_n):
     def table(rows):
         lines = [
             "| Predicted | Pattern | All meetings | Observed | In the fit | Observed, fit |",
@@ -630,7 +630,8 @@ def calibration_markdown(vote_rows, app_rows):
         "",
         "The model is the penalized logistic regression on orphan status, priority review, opioid, and cell and gene therapy. **Predicted** is that model's probability for the pattern. **Observed, fit** is the share of meetings with the outcome among the meetings used to estimate the model. Compare those two columns. **In the fit** is that count. **Observed** counts every meeting with the same pattern and a recorded outcome. That count includes restriction questions, ties, and a meeting a later one replaced.",
         "",
-        "A favourable vote is the committee's pivotal vote, coded 1 or 0. Approval means `final_action` begins with \"approved.\" A pending or unverified action is left out. The vote model uses 136 meetings. The approval model uses 135, because deramiocel has no final action.",
+        "A favourable vote is the committee's pivotal vote, coded 1 or 0. Approval means `final_action` begins with \"approved.\" A pending or unverified action is left out. The vote model uses "
+        + str(vote_n) + " meetings. The approval model uses " + str(app_n) + " meetings.",
         "",
         "## Favourable vote",
         "",
@@ -655,7 +656,9 @@ def write_calibration(m, joints):
                              observed_fit=rec["fit_k"] / rec["fit_n"]))
     pd.DataFrame(flat).to_csv("amt130_calibration.csv", index=False)
     with open("amt130_calibration.md", "w", encoding="utf-8") as f:
-        f.write(calibration_markdown(vote_rows, app_rows))
+        vote_n = joints["favourable"]["four"]["n"]
+        app_n = joints["approval"]["four"]["n"]
+        f.write(calibration_markdown(vote_rows, app_rows, vote_n, app_n))
     print("wrote amt130_calibration.md")
     return vote_rows, app_rows
 

@@ -30,7 +30,7 @@ pip install -r requirements.txt     # Python 3.11+ (tested on 3.13)
 | `data/meetings.pkl`, `gaps.pkl`, `excluded.pkl` | Output of the (slow, online) crawl/parse stage, consumed by `final.py` |
 | `data/ofda/`, `data/oopd_all.csv`, `data/cache/` | openFDA, OOPD and minutes-text caches. See `data/MANIFEST.csv`, `data/cache/large_cache_manifest.csv` |
 | `scripts/` | Pipeline scripts; `scripts/crawl/` = crawl/parse stage (online, not run by run_all.sh) |
-| `charts/` | Final charts (`*_v4` all votes, `*_approvalonly_v5`) and CGT PDFs |
+| `charts/` | Final charts (`all_2x2_*_v9`, `*_approvalonly_v8`, `cgt_2x2_pct_v6`, `cgt_2x2_pct_approvalonly_v6`) and CGT PDFs (`*_v6`) |
 | `REPORT.md` (in data/) | Generated report |
 
 Read AGENTS.md before changing anything; SPEC.md defines the acceptance test; LIMITATIONS.md lists what is not verified.

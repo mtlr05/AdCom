@@ -1,6 +1,6 @@
 # FDA AdCom pivotal-vote dataset: final report (scope 2016-11-04 to 2026)
 
-Generated 2026-11-05 11:47 ET. Files are in the data root (this folder). Main table: adcom_full_pivotal.csv / adcom_full.xlsx (156 product-meeting rows). Excluded sheet: excluded.csv (169 rows, each with a reason). Gaps: 0.
+Generated 2026-11-26 09:33 ET. Files are in the data root (this folder). Main table: adcom_full_pivotal.csv / adcom_full.xlsx (156 product-meeting rows). Excluded sheet: excluded.csv (168 rows, each with a reason). Gaps: 0.
 
 ## Counts by committee
 
@@ -12,7 +12,7 @@ Generated 2026-11-05 11:47 ET. Files are in the data root (this folder). Main ta
 | PDAC        |     12 |             1 |                          4 |
 | EMDAC       |     11 |             2 |                          3 |
 | CRDAC       |     10 |             2 |                          5 |
-| CTGTAC      |      8 |             0 |                          3 |
+| CTGTAC      |      8 |             0 |                          2 |
 | PCNS        |      8 |             0 |                          1 |
 | AAC         |      6 |             1 |                          2 |
 | PADAC       |      6 |             1 |                          3 |
@@ -30,7 +30,7 @@ Generated 2026-11-05 11:47 ET. Files are in the data root (this folder). Main ta
 
 **Vote**: FDA 137 (88%), press 19 (12%)
 
-**Final outcome**: FDA 63 (40%), FDA (openFDA) 49 (31%), press 38 (24%), SEC/company 6 (4%)
+**Final outcome**: FDA 64 (41%), FDA (openFDA) 49 (31%), press 37 (24%), SEC/company 6 (4%)
 
 **Orphan status for the indication**: N 97 (62%), Y 57 (37%), review 2 (1%)
 
@@ -44,21 +44,21 @@ Review priority values: {'PRIORITY': 81, 'STANDARD': 72, 'unverified': 3}. The t
 
 | subset                           | outcome   |   n |   FavApproved |   FavNotApproved |   UnfavApproved |   UnfavNotApproved |   outcome_unverified |
 |:---------------------------------|:----------|----:|--------------:|-----------------:|----------------:|-------------------:|---------------------:|
-| All                              | final     | 150 |            90 |                6 |              10 |                 43 |                    1 |
+| All                              | final     | 151 |            90 |                6 |              10 |                 44 |                    0 |
 | All                              | 1yr       |  89 |            52 |               14 |               5 |                 18 |                   62 |
-| Rare (orphan Y)                  | final     |  55 |            40 |                2 |               2 |                 11 |                    1 |
+| Rare (orphan Y)                  | final     |  56 |            40 |                2 |               2 |                 12 |                    0 |
 | Rare (orphan Y)                  | 1yr       |  35 |            23 |                6 |               2 |                  4 |                   21 |
 | Common (orphan N)                | final     |  93 |            48 |                4 |               8 |                 32 |                    0 |
 | Common (orphan N)                | 1yr       |  52 |            28 |                7 |               3 |                 14 |                   41 |
-| Priority                         | final     |  78 |            58 |                2 |               2 |                 15 |                    1 |
+| Priority                         | final     |  79 |            58 |                2 |               2 |                 16 |                    0 |
 | Priority                         | 1yr       |  44 |            31 |                6 |               2 |                  5 |                   35 |
 | Standard                         | final     |  69 |            32 |                3 |               8 |                 26 |                    0 |
 | Standard                         | 1yr       |  44 |            21 |                8 |               3 |                 12 |                   25 |
 | CNS (PCNS/PDAC)                  | final     |  20 |            12 |                0 |               1 |                  7 |                    0 |
 | CNS (PCNS/PDAC)                  | 1yr       |  14 |            10 |                1 |               1 |                  2 |                    6 |
-| CGT (CTGTAC + CAR-T/MSC)         | final     |  11 |            10 |                0 |               0 |                  1 |                    1 |
+| CGT (CTGTAC + CAR-T/MSC)         | final     |  12 |            10 |                0 |               0 |                  2 |                    0 |
 | CGT (CTGTAC + CAR-T/MSC)         | 1yr       |   5 |             2 |                2 |               0 |                  1 |                    7 |
-| Rare + priority                  | final     |  42 |            32 |                1 |               1 |                  8 |                    1 |
+| Rare + priority                  | final     |  43 |            32 |                1 |               1 |                  9 |                    0 |
 | Rare + priority                  | 1yr       |  25 |            18 |                3 |               1 |                  3 |                   18 |
 | Approval-only: All               | final     | 116 |            72 |                6 |               8 |                 30 |                    0 |
 | Approval-only: All               | 1yr       |  68 |            42 |               11 |               3 |                 12 |                   48 |
@@ -183,7 +183,6 @@ Teplizumab: an FDA review (761183Orig1s000OtherR) confirms that "the majority" v
 | 2025-01-10     |                                        |                                                                 | CRL (not approved as of 2026-11)                                                                | 2025-03-11          |
 | 2025-05-20     | COLUMVI                                | glofitamab                                                      | CRL (2L DLBCL sBLA)                                                                             | 2025-07-18          |
 | 2025-07-18     | REXULTI                                | BREXPIPRAZOLE                                                   | CRL (PTSD sNDA)                                                                                 | 2025-09             |
-| 2026-07-29     | (deramiocel)                           | deramiocel (CAP-1002)                                           | pending (PDUFA extended to 2026-11-22)                                                          |                     |
 
 ## Orphan status: unresolved
 

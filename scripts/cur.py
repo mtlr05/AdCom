@@ -40,6 +40,12 @@ c('2023-11-17','PADAC','215010',final_action='CRL (not approved as of 2026-11)',
 c('2023-05-19','GIDAC','212833',final_action='CRL (not approved as of 2026-11)',final_action_date='2023-06-22',decision_source='https://www.globenewswire.com/news-release/2023/06/22/2693358/0/en/intercept-receives-complete-response-letter-from-fda-for-obeticholic-acid-as-a-treatment-for-pre-cirrhotic-fibrosis-due-to-nash.html',curated_source='press (Intercept) + SEC ex99')
 c('2023-09-21','EMDAC','209053',final_action='not approved (final decision refusing approval)',final_action_date='2024-08-16',decision_source='https://www.federalregister.gov/documents/2024/08/23/2024-18898/final-decision-on-the-proposal-to-refuse-to-approve-a-new-drug-application-for-itca-650',curated_source='Federal Register')
 c('2024-06-04','PDAC','215455',final_action='CRL (not approved as of 2026-11)',final_action_date='2024-08-08',decision_source='https://download.open.fda.gov/crl/CRL_NDA215455_20240808.pdf',curated_source='FDA CRL (openFDA)')
+c('2026-07-29','CTGTAC','125842',
+  final_action='CRL (second CRL; not approved as of 2026-11)',
+  final_action_date='2026-11-20',
+  action_at_1yr='not approved within 1 yr',
+  decision_source='FDA CRL (openFDA) https://download.open.fda.gov/crl/CRL_BLA125842_20261120.pdf ; FDA statement https://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy',
+  curated_source='FDA CRL (openFDA)')
 c('2017-09-28','PCNS','200896',question_text='Best interpretation of the data on ataluren: A not effective / B not sufficient to establish effectiveness / C sufficient to conclude effective (yes=C, no=A+B)',vote_yes='1',vote_no='10',vote_abstain='0',curated_source='FDA minutes UCM580166 (Vote Result A:0 B:10 C:1)')
 
 c('2020-08-13','ODAC','125706',meeting_type='initial application',final_action='approved (after CRL 2020-09-30; approved 2024-12-18 as RYONCIL)',final_action_date='2024-12-18',action_at_1yr='not approved within 1 yr',decision_source='CRL: https://investorsmedia.mesoblast.com/static-files/1e259fcb-77ba-470c-91af-1c71e5fa32e0 ; approval: https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-remestemcel-l-rknd-steroid-refractory-acute-graft-versus-host-disease-pediatric',curated_source='press + FDA')

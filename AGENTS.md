@@ -9,7 +9,7 @@ This repository holds two projects. They do not share a pipeline.
 
 Audience: any agent or person who needs to rebuild, audit, extend, or correct this dataset.
 Location: `scripts/`, `data/` (the pipeline working directory), and `charts/`. Run `./run_all.sh` from the dataset, not from `natural-history/`.
-Last updated: 2026-11-05.
+Last updated: 2026-11-26.
 
 ## 1. What the dataset is
 
@@ -23,8 +23,8 @@ Main outputs:
 - `coverage_vs_daval.csv`, `daval_shortfall_explained.csv`. Completeness check against Daval et al.
 - `REPORT.md`. Counts by committee and verification rates. `README.md`. Short change log.
 - Charts: `four.py` / `four_pct.py` / `four_cgt.py` build the four 2x2 charts (all drugs, and CGT only) from the CSV.
-- Charts (current): `charts/all_2x2_counts_v8.png`, `charts/all_2x2_pct_v8.png`, `charts/cgt_2x2_pct_v5.png` (all pivotal votes) and `charts/*_approvalonly_v8.png` plus `charts/cgt_2x2_pct_approvalonly_v6.png` (vote_type == approval/benefit-risk only). Older `*_v2` through `*_v7` and `four_2x2*.png` are superseded for the all-drug charts. CGT tables are `charts/cgt_validation_table_v5.pdf` and `charts/cgt_priority_review_table_v5.pdf`.
-- CGT tables built from the CSV by `cgt_tables.py`: `charts/cgt_validation_table_v5.pdf`, `charts/cgt_priority_review_table_v5.pdf` (12 CGT rows). The hand-built `cgt_*_table.pdf` (val.py, 9 rows) and `*_v4.pdf` are superseded.
+- Charts (current): `charts/all_2x2_counts_v9.png`, `charts/all_2x2_pct_v9.png`, `charts/cgt_2x2_pct_v6.png` (all pivotal votes) and `charts/*_approvalonly_v8.png` plus `charts/cgt_2x2_pct_approvalonly_v6.png` (vote_type == approval/benefit-risk only). Older `*_v2` through `*_v8` and `four_2x2*.png` are superseded for the all-drug charts. CGT tables are `charts/cgt_validation_table_v6.pdf` and `charts/cgt_priority_review_table_v6.pdf`.
+- CGT tables built from the CSV by `cgt_tables.py`: `charts/cgt_validation_table_v6.pdf`, `charts/cgt_priority_review_table_v6.pdf` (12 CGT rows). The hand-built `cgt_*_table.pdf` (val.py, 9 rows) and `*_v4.pdf` and `*_v5.pdf` are superseded.
 - `check_consistency.py` asserts CSV, xlsx, two_by_two.csv and chart inputs agree.
 
 Never overwrite `adcom_full_pivotal.csv` blindly. Backup before the 2026-11-04 orphan fix: `adcom_full_pivotal.bak_before_orphan_fix.csv`. Note that `final.py` regenerates the CSV from scratch; **All corrections now live in code** (`cur.py` writes `curated.csv` and `field_overrides.csv`; `final.py` applies field overrides last). Never edit the CSV by hand. Backup before the 2026-11-04 corrections: `adcom_full_pivotal.bak_2026-11-04_pre_corrections.csv`.
@@ -71,7 +71,7 @@ Rerun: `python3 cur.py && python3 final.py && python3 report.py && python3 four.
 
 ## 5. Verification columns
 
-`verified_vote` / `vote_source_tier`: FDA minutes/transcripts (137 of 156) vs press (19). `verified_outcome` / `outcome_source_tier`: FDA document or openFDA (112), press (38), SEC/company (6). `verified_orphan`, `orphan_indication_basis`, `priority_basis` say how each label was derived. When quoting results, always report these tiers; do not present press-sourced rows as FDA-verified.
+`verified_vote` / `vote_source_tier`: FDA minutes/transcripts (137 of 156) vs press (19). `verified_outcome` / `outcome_source_tier`: FDA document or openFDA (113: 64 FDA, 49 openFDA), press (37), SEC/company (6). `verified_orphan`, `orphan_indication_basis`, `priority_basis` say how each label was derived. When quoting results, always report these tiers; do not present press-sourced rows as FDA-verified.
 
 ## 6. Completeness check against Daval
 
@@ -79,15 +79,15 @@ Daval lists 164 meetings for 2016 to 2021. We account for 86 product-vote rows p
 
 ## 7. Headline results (2016-11-04 to 2026; final outcome; ties, superseded and unverified outcomes excluded)
 
-Counts as AA / AR / RA / RR (first letter adcom: A favourable or R unfavourable, second letter FDA approved or rejected), after the 2026-11-04 corrections:
+Counts as AA / AR / RA / RR (first letter adcom: A favourable or R unfavourable, second letter FDA approved or rejected), after the 2026-11-26 deramiocel complete response letter:
 
 | Subset | All pivotal votes | Approval/benefit-risk votes only |
 |---|---|---|
-| All | 90 / 6 / 10 / 43 (n=150, 1 pending) | 72 / 6 / 8 / 30 (n=116) |
+| All | 90 / 6 / 10 / 44 (n=151) | 72 / 6 / 8 / 30 (n=116) |
 | Common (orphan N) | 48 / 4 / 8 / 32 | 39 / 4 / 7 / 25 |
-| Rare (orphan Y) | 40 / 2 / 2 / 11 (1 pending) | 32 / 2 / 1 / 5 |
-| Rare + priority | 32 / 1 / 1 / 8 (n=42, 1 pending) | 25 / 1 / 0 / 4 (n=30) |
-| CGT (12 rows) | 10 / 0 / 0 / 1 (deramiocel pending) | 8 / 0 / 0 / 0 |
+| Rare (orphan Y) | 40 / 2 / 2 / 12 (n=56) | 32 / 2 / 1 / 5 |
+| Rare + priority | 32 / 1 / 1 / 9 (n=43) | 25 / 1 / 0 / 4 (n=30) |
+| CGT (12 rows) | 10 / 0 / 0 / 2 (n=12) | 8 / 0 / 0 / 0 |
 
 2 rows are orphan `review` (Darzalex Faspro SMM, Tudriqev) and appear only in "All". Cells are small. FDA tends to convene adcoms when it is uncertain (selection bias), "final" counts later approvals, and some outcomes and votes rest on press.
 
@@ -137,6 +137,12 @@ Counts as AA / AR / RA / RR (first letter adcom: A favourable or R unfavourable,
 - A missing day is the 15th. A stated goal is used, including one a company said it expected. Where the filing date is missing it is estimated as 60 days after submission. A complete-response date is used as the goal only when it lands on one anniversary. The basis still starts with `STANDARD (calculated):` and states the estimate.
 - Eleven more rows set to STANDARD: Hydexor (both cycles), MNK-812, vernakalant, oxycodegol, tanezumab, sintilimab, poziotinib, NurOwn, ITCA 650, and condoliase. Nicotine mouth spray, Tookad, and AR19 stay unverified.
 - Priority 81, standard 72, unverified 3. All, Common, Rare, Rare + priority, CGT, and the approval-only cells are unchanged. The Standard row is 32 / 3 / 8 / 26 (n=69). Chart filenames stay at v8 / v5 / v6.
+
+### 2026-11-26 — deramiocel CRL
+
+- Deramiocel (CTGTAC, 29 Jul 2026, BLA 125842) final action set in `cur.py` from the FDA complete response letter of 20 Nov 2026. Primary source: `https://download.open.fda.gov/crl/CRL_BLA125842_20261120.pdf`. FDA statement: `https://www.fda.gov/vaccines-blood-biologics/whats-new-biologics/statement-deramiocel-bla-duchenne-muscular-dystrophy`. `final_action` is `CRL (second CRL; not approved as of 2026-11)`, date 2026-11-20. Outcome tier is FDA. The vote stays 3-9, effectiveness-only.
+- 2x2 (AA/AR/RA/RR, final): All 90/6/10/44 (n=151); Rare 40/2/2/12 (n=56); Rare+priority 32/1/1/9 (n=43); CGT 10/0/0/2 (n=12). Approval-only cells unchanged, because the question was effectiveness-only. No pending row remains in the final-outcome 2x2. Charts `all_2x2_counts_v9.png`, `all_2x2_pct_v9.png`, `cgt_2x2_pct_v6.png`. CGT tables `*_v6.pdf`. Approval-only chart filenames stay at v8 / v6.
+- The AMT-130 screen was rerun. Favourable-vote probabilities are unchanged. The screen-selected approval probability, orphan and priority and not an opioid, is 0.80 from 30 of 38 (was 0.81 from 30 of 37). The four-factor model, adding cell and gene therapy, is 0.82 from 8 of 9 (was 0.87 from 8 of 8).
 
 ## 9. Conventions for agents working on this dataset
 
